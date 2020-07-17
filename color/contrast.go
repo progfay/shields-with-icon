@@ -17,8 +17,6 @@ var Black = Color{
 }
 
 func GetContrastRatio(foreground, background Color) float64 {
-	// b := getRelativeLuminance(background)
-	// f := getRelativeLuminance(foreground)
 	return getContrastRatioOpaque(foreground, background)
 }
 
