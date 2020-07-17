@@ -32,7 +32,7 @@ func FormatShield(icon i.Icon) (string, error) {
 
 	var foreground, background c.Color
 
-	if c.GetContrastRatio(white, *color) >= 4.5 {
+	if c.GetContrastRatio(white, *color) >= 3.0 {
 		foreground = white
 		background = *color
 	} else {
