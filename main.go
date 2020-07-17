@@ -5,17 +5,49 @@ import (
 	"log"
 	"net/url"
 
+	c "github.com/progfay/shields-with-icon/color"
 	i "github.com/progfay/shields-with-icon/icon"
 )
 
-func FormatShield(icon i.Icon) string {
-	return fmt.Sprintf("[![%v](http://img.shields.io/badge/%s-%s?style=for-the-badge&logo=%s&logoColor=FFFFFF)](%s)",
-	icon.Title,
+var (
+	white = c.Color{
+		Red:   1,
+		Green: 1,
+		Blue:  1,
+		Code:  "FFFFFF",
+	}
+	black = c.Color{
+		Red:   34.0 / 255.0,
+		Green: 34.0 / 255.0,
+		Blue:  34.0 / 255.0,
+		Code:  "222222",
+	}
+)
+
+func FormatShield(icon i.Icon) (string, error) {
+	color, err := c.NewColor(icon.Hex)
+	if err != nil {
+		return "", nil
+	}
+
+	var foreground, background c.Color
+
+	if c.GetContrastRatio(white, *color) >= 7.0 {
+		foreground = white
+		background = *color
+	} else {
+		foreground = *color
+		background = black
+	}
+
+	return fmt.Sprintf("[![%v](http://img.shields.io/badge/%s-%s?style=for-the-badge&logo=%s&logoColor=%s)](%s)",
+		icon.Title,
 		url.QueryEscape(icon.Title),
-		url.QueryEscape(icon.Hex),
+		url.QueryEscape(background.Code),
 		url.QueryEscape(icon.Title),
+		url.QueryEscape(foreground.Code),
 		icon.Source,
-	)
+	), nil
 }
 
 func main() {
@@ -25,6 +57,10 @@ func main() {
 	}
 
 	for _, icon := range icons {
-		fmt.Println(FormatShield(icon))
+		shield, err := FormatShield(icon)
+		if err != nil {
+			log.Panicln(err)
+		}
+		fmt.Println(shield)
 	}
 }
