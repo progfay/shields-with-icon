@@ -40,7 +40,7 @@ func FormatShield(icon i.Icon) (string, error) {
 		background = black
 	}
 
-	return fmt.Sprintf("[![%v](http://img.shields.io/badge/%s-%s?style=for-the-badge&logo=%s&logoColor=%s)](%s)",
+	return fmt.Sprintf("[![%v](https://img.shields.io/static/v1?style=for-the-badge&message=%s&color=%v&logo=%s&logoColor=%s&label=)](%s)",
 		icon.Title,
 		url.QueryEscape(icon.Title),
 		url.QueryEscape(background.Code),
