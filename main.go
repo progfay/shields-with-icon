@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net/url"
+	"os"
 
 	c "github.com/progfay/shields-with-icon/color"
 	i "github.com/progfay/shields-with-icon/icon"
@@ -60,6 +61,7 @@ func main() {
 		if err != nil {
 			log.Panicln(err)
 		}
-		fmt.Println(shield)
+		fmt.Fprintln(os.Stdout, shield)
+		fmt.Fprintf(os.Stderr, "## %s\n```markdown\n%s\n```\n", shield, shield)
 	}
 }
