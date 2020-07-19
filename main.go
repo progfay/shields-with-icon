@@ -27,7 +27,7 @@ var (
 func FormatShield(icon i.Icon) (string, error) {
 	color, err := c.NewColor(icon.Hex)
 	if err != nil {
-		return "", nil
+		return "", err
 	}
 
 	var foreground, background c.Color
