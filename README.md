@@ -895,6 +895,7 @@
 [![Payoneer](https://img.shields.io/static/v1?style=for-the-badge&message=Payoneer&color=FF4800&logo=Payoneer&logoColor=FFFFFF&label=)](https://www.payoneer.com/)
 [![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=00457C&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal-marketing.com/html/partner/na/portal-v2/pdf/PP_Masterbrandguidelines_v21_mm.pdf)
 [![PeerTube](https://img.shields.io/static/v1?style=for-the-badge&message=PeerTube&color=F1680D&logo=PeerTube&logoColor=FFFFFF&label=)](https://github.com/Chocobozzz/PeerTube/tree/develop/client/src/assets/images)
+[![Pelican](https://img.shields.io/static/v1?style=for-the-badge&message=Pelican&color=14A0C4&logo=Pelican&logoColor=FFFFFF&label=)](https://blog.getpelican.com/pages/gratitude.html)
 [![Pepsi](https://img.shields.io/static/v1?style=for-the-badge&message=Pepsi&color=2151A1&logo=Pepsi&logoColor=FFFFFF&label=)](https://commons.wikimedia.org/wiki/File:Pepsi_logo_new.svg)
 [![Periscope](https://img.shields.io/static/v1?style=for-the-badge&message=Periscope&color=40A4C4&logo=Periscope&logoColor=FFFFFF&label=)](https://www.periscope.tv/press)
 [![Perl](https://img.shields.io/static/v1?style=for-the-badge&message=Perl&color=39457E&logo=Perl&logoColor=FFFFFF&label=)](https://github.com/tpf/marketing-materials/blob/6765c6fd71bc5b123d6c1a77b86e08cdd6376078/images/onion-logo/tpf-logo-onion.svg)
