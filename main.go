@@ -8,7 +8,6 @@ import (
 	"os"
 
 	"github.com/progfay/colorcontrast"
-	i "github.com/progfay/shields-with-icon/icon"
 )
 
 var (
@@ -16,7 +15,7 @@ var (
 	black = color.Gray{Y: 34}
 )
 
-func FormatShield(icon i.Icon) (string, error) {
+func formatShield(icon Icon) (string, error) {
 	color, err := hexToColor(icon.Hex)
 	if err != nil {
 		return "", err
@@ -42,13 +41,13 @@ func FormatShield(icon i.Icon) (string, error) {
 }
 
 func main() {
-	icons, err := i.GetIcons()
+	icons, err := getIcons()
 	if err != nil {
 		log.Panicln(err)
 	}
 
 	for _, icon := range icons {
-		shield, err := FormatShield(icon)
+		shield, err := formatShield(icon)
 		if err != nil {
 			log.Panicln(err)
 		}

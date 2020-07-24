@@ -1,4 +1,4 @@
-package icon
+package main
 
 import (
 	"encoding/json"
@@ -13,7 +13,7 @@ type Icon struct {
 	Source string `json:"source"`
 }
 
-func GetIcons() ([]Icon, error) {
+func getIcons() ([]Icon, error) {
 	res, err := http.DefaultClient.Get("https://raw.githubusercontent.com/simple-icons/simple-icons/develop/_data/simple-icons.json")
 	if err != nil {
 		return nil, err
@@ -27,7 +27,7 @@ func GetIcons() ([]Icon, error) {
 
 	err = json.NewDecoder(res.Body).Decode(&simpleIcons)
 	if err != nil {
-		return nil ,err
+		return nil, err
 	}
 
 	return simpleIcons.Icons, nil
