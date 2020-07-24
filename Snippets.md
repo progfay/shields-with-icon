@@ -630,6 +630,10 @@
 ```markdown
 ![Big Cartel](https://img.shields.io/static/v1?style=for-the-badge&message=Big+Cartel&color=222222&logo=Big+Cartel&logoColor=FFFFFF&label=)
 ```
+## ![Bilibili](https://img.shields.io/static/v1?style=for-the-badge&message=Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)
+```markdown
+![Bilibili](https://img.shields.io/static/v1?style=for-the-badge&message=Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)
+```
 ## ![Bing](https://img.shields.io/static/v1?style=for-the-badge&message=Bing&color=008373&logo=Bing&logoColor=FFFFFF&label=)
 ```markdown
 ![Bing](https://img.shields.io/static/v1?style=for-the-badge&message=Bing&color=008373&logo=Bing&logoColor=FFFFFF&label=)
@@ -1113,6 +1117,10 @@
 ## ![Crehana](https://img.shields.io/static/v1?style=for-the-badge&message=Crehana&color=4B22F4&logo=Crehana&logoColor=FFFFFF&label=)
 ```markdown
 ![Crehana](https://img.shields.io/static/v1?style=for-the-badge&message=Crehana&color=4B22F4&logo=Crehana&logoColor=FFFFFF&label=)
+```
+## ![Crowdin](https://img.shields.io/static/v1?style=for-the-badge&message=Crowdin&color=2E3340&logo=Crowdin&logoColor=FFFFFF&label=)
+```markdown
+![Crowdin](https://img.shields.io/static/v1?style=for-the-badge&message=Crowdin&color=2E3340&logo=Crowdin&logoColor=FFFFFF&label=)
 ```
 ## ![Crunchbase](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchbase&color=0288D1&logo=Crunchbase&logoColor=FFFFFF&label=)
 ```markdown
@@ -3442,6 +3450,14 @@
 ```markdown
 ![Open Source Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Source+Initiative&color=3DA639&logo=Open+Source+Initiative&logoColor=FFFFFF&label=)
 ```
+## ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+```markdown
+![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+```
+## ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
+```markdown
+![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
+```
 ## ![OpenAPI Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAPI+Initiative&color=6BA539&logo=OpenAPI+Initiative&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenAPI Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAPI+Initiative&color=6BA539&logo=OpenAPI+Initiative&logoColor=FFFFFF&label=)
@@ -3613,6 +3629,10 @@
 ## ![Phabricator](https://img.shields.io/static/v1?style=for-the-badge&message=Phabricator&color=4A5F88&logo=Phabricator&logoColor=FFFFFF&label=)
 ```markdown
 ![Phabricator](https://img.shields.io/static/v1?style=for-the-badge&message=Phabricator&color=4A5F88&logo=Phabricator&logoColor=FFFFFF&label=)
+```
+## ![Philips Hue](https://img.shields.io/static/v1?style=for-the-badge&message=Philips+Hue&color=0065D3&logo=Philips+Hue&logoColor=FFFFFF&label=)
+```markdown
+![Philips Hue](https://img.shields.io/static/v1?style=for-the-badge&message=Philips+Hue&color=0065D3&logo=Philips+Hue&logoColor=FFFFFF&label=)
 ```
 ## ![Photocrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Photocrowd&color=3DAD4B&logo=Photocrowd&logoColor=FFFFFF&label=)
 ```markdown
@@ -4105,6 +4125,10 @@
 ## ![RStudio](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label=)
 ```markdown
 ![RStudio](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label=)
+```
+## ![RTÉ](https://img.shields.io/static/v1?style=for-the-badge&message=RT%C3%89&color=00A7B3&logo=RT%C3%89&logoColor=FFFFFF&label=)
+```markdown
+![RTÉ](https://img.shields.io/static/v1?style=for-the-badge&message=RT%C3%89&color=00A7B3&logo=RT%C3%89&logoColor=FFFFFF&label=)
 ```
 ## ![RTLZWEI](https://img.shields.io/static/v1?style=for-the-badge&message=RTLZWEI&color=222222&logo=RTLZWEI&logoColor=00BCF6&label=)
 ```markdown
