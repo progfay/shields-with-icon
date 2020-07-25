@@ -2458,6 +2458,10 @@
 ```markdown
 ![Jabber](https://img.shields.io/static/v1?style=for-the-badge&message=Jabber&color=CC0000&logo=Jabber&logoColor=FFFFFF&label=)
 ```
+## ![Jamboard](https://img.shields.io/static/v1?style=for-the-badge&message=Jamboard&color=F37C20&logo=Jamboard&logoColor=FFFFFF&label=)
+```markdown
+![Jamboard](https://img.shields.io/static/v1?style=for-the-badge&message=Jamboard&color=F37C20&logo=Jamboard&logoColor=FFFFFF&label=)
+```
 ## ![Jameson](https://img.shields.io/static/v1?style=for-the-badge&message=Jameson&color=004027&logo=Jameson&logoColor=FFFFFF&label=)
 ```markdown
 ![Jameson](https://img.shields.io/static/v1?style=for-the-badge&message=Jameson&color=004027&logo=Jameson&logoColor=FFFFFF&label=)
@@ -2473,6 +2477,10 @@
 ## ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ```markdown
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+```
+## ![JBL](https://img.shields.io/static/v1?style=for-the-badge&message=JBL&color=FF3300&logo=JBL&logoColor=FFFFFF&label=)
+```markdown
+![JBL](https://img.shields.io/static/v1?style=for-the-badge&message=JBL&color=FF3300&logo=JBL&logoColor=FFFFFF&label=)
 ```
 ## ![JCB](https://img.shields.io/static/v1?style=for-the-badge&message=JCB&color=0B4EA2&logo=JCB&logoColor=FFFFFF&label=)
 ```markdown
