@@ -8,12 +8,6 @@ import (
 	"strings"
 )
 
-const (
-	rMask = 0xFF0000
-	gMask = 0x00FF00
-	bMask = 0x0000FF
-)
-
 var (
 	colorCodeRegExp = regexp.MustCompile(`^#?[0-9a-fA-F]{6}$`)
 )
@@ -29,14 +23,13 @@ func hexToColor(colorCode string) (*color.RGBA, error) {
 		return nil, err
 	}
 
-	c := color.RGBA{
-		R: uint8(rgb & rMask >> 16),
-		G: uint8(rgb & gMask >> 8),
-		B: uint8(rgb & bMask >> 0),
-		A: 0xFF,
-	}
+	B := uint8(rgb & 0xFF)
+	rgb >>= 8
+	G := uint8(rgb & 0xFF)
+	rgb >>= 8
+	R := uint8(rgb & 0xFF)
 
-	return &c, nil
+	return &color.RGBA{R, G, B, 0xFF}, nil
 }
 
 func colorToHex(c color.Color) string {
