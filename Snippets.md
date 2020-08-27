@@ -2126,6 +2126,10 @@
 ```markdown
 ![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=77A2B6&logo=Habr&logoColor=FFFFFF&label=)
 ```
+## ![Hack Club](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+Club&color=EC3750&logo=Hack+Club&logoColor=FFFFFF&label=)
+```markdown
+![Hack Club](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+Club&color=EC3750&logo=Hack+Club&logoColor=FFFFFF&label=)
+```
 ## ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)
 ```markdown
 ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)

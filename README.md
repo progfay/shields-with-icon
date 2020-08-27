@@ -530,6 +530,7 @@
 ![Gumtree](https://img.shields.io/static/v1?style=for-the-badge&message=Gumtree&color=222222&logo=Gumtree&logoColor=72EF36&label=)
 ![Gutenberg](https://img.shields.io/static/v1?style=for-the-badge&message=Gutenberg&color=000000&logo=Gutenberg&logoColor=FFFFFF&label=)
 ![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=77A2B6&logo=Habr&logoColor=FFFFFF&label=)
+![Hack Club](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+Club&color=EC3750&logo=Hack+Club&logoColor=FFFFFF&label=)
 ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)
 ![HackerEarth](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=323754&logo=HackerEarth&logoColor=FFFFFF&label=)
 ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=)
