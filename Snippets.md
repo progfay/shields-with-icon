@@ -4234,9 +4234,9 @@
 ```markdown
 ![Samsung Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Samsung+Pay&color=1428A0&logo=Samsung+Pay&logoColor=FFFFFF&label=)
 ```
-## ![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=008FD3&logo=SAP&logoColor=FFFFFF&label=)
+## ![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=)
 ```markdown
-![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=008FD3&logo=SAP&logoColor=FFFFFF&label=)
+![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=)
 ```
 ## ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ```markdown

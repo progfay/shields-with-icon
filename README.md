@@ -1057,7 +1057,7 @@
 ![SaltStack](https://img.shields.io/static/v1?style=for-the-badge&message=SaltStack&color=222222&logo=SaltStack&logoColor=00EACE&label=)
 ![Samsung](https://img.shields.io/static/v1?style=for-the-badge&message=Samsung&color=1428A0&logo=Samsung&logoColor=FFFFFF&label=)
 ![Samsung Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Samsung+Pay&color=1428A0&logo=Samsung+Pay&logoColor=FFFFFF&label=)
-![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=008FD3&logo=SAP&logoColor=FFFFFF&label=)
+![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ![Sat.1](https://img.shields.io/static/v1?style=for-the-badge&message=Sat.1&color=047DA3&logo=Sat.1&logoColor=FFFFFF&label=)
 ![Sauce Labs](https://img.shields.io/static/v1?style=for-the-badge&message=Sauce+Labs&color=E2231A&logo=Sauce+Labs&logoColor=FFFFFF&label=)
