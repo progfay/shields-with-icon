@@ -3554,6 +3554,10 @@
 ```markdown
 ![Origin](https://img.shields.io/static/v1?style=for-the-badge&message=Origin&color=F56C2D&logo=Origin&logoColor=FFFFFF&label=)
 ```
+## ![Osano](https://img.shields.io/static/v1?style=for-the-badge&message=Osano&color=7764FA&logo=Osano&logoColor=FFFFFF&label=)
+```markdown
+![Osano](https://img.shields.io/static/v1?style=for-the-badge&message=Osano&color=7764FA&logo=Osano&logoColor=FFFFFF&label=)
+```
 ## ![Oshkosh](https://img.shields.io/static/v1?style=for-the-badge&message=Oshkosh&color=E6830F&logo=Oshkosh&logoColor=FFFFFF&label=)
 ```markdown
 ![Oshkosh](https://img.shields.io/static/v1?style=for-the-badge&message=Oshkosh&color=E6830F&logo=Oshkosh&logoColor=FFFFFF&label=)
@@ -4045,6 +4049,10 @@
 ## ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 ```markdown
 ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
+```
+## ![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
+```markdown
+![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 ```
 ## ![ReactOS](https://img.shields.io/static/v1?style=for-the-badge&message=ReactOS&color=0088CC&logo=ReactOS&logoColor=FFFFFF&label=)
 ```markdown
