@@ -1470,6 +1470,10 @@
 ```markdown
 ![Egnyte](https://img.shields.io/static/v1?style=for-the-badge&message=Egnyte&color=00968F&logo=Egnyte&logoColor=FFFFFF&label=)
 ```
+## ![El Jueves](https://img.shields.io/static/v1?style=for-the-badge&message=El+Jueves&color=BE312E&logo=El+Jueves&logoColor=FFFFFF&label=)
+```markdown
+![El Jueves](https://img.shields.io/static/v1?style=for-the-badge&message=El+Jueves&color=BE312E&logo=El+Jueves&logoColor=FFFFFF&label=)
+```
 ## ![Elastic](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label=)
 ```markdown
 ![Elastic](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label=)
@@ -4629,6 +4633,10 @@
 ## ![Smashing Magazine](https://img.shields.io/static/v1?style=for-the-badge&message=Smashing+Magazine&color=E85C33&logo=Smashing+Magazine&logoColor=FFFFFF&label=)
 ```markdown
 ![Smashing Magazine](https://img.shields.io/static/v1?style=for-the-badge&message=Smashing+Magazine&color=E85C33&logo=Smashing+Magazine&logoColor=FFFFFF&label=)
+```
+## ![SMRT](https://img.shields.io/static/v1?style=for-the-badge&message=SMRT&color=EE2E24&logo=SMRT&logoColor=FFFFFF&label=)
+```markdown
+![SMRT](https://img.shields.io/static/v1?style=for-the-badge&message=SMRT&color=EE2E24&logo=SMRT&logoColor=FFFFFF&label=)
 ```
 ## ![SmugMug](https://img.shields.io/static/v1?style=for-the-badge&message=SmugMug&color=222222&logo=SmugMug&logoColor=6DB944&label=)
 ```markdown
