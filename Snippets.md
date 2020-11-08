@@ -5698,9 +5698,9 @@
 ```markdown
 ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=1575F9&logo=Xcode&logoColor=FFFFFF&label=)
 ```
-## ![XDA Developers](https://img.shields.io/static/v1?style=for-the-badge&message=XDA+Developers&color=222222&logo=XDA+Developers&logoColor=F59812&label=)
+## ![XDA Developers](https://img.shields.io/static/v1?style=for-the-badge&message=XDA+Developers&color=EA7100&logo=XDA+Developers&logoColor=FFFFFF&label=)
 ```markdown
-![XDA Developers](https://img.shields.io/static/v1?style=for-the-badge&message=XDA+Developers&color=222222&logo=XDA+Developers&logoColor=F59812&label=)
+![XDA Developers](https://img.shields.io/static/v1?style=for-the-badge&message=XDA+Developers&color=EA7100&logo=XDA+Developers&logoColor=FFFFFF&label=)
 ```
 ## ![Xero](https://img.shields.io/static/v1?style=for-the-badge&message=Xero&color=222222&logo=Xero&logoColor=13B5EA&label=)
 ```markdown
