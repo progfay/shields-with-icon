@@ -814,9 +814,9 @@
 ```markdown
 ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
 ```
-## ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FF813F&label=)
+## ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ```markdown
-![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FF813F&label=)
+![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ```
 ## ![BuzzFeed](https://img.shields.io/static/v1?style=for-the-badge&message=BuzzFeed&color=EE3322&logo=BuzzFeed&logoColor=FFFFFF&label=)
 ```markdown
@@ -3549,6 +3549,10 @@
 ## ![Nuke](https://img.shields.io/static/v1?style=for-the-badge&message=Nuke&color=000000&logo=Nuke&logoColor=FFFFFF&label=)
 ```markdown
 ![Nuke](https://img.shields.io/static/v1?style=for-the-badge&message=Nuke&color=000000&logo=Nuke&logoColor=FFFFFF&label=)
+```
+## ![Numba](https://img.shields.io/static/v1?style=for-the-badge&message=Numba&color=00A3E0&logo=Numba&logoColor=FFFFFF&label=)
+```markdown
+![Numba](https://img.shields.io/static/v1?style=for-the-badge&message=Numba&color=00A3E0&logo=Numba&logoColor=FFFFFF&label=)
 ```
 ## ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ```markdown
