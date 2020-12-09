@@ -2226,6 +2226,10 @@
 ```markdown
 ![Hack Club](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+Club&color=EC3750&logo=Hack+Club&logoColor=FFFFFF&label=)
 ```
+## ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)
+```markdown
+![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)
+```
 ## ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)
 ```markdown
 ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)
@@ -3402,6 +3406,10 @@
 ```markdown
 ![MX Linux](https://img.shields.io/static/v1?style=for-the-badge&message=MX+Linux&color=000000&logo=MX+Linux&logoColor=FFFFFF&label=)
 ```
+## ![MYOB](https://img.shields.io/static/v1?style=for-the-badge&message=MYOB&color=6100A5&logo=MYOB&logoColor=FFFFFF&label=)
+```markdown
+![MYOB](https://img.shields.io/static/v1?style=for-the-badge&message=MYOB&color=6100A5&logo=MYOB&logoColor=FFFFFF&label=)
+```
 ## ![Myspace](https://img.shields.io/static/v1?style=for-the-badge&message=Myspace&color=030303&logo=Myspace&logoColor=FFFFFF&label=)
 ```markdown
 ![Myspace](https://img.shields.io/static/v1?style=for-the-badge&message=Myspace&color=030303&logo=Myspace&logoColor=FFFFFF&label=)
@@ -3413,6 +3421,10 @@
 ## ![N26](https://img.shields.io/static/v1?style=for-the-badge&message=N26&color=48AC98&logo=N26&logoColor=FFFFFF&label=)
 ```markdown
 ![N26](https://img.shields.io/static/v1?style=for-the-badge&message=N26&color=48AC98&logo=N26&logoColor=FFFFFF&label=)
+```
+## ![National Grid](https://img.shields.io/static/v1?style=for-the-badge&message=National+Grid&color=00148C&logo=National+Grid&logoColor=FFFFFF&label=)
+```markdown
+![National Grid](https://img.shields.io/static/v1?style=for-the-badge&message=National+Grid&color=00148C&logo=National+Grid&logoColor=FFFFFF&label=)
 ```
 ## ![NativeScript](https://img.shields.io/static/v1?style=for-the-badge&message=NativeScript&color=3655FF&logo=NativeScript&logoColor=FFFFFF&label=)
 ```markdown
@@ -3549,6 +3561,10 @@
 ## ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=CB3837&logo=NPM&logoColor=FFFFFF&label=)
 ```markdown
 ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=CB3837&logo=NPM&logoColor=FFFFFF&label=)
+```
+## ![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=8A05BE&logo=Nubank&logoColor=FFFFFF&label=)
+```markdown
+![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=8A05BE&logo=Nubank&logoColor=FFFFFF&label=)
 ```
 ## ![Nucleo](https://img.shields.io/static/v1?style=for-the-badge&message=Nucleo&color=111111&logo=Nucleo&logoColor=FFFFFF&label=)
 ```markdown
@@ -4814,9 +4830,9 @@
 ```markdown
 ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=FE7A16&logo=Stack+Overflow&logoColor=FFFFFF&label=)
 ```
-## ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=222222&logo=Stackbit&logoColor=3EB0FD&label=)
+## ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ```markdown
-![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=222222&logo=Stackbit&logoColor=3EB0FD&label=)
+![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ```
 ## ![StackPath](https://img.shields.io/static/v1?style=for-the-badge&message=StackPath&color=000000&logo=StackPath&logoColor=FFFFFF&label=)
 ```markdown
@@ -5009,6 +5025,10 @@
 ## ![Tata](https://img.shields.io/static/v1?style=for-the-badge&message=Tata&color=486AAE&logo=Tata&logoColor=FFFFFF&label=)
 ```markdown
 ![Tata](https://img.shields.io/static/v1?style=for-the-badge&message=Tata&color=486AAE&logo=Tata&logoColor=FFFFFF&label=)
+```
+## ![TeamCity](https://img.shields.io/static/v1?style=for-the-badge&message=TeamCity&color=000000&logo=TeamCity&logoColor=FFFFFF&label=)
+```markdown
+![TeamCity](https://img.shields.io/static/v1?style=for-the-badge&message=TeamCity&color=000000&logo=TeamCity&logoColor=FFFFFF&label=)
 ```
 ## ![TeamSpeak](https://img.shields.io/static/v1?style=for-the-badge&message=TeamSpeak&color=2580C3&logo=TeamSpeak&logoColor=FFFFFF&label=)
 ```markdown
@@ -5625,6 +5645,10 @@
 ## ![WireGuard](https://img.shields.io/static/v1?style=for-the-badge&message=WireGuard&color=88171A&logo=WireGuard&logoColor=FFFFFF&label=)
 ```markdown
 ![WireGuard](https://img.shields.io/static/v1?style=for-the-badge&message=WireGuard&color=88171A&logo=WireGuard&logoColor=FFFFFF&label=)
+```
+## ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
+```markdown
+![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
 ```
 ## ![Wish](https://img.shields.io/static/v1?style=for-the-badge&message=Wish&color=222222&logo=Wish&logoColor=2FB7EC&label=)
 ```markdown
