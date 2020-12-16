@@ -1842,6 +1842,10 @@
 ```markdown
 ![Foursquare](https://img.shields.io/static/v1?style=for-the-badge&message=Foursquare&color=F94877&logo=Foursquare&logoColor=FFFFFF&label=)
 ```
+## ![Fozzy](https://img.shields.io/static/v1?style=for-the-badge&message=Fozzy&color=F15B29&logo=Fozzy&logoColor=FFFFFF&label=)
+```markdown
+![Fozzy](https://img.shields.io/static/v1?style=for-the-badge&message=Fozzy&color=F15B29&logo=Fozzy&logoColor=FFFFFF&label=)
+```
 ## ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
 ```markdown
 ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
@@ -2758,9 +2762,9 @@
 ```markdown
 ![Karlsruher Verkehrsverbund](https://img.shields.io/static/v1?style=for-the-badge&message=Karlsruher+Verkehrsverbund&color=9B2321&logo=Karlsruher+Verkehrsverbund&logoColor=FFFFFF&label=)
 ```
-## ![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=009982&logo=Kaspersky&logoColor=FFFFFF&label=)
+## ![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=006D5C&logo=Kaspersky&logoColor=FFFFFF&label=)
 ```markdown
-![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=009982&logo=Kaspersky&logoColor=FFFFFF&label=)
+![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=006D5C&logo=Kaspersky&logoColor=FFFFFF&label=)
 ```
 ## ![Katana](https://img.shields.io/static/v1?style=for-the-badge&message=Katana&color=000000&logo=Katana&logoColor=FFFFFF&label=)
 ```markdown
@@ -5418,9 +5422,9 @@
 ```markdown
 ![Valve](https://img.shields.io/static/v1?style=for-the-badge&message=Valve&color=F74843&logo=Valve&logoColor=FFFFFF&label=)
 ```
-## ![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=9F363D&logo=Vauxhall&logoColor=FFFFFF&label=)
+## ![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=EB001E&logo=Vauxhall&logoColor=FFFFFF&label=)
 ```markdown
-![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=9F363D&logo=Vauxhall&logoColor=FFFFFF&label=)
+![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=EB001E&logo=Vauxhall&logoColor=FFFFFF&label=)
 ```
 ## ![vBulletin](https://img.shields.io/static/v1?style=for-the-badge&message=vBulletin&color=184D66&logo=vBulletin&logoColor=FFFFFF&label=)
 ```markdown
