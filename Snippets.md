@@ -130,9 +130,9 @@
 ```markdown
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ```
-## ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=222222&logo=Adobe+Premiere+Pro&logoColor=EA77FF&label=)
+## ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ```markdown
-![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=222222&logo=Adobe+Premiere+Pro&logoColor=EA77FF&label=)
+![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ```
 ## ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF26BE&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ```markdown
@@ -669,6 +669,10 @@
 ## ![Big Cartel](https://img.shields.io/static/v1?style=for-the-badge&message=Big+Cartel&color=222222&logo=Big+Cartel&logoColor=FFFFFF&label=)
 ```markdown
 ![Big Cartel](https://img.shields.io/static/v1?style=for-the-badge&message=Big+Cartel&color=222222&logo=Big+Cartel&logoColor=FFFFFF&label=)
+```
+## ![BigCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=BigCommerce&color=121118&logo=BigCommerce&logoColor=FFFFFF&label=)
+```markdown
+![BigCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=BigCommerce&color=121118&logo=BigCommerce&logoColor=FFFFFF&label=)
 ```
 ## ![Bilibili](https://img.shields.io/static/v1?style=for-the-badge&message=Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)
 ```markdown
@@ -3354,9 +3358,9 @@
 ```markdown
 ![Mix](https://img.shields.io/static/v1?style=for-the-badge&message=Mix&color=222222&logo=Mix&logoColor=FF8126&label=)
 ```
-## ![Mixcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Mixcloud&color=314359&logo=Mixcloud&logoColor=FFFFFF&label=)
+## ![Mixcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Mixcloud&color=5000FF&logo=Mixcloud&logoColor=FFFFFF&label=)
 ```markdown
-![Mixcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Mixcloud&color=314359&logo=Mixcloud&logoColor=FFFFFF&label=)
+![Mixcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Mixcloud&color=5000FF&logo=Mixcloud&logoColor=FFFFFF&label=)
 ```
 ## ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ```markdown
@@ -5310,9 +5314,9 @@
 ```markdown
 ![Twoo](https://img.shields.io/static/v1?style=for-the-badge&message=Twoo&color=FF7102&logo=Twoo&logoColor=FFFFFF&label=)
 ```
-## ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=007ACC&logo=TypeScript&logoColor=FFFFFF&label=)
+## ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ```markdown
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=007ACC&logo=TypeScript&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ```
 ## ![TYPO3](https://img.shields.io/static/v1?style=for-the-badge&message=TYPO3&color=222222&logo=TYPO3&logoColor=FF8700&label=)
 ```markdown
@@ -5889,6 +5893,10 @@
 ## ![Zendesk](https://img.shields.io/static/v1?style=for-the-badge&message=Zendesk&color=03363D&logo=Zendesk&logoColor=FFFFFF&label=)
 ```markdown
 ![Zendesk](https://img.shields.io/static/v1?style=for-the-badge&message=Zendesk&color=03363D&logo=Zendesk&logoColor=FFFFFF&label=)
+```
+## ![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
+```markdown
+![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
 ```
 ## ![ZeroMQ](https://img.shields.io/static/v1?style=for-the-badge&message=ZeroMQ&color=DF0000&logo=ZeroMQ&logoColor=FFFFFF&label=)
 ```markdown
