@@ -30,6 +30,10 @@
 ```markdown
 ![ABB RobotStudio](https://img.shields.io/static/v1?style=for-the-badge&message=ABB+RobotStudio&color=222222&logo=ABB+RobotStudio&logoColor=FF9E0F&label=)
 ```
+## ![Abbvie](https://img.shields.io/static/v1?style=for-the-badge&message=Abbvie&color=071D49&logo=Abbvie&logoColor=FFFFFF&label=)
+```markdown
+![Abbvie](https://img.shields.io/static/v1?style=for-the-badge&message=Abbvie&color=071D49&logo=Abbvie&logoColor=FFFFFF&label=)
+```
 ## ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 ```markdown
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
@@ -161,6 +165,10 @@
 ## ![Affinity Publisher](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Publisher&color=C9284D&logo=Affinity+Publisher&logoColor=FFFFFF&label=)
 ```markdown
 ![Affinity Publisher](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Publisher&color=C9284D&logo=Affinity+Publisher&logoColor=FFFFFF&label=)
+```
+## ![AI Dungeon](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Dungeon&color=000000&logo=AI+Dungeon&logoColor=FFFFFF&label=)
+```markdown
+![AI Dungeon](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Dungeon&color=000000&logo=AI+Dungeon&logoColor=FFFFFF&label=)
 ```
 ## ![Aiqfome](https://img.shields.io/static/v1?style=for-the-badge&message=Aiqfome&color=7A1FA2&logo=Aiqfome&logoColor=FFFFFF&label=)
 ```markdown
@@ -362,9 +370,9 @@
 ```markdown
 ![Apache Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
 ```
-## ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=000000&logo=Apache+Kafka&logoColor=FFFFFF&label=)
+## ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 ```markdown
-![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=000000&logo=Apache+Kafka&logoColor=FFFFFF&label=)
+![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 ```
 ## ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ```markdown
@@ -565,6 +573,10 @@
 ## ![awesomeWM](https://img.shields.io/static/v1?style=for-the-badge&message=awesomeWM&color=535D6C&logo=awesomeWM&logoColor=FFFFFF&label=)
 ```markdown
 ![awesomeWM](https://img.shields.io/static/v1?style=for-the-badge&message=awesomeWM&color=535D6C&logo=awesomeWM&logoColor=FFFFFF&label=)
+```
+## ![AWS Amplify](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label=)
+```markdown
+![AWS Amplify](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label=)
 ```
 ## ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
 ```markdown
@@ -1162,9 +1174,9 @@
 ```markdown
 ![Counter-Strike](https://img.shields.io/static/v1?style=for-the-badge&message=Counter-Strike&color=000000&logo=Counter-Strike&logoColor=FFFFFF&label=)
 ```
-## ![Coursera](https://img.shields.io/static/v1?style=for-the-badge&message=Coursera&color=2A73CC&logo=Coursera&logoColor=FFFFFF&label=)
+## ![Coursera](https://img.shields.io/static/v1?style=for-the-badge&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=)
 ```markdown
-![Coursera](https://img.shields.io/static/v1?style=for-the-badge&message=Coursera&color=2A73CC&logo=Coursera&logoColor=FFFFFF&label=)
+![Coursera](https://img.shields.io/static/v1?style=for-the-badge&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=)
 ```
 ## ![Coveralls](https://img.shields.io/static/v1?style=for-the-badge&message=Coveralls&color=3F5767&logo=Coveralls&logoColor=FFFFFF&label=)
 ```markdown
@@ -1345,6 +1357,10 @@
 ## ![diagrams.net](https://img.shields.io/static/v1?style=for-the-badge&message=diagrams.net&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
 ```markdown
 ![diagrams.net](https://img.shields.io/static/v1?style=for-the-badge&message=diagrams.net&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
+```
+## ![Dialogflow](https://img.shields.io/static/v1?style=for-the-badge&message=Dialogflow&color=222222&logo=Dialogflow&logoColor=FF9800&label=)
+```markdown
+![Dialogflow](https://img.shields.io/static/v1?style=for-the-badge&message=Dialogflow&color=222222&logo=Dialogflow&logoColor=FF9800&label=)
 ```
 ## ![Diaspora](https://img.shields.io/static/v1?style=for-the-badge&message=Diaspora&color=000000&logo=Diaspora&logoColor=FFFFFF&label=)
 ```markdown
@@ -2769,6 +2785,10 @@
 ## ![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=006D5C&logo=Kaspersky&logoColor=FFFFFF&label=)
 ```markdown
 ![Kaspersky](https://img.shields.io/static/v1?style=for-the-badge&message=Kaspersky&color=006D5C&logo=Kaspersky&logoColor=FFFFFF&label=)
+```
+## ![Katacoda](https://img.shields.io/static/v1?style=for-the-badge&message=Katacoda&color=F48220&logo=Katacoda&logoColor=FFFFFF&label=)
+```markdown
+![Katacoda](https://img.shields.io/static/v1?style=for-the-badge&message=Katacoda&color=F48220&logo=Katacoda&logoColor=FFFFFF&label=)
 ```
 ## ![Katana](https://img.shields.io/static/v1?style=for-the-badge&message=Katana&color=000000&logo=Katana&logoColor=FFFFFF&label=)
 ```markdown
@@ -4538,6 +4558,10 @@
 ```markdown
 ![Semaphore CI](https://img.shields.io/static/v1?style=for-the-badge&message=Semaphore+CI&color=19A974&logo=Semaphore+CI&logoColor=FFFFFF&label=)
 ```
+## ![SemVer](https://img.shields.io/static/v1?style=for-the-badge&message=SemVer&color=3F4551&logo=SemVer&logoColor=FFFFFF&label=)
+```markdown
+![SemVer](https://img.shields.io/static/v1?style=for-the-badge&message=SemVer&color=3F4551&logo=SemVer&logoColor=FFFFFF&label=)
+```
 ## ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
 ```markdown
 ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
@@ -4902,6 +4926,10 @@
 ```markdown
 ![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
 ```
+## ![SteamDB](https://img.shields.io/static/v1?style=for-the-badge&message=SteamDB&color=000000&logo=SteamDB&logoColor=FFFFFF&label=)
+```markdown
+![SteamDB](https://img.shields.io/static/v1?style=for-the-badge&message=SteamDB&color=000000&logo=SteamDB&logoColor=FFFFFF&label=)
+```
 ## ![Steamworks](https://img.shields.io/static/v1?style=for-the-badge&message=Steamworks&color=1E1E1E&logo=Steamworks&logoColor=FFFFFF&label=)
 ```markdown
 ![Steamworks](https://img.shields.io/static/v1?style=for-the-badge&message=Steamworks&color=1E1E1E&logo=Steamworks&logoColor=FFFFFF&label=)
@@ -4929,6 +4957,10 @@
 ## ![Stitcher](https://img.shields.io/static/v1?style=for-the-badge&message=Stitcher&color=000000&logo=Stitcher&logoColor=FFFFFF&label=)
 ```markdown
 ![Stitcher](https://img.shields.io/static/v1?style=for-the-badge&message=Stitcher&color=000000&logo=Stitcher&logoColor=FFFFFF&label=)
+```
+## ![STMicroelectronics](https://img.shields.io/static/v1?style=for-the-badge&message=STMicroelectronics&color=03234B&logo=STMicroelectronics&logoColor=FFFFFF&label=)
+```markdown
+![STMicroelectronics](https://img.shields.io/static/v1?style=for-the-badge&message=STMicroelectronics&color=03234B&logo=STMicroelectronics&logoColor=FFFFFF&label=)
 ```
 ## ![Storify](https://img.shields.io/static/v1?style=for-the-badge&message=Storify&color=3A98D9&logo=Storify&logoColor=FFFFFF&label=)
 ```markdown
