@@ -114,9 +114,9 @@
 ```markdown
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ```
-## ![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=EE3D8F&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
+## ![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=FF3366&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
 ```markdown
-![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=EE3D8F&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
+![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=FF3366&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
 ```
 ## ![Adobe Lightroom](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Lightroom&color=31A8FF&logo=Adobe+Lightroom&logoColor=FFFFFF&label=)
 ```markdown
@@ -730,6 +730,10 @@
 ```markdown
 ![Blackberry](https://img.shields.io/static/v1?style=for-the-badge&message=Blackberry&color=000000&logo=Blackberry&logoColor=FFFFFF&label=)
 ```
+## ![Blazemeter](https://img.shields.io/static/v1?style=for-the-badge&message=Blazemeter&color=CA2133&logo=Blazemeter&logoColor=FFFFFF&label=)
+```markdown
+![Blazemeter](https://img.shields.io/static/v1?style=for-the-badge&message=Blazemeter&color=CA2133&logo=Blazemeter&logoColor=FFFFFF&label=)
+```
 ## ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ```markdown
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
@@ -1286,9 +1290,9 @@
 ```markdown
 ![Dassault Systèmes](https://img.shields.io/static/v1?style=for-the-badge&message=Dassault+Syst%C3%A8mes&color=005386&logo=Dassault+Syst%C3%A8mes&logoColor=FFFFFF&label=)
 ```
-## ![DataCamp](https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=33AACC&logo=DataCamp&logoColor=FFFFFF&label=)
+## ![DataCamp](https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=)
 ```markdown
-![DataCamp](https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=33AACC&logo=DataCamp&logoColor=FFFFFF&label=)
+![DataCamp](https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=)
 ```
 ## ![Datadog](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog&color=632CA6&logo=Datadog&logoColor=FFFFFF&label=)
 ```markdown
