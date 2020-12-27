@@ -2982,9 +2982,9 @@
 ```markdown
 ![Leanpub](https://img.shields.io/static/v1?style=for-the-badge&message=Leanpub&color=222222&logo=Leanpub&logoColor=FFFFFF&label=)
 ```
-## ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=F89F1B&label=)
+## ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
 ```markdown
-![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=F89F1B&label=)
+![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
 ```
 ## ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ```markdown
@@ -3578,6 +3578,10 @@
 ```markdown
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=269539&logo=NGINX&logoColor=FFFFFF&label=)
 ```
+## ![ngrok](https://img.shields.io/static/v1?style=for-the-badge&message=ngrok&color=1F1E37&logo=ngrok&logoColor=FFFFFF&label=)
+```markdown
+![ngrok](https://img.shields.io/static/v1?style=for-the-badge&message=ngrok&color=1F1E37&logo=ngrok&logoColor=FFFFFF&label=)
+```
 ## ![niconico](https://img.shields.io/static/v1?style=for-the-badge&message=niconico&color=231815&logo=niconico&logoColor=FFFFFF&label=)
 ```markdown
 ![niconico](https://img.shields.io/static/v1?style=for-the-badge&message=niconico&color=231815&logo=niconico&logoColor=FFFFFF&label=)
@@ -3946,9 +3950,9 @@
 ```markdown
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=)
 ```
-## ![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=F60D1A&logo=Pi-hole&logoColor=FFFFFF&label=)
+## ![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=FF0000&logo=Pi-hole&logoColor=FFFFFF&label=)
 ```markdown
-![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=F60D1A&logo=Pi-hole&logoColor=FFFFFF&label=)
+![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=FF0000&logo=Pi-hole&logoColor=FFFFFF&label=)
 ```
 ## ![Picarto.TV](https://img.shields.io/static/v1?style=for-the-badge&message=Picarto.TV&color=1DA456&logo=Picarto.TV&logoColor=FFFFFF&label=)
 ```markdown
@@ -4138,9 +4142,9 @@
 ```markdown
 ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
 ```
-## ![Prismic](https://img.shields.io/static/v1?style=for-the-badge&message=Prismic&color=484A7A&logo=Prismic&logoColor=FFFFFF&label=)
+## ![Prismic](https://img.shields.io/static/v1?style=for-the-badge&message=Prismic&color=5163BA&logo=Prismic&logoColor=FFFFFF&label=)
 ```markdown
-![Prismic](https://img.shields.io/static/v1?style=for-the-badge&message=Prismic&color=484A7A&logo=Prismic&logoColor=FFFFFF&label=)
+![Prismic](https://img.shields.io/static/v1?style=for-the-badge&message=Prismic&color=5163BA&logo=Prismic&logoColor=FFFFFF&label=)
 ```
 ## ![Pro Tools](https://img.shields.io/static/v1?style=for-the-badge&message=Pro+Tools&color=222222&logo=Pro+Tools&logoColor=7ACB10&label=)
 ```markdown
