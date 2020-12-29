@@ -53,6 +53,6 @@ func main() {
 			log.Panicln(err)
 		}
 		fmt.Fprintln(os.Stdout, shield)
-		fmt.Fprintf(os.Stderr, "## %s\n```markdown\n%s\n```\n", shield, shield)
+		fmt.Fprintf(os.Stderr, "## %[1]s\n```markdown\n%[1]s\n```\n", shield)
 	}
 }
