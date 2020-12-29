@@ -5050,6 +5050,10 @@
 ```markdown
 ![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=7433FF&logo=Starling+Bank&logoColor=FFFFFF&label=)
 ```
+## ![Starship](https://img.shields.io/static/v1?style=for-the-badge&message=Starship&color=DD0B78&logo=Starship&logoColor=FFFFFF&label=)
+```markdown
+![Starship](https://img.shields.io/static/v1?style=for-the-badge&message=Starship&color=DD0B78&logo=Starship&logoColor=FFFFFF&label=)
+```
 ## ![Statamic](https://img.shields.io/static/v1?style=for-the-badge&message=Statamic&color=FF269E&logo=Statamic&logoColor=FFFFFF&label=)
 ```markdown
 ![Statamic](https://img.shields.io/static/v1?style=for-the-badge&message=Statamic&color=FF269E&logo=Statamic&logoColor=FFFFFF&label=)

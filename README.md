@@ -1261,6 +1261,7 @@
 ![Staffbase](https://img.shields.io/static/v1?style=for-the-badge&message=Staffbase&color=00A4FD&logo=Staffbase&logoColor=FFFFFF&label=)
 ![Star Trek](https://img.shields.io/static/v1?style=for-the-badge&message=Star+Trek&color=222222&logo=Star+Trek&logoColor=FFE200&label=)
 ![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=7433FF&logo=Starling+Bank&logoColor=FFFFFF&label=)
+![Starship](https://img.shields.io/static/v1?style=for-the-badge&message=Starship&color=DD0B78&logo=Starship&logoColor=FFFFFF&label=)
 ![Statamic](https://img.shields.io/static/v1?style=for-the-badge&message=Statamic&color=FF269E&logo=Statamic&logoColor=FFFFFF&label=)
 ![Staticman](https://img.shields.io/static/v1?style=for-the-badge&message=Staticman&color=000000&logo=Staticman&logoColor=FFFFFF&label=)
 ![Statuspage](https://img.shields.io/static/v1?style=for-the-badge&message=Statuspage&color=172B4D&logo=Statuspage&logoColor=FFFFFF&label=)
