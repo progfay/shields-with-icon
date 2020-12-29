@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/url"
 	"os"
+	"strings"
 
 	"github.com/progfay/colorcontrast"
 )
@@ -32,7 +33,7 @@ func formatShield(icon Icon) (string, error) {
 	}
 
 	return fmt.Sprintf("![%v](https://img.shields.io/static/v1?style=for-the-badge&message=%s&color=%v&logo=%s&logoColor=%s&label=)",
-		icon.Title,
+		strings.ReplaceAll(strings.ReplaceAll(icon.Title, "[", "\\["), "]", "\\]"),
 		url.QueryEscape(icon.Title),
 		url.QueryEscape(background),
 		url.QueryEscape(icon.Title),
