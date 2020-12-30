@@ -1,3 +1,4 @@
+go: downloading github.com/progfay/colorcontrast v0.0.0-20200724090336-2f43ffeae123
 ## ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=)
 ```markdown
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=)
@@ -2605,6 +2606,10 @@
 ## ![Informatica](https://img.shields.io/static/v1?style=for-the-badge&message=Informatica&color=FF4D00&logo=Informatica&logoColor=FFFFFF&label=)
 ```markdown
 ![Informatica](https://img.shields.io/static/v1?style=for-the-badge&message=Informatica&color=FF4D00&logo=Informatica&logoColor=FFFFFF&label=)
+```
+## ![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
+```markdown
+![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
 ```
 ## ![Inkscape](https://img.shields.io/static/v1?style=for-the-badge&message=Inkscape&color=000000&logo=Inkscape&logoColor=FFFFFF&label=)
 ```markdown

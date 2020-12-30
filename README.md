@@ -650,6 +650,7 @@
 ![Infiniti](https://img.shields.io/static/v1?style=for-the-badge&message=Infiniti&color=000000&logo=Infiniti&logoColor=FFFFFF&label=)
 ![InfluxDB](https://img.shields.io/static/v1?style=for-the-badge&message=InfluxDB&color=22ADF6&logo=InfluxDB&logoColor=FFFFFF&label=)
 ![Informatica](https://img.shields.io/static/v1?style=for-the-badge&message=Informatica&color=FF4D00&logo=Informatica&logoColor=FFFFFF&label=)
+![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
 ![Inkscape](https://img.shields.io/static/v1?style=for-the-badge&message=Inkscape&color=000000&logo=Inkscape&logoColor=FFFFFF&label=)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=5849BE&logo=Insomnia&logoColor=FFFFFF&label=)
 ![Instacart](https://img.shields.io/static/v1?style=for-the-badge&message=Instacart&color=43B02A&logo=Instacart&logoColor=FFFFFF&label=)
