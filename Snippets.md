@@ -1,4 +1,3 @@
-go: downloading github.com/progfay/colorcontrast v0.0.0-20200724090336-2f43ffeae123
 ## ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=)
 ```markdown
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=)
