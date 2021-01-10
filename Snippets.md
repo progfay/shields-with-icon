@@ -494,6 +494,10 @@
 ```markdown
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ```
+## ![ARK Ecosystem](https://img.shields.io/static/v1?style=for-the-badge&message=ARK+Ecosystem&color=C9292C&logo=ARK+Ecosystem&logoColor=FFFFFF&label=)
+```markdown
+![ARK Ecosystem](https://img.shields.io/static/v1?style=for-the-badge&message=ARK+Ecosystem&color=C9292C&logo=ARK+Ecosystem&logoColor=FFFFFF&label=)
+```
 ## ![Arlo](https://img.shields.io/static/v1?style=for-the-badge&message=Arlo&color=222222&logo=Arlo&logoColor=33CC99&label=)
 ```markdown
 ![Arlo](https://img.shields.io/static/v1?style=for-the-badge&message=Arlo&color=222222&logo=Arlo&logoColor=33CC99&label=)
@@ -1009,6 +1013,10 @@
 ## ![Chocolatey](https://img.shields.io/static/v1?style=for-the-badge&message=Chocolatey&color=222222&logo=Chocolatey&logoColor=80B5E3&label=)
 ```markdown
 ![Chocolatey](https://img.shields.io/static/v1?style=for-the-badge&message=Chocolatey&color=222222&logo=Chocolatey&logoColor=80B5E3&label=)
+```
+## ![Chrysler](https://img.shields.io/static/v1?style=for-the-badge&message=Chrysler&color=000000&logo=Chrysler&logoColor=FFFFFF&label=)
+```markdown
+![Chrysler](https://img.shields.io/static/v1?style=for-the-badge&message=Chrysler&color=000000&logo=Chrysler&logoColor=FFFFFF&label=)
 ```
 ## ![Chupa Chups](https://img.shields.io/static/v1?style=for-the-badge&message=Chupa+Chups&color=CF103E&logo=Chupa+Chups&logoColor=FFFFFF&label=)
 ```markdown
@@ -6269,6 +6277,10 @@
 ## ![Wikipedia](https://img.shields.io/static/v1?style=for-the-badge&message=Wikipedia&color=000000&logo=Wikipedia&logoColor=FFFFFF&label=)
 ```markdown
 ![Wikipedia](https://img.shields.io/static/v1?style=for-the-badge&message=Wikipedia&color=000000&logo=Wikipedia&logoColor=FFFFFF&label=)
+```
+## ![Wikiquote](https://img.shields.io/static/v1?style=for-the-badge&message=Wikiquote&color=006699&logo=Wikiquote&logoColor=FFFFFF&label=)
+```markdown
+![Wikiquote](https://img.shields.io/static/v1?style=for-the-badge&message=Wikiquote&color=006699&logo=Wikiquote&logoColor=FFFFFF&label=)
 ```
 ## ![Wikivoyage](https://img.shields.io/static/v1?style=for-the-badge&message=Wikivoyage&color=006699&logo=Wikivoyage&logoColor=FFFFFF&label=)
 ```markdown
