@@ -1166,6 +1166,10 @@
 ```markdown
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=)
 ```
+## ![Codemagic](https://img.shields.io/static/v1?style=for-the-badge&message=Codemagic&color=F45E3F&logo=Codemagic&logoColor=FFFFFF&label=)
+```markdown
+![Codemagic](https://img.shields.io/static/v1?style=for-the-badge&message=Codemagic&color=F45E3F&logo=Codemagic&logoColor=FFFFFF&label=)
+```
 ## ![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)
 ```markdown
 ![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)
@@ -2773,6 +2777,10 @@
 ## ![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
 ```markdown
 ![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
+```
+## ![Ingress](https://img.shields.io/static/v1?style=for-the-badge&message=Ingress&color=783CBD&logo=Ingress&logoColor=FFFFFF&label=)
+```markdown
+![Ingress](https://img.shields.io/static/v1?style=for-the-badge&message=Ingress&color=783CBD&logo=Ingress&logoColor=FFFFFF&label=)
 ```
 ## ![Inkscape](https://img.shields.io/static/v1?style=for-the-badge&message=Inkscape&color=000000&logo=Inkscape&logoColor=FFFFFF&label=)
 ```markdown
@@ -4730,6 +4738,10 @@
 ```markdown
 ![RedwoodJS](https://img.shields.io/static/v1?style=for-the-badge&message=RedwoodJS&color=BF4722&logo=RedwoodJS&logoColor=FFFFFF&label=)
 ```
+## ![Reliance Industries Limited](https://img.shields.io/static/v1?style=for-the-badge&message=Reliance+Industries+Limited&color=222222&logo=Reliance+Industries+Limited&logoColor=D1AB66&label=)
+```markdown
+![Reliance Industries Limited](https://img.shields.io/static/v1?style=for-the-badge&message=Reliance+Industries+Limited&color=222222&logo=Reliance+Industries+Limited&logoColor=D1AB66&label=)
+```
 ## ![Ren'Py](https://img.shields.io/static/v1?style=for-the-badge&message=Ren%27Py&color=222222&logo=Ren%27Py&logoColor=FF7F7F&label=)
 ```markdown
 ![Ren'Py](https://img.shields.io/static/v1?style=for-the-badge&message=Ren%27Py&color=222222&logo=Ren%27Py&logoColor=FF7F7F&label=)
@@ -5574,6 +5586,10 @@
 ```markdown
 ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=1675BC&logo=Talend&logoColor=FFFFFF&label=)
 ```
+## ![Taobao](https://img.shields.io/static/v1?style=for-the-badge&message=Taobao&color=E94F20&logo=Taobao&logoColor=FFFFFF&label=)
+```markdown
+![Taobao](https://img.shields.io/static/v1?style=for-the-badge&message=Taobao&color=E94F20&logo=Taobao&logoColor=FFFFFF&label=)
+```
 ## ![Tapas](https://img.shields.io/static/v1?style=for-the-badge&message=Tapas&color=222222&logo=Tapas&logoColor=FFCE00&label=)
 ```markdown
 ![Tapas](https://img.shields.io/static/v1?style=for-the-badge&message=Tapas&color=222222&logo=Tapas&logoColor=FFCE00&label=)
@@ -5706,6 +5722,10 @@
 ```markdown
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
 ```
+## ![Ticketmaster](https://img.shields.io/static/v1?style=for-the-badge&message=Ticketmaster&color=026CDF&logo=Ticketmaster&logoColor=FFFFFF&label=)
+```markdown
+![Ticketmaster](https://img.shields.io/static/v1?style=for-the-badge&message=Ticketmaster&color=026CDF&logo=Ticketmaster&logoColor=FFFFFF&label=)
+```
 ## ![Tidal](https://img.shields.io/static/v1?style=for-the-badge&message=Tidal&color=000000&logo=Tidal&logoColor=FFFFFF&label=)
 ```markdown
 ![Tidal](https://img.shields.io/static/v1?style=for-the-badge&message=Tidal&color=000000&logo=Tidal&logoColor=FFFFFF&label=)
@@ -5814,6 +5834,10 @@
 ```markdown
 ![Trend Micro](https://img.shields.io/static/v1?style=for-the-badge&message=Trend+Micro&color=D71921&logo=Trend+Micro&logoColor=FFFFFF&label=)
 ```
+## ![Treyarch](https://img.shields.io/static/v1?style=for-the-badge&message=Treyarch&color=000000&logo=Treyarch&logoColor=FFFFFF&label=)
+```markdown
+![Treyarch](https://img.shields.io/static/v1?style=for-the-badge&message=Treyarch&color=000000&logo=Treyarch&logoColor=FFFFFF&label=)
+```
 ## ![Triller](https://img.shields.io/static/v1?style=for-the-badge&message=Triller&color=FF0089&logo=Triller&logoColor=FFFFFF&label=)
 ```markdown
 ![Triller](https://img.shields.io/static/v1?style=for-the-badge&message=Triller&color=FF0089&logo=Triller&logoColor=FFFFFF&label=)
@@ -5906,9 +5930,9 @@
 ```markdown
 ![Uber](https://img.shields.io/static/v1?style=for-the-badge&message=Uber&color=000000&logo=Uber&logoColor=FFFFFF&label=)
 ```
-## ![Uber Eats](https://img.shields.io/static/v1?style=for-the-badge&message=Uber+Eats&color=5FB709&logo=Uber+Eats&logoColor=FFFFFF&label=)
+## ![Uber Eats](https://img.shields.io/static/v1?style=for-the-badge&message=Uber+Eats&color=222222&logo=Uber+Eats&logoColor=06C167&label=)
 ```markdown
-![Uber Eats](https://img.shields.io/static/v1?style=for-the-badge&message=Uber+Eats&color=5FB709&logo=Uber+Eats&logoColor=FFFFFF&label=)
+![Uber Eats](https://img.shields.io/static/v1?style=for-the-badge&message=Uber+Eats&color=222222&logo=Uber+Eats&logoColor=06C167&label=)
 ```
 ## ![Ubiquiti](https://img.shields.io/static/v1?style=for-the-badge&message=Ubiquiti&color=0559C9&logo=Ubiquiti&logoColor=FFFFFF&label=)
 ```markdown
@@ -6077,6 +6101,10 @@
 ## ![Vimeo](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo&color=222222&logo=Vimeo&logoColor=1AB7EA&label=)
 ```markdown
 ![Vimeo](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo&color=222222&logo=Vimeo&logoColor=1AB7EA&label=)
+```
+## ![Vimeo Livestream](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo+Livestream&color=0A0A20&logo=Vimeo+Livestream&logoColor=FFFFFF&label=)
+```markdown
+![Vimeo Livestream](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo+Livestream&color=0A0A20&logo=Vimeo+Livestream&logoColor=FFFFFF&label=)
 ```
 ## ![Vine](https://img.shields.io/static/v1?style=for-the-badge&message=Vine&color=11B48A&logo=Vine&logoColor=FFFFFF&label=)
 ```markdown
