@@ -1490,6 +1490,10 @@
 ```markdown
 ![Designer News](https://img.shields.io/static/v1?style=for-the-badge&message=Designer+News&color=2D72D9&logo=Designer+News&logoColor=FFFFFF&label=)
 ```
+## ![Deutsche Bahn](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bahn&color=F01414&logo=Deutsche+Bahn&logoColor=FFFFFF&label=)
+```markdown
+![Deutsche Bahn](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bahn&color=F01414&logo=Deutsche+Bahn&logoColor=FFFFFF&label=)
+```
 ## ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
 ```markdown
 ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
@@ -2190,6 +2194,10 @@
 ```markdown
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ```
+## ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
+```markdown
+![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
+```
 ## ![GitBook](https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=3884FF&logo=GitBook&logoColor=FFFFFF&label=)
 ```markdown
 ![GitBook](https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=3884FF&logo=GitBook&logoColor=FFFFFF&label=)
@@ -2637,6 +2645,10 @@
 ## ![Home Assistant](https://img.shields.io/static/v1?style=for-the-badge&message=Home+Assistant&color=222222&logo=Home+Assistant&logoColor=41BDF5&label=)
 ```markdown
 ![Home Assistant](https://img.shields.io/static/v1?style=for-the-badge&message=Home+Assistant&color=222222&logo=Home+Assistant&logoColor=41BDF5&label=)
+```
+## ![Home Assistant Community Store](https://img.shields.io/static/v1?style=for-the-badge&message=Home+Assistant+Community+Store&color=222222&logo=Home+Assistant+Community+Store&logoColor=41BDF5&label=)
+```markdown
+![Home Assistant Community Store](https://img.shields.io/static/v1?style=for-the-badge&message=Home+Assistant+Community+Store&color=222222&logo=Home+Assistant+Community+Store&logoColor=41BDF5&label=)
 ```
 ## ![HomeAdvisor](https://img.shields.io/static/v1?style=for-the-badge&message=HomeAdvisor&color=F68315&logo=HomeAdvisor&logoColor=FFFFFF&label=)
 ```markdown
@@ -3274,6 +3286,10 @@
 ```markdown
 ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ```
+## ![Less](https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=1D365D&logo=Less&logoColor=FFFFFF&label=)
+```markdown
+![Less](https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=1D365D&logo=Less&logoColor=FFFFFF&label=)
+```
 ## ![Let’s Encrypt](https://img.shields.io/static/v1?style=for-the-badge&message=Let%E2%80%99s+Encrypt&color=003A70&logo=Let%E2%80%99s+Encrypt&logoColor=FFFFFF&label=)
 ```markdown
 ![Let’s Encrypt](https://img.shields.io/static/v1?style=for-the-badge&message=Let%E2%80%99s+Encrypt&color=003A70&logo=Let%E2%80%99s+Encrypt&logoColor=FFFFFF&label=)
@@ -3874,6 +3890,10 @@
 ```markdown
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
 ```
+## ![New Japan Pro-Wrestling](https://img.shields.io/static/v1?style=for-the-badge&message=New+Japan+Pro-Wrestling&color=FF160B&logo=New+Japan+Pro-Wrestling&logoColor=FFFFFF&label=)
+```markdown
+![New Japan Pro-Wrestling](https://img.shields.io/static/v1?style=for-the-badge&message=New+Japan+Pro-Wrestling&color=FF160B&logo=New+Japan+Pro-Wrestling&logoColor=FFFFFF&label=)
+```
 ## ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
 ```markdown
 ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
@@ -4417,6 +4437,10 @@
 ## ![PlayStation 4](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+4&color=003791&logo=PlayStation+4&logoColor=FFFFFF&label=)
 ```markdown
 ![PlayStation 4](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+4&color=003791&logo=PlayStation+4&logoColor=FFFFFF&label=)
+```
+## ![PlayStation 5](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+5&color=003791&logo=PlayStation+5&logoColor=FFFFFF&label=)
+```markdown
+![PlayStation 5](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+5&color=003791&logo=PlayStation+5&logoColor=FFFFFF&label=)
 ```
 ## ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
 ```markdown
@@ -5330,6 +5354,10 @@
 ```markdown
 ![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00B4F2&label=)
 ```
+## ![Southwest Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Southwest+Airlines&color=304CB2&logo=Southwest+Airlines&logoColor=FFFFFF&label=)
+```markdown
+![Southwest Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Southwest+Airlines&color=304CB2&logo=Southwest+Airlines&logoColor=FFFFFF&label=)
+```
 ## ![Spacemacs](https://img.shields.io/static/v1?style=for-the-badge&message=Spacemacs&color=9266CC&logo=Spacemacs&logoColor=FFFFFF&label=)
 ```markdown
 ![Spacemacs](https://img.shields.io/static/v1?style=for-the-badge&message=Spacemacs&color=9266CC&logo=Spacemacs&logoColor=FFFFFF&label=)
@@ -5741,6 +5769,10 @@
 ## ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
 ```markdown
 ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
+```
+## ![The Irish Times](https://img.shields.io/static/v1?style=for-the-badge&message=The+Irish+Times&color=000000&logo=The+Irish+Times&logoColor=FFFFFF&label=)
+```markdown
+![The Irish Times](https://img.shields.io/static/v1?style=for-the-badge&message=The+Irish+Times&color=000000&logo=The+Irish+Times&logoColor=FFFFFF&label=)
 ```
 ## ![The Mighty](https://img.shields.io/static/v1?style=for-the-badge&message=The+Mighty&color=D0072A&logo=The+Mighty&logoColor=FFFFFF&label=)
 ```markdown
