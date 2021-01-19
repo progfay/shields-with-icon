@@ -266,6 +266,10 @@
 ```markdown
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ```
+## ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
+```markdown
+![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
+```
 ## ![Amazon Fire TV](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Fire+TV&color=FC4C02&logo=Amazon+Fire+TV&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon Fire TV](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Fire+TV&color=FC4C02&logo=Amazon+Fire+TV&logoColor=FFFFFF&label=)
@@ -1298,6 +1302,10 @@
 ```markdown
 ![Corona Renderer](https://img.shields.io/static/v1?style=for-the-badge&message=Corona+Renderer&color=E6502A&logo=Corona+Renderer&logoColor=FFFFFF&label=)
 ```
+## ![Corsair](https://img.shields.io/static/v1?style=for-the-badge&message=Corsair&color=000000&logo=Corsair&logoColor=FFFFFF&label=)
+```markdown
+![Corsair](https://img.shields.io/static/v1?style=for-the-badge&message=Corsair&color=000000&logo=Corsair&logoColor=FFFFFF&label=)
+```
 ## ![Couchbase](https://img.shields.io/static/v1?style=for-the-badge&message=Couchbase&color=EA2328&logo=Couchbase&logoColor=FFFFFF&label=)
 ```markdown
 ![Couchbase](https://img.shields.io/static/v1?style=for-the-badge&message=Couchbase&color=EA2328&logo=Couchbase&logoColor=FFFFFF&label=)
@@ -1345,6 +1353,10 @@
 ## ![CRYENGINE](https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label=)
 ```markdown
 ![CRYENGINE](https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label=)
+```
+## ![Crystal](https://img.shields.io/static/v1?style=for-the-badge&message=Crystal&color=000000&logo=Crystal&logoColor=FFFFFF&label=)
+```markdown
+![Crystal](https://img.shields.io/static/v1?style=for-the-badge&message=Crystal&color=000000&logo=Crystal&logoColor=FFFFFF&label=)
 ```
 ## ![CSS Wizardry](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Wizardry&color=F43059&logo=CSS+Wizardry&logoColor=FFFFFF&label=)
 ```markdown
@@ -6142,9 +6154,9 @@
 ```markdown
 ![Ulule](https://img.shields.io/static/v1?style=for-the-badge&message=Ulule&color=18A5D6&logo=Ulule&logoColor=FFFFFF&label=)
 ```
-## ![Umbraco](https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=222222&logo=Umbraco&logoColor=00BEC1&label=)
+## ![Umbraco](https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=)
 ```markdown
-![Umbraco](https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=222222&logo=Umbraco&logoColor=00BEC1&label=)
+![Umbraco](https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=)
 ```
 ## ![Unacademy](https://img.shields.io/static/v1?style=for-the-badge&message=Unacademy&color=222222&logo=Unacademy&logoColor=08BD80&label=)
 ```markdown
