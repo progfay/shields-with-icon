@@ -4214,6 +4214,10 @@
 ```markdown
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
 ```
+## ![OPNSense](https://img.shields.io/static/v1?style=for-the-badge&message=OPNSense&color=D94F00&logo=OPNSense&logoColor=FFFFFF&label=)
+```markdown
+![OPNSense](https://img.shields.io/static/v1?style=for-the-badge&message=OPNSense&color=D94F00&logo=OPNSense&logoColor=FFFFFF&label=)
+```
 ## ![Opsgenie](https://img.shields.io/static/v1?style=for-the-badge&message=Opsgenie&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=)
 ```markdown
 ![Opsgenie](https://img.shields.io/static/v1?style=for-the-badge&message=Opsgenie&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=)

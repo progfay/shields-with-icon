@@ -1052,6 +1052,7 @@
 ![openSUSE](https://img.shields.io/static/v1?style=for-the-badge&message=openSUSE&color=222222&logo=openSUSE&logoColor=73BA25&label=)
 ![OpenVPN](https://img.shields.io/static/v1?style=for-the-badge&message=OpenVPN&color=EA7E20&logo=OpenVPN&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
+![OPNSense](https://img.shields.io/static/v1?style=for-the-badge&message=OPNSense&color=D94F00&logo=OPNSense&logoColor=FFFFFF&label=)
 ![Opsgenie](https://img.shields.io/static/v1?style=for-the-badge&message=Opsgenie&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=)
 ![OpsLevel](https://img.shields.io/static/v1?style=for-the-badge&message=OpsLevel&color=1890FF&logo=OpsLevel&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
