@@ -166,6 +166,10 @@
 ```markdown
 ![Aer Lingus](https://img.shields.io/static/v1?style=for-the-badge&message=Aer+Lingus&color=006272&logo=Aer+Lingus&logoColor=FFFFFF&label=)
 ```
+## ![Aeroméxico](https://img.shields.io/static/v1?style=for-the-badge&message=Aerom%C3%A9xico&color=0B2343&logo=Aerom%C3%A9xico&logoColor=FFFFFF&label=)
+```markdown
+![Aeroméxico](https://img.shields.io/static/v1?style=for-the-badge&message=Aerom%C3%A9xico&color=0B2343&logo=Aerom%C3%A9xico&logoColor=FFFFFF&label=)
+```
 ## ![Affinity](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity&color=222324&logo=Affinity&logoColor=FFFFFF&label=)
 ```markdown
 ![Affinity](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity&color=222324&logo=Affinity&logoColor=FFFFFF&label=)
@@ -293,6 +297,10 @@
 ## ![Amazon Lumberyard](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lumberyard&color=66459B&logo=Amazon+Lumberyard&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon Lumberyard](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lumberyard&color=66459B&logo=Amazon+Lumberyard&logoColor=FFFFFF&label=)
+```
+## ![Amazon Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Pay&color=222222&logo=Amazon+Pay&logoColor=FF9900&label=)
+```markdown
+![Amazon Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Pay&color=222222&logo=Amazon+Pay&logoColor=FF9900&label=)
 ```
 ## ![Amazon Prime](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Prime&color=00A8E1&logo=Amazon+Prime&logoColor=FFFFFF&label=)
 ```markdown
@@ -3554,6 +3562,10 @@
 ```markdown
 ![MAAS](https://img.shields.io/static/v1?style=for-the-badge&message=MAAS&color=E95420&logo=MAAS&logoColor=FFFFFF&label=)
 ```
+## ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+```markdown
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+```
 ## ![Macy’s](https://img.shields.io/static/v1?style=for-the-badge&message=Macy%E2%80%99s&color=E21A2C&logo=Macy%E2%80%99s&logoColor=FFFFFF&label=)
 ```markdown
 ![Macy’s](https://img.shields.io/static/v1?style=for-the-badge&message=Macy%E2%80%99s&color=E21A2C&logo=Macy%E2%80%99s&logoColor=FFFFFF&label=)
@@ -4125,6 +4137,10 @@
 ## ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=CB3837&logo=NPM&logoColor=FFFFFF&label=)
 ```markdown
 ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=CB3837&logo=NPM&logoColor=FFFFFF&label=)
+```
+## ![Nrwl](https://img.shields.io/static/v1?style=for-the-badge&message=Nrwl&color=222222&logo=Nrwl&logoColor=96D7E8&label=)
+```markdown
+![Nrwl](https://img.shields.io/static/v1?style=for-the-badge&message=Nrwl&color=222222&logo=Nrwl&logoColor=96D7E8&label=)
 ```
 ## ![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=8A05BE&logo=Nubank&logoColor=FFFFFF&label=)
 ```markdown
