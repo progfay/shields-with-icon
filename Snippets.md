@@ -326,9 +326,9 @@
 ```markdown
 ![Analogue](https://img.shields.io/static/v1?style=for-the-badge&message=Analogue&color=1A1A1A&logo=Analogue&logoColor=FFFFFF&label=)
 ```
-## ![Anchor](https://img.shields.io/static/v1?style=for-the-badge&message=Anchor&color=8940FA&logo=Anchor&logoColor=FFFFFF&label=)
+## ![Anchor](https://img.shields.io/static/v1?style=for-the-badge&message=Anchor&color=5000B9&logo=Anchor&logoColor=FFFFFF&label=)
 ```markdown
-![Anchor](https://img.shields.io/static/v1?style=for-the-badge&message=Anchor&color=8940FA&logo=Anchor&logoColor=FFFFFF&label=)
+![Anchor](https://img.shields.io/static/v1?style=for-the-badge&message=Anchor&color=5000B9&logo=Anchor&logoColor=FFFFFF&label=)
 ```
 ## ![Andela](https://img.shields.io/static/v1?style=for-the-badge&message=Andela&color=3359DF&logo=Andela&logoColor=FFFFFF&label=)
 ```markdown
@@ -5790,6 +5790,10 @@
 ```markdown
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)
 ```
+## ![stylelint](https://img.shields.io/static/v1?style=for-the-badge&message=stylelint&color=263238&logo=stylelint&logoColor=FFFFFF&label=)
+```markdown
+![stylelint](https://img.shields.io/static/v1?style=for-the-badge&message=stylelint&color=263238&logo=stylelint&logoColor=FFFFFF&label=)
+```
 ## ![StyleShare](https://img.shields.io/static/v1?style=for-the-badge&message=StyleShare&color=212121&logo=StyleShare&logoColor=FFFFFF&label=)
 ```markdown
 ![StyleShare](https://img.shields.io/static/v1?style=for-the-badge&message=StyleShare&color=212121&logo=StyleShare&logoColor=FFFFFF&label=)
@@ -6949,6 +6953,10 @@
 ## ![Zoho](https://img.shields.io/static/v1?style=for-the-badge&message=Zoho&color=C8202B&logo=Zoho&logoColor=FFFFFF&label=)
 ```markdown
 ![Zoho](https://img.shields.io/static/v1?style=for-the-badge&message=Zoho&color=C8202B&logo=Zoho&logoColor=FFFFFF&label=)
+```
+## ![Zoiper](https://img.shields.io/static/v1?style=for-the-badge&message=Zoiper&color=F47920&logo=Zoiper&logoColor=FFFFFF&label=)
+```markdown
+![Zoiper](https://img.shields.io/static/v1?style=for-the-badge&message=Zoiper&color=F47920&logo=Zoiper&logoColor=FFFFFF&label=)
 ```
 ## ![Zomato](https://img.shields.io/static/v1?style=for-the-badge&message=Zomato&color=E23744&logo=Zomato&logoColor=FFFFFF&label=)
 ```markdown
