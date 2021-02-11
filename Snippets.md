@@ -386,6 +386,10 @@
 ```markdown
 ![AnyDesk](https://img.shields.io/static/v1?style=for-the-badge&message=AnyDesk&color=EF443B&logo=AnyDesk&logoColor=FFFFFF&label=)
 ```
+## ![AOL](https://img.shields.io/static/v1?style=for-the-badge&message=AOL&color=3399FF&logo=AOL&logoColor=FFFFFF&label=)
+```markdown
+![AOL](https://img.shields.io/static/v1?style=for-the-badge&message=AOL&color=3399FF&logo=AOL&logoColor=FFFFFF&label=)
+```
 ## ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
 ```markdown
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
@@ -1157,6 +1161,10 @@
 ## ![CloudCannon](https://img.shields.io/static/v1?style=for-the-badge&message=CloudCannon&color=407AFC&logo=CloudCannon&logoColor=FFFFFF&label=)
 ```markdown
 ![CloudCannon](https://img.shields.io/static/v1?style=for-the-badge&message=CloudCannon&color=407AFC&logo=CloudCannon&logoColor=FFFFFF&label=)
+```
+## ![Cloudera](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudera&color=F96702&logo=Cloudera&logoColor=FFFFFF&label=)
+```markdown
+![Cloudera](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudera&color=F96702&logo=Cloudera&logoColor=FFFFFF&label=)
 ```
 ## ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ```markdown
@@ -3594,6 +3602,10 @@
 ```markdown
 ![MailChimp](https://img.shields.io/static/v1?style=for-the-badge&message=MailChimp&color=222222&logo=MailChimp&logoColor=FFE01B&label=)
 ```
+## ![Major League Hacking](https://img.shields.io/static/v1?style=for-the-badge&message=Major+League+Hacking&color=265A8F&logo=Major+League+Hacking&logoColor=FFFFFF&label=)
+```markdown
+![Major League Hacking](https://img.shields.io/static/v1?style=for-the-badge&message=Major+League+Hacking&color=265A8F&logo=Major+League+Hacking&logoColor=FFFFFF&label=)
+```
 ## ![MakerBot](https://img.shields.io/static/v1?style=for-the-badge&message=MakerBot&color=FF1E0D&logo=MakerBot&logoColor=FFFFFF&label=)
 ```markdown
 ![MakerBot](https://img.shields.io/static/v1?style=for-the-badge&message=MakerBot&color=FF1E0D&logo=MakerBot&logoColor=FFFFFF&label=)
@@ -4369,6 +4381,10 @@
 ## ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=)
 ```markdown
 ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=)
+```
+## ![Oxygen](https://img.shields.io/static/v1?style=for-the-badge&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label=)
+```markdown
+![Oxygen](https://img.shields.io/static/v1?style=for-the-badge&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label=)
 ```
 ## ![OYO](https://img.shields.io/static/v1?style=for-the-badge&message=OYO&color=EE2E24&logo=OYO&logoColor=FFFFFF&label=)
 ```markdown
@@ -6002,6 +6018,10 @@
 ```markdown
 ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
 ```
+## ![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFD942&label=)
+```markdown
+![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFD942&label=)
+```
 ## ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
 ```markdown
 ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
@@ -6693,6 +6713,10 @@
 ## ![Windows 95](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+95&color=008080&logo=Windows+95&logoColor=FFFFFF&label=)
 ```markdown
 ![Windows 95](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+95&color=008080&logo=Windows+95&logoColor=FFFFFF&label=)
+```
+## ![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
+```markdown
+![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
 ```
 ## ![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
 ```markdown
