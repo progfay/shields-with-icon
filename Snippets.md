@@ -338,9 +338,9 @@
 ```markdown
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ```
-## ![Android Auto](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Auto&color=4285F4&logo=Android+Auto&logoColor=FFFFFF&label=)
+## ![Android Auto](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Auto&color=222222&logo=Android+Auto&logoColor=3DDC84&label=)
 ```markdown
-![Android Auto](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Auto&color=4285F4&logo=Android+Auto&logoColor=FFFFFF&label=)
+![Android Auto](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Auto&color=222222&logo=Android+Auto&logoColor=3DDC84&label=)
 ```
 ## ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ```markdown
@@ -1081,6 +1081,10 @@
 ## ![Chevrolet](https://img.shields.io/static/v1?style=for-the-badge&message=Chevrolet&color=CD9834&logo=Chevrolet&logoColor=FFFFFF&label=)
 ```markdown
 ![Chevrolet](https://img.shields.io/static/v1?style=for-the-badge&message=Chevrolet&color=CD9834&logo=Chevrolet&logoColor=FFFFFF&label=)
+```
+## ![China Eastern Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=China+Eastern+Airlines&color=1A2477&logo=China+Eastern+Airlines&logoColor=FFFFFF&label=)
+```markdown
+![China Eastern Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=China+Eastern+Airlines&color=1A2477&logo=China+Eastern+Airlines&logoColor=FFFFFF&label=)
 ```
 ## ![China Southern Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=China+Southern+Airlines&color=008BCB&logo=China+Southern+Airlines&logoColor=FFFFFF&label=)
 ```markdown
@@ -4813,6 +4817,10 @@
 ## ![PubMed](https://img.shields.io/static/v1?style=for-the-badge&message=PubMed&color=326599&logo=PubMed&logoColor=FFFFFF&label=)
 ```markdown
 ![PubMed](https://img.shields.io/static/v1?style=for-the-badge&message=PubMed&color=326599&logo=PubMed&logoColor=FFFFFF&label=)
+```
+## ![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=)
+```markdown
+![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=)
 ```
 ## ![Puppet](https://img.shields.io/static/v1?style=for-the-badge&message=Puppet&color=222222&logo=Puppet&logoColor=FFAE1A&label=)
 ```markdown
