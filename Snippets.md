@@ -830,6 +830,10 @@
 ```markdown
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ```
+## ![Blockchain.com](https://img.shields.io/static/v1?style=for-the-badge&message=Blockchain.com&color=121D33&logo=Blockchain.com&logoColor=FFFFFF&label=)
+```markdown
+![Blockchain.com](https://img.shields.io/static/v1?style=for-the-badge&message=Blockchain.com&color=121D33&logo=Blockchain.com&logoColor=FFFFFF&label=)
+```
 ## ![Blogger](https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label=)
 ```markdown
 ![Blogger](https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label=)
@@ -1445,6 +1449,10 @@
 ## ![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)
 ```markdown
 ![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)
+```
+## ![D-Wave Systems](https://img.shields.io/static/v1?style=for-the-badge&message=D-Wave+Systems&color=008CD7&logo=D-Wave+Systems&logoColor=FFFFFF&label=)
+```markdown
+![D-Wave Systems](https://img.shields.io/static/v1?style=for-the-badge&message=D-Wave+Systems&color=008CD7&logo=D-Wave+Systems&logoColor=FFFFFF&label=)
 ```
 ## ![D3.js](https://img.shields.io/static/v1?style=for-the-badge&message=D3.js&color=222222&logo=D3.js&logoColor=F9A03C&label=)
 ```markdown
