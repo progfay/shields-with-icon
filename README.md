@@ -1349,6 +1349,7 @@
 ![Shikimori](https://img.shields.io/static/v1?style=for-the-badge&message=Shikimori&color=343434&logo=Shikimori&logoColor=FFFFFF&label=)
 ![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
 ![Shopware](https://img.shields.io/static/v1?style=for-the-badge&message=Shopware&color=189EFF&logo=Shopware&logoColor=FFFFFF&label=)
+![Shotcut](https://img.shields.io/static/v1?style=for-the-badge&message=Shotcut&color=115C77&logo=Shotcut&logoColor=FFFFFF&label=)
 ![Showpad](https://img.shields.io/static/v1?style=for-the-badge&message=Showpad&color=2D2E83&logo=Showpad&logoColor=FFFFFF&label=)
 ![Showtime](https://img.shields.io/static/v1?style=for-the-badge&message=Showtime&color=B10000&logo=Showtime&logoColor=FFFFFF&label=)
 ![Shutterstock](https://img.shields.io/static/v1?style=for-the-badge&message=Shutterstock&color=EE2B24&logo=Shutterstock&logoColor=FFFFFF&label=)

@@ -5402,6 +5402,10 @@
 ```markdown
 ![Shopware](https://img.shields.io/static/v1?style=for-the-badge&message=Shopware&color=189EFF&logo=Shopware&logoColor=FFFFFF&label=)
 ```
+## ![Shotcut](https://img.shields.io/static/v1?style=for-the-badge&message=Shotcut&color=115C77&logo=Shotcut&logoColor=FFFFFF&label=)
+```markdown
+![Shotcut](https://img.shields.io/static/v1?style=for-the-badge&message=Shotcut&color=115C77&logo=Shotcut&logoColor=FFFFFF&label=)
+```
 ## ![Showpad](https://img.shields.io/static/v1?style=for-the-badge&message=Showpad&color=2D2E83&logo=Showpad&logoColor=FFFFFF&label=)
 ```markdown
 ![Showpad](https://img.shields.io/static/v1?style=for-the-badge&message=Showpad&color=2D2E83&logo=Showpad&logoColor=FFFFFF&label=)
