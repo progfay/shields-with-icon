@@ -1,5 +1,7 @@
-all: build
+all: generator run
 
-build: main.go
-	go run ./*.go > README.md 2> Snippets.md
+generator: main.go color.go icon.go
+	go build -o=generator ./*.go
 
+run: main.go
+	./generator > README.md 2> Snippets.md
