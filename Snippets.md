@@ -2630,6 +2630,10 @@
 ```markdown
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ```
+## ![Grammarly](https://img.shields.io/static/v1?style=for-the-badge&message=Grammarly&color=222222&logo=Grammarly&logoColor=15C39A&label=)
+```markdown
+![Grammarly](https://img.shields.io/static/v1?style=for-the-badge&message=Grammarly&color=222222&logo=Grammarly&logoColor=15C39A&label=)
+```
 ## ![Graphcool](https://img.shields.io/static/v1?style=for-the-badge&message=Graphcool&color=27AE60&logo=Graphcool&logoColor=FFFFFF&label=)
 ```markdown
 ![Graphcool](https://img.shields.io/static/v1?style=for-the-badge&message=Graphcool&color=27AE60&logo=Graphcool&logoColor=FFFFFF&label=)
@@ -4089,6 +4093,10 @@
 ## ![MX Linux](https://img.shields.io/static/v1?style=for-the-badge&message=MX+Linux&color=000000&logo=MX+Linux&logoColor=FFFFFF&label=)
 ```markdown
 ![MX Linux](https://img.shields.io/static/v1?style=for-the-badge&message=MX+Linux&color=000000&logo=MX+Linux&logoColor=FFFFFF&label=)
+```
+## ![MyAnimeList](https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=)
+```markdown
+![MyAnimeList](https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=)
 ```
 ## ![MYOB](https://img.shields.io/static/v1?style=for-the-badge&message=MYOB&color=6100A5&logo=MYOB&logoColor=FFFFFF&label=)
 ```markdown
