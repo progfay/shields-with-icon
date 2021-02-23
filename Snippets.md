@@ -326,6 +326,10 @@
 ```markdown
 ![American Express](https://img.shields.io/static/v1?style=for-the-badge&message=American+Express&color=2E77BC&logo=American+Express&logoColor=FFFFFF&label=)
 ```
+## ![AMP](https://img.shields.io/static/v1?style=for-the-badge&message=AMP&color=005AF0&logo=AMP&logoColor=FFFFFF&label=)
+```markdown
+![AMP](https://img.shields.io/static/v1?style=for-the-badge&message=AMP&color=005AF0&logo=AMP&logoColor=FFFFFF&label=)
+```
 ## ![ANA](https://img.shields.io/static/v1?style=for-the-badge&message=ANA&color=13448F&logo=ANA&logoColor=FFFFFF&label=)
 ```markdown
 ![ANA](https://img.shields.io/static/v1?style=for-the-badge&message=ANA&color=13448F&logo=ANA&logoColor=FFFFFF&label=)
@@ -589,6 +593,10 @@
 ## ![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
 ```markdown
 ![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
+```
+## ![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)
+```markdown
+![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)
 ```
 ## ![ASUS](https://img.shields.io/static/v1?style=for-the-badge&message=ASUS&color=000000&logo=ASUS&logoColor=FFFFFF&label=)
 ```markdown
@@ -3393,6 +3401,10 @@
 ## ![Klout](https://img.shields.io/static/v1?style=for-the-badge&message=Klout&color=E44600&logo=Klout&logoColor=FFFFFF&label=)
 ```markdown
 ![Klout](https://img.shields.io/static/v1?style=for-the-badge&message=Klout&color=E44600&logo=Klout&logoColor=FFFFFF&label=)
+```
+## ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=222222&logo=KnowledgeBase&logoColor=FFD000&label=)
+```markdown
+![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=222222&logo=KnowledgeBase&logoColor=FFD000&label=)
 ```
 ## ![Known](https://img.shields.io/static/v1?style=for-the-badge&message=Known&color=333333&logo=Known&logoColor=FFFFFF&label=)
 ```markdown
