@@ -5110,6 +5110,10 @@
 ```markdown
 ![Qiita](https://img.shields.io/static/v1?style=for-the-badge&message=Qiita&color=222222&logo=Qiita&logoColor=55C500&label=)
 ```
+## ![Qiskit](https://img.shields.io/static/v1?style=for-the-badge&message=Qiskit&color=6929C4&logo=Qiskit&logoColor=FFFFFF&label=)
+```markdown
+![Qiskit](https://img.shields.io/static/v1?style=for-the-badge&message=Qiskit&color=6929C4&logo=Qiskit&logoColor=FFFFFF&label=)
+```
 ## ![QIWI](https://img.shields.io/static/v1?style=for-the-badge&message=QIWI&color=222222&logo=QIWI&logoColor=FF8C00&label=)
 ```markdown
 ![QIWI](https://img.shields.io/static/v1?style=for-the-badge&message=QIWI&color=222222&logo=QIWI&logoColor=FF8C00&label=)
@@ -6729,6 +6733,10 @@
 ## ![Valve](https://img.shields.io/static/v1?style=for-the-badge&message=Valve&color=F74843&logo=Valve&logoColor=FFFFFF&label=)
 ```markdown
 ![Valve](https://img.shields.io/static/v1?style=for-the-badge&message=Valve&color=F74843&logo=Valve&logoColor=FFFFFF&label=)
+```
+## ![Vapor](https://img.shields.io/static/v1?style=for-the-badge&message=Vapor&color=0D0D0D&logo=Vapor&logoColor=FFFFFF&label=)
+```markdown
+![Vapor](https://img.shields.io/static/v1?style=for-the-badge&message=Vapor&color=0D0D0D&logo=Vapor&logoColor=FFFFFF&label=)
 ```
 ## ![Vault](https://img.shields.io/static/v1?style=for-the-badge&message=Vault&color=000000&logo=Vault&logoColor=FFFFFF&label=)
 ```markdown
