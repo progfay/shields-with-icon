@@ -322,6 +322,10 @@
 ```markdown
 ![Amazon Prime](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Prime&color=00A8E1&logo=Amazon+Prime&logoColor=FFFFFF&label=)
 ```
+## ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+```markdown
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+```
 ## ![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
 ```markdown
 ![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
@@ -3033,6 +3037,10 @@
 ## ![Husqvarna](https://img.shields.io/static/v1?style=for-the-badge&message=Husqvarna&color=273A60&logo=Husqvarna&logoColor=FFFFFF&label=)
 ```markdown
 ![Husqvarna](https://img.shields.io/static/v1?style=for-the-badge&message=Husqvarna&color=273A60&logo=Husqvarna&logoColor=FFFFFF&label=)
+```
+## ![Hyper](https://img.shields.io/static/v1?style=for-the-badge&message=Hyper&color=000000&logo=Hyper&logoColor=FFFFFF&label=)
+```markdown
+![Hyper](https://img.shields.io/static/v1?style=for-the-badge&message=Hyper&color=000000&logo=Hyper&logoColor=FFFFFF&label=)
 ```
 ## ![Hyperledger](https://img.shields.io/static/v1?style=for-the-badge&message=Hyperledger&color=2F3134&logo=Hyperledger&logoColor=FFFFFF&label=)
 ```markdown
@@ -6150,6 +6158,10 @@
 ```markdown
 ![Stencyl](https://img.shields.io/static/v1?style=for-the-badge&message=Stencyl&color=8E1C04&logo=Stencyl&logoColor=FFFFFF&label=)
 ```
+## ![Stimulus](https://img.shields.io/static/v1?style=for-the-badge&message=Stimulus&color=222222&logo=Stimulus&logoColor=77E8B9&label=)
+```markdown
+![Stimulus](https://img.shields.io/static/v1?style=for-the-badge&message=Stimulus&color=222222&logo=Stimulus&logoColor=77E8B9&label=)
+```
 ## ![Stitcher](https://img.shields.io/static/v1?style=for-the-badge&message=Stitcher&color=000000&logo=Stitcher&logoColor=FFFFFF&label=)
 ```markdown
 ![Stitcher](https://img.shields.io/static/v1?style=for-the-badge&message=Stitcher&color=000000&logo=Stitcher&logoColor=FFFFFF&label=)
@@ -7289,6 +7301,10 @@
 ## ![XSplit](https://img.shields.io/static/v1?style=for-the-badge&message=XSplit&color=0095DE&logo=XSplit&logoColor=FFFFFF&label=)
 ```markdown
 ![XSplit](https://img.shields.io/static/v1?style=for-the-badge&message=XSplit&color=0095DE&logo=XSplit&logoColor=FFFFFF&label=)
+```
+## ![XState](https://img.shields.io/static/v1?style=for-the-badge&message=XState&color=2C3E50&logo=XState&logoColor=FFFFFF&label=)
+```markdown
+![XState](https://img.shields.io/static/v1?style=for-the-badge&message=XState&color=2C3E50&logo=XState&logoColor=FFFFFF&label=)
 ```
 ## ![Y Combinator](https://img.shields.io/static/v1?style=for-the-badge&message=Y+Combinator&color=F0652F&logo=Y+Combinator&logoColor=FFFFFF&label=)
 ```markdown
