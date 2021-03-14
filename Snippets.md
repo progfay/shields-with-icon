@@ -1998,6 +1998,10 @@
 ```markdown
 ![Empire Kred](https://img.shields.io/static/v1?style=for-the-badge&message=Empire+Kred&color=222222&logo=Empire+Kred&logoColor=72BE50&label=)
 ```
+## ![Enpass](https://img.shields.io/static/v1?style=for-the-badge&message=Enpass&color=0D47A1&logo=Enpass&logoColor=FFFFFF&label=)
+```markdown
+![Enpass](https://img.shields.io/static/v1?style=for-the-badge&message=Enpass&color=0D47A1&logo=Enpass&logoColor=FFFFFF&label=)
+```
 ## ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
 ```markdown
 ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
@@ -4966,6 +4970,10 @@
 ```markdown
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
 ```
+## ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
+```markdown
+![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
+```
 ## ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
 ```markdown
 ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
@@ -6070,9 +6078,9 @@
 ```markdown
 ![Stack Exchange](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Exchange&color=1E5397&logo=Stack+Exchange&logoColor=FFFFFF&label=)
 ```
-## ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=FE7A16&logo=Stack+Overflow&logoColor=FFFFFF&label=)
+## ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
 ```markdown
-![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=FE7A16&logo=Stack+Overflow&logoColor=FFFFFF&label=)
+![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
 ```
 ## ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ```markdown
