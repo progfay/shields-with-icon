@@ -94,9 +94,9 @@
 ```markdown
 ![AddThis](https://img.shields.io/static/v1?style=for-the-badge&message=AddThis&color=FF6550&logo=AddThis&logoColor=FFFFFF&label=)
 ```
-## ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=66B574&label=)
+## ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
 ```markdown
-![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=66B574&label=)
+![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
 ```
 ## ![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
 ```markdown
@@ -122,9 +122,9 @@
 ```markdown
 ![Adobe Dreamweaver](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Dreamweaver&color=FF61F6&logo=Adobe+Dreamweaver&logoColor=FFFFFF&label=)
 ```
-## ![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=323232&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
+## ![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=000B1D&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
 ```markdown
-![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=323232&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
+![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=000B1D&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
 ```
 ## ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ```markdown
@@ -866,9 +866,9 @@
 ```markdown
 ![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
 ```
-## ![Bitcoin Cash](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin+Cash&color=222222&logo=Bitcoin+Cash&logoColor=F59332&label=)
+## ![Bitcoin Cash](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin+Cash&color=222222&logo=Bitcoin+Cash&logoColor=0AC18E&label=)
 ```markdown
-![Bitcoin Cash](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin+Cash&color=222222&logo=Bitcoin+Cash&logoColor=F59332&label=)
+![Bitcoin Cash](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin+Cash&color=222222&logo=Bitcoin+Cash&logoColor=0AC18E&label=)
 ```
 ## ![Bitcoin SV](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin+SV&color=222222&logo=Bitcoin+SV&logoColor=EAB300&label=)
 ```markdown
@@ -1726,6 +1726,10 @@
 ```markdown
 ![devRant](https://img.shields.io/static/v1?style=for-the-badge&message=devRant&color=222222&logo=devRant&logoColor=F99A66&label=)
 ```
+## ![Dgraph](https://img.shields.io/static/v1?style=for-the-badge&message=Dgraph&color=E50695&logo=Dgraph&logoColor=FFFFFF&label=)
+```markdown
+![Dgraph](https://img.shields.io/static/v1?style=for-the-badge&message=Dgraph&color=E50695&logo=Dgraph&logoColor=FFFFFF&label=)
+```
 ## ![DHL](https://img.shields.io/static/v1?style=for-the-badge&message=DHL&color=222222&logo=DHL&logoColor=FFCC00&label=)
 ```markdown
 ![DHL](https://img.shields.io/static/v1?style=for-the-badge&message=DHL&color=222222&logo=DHL&logoColor=FFCC00&label=)
@@ -2349,6 +2353,10 @@
 ## ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
 ```markdown
 ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
+```
+## ![Fraunhofer-Gesellschaft](https://img.shields.io/static/v1?style=for-the-badge&message=Fraunhofer-Gesellschaft&color=179C7D&logo=Fraunhofer-Gesellschaft&logoColor=FFFFFF&label=)
+```markdown
+![Fraunhofer-Gesellschaft](https://img.shields.io/static/v1?style=for-the-badge&message=Fraunhofer-Gesellschaft&color=179C7D&logo=Fraunhofer-Gesellschaft&logoColor=FFFFFF&label=)
 ```
 ## ![FreeBSD](https://img.shields.io/static/v1?style=for-the-badge&message=FreeBSD&color=AB2B28&logo=FreeBSD&logoColor=FFFFFF&label=)
 ```markdown
@@ -3381,6 +3389,10 @@
 ## ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 ```markdown
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
+```
+## ![JSS](https://img.shields.io/static/v1?style=for-the-badge&message=JSS&color=222222&logo=JSS&logoColor=F7DF1E&label=)
+```markdown
+![JSS](https://img.shields.io/static/v1?style=for-the-badge&message=JSS&color=222222&logo=JSS&logoColor=F7DF1E&label=)
 ```
 ## ![Julia](https://img.shields.io/static/v1?style=for-the-badge&message=Julia&color=9558B2&logo=Julia&logoColor=FFFFFF&label=)
 ```markdown
@@ -4634,6 +4646,10 @@
 ```markdown
 ![ORCID](https://img.shields.io/static/v1?style=for-the-badge&message=ORCID&color=222222&logo=ORCID&logoColor=A6CE39&label=)
 ```
+## ![Org](https://img.shields.io/static/v1?style=for-the-badge&message=Org&color=77AA99&logo=Org&logoColor=FFFFFF&label=)
+```markdown
+![Org](https://img.shields.io/static/v1?style=for-the-badge&message=Org&color=77AA99&logo=Org&logoColor=FFFFFF&label=)
+```
 ## ![Origin](https://img.shields.io/static/v1?style=for-the-badge&message=Origin&color=F56C2D&logo=Origin&logoColor=FFFFFF&label=)
 ```markdown
 ![Origin](https://img.shields.io/static/v1?style=for-the-badge&message=Origin&color=F56C2D&logo=Origin&logoColor=FFFFFF&label=)
@@ -4953,6 +4969,10 @@
 ## ![Plus Codes](https://img.shields.io/static/v1?style=for-the-badge&message=Plus+Codes&color=222222&logo=Plus+Codes&logoColor=57C4D2&label=)
 ```markdown
 ![Plus Codes](https://img.shields.io/static/v1?style=for-the-badge&message=Plus+Codes&color=222222&logo=Plus+Codes&logoColor=57C4D2&label=)
+```
+## ![PM2](https://img.shields.io/static/v1?style=for-the-badge&message=PM2&color=2B037A&logo=PM2&logoColor=FFFFFF&label=)
+```markdown
+![PM2](https://img.shields.io/static/v1?style=for-the-badge&message=PM2&color=2B037A&logo=PM2&logoColor=FFFFFF&label=)
 ```
 ## ![Pocket](https://img.shields.io/static/v1?style=for-the-badge&message=Pocket&color=EF3F56&logo=Pocket&logoColor=FFFFFF&label=)
 ```markdown
@@ -7418,9 +7438,9 @@
 ```markdown
 ![ZeroMQ](https://img.shields.io/static/v1?style=for-the-badge&message=ZeroMQ&color=DF0000&logo=ZeroMQ&logoColor=FFFFFF&label=)
 ```
-## ![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=9DBC7A&label=)
+## ![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=7BBB6E&label=)
 ```markdown
-![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=9DBC7A&label=)
+![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=7BBB6E&label=)
 ```
 ## ![Zhihu](https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label=)
 ```markdown
