@@ -1438,9 +1438,9 @@
 ```markdown
 ![Conda-Forge](https://img.shields.io/static/v1?style=for-the-badge&message=Conda-Forge&color=000000&logo=Conda-Forge&logoColor=FFFFFF&label=)
 ```
-## ![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=414959&logo=Conekta&logoColor=FFFFFF&label=)
+## ![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=0A1837&logo=Conekta&logoColor=FFFFFF&label=)
 ```markdown
-![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=414959&logo=Conekta&logoColor=FFFFFF&label=)
+![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=0A1837&logo=Conekta&logoColor=FFFFFF&label=)
 ```
 ## ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
 ```markdown

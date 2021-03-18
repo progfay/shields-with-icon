@@ -358,7 +358,7 @@
 ![ComproPago](https://img.shields.io/static/v1?style=for-the-badge&message=ComproPago&color=00AAEF&logo=ComproPago&logoColor=FFFFFF&label=)
 ![Concourse](https://img.shields.io/static/v1?style=for-the-badge&message=Concourse&color=3398DC&logo=Concourse&logoColor=FFFFFF&label=)
 ![Conda-Forge](https://img.shields.io/static/v1?style=for-the-badge&message=Conda-Forge&color=000000&logo=Conda-Forge&logoColor=FFFFFF&label=)
-![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=414959&logo=Conekta&logoColor=FFFFFF&label=)
+![Conekta](https://img.shields.io/static/v1?style=for-the-badge&message=Conekta&color=0A1837&logo=Conekta&logoColor=FFFFFF&label=)
 ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
 ![Consul](https://img.shields.io/static/v1?style=for-the-badge&message=Consul&color=CA2171&logo=Consul&logoColor=FFFFFF&label=)
 ![Contactless Payment](https://img.shields.io/static/v1?style=for-the-badge&message=Contactless+Payment&color=000000&logo=Contactless+Payment&logoColor=FFFFFF&label=)
