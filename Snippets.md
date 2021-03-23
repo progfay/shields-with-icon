@@ -1150,6 +1150,10 @@
 ```markdown
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
 ```
+## ![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
+```markdown
+![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
+```
 ## ![ChartMogul](https://img.shields.io/static/v1?style=for-the-badge&message=ChartMogul&color=13324B&logo=ChartMogul&logoColor=FFFFFF&label=)
 ```markdown
 ![ChartMogul](https://img.shields.io/static/v1?style=for-the-badge&message=ChartMogul&color=13324B&logo=ChartMogul&logoColor=FFFFFF&label=)
@@ -1361,6 +1365,10 @@
 ## ![CodeMirror](https://img.shields.io/static/v1?style=for-the-badge&message=CodeMirror&color=D30707&logo=CodeMirror&logoColor=FFFFFF&label=)
 ```markdown
 ![CodeMirror](https://img.shields.io/static/v1?style=for-the-badge&message=CodeMirror&color=D30707&logo=CodeMirror&logoColor=FFFFFF&label=)
+```
+## ![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=222222&logo=CodeNewbie&logoColor=6BD80B&label=)
+```markdown
+![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=222222&logo=CodeNewbie&logoColor=6BD80B&label=)
 ```
 ## ![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)
 ```markdown
@@ -2221,6 +2229,10 @@
 ## ![Fila](https://img.shields.io/static/v1?style=for-the-badge&message=Fila&color=03234C&logo=Fila&logoColor=FFFFFF&label=)
 ```markdown
 ![Fila](https://img.shields.io/static/v1?style=for-the-badge&message=Fila&color=03234C&logo=Fila&logoColor=FFFFFF&label=)
+```
+## ![Files](https://img.shields.io/static/v1?style=for-the-badge&message=Files&color=4285F4&logo=Files&logoColor=FFFFFF&label=)
+```markdown
+![Files](https://img.shields.io/static/v1?style=for-the-badge&message=Files&color=4285F4&logo=Files&logoColor=FFFFFF&label=)
 ```
 ## ![FileZilla](https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
 ```markdown
@@ -3534,9 +3546,9 @@
 ```markdown
 ![Known](https://img.shields.io/static/v1?style=for-the-badge&message=Known&color=333333&logo=Known&logoColor=FFFFFF&label=)
 ```
-## ![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=F16061&logo=Ko-fi&logoColor=FFFFFF&label=)
+## ![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF5E5B&logo=Ko-fi&logoColor=FFFFFF&label=)
 ```markdown
-![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=F16061&logo=Ko-fi&logoColor=FFFFFF&label=)
+![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF5E5B&logo=Ko-fi&logoColor=FFFFFF&label=)
 ```
 ## ![Kodi](https://img.shields.io/static/v1?style=for-the-badge&message=Kodi&color=222222&logo=Kodi&logoColor=17B2E7&label=)
 ```markdown
@@ -4358,9 +4370,9 @@
 ```markdown
 ![NFC](https://img.shields.io/static/v1?style=for-the-badge&message=NFC&color=002E5F&logo=NFC&logoColor=FFFFFF&label=)
 ```
-## ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=269539&logo=NGINX&logoColor=FFFFFF&label=)
+## ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ```markdown
-![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=269539&logo=NGINX&logoColor=FFFFFF&label=)
+![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ```
 ## ![ngrok](https://img.shields.io/static/v1?style=for-the-badge&message=ngrok&color=1F1E37&logo=ngrok&logoColor=FFFFFF&label=)
 ```markdown
@@ -5326,9 +5338,9 @@
 ```markdown
 ![Rancher](https://img.shields.io/static/v1?style=for-the-badge&message=Rancher&color=0075A8&logo=Rancher&logoColor=FFFFFF&label=)
 ```
-## ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=C51A4A&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+## ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ```markdown
-![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=C51A4A&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ```
 ## ![Razer](https://img.shields.io/static/v1?style=for-the-badge&message=Razer&color=222222&logo=Razer&logoColor=00FF00&label=)
 ```markdown
