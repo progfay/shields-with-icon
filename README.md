@@ -396,7 +396,7 @@
 ![D3.js](https://img.shields.io/static/v1?style=for-the-badge&message=D3.js&color=222222&logo=D3.js&logoColor=F9A03C&label=)
 ![Dacia](https://img.shields.io/static/v1?style=for-the-badge&message=Dacia&color=122AFF&logo=Dacia&logoColor=FFFFFF&label=)
 ![DAF](https://img.shields.io/static/v1?style=for-the-badge&message=DAF&color=00529B&logo=DAF&logoColor=FFFFFF&label=)
-![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0066DC&logo=Dailymotion&logoColor=FFFFFF&label=)
+![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0D0D0D&logo=Dailymotion&logoColor=FFFFFF&label=)
 ![Daimler](https://img.shields.io/static/v1?style=for-the-badge&message=Daimler&color=222222&logo=Daimler&logoColor=E6E6E6&label=)
 ![Dark Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Dark+Reader&color=141E24&logo=Dark+Reader&logoColor=FFFFFF&label=)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)

@@ -1590,9 +1590,9 @@
 ```markdown
 ![DAF](https://img.shields.io/static/v1?style=for-the-badge&message=DAF&color=00529B&logo=DAF&logoColor=FFFFFF&label=)
 ```
-## ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0066DC&logo=Dailymotion&logoColor=FFFFFF&label=)
+## ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0D0D0D&logo=Dailymotion&logoColor=FFFFFF&label=)
 ```markdown
-![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0066DC&logo=Dailymotion&logoColor=FFFFFF&label=)
+![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0D0D0D&logo=Dailymotion&logoColor=FFFFFF&label=)
 ```
 ## ![Daimler](https://img.shields.io/static/v1?style=for-the-badge&message=Daimler&color=222222&logo=Daimler&logoColor=E6E6E6&label=)
 ```markdown
