@@ -3102,6 +3102,10 @@
 ```markdown
 ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
 ```
+## ![Icinga](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga&color=06062C&logo=Icinga&logoColor=FFFFFF&label=)
+```markdown
+![Icinga](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga&color=06062C&logo=Icinga&logoColor=FFFFFF&label=)
+```
 ## ![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)
 ```markdown
 ![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)

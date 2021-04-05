@@ -774,6 +774,7 @@
 ![iBeacon](https://img.shields.io/static/v1?style=for-the-badge&message=iBeacon&color=3D7EBB&logo=iBeacon&logoColor=FFFFFF&label=)
 ![IBM](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=054ADA&logo=IBM&logoColor=FFFFFF&label=)
 ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
+![Icinga](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga&color=06062C&logo=Icinga&logoColor=FFFFFF&label=)
 ![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)
 ![IcoMoon](https://img.shields.io/static/v1?style=for-the-badge&message=IcoMoon&color=825794&logo=IcoMoon&logoColor=FFFFFF&label=)
 ![ICON](https://img.shields.io/static/v1?style=for-the-badge&message=ICON&color=222222&logo=ICON&logoColor=31B8BB&label=)
