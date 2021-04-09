@@ -7126,6 +7126,10 @@
 ```markdown
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label=)
 ```
+## ![webhint](https://img.shields.io/static/v1?style=for-the-badge&message=webhint&color=4700A3&logo=webhint&logoColor=FFFFFF&label=)
+```markdown
+![webhint](https://img.shields.io/static/v1?style=for-the-badge&message=webhint&color=4700A3&logo=webhint&logoColor=FFFFFF&label=)
+```
 ## ![Webmin](https://img.shields.io/static/v1?style=for-the-badge&message=Webmin&color=7DA0D0&logo=Webmin&logoColor=FFFFFF&label=)
 ```markdown
 ![Webmin](https://img.shields.io/static/v1?style=for-the-badge&message=Webmin&color=7DA0D0&logo=Webmin&logoColor=FFFFFF&label=)
@@ -7326,9 +7330,9 @@
 ```markdown
 ![Xbox](https://img.shields.io/static/v1?style=for-the-badge&message=Xbox&color=107C10&logo=Xbox&logoColor=FFFFFF&label=)
 ```
-## ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=1575F9&logo=Xcode&logoColor=FFFFFF&label=)
+## ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
 ```markdown
-![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=1575F9&logo=Xcode&logoColor=FFFFFF&label=)
+![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
 ```
 ## ![XDA Developers](https://img.shields.io/static/v1?style=for-the-badge&message=XDA+Developers&color=EA7100&logo=XDA+Developers&logoColor=FFFFFF&label=)
 ```markdown
