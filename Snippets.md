@@ -2526,9 +2526,9 @@
 ```markdown
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
 ```
-## ![Gitpod](https://img.shields.io/static/v1?style=for-the-badge&message=Gitpod&color=1AA6E4&logo=Gitpod&logoColor=FFFFFF&label=)
+## ![Gitpod](https://img.shields.io/static/v1?style=for-the-badge&message=Gitpod&color=222222&logo=Gitpod&logoColor=FFB45B&label=)
 ```markdown
-![Gitpod](https://img.shields.io/static/v1?style=for-the-badge&message=Gitpod&color=1AA6E4&logo=Gitpod&logoColor=FFFFFF&label=)
+![Gitpod](https://img.shields.io/static/v1?style=for-the-badge&message=Gitpod&color=222222&logo=Gitpod&logoColor=FFB45B&label=)
 ```
 ## ![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)
 ```markdown
@@ -6238,6 +6238,10 @@
 ```markdown
 ![Storify](https://img.shields.io/static/v1?style=for-the-badge&message=Storify&color=3A98D9&logo=Storify&logoColor=FFFFFF&label=)
 ```
+## ![Storyblok](https://img.shields.io/static/v1?style=for-the-badge&message=Storyblok&color=09B3AF&logo=Storyblok&logoColor=FFFFFF&label=)
+```markdown
+![Storyblok](https://img.shields.io/static/v1?style=for-the-badge&message=Storyblok&color=09B3AF&logo=Storyblok&logoColor=FFFFFF&label=)
+```
 ## ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
 ```markdown
 ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
@@ -7346,9 +7350,9 @@
 ```markdown
 ![XFCE](https://img.shields.io/static/v1?style=for-the-badge&message=XFCE&color=2284F2&logo=XFCE&logoColor=FFFFFF&label=)
 ```
-## ![Xiaomi](https://img.shields.io/static/v1?style=for-the-badge&message=Xiaomi&color=FA6709&logo=Xiaomi&logoColor=FFFFFF&label=)
+## ![Xiaomi](https://img.shields.io/static/v1?style=for-the-badge&message=Xiaomi&color=FF6900&logo=Xiaomi&logoColor=FFFFFF&label=)
 ```markdown
-![Xiaomi](https://img.shields.io/static/v1?style=for-the-badge&message=Xiaomi&color=FA6709&logo=Xiaomi&logoColor=FFFFFF&label=)
+![Xiaomi](https://img.shields.io/static/v1?style=for-the-badge&message=Xiaomi&color=FF6900&logo=Xiaomi&logoColor=FFFFFF&label=)
 ```
 ## ![Xilinx](https://img.shields.io/static/v1?style=for-the-badge&message=Xilinx&color=E01F27&logo=Xilinx&logoColor=FFFFFF&label=)
 ```markdown
