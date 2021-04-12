@@ -1922,6 +1922,10 @@
 ```markdown
 ![Eclipse Vert.x](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Vert.x&color=782A90&logo=Eclipse+Vert.x&logoColor=FFFFFF&label=)
 ```
+## ![EditorConfig](https://img.shields.io/static/v1?style=for-the-badge&message=EditorConfig&color=222222&logo=EditorConfig&logoColor=FEFEFE&label=)
+```markdown
+![EditorConfig](https://img.shields.io/static/v1?style=for-the-badge&message=EditorConfig&color=222222&logo=EditorConfig&logoColor=FEFEFE&label=)
+```
 ## ![edX](https://img.shields.io/static/v1?style=for-the-badge&message=edX&color=02262B&logo=edX&logoColor=FFFFFF&label=)
 ```markdown
 ![edX](https://img.shields.io/static/v1?style=for-the-badge&message=edX&color=02262B&logo=edX&logoColor=FFFFFF&label=)
@@ -4770,6 +4774,10 @@
 ```markdown
 ![Parse.ly](https://img.shields.io/static/v1?style=for-the-badge&message=Parse.ly&color=5BA745&logo=Parse.ly&logoColor=FFFFFF&label=)
 ```
+## ![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
+```markdown
+![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
+```
 ## ![Pastebin](https://img.shields.io/static/v1?style=for-the-badge&message=Pastebin&color=02456C&logo=Pastebin&logoColor=FFFFFF&label=)
 ```markdown
 ![Pastebin](https://img.shields.io/static/v1?style=for-the-badge&message=Pastebin&color=02456C&logo=Pastebin&logoColor=FFFFFF&label=)
@@ -5797,6 +5805,10 @@
 ## ![Shell](https://img.shields.io/static/v1?style=for-the-badge&message=Shell&color=222222&logo=Shell&logoColor=FFD500&label=)
 ```markdown
 ![Shell](https://img.shields.io/static/v1?style=for-the-badge&message=Shell&color=222222&logo=Shell&logoColor=FFD500&label=)
+```
+## ![Shelly](https://img.shields.io/static/v1?style=for-the-badge&message=Shelly&color=4495D1&logo=Shelly&logoColor=FFFFFF&label=)
+```markdown
+![Shelly](https://img.shields.io/static/v1?style=for-the-badge&message=Shelly&color=4495D1&logo=Shelly&logoColor=FFFFFF&label=)
 ```
 ## ![Shenzhen Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Shenzhen+Metro&color=009943&logo=Shenzhen+Metro&logoColor=FFFFFF&label=)
 ```markdown
