@@ -884,6 +884,7 @@
 ![Kik](https://img.shields.io/static/v1?style=for-the-badge&message=Kik&color=222222&logo=Kik&logoColor=82BC23&label=)
 ![Kirby](https://img.shields.io/static/v1?style=for-the-badge&message=Kirby&color=000000&logo=Kirby&logoColor=FFFFFF&label=)
 ![Kitsu](https://img.shields.io/static/v1?style=for-the-badge&message=Kitsu&color=FD755C&logo=Kitsu&logoColor=FFFFFF&label=)
+![Klarna](https://img.shields.io/static/v1?style=for-the-badge&message=Klarna&color=222222&logo=Klarna&logoColor=FFB3C7&label=)
 ![KLM](https://img.shields.io/static/v1?style=for-the-badge&message=KLM&color=00A1DE&logo=KLM&logoColor=FFFFFF&label=)
 ![Klook](https://img.shields.io/static/v1?style=for-the-badge&message=Klook&color=FF5722&logo=Klook&logoColor=FFFFFF&label=)
 ![Klout](https://img.shields.io/static/v1?style=for-the-badge&message=Klout&color=E44600&logo=Klout&logoColor=FFFFFF&label=)

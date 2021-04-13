@@ -3542,6 +3542,10 @@
 ```markdown
 ![Kitsu](https://img.shields.io/static/v1?style=for-the-badge&message=Kitsu&color=FD755C&logo=Kitsu&logoColor=FFFFFF&label=)
 ```
+## ![Klarna](https://img.shields.io/static/v1?style=for-the-badge&message=Klarna&color=222222&logo=Klarna&logoColor=FFB3C7&label=)
+```markdown
+![Klarna](https://img.shields.io/static/v1?style=for-the-badge&message=Klarna&color=222222&logo=Klarna&logoColor=FFB3C7&label=)
+```
 ## ![KLM](https://img.shields.io/static/v1?style=for-the-badge&message=KLM&color=00A1DE&logo=KLM&logoColor=FFFFFF&label=)
 ```markdown
 ![KLM](https://img.shields.io/static/v1?style=for-the-badge&message=KLM&color=00A1DE&logo=KLM&logoColor=FFFFFF&label=)
