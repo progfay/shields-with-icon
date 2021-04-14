@@ -3814,9 +3814,9 @@
 ```markdown
 ![Looker](https://img.shields.io/static/v1?style=for-the-badge&message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
 ```
-## ![Loom](https://img.shields.io/static/v1?style=for-the-badge&message=Loom&color=FD5E60&logo=Loom&logoColor=FFFFFF&label=)
+## ![Loom](https://img.shields.io/static/v1?style=for-the-badge&message=Loom&color=625DF5&logo=Loom&logoColor=FFFFFF&label=)
 ```markdown
-![Loom](https://img.shields.io/static/v1?style=for-the-badge&message=Loom&color=FD5E60&logo=Loom&logoColor=FFFFFF&label=)
+![Loom](https://img.shields.io/static/v1?style=for-the-badge&message=Loom&color=625DF5&logo=Loom&logoColor=FFFFFF&label=)
 ```
 ## ![Loop](https://img.shields.io/static/v1?style=for-the-badge&message=Loop&color=222222&logo=Loop&logoColor=F29400&label=)
 ```markdown
@@ -4265,6 +4265,10 @@
 ## ![MTR](https://img.shields.io/static/v1?style=for-the-badge&message=MTR&color=AC2E45&logo=MTR&logoColor=FFFFFF&label=)
 ```markdown
 ![MTR](https://img.shields.io/static/v1?style=for-the-badge&message=MTR&color=AC2E45&logo=MTR&logoColor=FFFFFF&label=)
+```
+## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
+```markdown
+![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
 ```
 ## ![MuseScore](https://img.shields.io/static/v1?style=for-the-badge&message=MuseScore&color=1A70B8&logo=MuseScore&logoColor=FFFFFF&label=)
 ```markdown
