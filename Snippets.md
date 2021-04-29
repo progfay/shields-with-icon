@@ -622,6 +622,10 @@
 ```markdown
 ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
 ```
+## ![Ask Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ask+Ubuntu&color=DC461D&logo=Ask+Ubuntu&logoColor=FFFFFF&label=)
+```markdown
+![Ask Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ask+Ubuntu&color=DC461D&logo=Ask+Ubuntu&logoColor=FFFFFF&label=)
+```
 ## ![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
 ```markdown
 ![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
@@ -5602,9 +5606,17 @@
 ```markdown
 ![Roam Research](https://img.shields.io/static/v1?style=for-the-badge&message=Roam+Research&color=343A40&logo=Roam+Research&logoColor=FFFFFF&label=)
 ```
+## ![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
+```markdown
+![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
+```
 ## ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
 ```markdown
 ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
+```
+## ![Rocket.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket.Chat&color=F5455C&logo=Rocket.Chat&logoColor=FFFFFF&label=)
+```markdown
+![Rocket.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket.Chat&color=F5455C&logo=Rocket.Chat&logoColor=FFFFFF&label=)
 ```
 ## ![Roku](https://img.shields.io/static/v1?style=for-the-badge&message=Roku&color=662D91&logo=Roku&logoColor=FFFFFF&label=)
 ```markdown
@@ -5781,6 +5793,10 @@
 ## ![Scrimba](https://img.shields.io/static/v1?style=for-the-badge&message=Scrimba&color=2B283A&logo=Scrimba&logoColor=FFFFFF&label=)
 ```markdown
 ![Scrimba](https://img.shields.io/static/v1?style=for-the-badge&message=Scrimba&color=2B283A&logo=Scrimba&logoColor=FFFFFF&label=)
+```
+## ![ScrollReveal](https://img.shields.io/static/v1?style=for-the-badge&message=ScrollReveal&color=222222&logo=ScrollReveal&logoColor=FFCB36&label=)
+```markdown
+![ScrollReveal](https://img.shields.io/static/v1?style=for-the-badge&message=ScrollReveal&color=222222&logo=ScrollReveal&logoColor=FFCB36&label=)
 ```
 ## ![Scrum Alliance](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum+Alliance&color=009FDA&logo=Scrum+Alliance&logoColor=FFFFFF&label=)
 ```markdown
@@ -6537,6 +6553,10 @@
 ## ![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=39ACE6&logo=Teespring&logoColor=FFFFFF&label=)
 ```markdown
 ![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=39ACE6&logo=Teespring&logoColor=FFFFFF&label=)
+```
+## ![Tekton](https://img.shields.io/static/v1?style=for-the-badge&message=Tekton&color=FD495C&logo=Tekton&logoColor=FFFFFF&label=)
+```markdown
+![Tekton](https://img.shields.io/static/v1?style=for-the-badge&message=Tekton&color=FD495C&logo=Tekton&logoColor=FFFFFF&label=)
 ```
 ## ![TELE5](https://img.shields.io/static/v1?style=for-the-badge&message=TELE5&color=222222&logo=TELE5&logoColor=C2AD6F&label=)
 ```markdown
