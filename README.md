@@ -591,7 +591,7 @@
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ![FontBase](https://img.shields.io/static/v1?style=for-the-badge&message=FontBase&color=3D03A7&logo=FontBase&logoColor=FFFFFF&label=)
 ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
-![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=003478&logo=Ford&logoColor=FFFFFF&label=)
+![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=00274E&logo=Ford&logoColor=FFFFFF&label=)
 ![Forestry](https://img.shields.io/static/v1?style=for-the-badge&message=Forestry&color=343A40&logo=Forestry&logoColor=FFFFFF&label=)
 ![Formstack](https://img.shields.io/static/v1?style=for-the-badge&message=Formstack&color=21B573&logo=Formstack&logoColor=FFFFFF&label=)
 ![Fortinet](https://img.shields.io/static/v1?style=for-the-badge&message=Fortinet&color=EE3124&logo=Fortinet&logoColor=FFFFFF&label=)

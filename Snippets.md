@@ -2370,9 +2370,9 @@
 ```markdown
 ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
 ```
-## ![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=003478&logo=Ford&logoColor=FFFFFF&label=)
+## ![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=00274E&logo=Ford&logoColor=FFFFFF&label=)
 ```markdown
-![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=003478&logo=Ford&logoColor=FFFFFF&label=)
+![Ford](https://img.shields.io/static/v1?style=for-the-badge&message=Ford&color=00274E&logo=Ford&logoColor=FFFFFF&label=)
 ```
 ## ![Forestry](https://img.shields.io/static/v1?style=for-the-badge&message=Forestry&color=343A40&logo=Forestry&logoColor=FFFFFF&label=)
 ```markdown
