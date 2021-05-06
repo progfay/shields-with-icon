@@ -4634,6 +4634,10 @@
 ```markdown
 ![Odnoklassniki](https://img.shields.io/static/v1?style=for-the-badge&message=Odnoklassniki&color=EE8208&logo=Odnoklassniki&logoColor=FFFFFF&label=)
 ```
+## ![Odysee](https://img.shields.io/static/v1?style=for-the-badge&message=Odysee&color=EF1970&logo=Odysee&logoColor=FFFFFF&label=)
+```markdown
+![Odysee](https://img.shields.io/static/v1?style=for-the-badge&message=Odysee&color=EF1970&logo=Odysee&logoColor=FFFFFF&label=)
+```
 ## ![okcupid](https://img.shields.io/static/v1?style=for-the-badge&message=okcupid&color=0500BE&logo=okcupid&logoColor=FFFFFF&label=)
 ```markdown
 ![okcupid](https://img.shields.io/static/v1?style=for-the-badge&message=okcupid&color=0500BE&logo=okcupid&logoColor=FFFFFF&label=)
@@ -4649,6 +4653,10 @@
 ## ![OnlyFans](https://img.shields.io/static/v1?style=for-the-badge&message=OnlyFans&color=00AFF0&logo=OnlyFans&logoColor=FFFFFF&label=)
 ```markdown
 ![OnlyFans](https://img.shields.io/static/v1?style=for-the-badge&message=OnlyFans&color=00AFF0&logo=OnlyFans&logoColor=FFFFFF&label=)
+```
+## ![ONNX](https://img.shields.io/static/v1?style=for-the-badge&message=ONNX&color=005CED&logo=ONNX&logoColor=FFFFFF&label=)
+```markdown
+![ONNX](https://img.shields.io/static/v1?style=for-the-badge&message=ONNX&color=005CED&logo=ONNX&logoColor=FFFFFF&label=)
 ```
 ## ![OnStar](https://img.shields.io/static/v1?style=for-the-badge&message=OnStar&color=003D7D&logo=OnStar&logoColor=FFFFFF&label=)
 ```markdown
@@ -5309,6 +5317,10 @@
 ## ![PurgeCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PurgeCSS&color=14161A&logo=PurgeCSS&logoColor=FFFFFF&label=)
 ```markdown
 ![PurgeCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PurgeCSS&color=14161A&logo=PurgeCSS&logoColor=FFFFFF&label=)
+```
+## ![Purism](https://img.shields.io/static/v1?style=for-the-badge&message=Purism&color=2D2D2D&logo=Purism&logoColor=FFFFFF&label=)
+```markdown
+![Purism](https://img.shields.io/static/v1?style=for-the-badge&message=Purism&color=2D2D2D&logo=Purism&logoColor=FFFFFF&label=)
 ```
 ## ![Pusher](https://img.shields.io/static/v1?style=for-the-badge&message=Pusher&color=300D4F&logo=Pusher&logoColor=FFFFFF&label=)
 ```markdown
