@@ -862,6 +862,10 @@
 ```markdown
 ![Bentley](https://img.shields.io/static/v1?style=for-the-badge&message=Bentley&color=333333&logo=Bentley&logoColor=FFFFFF&label=)
 ```
+## ![Betfair](https://img.shields.io/static/v1?style=for-the-badge&message=Betfair&color=222222&logo=Betfair&logoColor=FFB80B&label=)
+```markdown
+![Betfair](https://img.shields.io/static/v1?style=for-the-badge&message=Betfair&color=222222&logo=Betfair&logoColor=FFB80B&label=)
+```
 ## ![Big Cartel](https://img.shields.io/static/v1?style=for-the-badge&message=Big+Cartel&color=222222&logo=Big+Cartel&logoColor=FFFFFF&label=)
 ```markdown
 ![Big Cartel](https://img.shields.io/static/v1?style=for-the-badge&message=Big+Cartel&color=222222&logo=Big+Cartel&logoColor=FFFFFF&label=)
@@ -3350,6 +3354,10 @@
 ```markdown
 ![Internet Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Internet+Explorer&color=0076D6&logo=Internet+Explorer&logoColor=FFFFFF&label=)
 ```
+## ![Intigriti](https://img.shields.io/static/v1?style=for-the-badge&message=Intigriti&color=161A36&logo=Intigriti&logoColor=FFFFFF&label=)
+```markdown
+![Intigriti](https://img.shields.io/static/v1?style=for-the-badge&message=Intigriti&color=161A36&logo=Intigriti&logoColor=FFFFFF&label=)
+```
 ## ![InVision](https://img.shields.io/static/v1?style=for-the-badge&message=InVision&color=FF3366&logo=InVision&logoColor=FFFFFF&label=)
 ```markdown
 ![InVision](https://img.shields.io/static/v1?style=for-the-badge&message=InVision&color=FF3366&logo=InVision&logoColor=FFFFFF&label=)
@@ -4630,9 +4638,9 @@
 ```markdown
 ![Nrwl](https://img.shields.io/static/v1?style=for-the-badge&message=Nrwl&color=222222&logo=Nrwl&logoColor=96D7E8&label=)
 ```
-## ![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=8A05BE&logo=Nubank&logoColor=FFFFFF&label=)
+## ![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=820AD1&logo=Nubank&logoColor=FFFFFF&label=)
 ```markdown
-![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=8A05BE&logo=Nubank&logoColor=FFFFFF&label=)
+![Nubank](https://img.shields.io/static/v1?style=for-the-badge&message=Nubank&color=820AD1&logo=Nubank&logoColor=FFFFFF&label=)
 ```
 ## ![Nucleo](https://img.shields.io/static/v1?style=for-the-badge&message=Nucleo&color=111111&logo=Nucleo&logoColor=FFFFFF&label=)
 ```markdown
@@ -7226,9 +7234,9 @@
 ```markdown
 ![vFairs](https://img.shields.io/static/v1?style=for-the-badge&message=vFairs&color=EF4678&logo=vFairs&logoColor=FFFFFF&label=)
 ```
-## ![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=222222&logo=Viadeo&logoColor=F88D2D&label=)
+## ![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=F07355&logo=Viadeo&logoColor=FFFFFF&label=)
 ```markdown
-![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=222222&logo=Viadeo&logoColor=F88D2D&label=)
+![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=F07355&logo=Viadeo&logoColor=FFFFFF&label=)
 ```
 ## ![Viber](https://img.shields.io/static/v1?style=for-the-badge&message=Viber&color=7360F2&logo=Viber&logoColor=FFFFFF&label=)
 ```markdown
@@ -7405,6 +7413,10 @@
 ## ![webhint](https://img.shields.io/static/v1?style=for-the-badge&message=webhint&color=4700A3&logo=webhint&logoColor=FFFFFF&label=)
 ```markdown
 ![webhint](https://img.shields.io/static/v1?style=for-the-badge&message=webhint&color=4700A3&logo=webhint&logoColor=FFFFFF&label=)
+```
+## ![Weblate](https://img.shields.io/static/v1?style=for-the-badge&message=Weblate&color=222222&logo=Weblate&logoColor=2ECCAA&label=)
+```markdown
+![Weblate](https://img.shields.io/static/v1?style=for-the-badge&message=Weblate&color=222222&logo=Weblate&logoColor=2ECCAA&label=)
 ```
 ## ![Webmin](https://img.shields.io/static/v1?style=for-the-badge&message=Webmin&color=7DA0D0&logo=Webmin&logoColor=FFFFFF&label=)
 ```markdown
