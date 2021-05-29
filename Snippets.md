@@ -2614,6 +2614,10 @@
 ```markdown
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ```
+## ![GoDaddy](https://img.shields.io/static/v1?style=for-the-badge&message=GoDaddy&color=222222&logo=GoDaddy&logoColor=1BDBDB&label=)
+```markdown
+![GoDaddy](https://img.shields.io/static/v1?style=for-the-badge&message=GoDaddy&color=222222&logo=GoDaddy&logoColor=1BDBDB&label=)
+```
 ## ![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
 ```markdown
 ![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
@@ -4146,9 +4150,9 @@
 ```markdown
 ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 ```
-## ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0089D6&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
+## ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ```markdown
-![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0089D6&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
+![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ```
 ## ![Microsoft Bing](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Bing&color=258FFA&logo=Microsoft+Bing&logoColor=FFFFFF&label=)
 ```markdown
@@ -7261,6 +7265,10 @@
 ## ![Weasyl](https://img.shields.io/static/v1?style=for-the-badge&message=Weasyl&color=990000&logo=Weasyl&logoColor=FFFFFF&label=)
 ```markdown
 ![Weasyl](https://img.shields.io/static/v1?style=for-the-badge&message=Weasyl&color=990000&logo=Weasyl&logoColor=FFFFFF&label=)
+```
+## ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
+```markdown
+![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
 ```
 ## ![WebAssembly](https://img.shields.io/static/v1?style=for-the-badge&message=WebAssembly&color=654FF0&logo=WebAssembly&logoColor=FFFFFF&label=)
 ```markdown
