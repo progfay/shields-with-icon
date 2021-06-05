@@ -1470,6 +1470,10 @@
 ```markdown
 ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
 ```
+## ![Construct 3](https://img.shields.io/static/v1?style=for-the-badge&message=Construct+3&color=222222&logo=Construct+3&logoColor=00FFDA&label=)
+```markdown
+![Construct 3](https://img.shields.io/static/v1?style=for-the-badge&message=Construct+3&color=222222&logo=Construct+3&logoColor=00FFDA&label=)
+```
 ## ![Consul](https://img.shields.io/static/v1?style=for-the-badge&message=Consul&color=F24C53&logo=Consul&logoColor=FFFFFF&label=)
 ```markdown
 ![Consul](https://img.shields.io/static/v1?style=for-the-badge&message=Consul&color=F24C53&logo=Consul&logoColor=FFFFFF&label=)
@@ -4813,6 +4817,10 @@
 ## ![Packagist](https://img.shields.io/static/v1?style=for-the-badge&message=Packagist&color=222222&logo=Packagist&logoColor=F28D1A&label=)
 ```markdown
 ![Packagist](https://img.shields.io/static/v1?style=for-the-badge&message=Packagist&color=222222&logo=Packagist&logoColor=F28D1A&label=)
+```
+## ![Paddy Power](https://img.shields.io/static/v1?style=for-the-badge&message=Paddy+Power&color=004833&logo=Paddy+Power&logoColor=FFFFFF&label=)
+```markdown
+![Paddy Power](https://img.shields.io/static/v1?style=for-the-badge&message=Paddy+Power&color=004833&logo=Paddy+Power&logoColor=FFFFFF&label=)
 ```
 ## ![Pagekit](https://img.shields.io/static/v1?style=for-the-badge&message=Pagekit&color=212121&logo=Pagekit&logoColor=FFFFFF&label=)
 ```markdown
