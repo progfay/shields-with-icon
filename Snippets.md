@@ -7626,6 +7626,10 @@
 ```markdown
 ![Zalando](https://img.shields.io/static/v1?style=for-the-badge&message=Zalando&color=FF6900&logo=Zalando&logoColor=FFFFFF&label=)
 ```
+## ![Zalo](https://img.shields.io/static/v1?style=for-the-badge&message=Zalo&color=0068FF&logo=Zalo&logoColor=FFFFFF&label=)
+```markdown
+![Zalo](https://img.shields.io/static/v1?style=for-the-badge&message=Zalo&color=0068FF&logo=Zalo&logoColor=FFFFFF&label=)
+```
 ## ![Zapier](https://img.shields.io/static/v1?style=for-the-badge&message=Zapier&color=FF4A00&logo=Zapier&logoColor=FFFFFF&label=)
 ```markdown
 ![Zapier](https://img.shields.io/static/v1?style=for-the-badge&message=Zapier&color=FF4A00&logo=Zapier&logoColor=FFFFFF&label=)

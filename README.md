@@ -1905,6 +1905,7 @@
 ![YouTube TV](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+TV&color=FF0000&logo=YouTube+TV&logoColor=FFFFFF&label=)
 ![Z-Wave](https://img.shields.io/static/v1?style=for-the-badge&message=Z-Wave&color=1B365D&logo=Z-Wave&logoColor=FFFFFF&label=)
 ![Zalando](https://img.shields.io/static/v1?style=for-the-badge&message=Zalando&color=FF6900&logo=Zalando&logoColor=FFFFFF&label=)
+![Zalo](https://img.shields.io/static/v1?style=for-the-badge&message=Zalo&color=0068FF&logo=Zalo&logoColor=FFFFFF&label=)
 ![Zapier](https://img.shields.io/static/v1?style=for-the-badge&message=Zapier&color=FF4A00&logo=Zapier&logoColor=FFFFFF&label=)
 ![ZDF](https://img.shields.io/static/v1?style=for-the-badge&message=ZDF&color=FA7D19&logo=ZDF&logoColor=FFFFFF&label=)
 ![Zelle](https://img.shields.io/static/v1?style=for-the-badge&message=Zelle&color=6D1ED4&logo=Zelle&logoColor=FFFFFF&label=)
