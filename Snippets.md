@@ -3538,6 +3538,10 @@
 ```markdown
 ![Katana](https://img.shields.io/static/v1?style=for-the-badge&message=Katana&color=000000&logo=Katana&logoColor=FFFFFF&label=)
 ```
+## ![Kaufland](https://img.shields.io/static/v1?style=for-the-badge&message=Kaufland&color=E10915&logo=Kaufland&logoColor=FFFFFF&label=)
+```markdown
+![Kaufland](https://img.shields.io/static/v1?style=for-the-badge&message=Kaufland&color=E10915&logo=Kaufland&logoColor=FFFFFF&label=)
+```
 ## ![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
 ```markdown
 ![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
@@ -5029,6 +5033,10 @@
 ## ![PlanGrid](https://img.shields.io/static/v1?style=for-the-badge&message=PlanGrid&color=0085DE&logo=PlanGrid&logoColor=FFFFFF&label=)
 ```markdown
 ![PlanGrid](https://img.shields.io/static/v1?style=for-the-badge&message=PlanGrid&color=0085DE&logo=PlanGrid&logoColor=FFFFFF&label=)
+```
+## ![Platform.sh](https://img.shields.io/static/v1?style=for-the-badge&message=Platform.sh&color=1A182A&logo=Platform.sh&logoColor=FFFFFF&label=)
+```markdown
+![Platform.sh](https://img.shields.io/static/v1?style=for-the-badge&message=Platform.sh&color=1A182A&logo=Platform.sh&logoColor=FFFFFF&label=)
 ```
 ## ![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=)
 ```markdown
