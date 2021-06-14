@@ -854,6 +854,10 @@
 ```markdown
 ![bigbasket](https://img.shields.io/static/v1?style=for-the-badge&message=bigbasket&color=222222&logo=bigbasket&logoColor=A5CD39&label=)
 ```
+## ![BigBlueButton](https://img.shields.io/static/v1?style=for-the-badge&message=BigBlueButton&color=283274&logo=BigBlueButton&logoColor=FFFFFF&label=)
+```markdown
+![BigBlueButton](https://img.shields.io/static/v1?style=for-the-badge&message=BigBlueButton&color=283274&logo=BigBlueButton&logoColor=FFFFFF&label=)
+```
 ## ![BigCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=BigCommerce&color=121118&logo=BigCommerce&logoColor=FFFFFF&label=)
 ```markdown
 ![BigCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=BigCommerce&color=121118&logo=BigCommerce&logoColor=FFFFFF&label=)
