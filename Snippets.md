@@ -5598,6 +5598,10 @@
 ```markdown
 ![Razer](https://img.shields.io/static/v1?style=for-the-badge&message=Razer&color=222222&logo=Razer&logoColor=00FF00&label=)
 ```
+## ![Razorpay](https://img.shields.io/static/v1?style=for-the-badge&message=Razorpay&color=0C2451&logo=Razorpay&logoColor=FFFFFF&label=)
+```markdown
+![Razorpay](https://img.shields.io/static/v1?style=for-the-badge&message=Razorpay&color=0C2451&logo=Razorpay&logoColor=FFFFFF&label=)
+```
 ## ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ```markdown
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
@@ -7602,9 +7606,9 @@
 ```markdown
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 ```
-## ![Workplace](https://img.shields.io/static/v1?style=for-the-badge&message=Workplace&color=20252D&logo=Workplace&logoColor=FFFFFF&label=)
+## ![Workplace](https://img.shields.io/static/v1?style=for-the-badge&message=Workplace&color=4326C4&logo=Workplace&logoColor=FFFFFF&label=)
 ```markdown
-![Workplace](https://img.shields.io/static/v1?style=for-the-badge&message=Workplace&color=20252D&logo=Workplace&logoColor=FFFFFF&label=)
+![Workplace](https://img.shields.io/static/v1?style=for-the-badge&message=Workplace&color=4326C4&logo=Workplace&logoColor=FFFFFF&label=)
 ```
 ## ![World Health Organization](https://img.shields.io/static/v1?style=for-the-badge&message=World+Health+Organization&color=0093D5&logo=World+Health+Organization&logoColor=FFFFFF&label=)
 ```markdown
