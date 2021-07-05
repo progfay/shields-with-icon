@@ -2934,6 +2934,10 @@
 ```markdown
 ![Hackaday](https://img.shields.io/static/v1?style=for-the-badge&message=Hackaday&color=1A1A1A&logo=Hackaday&logoColor=FFFFFF&label=)
 ```
+## ![Hacker Noon](https://img.shields.io/static/v1?style=for-the-badge&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label=)
+```markdown
+![Hacker Noon](https://img.shields.io/static/v1?style=for-the-badge&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label=)
+```
 ## ![HackerEarth](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
 ```markdown
 ![HackerEarth](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
@@ -6377,6 +6381,10 @@
 ## ![Spotlight](https://img.shields.io/static/v1?style=for-the-badge&message=Spotlight&color=352A71&logo=Spotlight&logoColor=FFFFFF&label=)
 ```markdown
 ![Spotlight](https://img.shields.io/static/v1?style=for-the-badge&message=Spotlight&color=352A71&logo=Spotlight&logoColor=FFFFFF&label=)
+```
+## ![Spreadshirt](https://img.shields.io/static/v1?style=for-the-badge&message=Spreadshirt&color=00B2A5&logo=Spreadshirt&logoColor=FFFFFF&label=)
+```markdown
+![Spreadshirt](https://img.shields.io/static/v1?style=for-the-badge&message=Spreadshirt&color=00B2A5&logo=Spreadshirt&logoColor=FFFFFF&label=)
 ```
 ## ![Spreaker](https://img.shields.io/static/v1?style=for-the-badge&message=Spreaker&color=222222&logo=Spreaker&logoColor=F5C300&label=)
 ```markdown
