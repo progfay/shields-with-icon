@@ -1281,6 +1281,7 @@
 ![PlanGrid](https://img.shields.io/static/v1?style=for-the-badge&message=PlanGrid&color=0085DE&logo=PlanGrid&logoColor=FFFFFF&label=)
 ![Platform.sh](https://img.shields.io/static/v1?style=for-the-badge&message=Platform.sh&color=1A182A&logo=Platform.sh&logoColor=FFFFFF&label=)
 ![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=)
+![Plausible Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Plausible+Analytics&color=5850EC&logo=Plausible+Analytics&logoColor=FFFFFF&label=)
 ![PlayCanvas](https://img.shields.io/static/v1?style=for-the-badge&message=PlayCanvas&color=E05F2C&logo=PlayCanvas&logoColor=FFFFFF&label=)
 ![Player FM](https://img.shields.io/static/v1?style=for-the-badge&message=Player+FM&color=C8122A&logo=Player+FM&logoColor=FFFFFF&label=)
 ![Player.me](https://img.shields.io/static/v1?style=for-the-badge&message=Player.me&color=C0379A&logo=Player.me&logoColor=FFFFFF&label=)

@@ -5130,6 +5130,10 @@
 ```markdown
 ![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=)
 ```
+## ![Plausible Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Plausible+Analytics&color=5850EC&logo=Plausible+Analytics&logoColor=FFFFFF&label=)
+```markdown
+![Plausible Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Plausible+Analytics&color=5850EC&logo=Plausible+Analytics&logoColor=FFFFFF&label=)
+```
 ## ![PlayCanvas](https://img.shields.io/static/v1?style=for-the-badge&message=PlayCanvas&color=E05F2C&logo=PlayCanvas&logoColor=FFFFFF&label=)
 ```markdown
 ![PlayCanvas](https://img.shields.io/static/v1?style=for-the-badge&message=PlayCanvas&color=E05F2C&logo=PlayCanvas&logoColor=FFFFFF&label=)
