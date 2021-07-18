@@ -1278,6 +1278,10 @@
 ```markdown
 ![CiviCRM](https://img.shields.io/static/v1?style=for-the-badge&message=CiviCRM&color=222222&logo=CiviCRM&logoColor=81C459&label=)
 ```
+## ![Civo](https://img.shields.io/static/v1?style=for-the-badge&message=Civo&color=239DFF&logo=Civo&logoColor=FFFFFF&label=)
+```markdown
+![Civo](https://img.shields.io/static/v1?style=for-the-badge&message=Civo&color=239DFF&logo=Civo&logoColor=FFFFFF&label=)
+```
 ## ![CKEditor 4](https://img.shields.io/static/v1?style=for-the-badge&message=CKEditor+4&color=0287D0&logo=CKEditor+4&logoColor=FFFFFF&label=)
 ```markdown
 ![CKEditor 4](https://img.shields.io/static/v1?style=for-the-badge&message=CKEditor+4&color=0287D0&logo=CKEditor+4&logoColor=FFFFFF&label=)
@@ -1901,6 +1905,10 @@
 ## ![Douban](https://img.shields.io/static/v1?style=for-the-badge&message=Douban&color=007722&logo=Douban&logoColor=FFFFFF&label=)
 ```markdown
 ![Douban](https://img.shields.io/static/v1?style=for-the-badge&message=Douban&color=007722&logo=Douban&logoColor=FFFFFF&label=)
+```
+## ![Douban Read](https://img.shields.io/static/v1?style=for-the-badge&message=Douban+Read&color=389EAC&logo=Douban+Read&logoColor=FFFFFF&label=)
+```markdown
+![Douban Read](https://img.shields.io/static/v1?style=for-the-badge&message=Douban+Read&color=389EAC&logo=Douban+Read&logoColor=FFFFFF&label=)
 ```
 ## ![Draugiem.lv](https://img.shields.io/static/v1?style=for-the-badge&message=Draugiem.lv&color=FF6600&logo=Draugiem.lv&logoColor=FFFFFF&label=)
 ```markdown
