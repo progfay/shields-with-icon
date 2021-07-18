@@ -3390,6 +3390,10 @@
 ```markdown
 ![Issuu](https://img.shields.io/static/v1?style=for-the-badge&message=Issuu&color=F36D5D&logo=Issuu&logoColor=FFFFFF&label=)
 ```
+## ![Istio](https://img.shields.io/static/v1?style=for-the-badge&message=Istio&color=466BB0&logo=Istio&logoColor=FFFFFF&label=)
+```markdown
+![Istio](https://img.shields.io/static/v1?style=for-the-badge&message=Istio&color=466BB0&logo=Istio&logoColor=FFFFFF&label=)
+```
 ## ![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)
 ```markdown
 ![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)
