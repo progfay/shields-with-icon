@@ -2862,6 +2862,10 @@
 ```markdown
 ![GoToMeeting](https://img.shields.io/static/v1?style=for-the-badge&message=GoToMeeting&color=222222&logo=GoToMeeting&logoColor=F68D2E&label=)
 ```
+## ![Grab](https://img.shields.io/static/v1?style=for-the-badge&message=Grab&color=00B14F&logo=Grab&logoColor=FFFFFF&label=)
+```markdown
+![Grab](https://img.shields.io/static/v1?style=for-the-badge&message=Grab&color=00B14F&logo=Grab&logoColor=FFFFFF&label=)
+```
 ## ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ```markdown
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
@@ -4921,6 +4925,10 @@
 ## ![Packagist](https://img.shields.io/static/v1?style=for-the-badge&message=Packagist&color=222222&logo=Packagist&logoColor=F28D1A&label=)
 ```markdown
 ![Packagist](https://img.shields.io/static/v1?style=for-the-badge&message=Packagist&color=222222&logo=Packagist&logoColor=F28D1A&label=)
+```
+## ![Packer](https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=)
+```markdown
+![Packer](https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=)
 ```
 ## ![Paddy Power](https://img.shields.io/static/v1?style=for-the-badge&message=Paddy+Power&color=004833&logo=Paddy+Power&logoColor=FFFFFF&label=)
 ```markdown
@@ -7561,6 +7569,10 @@
 ## ![Wikivoyage](https://img.shields.io/static/v1?style=for-the-badge&message=Wikivoyage&color=006699&logo=Wikivoyage&logoColor=FFFFFF&label=)
 ```markdown
 ![Wikivoyage](https://img.shields.io/static/v1?style=for-the-badge&message=Wikivoyage&color=006699&logo=Wikivoyage&logoColor=FFFFFF&label=)
+```
+## ![Windi CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Windi+CSS&color=222222&logo=Windi+CSS&logoColor=48B0F1&label=)
+```markdown
+![Windi CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Windi+CSS&color=222222&logo=Windi+CSS&logoColor=48B0F1&label=)
 ```
 ## ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ```markdown
