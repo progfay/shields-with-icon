@@ -1910,6 +1910,10 @@
 ```markdown
 ![Douban Read](https://img.shields.io/static/v1?style=for-the-badge&message=Douban+Read&color=389EAC&logo=Douban+Read&logoColor=FFFFFF&label=)
 ```
+## ![DPD](https://img.shields.io/static/v1?style=for-the-badge&message=DPD&color=DC0032&logo=DPD&logoColor=FFFFFF&label=)
+```markdown
+![DPD](https://img.shields.io/static/v1?style=for-the-badge&message=DPD&color=DC0032&logo=DPD&logoColor=FFFFFF&label=)
+```
 ## ![Draugiem.lv](https://img.shields.io/static/v1?style=for-the-badge&message=Draugiem.lv&color=FF6600&logo=Draugiem.lv&logoColor=FFFFFF&label=)
 ```markdown
 ![Draugiem.lv](https://img.shields.io/static/v1?style=for-the-badge&message=Draugiem.lv&color=FF6600&logo=Draugiem.lv&logoColor=FFFFFF&label=)
@@ -1945,6 +1949,10 @@
 ## ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
 ```markdown
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
+```
+## ![Dungeons & Dragons](https://img.shields.io/static/v1?style=for-the-badge&message=Dungeons+%26+Dragons&color=ED1C24&logo=Dungeons+%26+Dragons&logoColor=FFFFFF&label=)
+```markdown
+![Dungeons & Dragons](https://img.shields.io/static/v1?style=for-the-badge&message=Dungeons+%26+Dragons&color=ED1C24&logo=Dungeons+%26+Dragons&logoColor=FFFFFF&label=)
 ```
 ## ![Dunked](https://img.shields.io/static/v1?style=for-the-badge&message=Dunked&color=2DA9D7&logo=Dunked&logoColor=FFFFFF&label=)
 ```markdown
@@ -5902,9 +5910,9 @@
 ```markdown
 ![Ryanair](https://img.shields.io/static/v1?style=for-the-badge&message=Ryanair&color=073590&logo=Ryanair&logoColor=FFFFFF&label=)
 ```
-## ![S7 Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=S7+Airlines&color=222222&logo=S7+Airlines&logoColor=BED600&label=)
+## ![S7 Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=S7+Airlines&color=222222&logo=S7+Airlines&logoColor=C4D600&label=)
 ```markdown
-![S7 Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=S7+Airlines&color=222222&logo=S7+Airlines&logoColor=BED600&label=)
+![S7 Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=S7+Airlines&color=222222&logo=S7+Airlines&logoColor=C4D600&label=)
 ```
 ## ![Safari](https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=FFFFFF&label=)
 ```markdown
@@ -5986,9 +5994,9 @@
 ```markdown
 ![Screencastify](https://img.shields.io/static/v1?style=for-the-badge&message=Screencastify&color=222222&logo=Screencastify&logoColor=FF8282&label=)
 ```
-## ![Scribd](https://img.shields.io/static/v1?style=for-the-badge&message=Scribd&color=1A7BBA&logo=Scribd&logoColor=FFFFFF&label=)
+## ![Scribd](https://img.shields.io/static/v1?style=for-the-badge&message=Scribd&color=1E7B85&logo=Scribd&logoColor=FFFFFF&label=)
 ```markdown
-![Scribd](https://img.shields.io/static/v1?style=for-the-badge&message=Scribd&color=1A7BBA&logo=Scribd&logoColor=FFFFFF&label=)
+![Scribd](https://img.shields.io/static/v1?style=for-the-badge&message=Scribd&color=1E7B85&logo=Scribd&logoColor=FFFFFF&label=)
 ```
 ## ![Scrimba](https://img.shields.io/static/v1?style=for-the-badge&message=Scrimba&color=2B283A&logo=Scrimba&logoColor=FFFFFF&label=)
 ```markdown
@@ -6266,9 +6274,9 @@
 ```markdown
 ![Snapcraft](https://img.shields.io/static/v1?style=for-the-badge&message=Snapcraft&color=222222&logo=Snapcraft&logoColor=82BEA0&label=)
 ```
-## ![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=56B9EB&label=)
+## ![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
 ```markdown
-![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=56B9EB&label=)
+![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
 ```
 ## ![Snyk](https://img.shields.io/static/v1?style=for-the-badge&message=Snyk&color=4C4A73&logo=Snyk&logoColor=FFFFFF&label=)
 ```markdown
@@ -6342,9 +6350,9 @@
 ```markdown
 ![SourceForge](https://img.shields.io/static/v1?style=for-the-badge&message=SourceForge&color=FF6600&logo=SourceForge&logoColor=FFFFFF&label=)
 ```
-## ![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00B4F2&label=)
+## ![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00CBEC&label=)
 ```markdown
-![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00B4F2&label=)
+![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00CBEC&label=)
 ```
 ## ![Southwest Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Southwest+Airlines&color=304CB2&logo=Southwest+Airlines&logoColor=FFFFFF&label=)
 ```markdown
@@ -6406,9 +6414,9 @@
 ```markdown
 ![Spond](https://img.shields.io/static/v1?style=for-the-badge&message=Spond&color=EE4353&logo=Spond&logoColor=FFFFFF&label=)
 ```
-## ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760&label=)
+## ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
 ```markdown
-![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760&label=)
+![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
 ```
 ## ![Spotlight](https://img.shields.io/static/v1?style=for-the-badge&message=Spotlight&color=352A71&logo=Spotlight&logoColor=FFFFFF&label=)
 ```markdown
@@ -6490,9 +6498,9 @@
 ```markdown
 ![Starbucks](https://img.shields.io/static/v1?style=for-the-badge&message=Starbucks&color=006241&logo=Starbucks&logoColor=FFFFFF&label=)
 ```
-## ![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=7433FF&logo=Starling+Bank&logoColor=FFFFFF&label=)
+## ![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=6935D3&logo=Starling+Bank&logoColor=FFFFFF&label=)
 ```markdown
-![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=7433FF&logo=Starling+Bank&logoColor=FFFFFF&label=)
+![Starling Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Starling+Bank&color=6935D3&logo=Starling+Bank&logoColor=FFFFFF&label=)
 ```
 ## ![Starship](https://img.shields.io/static/v1?style=for-the-badge&message=Starship&color=DD0B78&logo=Starship&logoColor=FFFFFF&label=)
 ```markdown
