@@ -7150,9 +7150,9 @@
 ```markdown
 ![Udacity](https://img.shields.io/static/v1?style=for-the-badge&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)
 ```
-## ![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=EC5252&logo=Udemy&logoColor=FFFFFF&label=)
+## ![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ```markdown
-![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=EC5252&logo=Udemy&logoColor=FFFFFF&label=)
+![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ```
 ## ![UFC](https://img.shields.io/static/v1?style=for-the-badge&message=UFC&color=D20A0A&logo=UFC&logoColor=FFFFFF&label=)
 ```markdown

@@ -1786,7 +1786,7 @@
 ![uBlock Origin](https://img.shields.io/static/v1?style=for-the-badge&message=uBlock+Origin&color=800000&logo=uBlock+Origin&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Udacity](https://img.shields.io/static/v1?style=for-the-badge&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)
-![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=EC5252&logo=Udemy&logoColor=FFFFFF&label=)
+![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ![UFC](https://img.shields.io/static/v1?style=for-the-badge&message=UFC&color=D20A0A&logo=UFC&logoColor=FFFFFF&label=)
 ![UIkit](https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=)
 ![Ulule](https://img.shields.io/static/v1?style=for-the-badge&message=Ulule&color=18A5D6&logo=Ulule&logoColor=FFFFFF&label=)
