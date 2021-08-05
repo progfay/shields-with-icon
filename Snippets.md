@@ -1522,6 +1522,10 @@
 ```markdown
 ![Contactless Payment](https://img.shields.io/static/v1?style=for-the-badge&message=Contactless+Payment&color=000000&logo=Contactless+Payment&logoColor=FFFFFF&label=)
 ```
+## ![containerd](https://img.shields.io/static/v1?style=for-the-badge&message=containerd&color=575757&logo=containerd&logoColor=FFFFFF&label=)
+```markdown
+![containerd](https://img.shields.io/static/v1?style=for-the-badge&message=containerd&color=575757&logo=containerd&logoColor=FFFFFF&label=)
+```
 ## ![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
 ```markdown
 ![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
@@ -2149,6 +2153,10 @@
 ## ![Espressif](https://img.shields.io/static/v1?style=for-the-badge&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=)
 ```markdown
 ![Espressif](https://img.shields.io/static/v1?style=for-the-badge&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=)
+```
+## ![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
+```markdown
+![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
 ```
 ## ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
 ```markdown
@@ -7849,6 +7857,10 @@
 ## ![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
 ```markdown
 ![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
+```
+## ![Zenodo](https://img.shields.io/static/v1?style=for-the-badge&message=Zenodo&color=1682D4&logo=Zenodo&logoColor=FFFFFF&label=)
+```markdown
+![Zenodo](https://img.shields.io/static/v1?style=for-the-badge&message=Zenodo&color=1682D4&logo=Zenodo&logoColor=FFFFFF&label=)
 ```
 ## ![Zerodha](https://img.shields.io/static/v1?style=for-the-badge&message=Zerodha&color=387ED1&logo=Zerodha&logoColor=FFFFFF&label=)
 ```markdown
