@@ -1802,6 +1802,10 @@
 ```markdown
 ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
 ```
+## ![DevExpress](https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label=)
+```markdown
+![DevExpress](https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label=)
+```
 ## ![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=)
 ```markdown
 ![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=)
@@ -2129,6 +2133,10 @@
 ## ![Epson](https://img.shields.io/static/v1?style=for-the-badge&message=Epson&color=003399&logo=Epson&logoColor=FFFFFF&label=)
 ```markdown
 ![Epson](https://img.shields.io/static/v1?style=for-the-badge&message=Epson&color=003399&logo=Epson&logoColor=FFFFFF&label=)
+```
+## ![Equinix Metal](https://img.shields.io/static/v1?style=for-the-badge&message=Equinix+Metal&color=ED2224&logo=Equinix+Metal&logoColor=FFFFFF&label=)
+```markdown
+![Equinix Metal](https://img.shields.io/static/v1?style=for-the-badge&message=Equinix+Metal&color=ED2224&logo=Equinix+Metal&logoColor=FFFFFF&label=)
 ```
 ## ![Erlang](https://img.shields.io/static/v1?style=for-the-badge&message=Erlang&color=A90533&logo=Erlang&logoColor=FFFFFF&label=)
 ```markdown
@@ -3889,6 +3897,10 @@
 ## ![Lichess](https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=)
 ```markdown
 ![Lichess](https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=)
+```
+## ![Lidl](https://img.shields.io/static/v1?style=for-the-badge&message=Lidl&color=0050AA&logo=Lidl&logoColor=FFFFFF&label=)
+```markdown
+![Lidl](https://img.shields.io/static/v1?style=for-the-badge&message=Lidl&color=0050AA&logo=Lidl&logoColor=FFFFFF&label=)
 ```
 ## ![LIFX](https://img.shields.io/static/v1?style=for-the-badge&message=LIFX&color=000000&logo=LIFX&logoColor=FFFFFF&label=)
 ```markdown
