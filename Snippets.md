@@ -266,6 +266,10 @@
 ```markdown
 ![Alfa Romeo](https://img.shields.io/static/v1?style=for-the-badge&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label=)
 ```
+## ![Alfred](https://img.shields.io/static/v1?style=for-the-badge&message=Alfred&color=5C1F87&logo=Alfred&logoColor=FFFFFF&label=)
+```markdown
+![Alfred](https://img.shields.io/static/v1?style=for-the-badge&message=Alfred&color=5C1F87&logo=Alfred&logoColor=FFFFFF&label=)
+```
 ## ![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=5468FF&logo=Algolia&logoColor=FFFFFF&label=)
 ```markdown
 ![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=5468FF&logo=Algolia&logoColor=FFFFFF&label=)
@@ -7250,9 +7254,9 @@
 ```markdown
 ![Unraid](https://img.shields.io/static/v1?style=for-the-badge&message=Unraid&color=F15A2C&logo=Unraid&logoColor=FFFFFF&label=)
 ```
-## ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=313131&logo=Unreal+Engine&logoColor=FFFFFF&label=)
+## ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ```markdown
-![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=313131&logo=Unreal+Engine&logoColor=FFFFFF&label=)
+![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ```
 ## ![Unsplash](https://img.shields.io/static/v1?style=for-the-badge&message=Unsplash&color=000000&logo=Unsplash&logoColor=FFFFFF&label=)
 ```markdown
