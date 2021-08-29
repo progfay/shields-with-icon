@@ -495,6 +495,7 @@
 ![dwm](https://img.shields.io/static/v1?style=for-the-badge&message=dwm&color=1177AA&logo=dwm&logoColor=FFFFFF&label=)
 ![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=002050&logo=Dynamics+365&logoColor=FFFFFF&label=)
 ![Dynatrace](https://img.shields.io/static/v1?style=for-the-badge&message=Dynatrace&color=1496FF&logo=Dynatrace&logoColor=FFFFFF&label=)
+![E.Leclerc](https://img.shields.io/static/v1?style=for-the-badge&message=E.Leclerc&color=0066CC&logo=E.Leclerc&logoColor=FFFFFF&label=)
 ![EA](https://img.shields.io/static/v1?style=for-the-badge&message=EA&color=000000&logo=EA&logoColor=FFFFFF&label=)
 ![Eagle](https://img.shields.io/static/v1?style=for-the-badge&message=Eagle&color=0072EF&logo=Eagle&logoColor=FFFFFF&label=)
 ![easyJet](https://img.shields.io/static/v1?style=for-the-badge&message=easyJet&color=FF6600&logo=easyJet&logoColor=FFFFFF&label=)

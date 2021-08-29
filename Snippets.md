@@ -1986,6 +1986,10 @@
 ```markdown
 ![Dynatrace](https://img.shields.io/static/v1?style=for-the-badge&message=Dynatrace&color=1496FF&logo=Dynatrace&logoColor=FFFFFF&label=)
 ```
+## ![E.Leclerc](https://img.shields.io/static/v1?style=for-the-badge&message=E.Leclerc&color=0066CC&logo=E.Leclerc&logoColor=FFFFFF&label=)
+```markdown
+![E.Leclerc](https://img.shields.io/static/v1?style=for-the-badge&message=E.Leclerc&color=0066CC&logo=E.Leclerc&logoColor=FFFFFF&label=)
+```
 ## ![EA](https://img.shields.io/static/v1?style=for-the-badge&message=EA&color=000000&logo=EA&logoColor=FFFFFF&label=)
 ```markdown
 ![EA](https://img.shields.io/static/v1?style=for-the-badge&message=EA&color=000000&logo=EA&logoColor=FFFFFF&label=)
