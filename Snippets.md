@@ -1078,6 +1078,10 @@
 ```markdown
 ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
 ```
+## ![Burger King](https://img.shields.io/static/v1?style=for-the-badge&message=Burger+King&color=D62300&logo=Burger+King&logoColor=FFFFFF&label=)
+```markdown
+![Burger King](https://img.shields.io/static/v1?style=for-the-badge&message=Burger+King&color=D62300&logo=Burger+King&logoColor=FFFFFF&label=)
+```
 ## ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ```markdown
 ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
@@ -2910,9 +2914,9 @@
 ```markdown
 ![Grammarly](https://img.shields.io/static/v1?style=for-the-badge&message=Grammarly&color=222222&logo=Grammarly&logoColor=15C39A&label=)
 ```
-## ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E434AA&logo=GraphQL&logoColor=FFFFFF&label=)
+## ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ```markdown
-![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E434AA&logo=GraphQL&logoColor=FFFFFF&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ```
 ## ![Grav](https://img.shields.io/static/v1?style=for-the-badge&message=Grav&color=221E1F&logo=Grav&logoColor=FFFFFF&label=)
 ```markdown
@@ -2953,6 +2957,10 @@
 ## ![Guangzhou Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Guangzhou+Metro&color=C51935&logo=Guangzhou+Metro&logoColor=FFFFFF&label=)
 ```markdown
 ![Guangzhou Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Guangzhou+Metro&color=C51935&logo=Guangzhou+Metro&logoColor=FFFFFF&label=)
+```
+## ![Guilded](https://img.shields.io/static/v1?style=for-the-badge&message=Guilded&color=222222&logo=Guilded&logoColor=F5C400&label=)
+```markdown
+![Guilded](https://img.shields.io/static/v1?style=for-the-badge&message=Guilded&color=222222&logo=Guilded&logoColor=F5C400&label=)
 ```
 ## ![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
 ```markdown
@@ -3437,6 +3445,10 @@
 ## ![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)
 ```markdown
 ![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)
+```
+## ![iTerm2](https://img.shields.io/static/v1?style=for-the-badge&message=iTerm2&color=000000&logo=iTerm2&logoColor=FFFFFF&label=)
+```markdown
+![iTerm2](https://img.shields.io/static/v1?style=for-the-badge&message=iTerm2&color=000000&logo=iTerm2&logoColor=FFFFFF&label=)
 ```
 ## ![iTunes](https://img.shields.io/static/v1?style=for-the-badge&message=iTunes&color=FB5BC5&logo=iTunes&logoColor=FFFFFF&label=)
 ```markdown
@@ -6842,9 +6854,9 @@
 ```markdown
 ![TeamSpeak](https://img.shields.io/static/v1?style=for-the-badge&message=TeamSpeak&color=2580C3&logo=TeamSpeak&logoColor=FFFFFF&label=)
 ```
-## ![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=0E8EE9&logo=TeamViewer&logoColor=FFFFFF&label=)
+## ![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
 ```markdown
-![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=0E8EE9&logo=TeamViewer&logoColor=FFFFFF&label=)
+![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
 ```
 ## ![TED](https://img.shields.io/static/v1?style=for-the-badge&message=TED&color=E62B1E&logo=TED&logoColor=FFFFFF&label=)
 ```markdown
@@ -7517,6 +7529,10 @@
 ## ![Wallabag](https://img.shields.io/static/v1?style=for-the-badge&message=Wallabag&color=3F6184&logo=Wallabag&logoColor=FFFFFF&label=)
 ```markdown
 ![Wallabag](https://img.shields.io/static/v1?style=for-the-badge&message=Wallabag&color=3F6184&logo=Wallabag&logoColor=FFFFFF&label=)
+```
+## ![Walmart](https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=0071CE&logo=Walmart&logoColor=FFFFFF&label=)
+```markdown
+![Walmart](https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=0071CE&logo=Walmart&logoColor=FFFFFF&label=)
 ```
 ## ![Wappalyzer](https://img.shields.io/static/v1?style=for-the-badge&message=Wappalyzer&color=32067C&logo=Wappalyzer&logoColor=FFFFFF&label=)
 ```markdown
