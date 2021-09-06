@@ -3014,6 +3014,10 @@
 ```markdown
 ![Hackster](https://img.shields.io/static/v1?style=for-the-badge&message=Hackster&color=2E9FE6&logo=Hackster&logoColor=FFFFFF&label=)
 ```
+## ![Handlebars.js](https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=000000&logo=Handlebars.js&logoColor=FFFFFF&label=)
+```markdown
+![Handlebars.js](https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=000000&logo=Handlebars.js&logoColor=FFFFFF&label=)
+```
 ## ![Handshake](https://img.shields.io/static/v1?style=for-the-badge&message=Handshake&color=FF2F1C&logo=Handshake&logoColor=FFFFFF&label=)
 ```markdown
 ![Handshake](https://img.shields.io/static/v1?style=for-the-badge&message=Handshake&color=FF2F1C&logo=Handshake&logoColor=FFFFFF&label=)
@@ -4005,6 +4009,10 @@
 ## ![LMMS](https://img.shields.io/static/v1?style=for-the-badge&message=LMMS&color=10B146&logo=LMMS&logoColor=FFFFFF&label=)
 ```markdown
 ![LMMS](https://img.shields.io/static/v1?style=for-the-badge&message=LMMS&color=10B146&logo=LMMS&logoColor=FFFFFF&label=)
+```
+## ![Lodash](https://img.shields.io/static/v1?style=for-the-badge&message=Lodash&color=3492FF&logo=Lodash&logoColor=FFFFFF&label=)
+```markdown
+![Lodash](https://img.shields.io/static/v1?style=for-the-badge&message=Lodash&color=3492FF&logo=Lodash&logoColor=FFFFFF&label=)
 ```
 ## ![Logitech](https://img.shields.io/static/v1?style=for-the-badge&message=Logitech&color=222222&logo=Logitech&logoColor=00B8FC&label=)
 ```markdown
