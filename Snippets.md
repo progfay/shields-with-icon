@@ -1010,6 +1010,10 @@
 ```markdown
 ![Bose](https://img.shields.io/static/v1?style=for-the-badge&message=Bose&color=000000&logo=Bose&logoColor=FFFFFF&label=)
 ```
+## ![boulanger](https://img.shields.io/static/v1?style=for-the-badge&message=boulanger&color=FD5300&logo=boulanger&logoColor=FFFFFF&label=)
+```markdown
+![boulanger](https://img.shields.io/static/v1?style=for-the-badge&message=boulanger&color=FD5300&logo=boulanger&logoColor=FFFFFF&label=)
+```
 ## ![Bower](https://img.shields.io/static/v1?style=for-the-badge&message=Bower&color=EF5734&logo=Bower&logoColor=FFFFFF&label=)
 ```markdown
 ![Bower](https://img.shields.io/static/v1?style=for-the-badge&message=Bower&color=EF5734&logo=Bower&logoColor=FFFFFF&label=)
@@ -1141,6 +1145,10 @@
 ## ![Car Throttle](https://img.shields.io/static/v1?style=for-the-badge&message=Car+Throttle&color=222222&logo=Car+Throttle&logoColor=FF9C42&label=)
 ```markdown
 ![Car Throttle](https://img.shields.io/static/v1?style=for-the-badge&message=Car+Throttle&color=222222&logo=Car+Throttle&logoColor=FF9C42&label=)
+```
+## ![Carrefour](https://img.shields.io/static/v1?style=for-the-badge&message=Carrefour&color=004E9F&logo=Carrefour&logoColor=FFFFFF&label=)
+```markdown
+![Carrefour](https://img.shields.io/static/v1?style=for-the-badge&message=Carrefour&color=004E9F&logo=Carrefour&logoColor=FFFFFF&label=)
 ```
 ## ![Carto](https://img.shields.io/static/v1?style=for-the-badge&message=Carto&color=EB1510&logo=Carto&logoColor=FFFFFF&label=)
 ```markdown
