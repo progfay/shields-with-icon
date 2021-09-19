@@ -2522,6 +2522,10 @@
 ```markdown
 ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
 ```
+## ![Franprix](https://img.shields.io/static/v1?style=for-the-badge&message=Franprix&color=EC6237&logo=Franprix&logoColor=FFFFFF&label=)
+```markdown
+![Franprix](https://img.shields.io/static/v1?style=for-the-badge&message=Franprix&color=EC6237&logo=Franprix&logoColor=FFFFFF&label=)
+```
 ## ![Fraunhofer-Gesellschaft](https://img.shields.io/static/v1?style=for-the-badge&message=Fraunhofer-Gesellschaft&color=179C7D&logo=Fraunhofer-Gesellschaft&logoColor=FFFFFF&label=)
 ```markdown
 ![Fraunhofer-Gesellschaft](https://img.shields.io/static/v1?style=for-the-badge&message=Fraunhofer-Gesellschaft&color=179C7D&logo=Fraunhofer-Gesellschaft&logoColor=FFFFFF&label=)
@@ -6838,9 +6842,9 @@
 ```markdown
 ![Tails](https://img.shields.io/static/v1?style=for-the-badge&message=Tails&color=56347C&logo=Tails&logoColor=FFFFFF&label=)
 ```
-## ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
+## ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ```markdown
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ```
 ## ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=1675BC&logo=Talend&logoColor=FFFFFF&label=)
 ```markdown
@@ -7190,9 +7194,9 @@
 ```markdown
 ![ts-node](https://img.shields.io/static/v1?style=for-the-badge&message=ts-node&color=3178C6&logo=ts-node&logoColor=FFFFFF&label=)
 ```
-## ![TUI](https://img.shields.io/static/v1?style=for-the-badge&message=TUI&color=222222&logo=TUI&logoColor=70CBF4&label=)
+## ![TUI](https://img.shields.io/static/v1?style=for-the-badge&message=TUI&color=D40E14&logo=TUI&logoColor=FFFFFF&label=)
 ```markdown
-![TUI](https://img.shields.io/static/v1?style=for-the-badge&message=TUI&color=222222&logo=TUI&logoColor=70CBF4&label=)
+![TUI](https://img.shields.io/static/v1?style=for-the-badge&message=TUI&color=D40E14&logo=TUI&logoColor=FFFFFF&label=)
 ```
 ## ![Tumblr](https://img.shields.io/static/v1?style=for-the-badge&message=Tumblr&color=36465D&logo=Tumblr&logoColor=FFFFFF&label=)
 ```markdown
