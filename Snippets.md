@@ -4250,6 +4250,10 @@
 ```markdown
 ![MediaFire](https://img.shields.io/static/v1?style=for-the-badge&message=MediaFire&color=1299F3&logo=MediaFire&logoColor=FFFFFF&label=)
 ```
+## ![MediaMarkt](https://img.shields.io/static/v1?style=for-the-badge&message=MediaMarkt&color=DF0000&logo=MediaMarkt&logoColor=FFFFFF&label=)
+```markdown
+![MediaMarkt](https://img.shields.io/static/v1?style=for-the-badge&message=MediaMarkt&color=DF0000&logo=MediaMarkt&logoColor=FFFFFF&label=)
+```
 ## ![MediaTek](https://img.shields.io/static/v1?style=for-the-badge&message=MediaTek&color=222222&logo=MediaTek&logoColor=EC9430&label=)
 ```markdown
 ![MediaTek](https://img.shields.io/static/v1?style=for-the-badge&message=MediaTek&color=222222&logo=MediaTek&logoColor=EC9430&label=)
@@ -5570,6 +5574,10 @@
 ```markdown
 ![Pusher](https://img.shields.io/static/v1?style=for-the-badge&message=Pusher&color=300D4F&logo=Pusher&logoColor=FFFFFF&label=)
 ```
+## ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=)
+```markdown
+![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=)
+```
 ## ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ```markdown
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
@@ -6325,6 +6333,10 @@
 ## ![Skyliner](https://img.shields.io/static/v1?style=for-the-badge&message=Skyliner&color=222222&logo=Skyliner&logoColor=2FCEA0&label=)
 ```markdown
 ![Skyliner](https://img.shields.io/static/v1?style=for-the-badge&message=Skyliner&color=222222&logo=Skyliner&logoColor=2FCEA0&label=)
+```
+## ![Skynet](https://img.shields.io/static/v1?style=for-the-badge&message=Skynet&color=222222&logo=Skynet&logoColor=00C65E&label=)
+```markdown
+![Skynet](https://img.shields.io/static/v1?style=for-the-badge&message=Skynet&color=222222&logo=Skynet&logoColor=00C65E&label=)
 ```
 ## ![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=)
 ```markdown
