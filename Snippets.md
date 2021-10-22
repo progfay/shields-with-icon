@@ -22,6 +22,10 @@
 ```markdown
 ![42](https://img.shields.io/static/v1?style=for-the-badge&message=42&color=000000&logo=42&logoColor=FFFFFF&label=)
 ```
+## ![4chan](https://img.shields.io/static/v1?style=for-the-badge&message=4chan&color=006600&logo=4chan&logoColor=FFFFFF&label=)
+```markdown
+![4chan](https://img.shields.io/static/v1?style=for-the-badge&message=4chan&color=006600&logo=4chan&logoColor=FFFFFF&label=)
+```
 ## ![4D](https://img.shields.io/static/v1?style=for-the-badge&message=4D&color=004088&logo=4D&logoColor=FFFFFF&label=)
 ```markdown
 ![4D](https://img.shields.io/static/v1?style=for-the-badge&message=4D&color=004088&logo=4D&logoColor=FFFFFF&label=)
@@ -645,6 +649,10 @@
 ## ![Arlo](https://img.shields.io/static/v1?style=for-the-badge&message=Arlo&color=49B48A&logo=Arlo&logoColor=FFFFFF&label=)
 ```markdown
 ![Arlo](https://img.shields.io/static/v1?style=for-the-badge&message=Arlo&color=49B48A&logo=Arlo&logoColor=FFFFFF&label=)
+```
+## ![Arm](https://img.shields.io/static/v1?style=for-the-badge&message=Arm&color=0091BD&logo=Arm&logoColor=FFFFFF&label=)
+```markdown
+![Arm](https://img.shields.io/static/v1?style=for-the-badge&message=Arm&color=0091BD&logo=Arm&logoColor=FFFFFF&label=)
 ```
 ## ![Artifact Hub](https://img.shields.io/static/v1?style=for-the-badge&message=Artifact+Hub&color=417598&logo=Artifact+Hub&logoColor=FFFFFF&label=)
 ```markdown
@@ -1641,6 +1649,10 @@
 ## ![Craft CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Craft+CMS&color=E5422B&logo=Craft+CMS&logoColor=FFFFFF&label=)
 ```markdown
 ![Craft CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Craft+CMS&color=E5422B&logo=Craft+CMS&logoColor=FFFFFF&label=)
+```
+## ![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
+```markdown
+![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
 ```
 ## ![Creative Commons](https://img.shields.io/static/v1?style=for-the-badge&message=Creative+Commons&color=222222&logo=Creative+Commons&logoColor=EF9421&label=)
 ```markdown
@@ -3337,6 +3349,10 @@
 ## ![Hyundai](https://img.shields.io/static/v1?style=for-the-badge&message=Hyundai&color=002C5F&logo=Hyundai&logoColor=FFFFFF&label=)
 ```markdown
 ![Hyundai](https://img.shields.io/static/v1?style=for-the-badge&message=Hyundai&color=002C5F&logo=Hyundai&logoColor=FFFFFF&label=)
+```
+## ![i18next](https://img.shields.io/static/v1?style=for-the-badge&message=i18next&color=26A69A&logo=i18next&logoColor=FFFFFF&label=)
+```markdown
+![i18next](https://img.shields.io/static/v1?style=for-the-badge&message=i18next&color=26A69A&logo=i18next&logoColor=FFFFFF&label=)
 ```
 ## ![Iata](https://img.shields.io/static/v1?style=for-the-badge&message=Iata&color=004E81&logo=Iata&logoColor=FFFFFF&label=)
 ```markdown
@@ -6110,6 +6126,10 @@
 ```markdown
 ![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
 ```
+## ![Rotary International](https://img.shields.io/static/v1?style=for-the-badge&message=Rotary+International&color=222222&logo=Rotary+International&logoColor=F7A81B&label=)
+```markdown
+![Rotary International](https://img.shields.io/static/v1?style=for-the-badge&message=Rotary+International&color=222222&logo=Rotary+International&logoColor=F7A81B&label=)
+```
 ## ![Rotten Tomatoes](https://img.shields.io/static/v1?style=for-the-badge&message=Rotten+Tomatoes&color=FA320A&logo=Rotten+Tomatoes&logoColor=FFFFFF&label=)
 ```markdown
 ![Rotten Tomatoes](https://img.shields.io/static/v1?style=for-the-badge&message=Rotten+Tomatoes&color=FA320A&logo=Rotten+Tomatoes&logoColor=FFFFFF&label=)
@@ -7133,6 +7153,10 @@
 ## ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
 ```markdown
 ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
+```
+## ![Tether](https://img.shields.io/static/v1?style=for-the-badge&message=Tether&color=50AF95&logo=Tether&logoColor=FFFFFF&label=)
+```markdown
+![Tether](https://img.shields.io/static/v1?style=for-the-badge&message=Tether&color=50AF95&logo=Tether&logoColor=FFFFFF&label=)
 ```
 ## ![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFDA44&label=)
 ```markdown
