@@ -6994,9 +6994,9 @@
 ```markdown
 ![Swarm](https://img.shields.io/static/v1?style=for-the-badge&message=Swarm&color=222222&logo=Swarm&logoColor=FFA633&label=)
 ```
-## ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=FA7343&logo=Swift&logoColor=FFFFFF&label=)
+## ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
 ```markdown
-![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=FA7343&logo=Swift&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
 ```
 ## ![Swiggy](https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=Swiggy&logoColor=FFFFFF&label=)
 ```markdown

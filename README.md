@@ -1747,7 +1747,7 @@
 ![SVGO](https://img.shields.io/static/v1?style=for-the-badge&message=SVGO&color=3E7FC1&logo=SVGO&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 ![Swarm](https://img.shields.io/static/v1?style=for-the-badge&message=Swarm&color=222222&logo=Swarm&logoColor=FFA633&label=)
-![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=FA7343&logo=Swift&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
 ![Swiggy](https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=Swiggy&logoColor=FFFFFF&label=)
 ![Swiper](https://img.shields.io/static/v1?style=for-the-badge&message=Swiper&color=6332F6&logo=Swiper&logoColor=FFFFFF&label=)
 ![Symantec](https://img.shields.io/static/v1?style=for-the-badge&message=Symantec&color=222222&logo=Symantec&logoColor=FDB511&label=)
