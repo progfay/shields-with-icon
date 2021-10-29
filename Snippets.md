@@ -3494,6 +3494,10 @@
 ```markdown
 ![Instapaper](https://img.shields.io/static/v1?style=for-the-badge&message=Instapaper&color=1F1F1F&logo=Instapaper&logoColor=FFFFFF&label=)
 ```
+## ![Instatus](https://img.shields.io/static/v1?style=for-the-badge&message=Instatus&color=222222&logo=Instatus&logoColor=4EE3C2&label=)
+```markdown
+![Instatus](https://img.shields.io/static/v1?style=for-the-badge&message=Instatus&color=222222&logo=Instatus&logoColor=4EE3C2&label=)
+```
 ## ![Instructables](https://img.shields.io/static/v1?style=for-the-badge&message=Instructables&color=222222&logo=Instructables&logoColor=FABF15&label=)
 ```markdown
 ![Instructables](https://img.shields.io/static/v1?style=for-the-badge&message=Instructables&color=222222&logo=Instructables&logoColor=FABF15&label=)
@@ -5798,6 +5802,10 @@
 ```markdown
 ![Qualtrics](https://img.shields.io/static/v1?style=for-the-badge&message=Qualtrics&color=222222&logo=Qualtrics&logoColor=00B4EF&label=)
 ```
+## ![Qualys](https://img.shields.io/static/v1?style=for-the-badge&message=Qualys&color=ED2E26&logo=Qualys&logoColor=FFFFFF&label=)
+```markdown
+![Qualys](https://img.shields.io/static/v1?style=for-the-badge&message=Qualys&color=ED2E26&logo=Qualys&logoColor=FFFFFF&label=)
+```
 ## ![Quantcast](https://img.shields.io/static/v1?style=for-the-badge&message=Quantcast&color=000000&logo=Quantcast&logoColor=FFFFFF&label=)
 ```markdown
 ![Quantcast](https://img.shields.io/static/v1?style=for-the-badge&message=Quantcast&color=000000&logo=Quantcast&logoColor=FFFFFF&label=)
@@ -7710,9 +7718,9 @@
 ```markdown
 ![Vivino](https://img.shields.io/static/v1?style=for-the-badge&message=Vivino&color=AA1329&logo=Vivino&logoColor=FFFFFF&label=)
 ```
-## ![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=4680C2&logo=VK&logoColor=FFFFFF&label=)
+## ![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=0077FF&logo=VK&logoColor=FFFFFF&label=)
 ```markdown
-![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=4680C2&logo=VK&logoColor=FFFFFF&label=)
+![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=0077FF&logo=VK&logoColor=FFFFFF&label=)
 ```
 ## ![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)
 ```markdown
