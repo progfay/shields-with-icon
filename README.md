@@ -632,6 +632,7 @@
 ![FMOD](https://img.shields.io/static/v1?style=for-the-badge&message=FMOD&color=000000&logo=FMOD&logoColor=FFFFFF&label=)
 ![Fnac](https://img.shields.io/static/v1?style=for-the-badge&message=Fnac&color=222222&logo=Fnac&logoColor=E1A925&label=)
 ![Folium](https://img.shields.io/static/v1?style=for-the-badge&message=Folium&color=222222&logo=Folium&logoColor=77B829&label=)
+![Fonoma](https://img.shields.io/static/v1?style=for-the-badge&message=Fonoma&color=02B78F&logo=Fonoma&logoColor=FFFFFF&label=)
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ![FontBase](https://img.shields.io/static/v1?style=for-the-badge&message=FontBase&color=3D03A7&logo=FontBase&logoColor=FFFFFF&label=)
 ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)

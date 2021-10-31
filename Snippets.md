@@ -2534,6 +2534,10 @@
 ```markdown
 ![Folium](https://img.shields.io/static/v1?style=for-the-badge&message=Folium&color=222222&logo=Folium&logoColor=77B829&label=)
 ```
+## ![Fonoma](https://img.shields.io/static/v1?style=for-the-badge&message=Fonoma&color=02B78F&logo=Fonoma&logoColor=FFFFFF&label=)
+```markdown
+![Fonoma](https://img.shields.io/static/v1?style=for-the-badge&message=Fonoma&color=02B78F&logo=Fonoma&logoColor=FFFFFF&label=)
+```
 ## ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ```markdown
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
