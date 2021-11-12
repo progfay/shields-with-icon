@@ -1684,6 +1684,7 @@
 ![Songoda](https://img.shields.io/static/v1?style=for-the-badge&message=Songoda&color=FC494A&logo=Songoda&logoColor=FFFFFF&label=)
 ![SonicWall](https://img.shields.io/static/v1?style=for-the-badge&message=SonicWall&color=FF791A&logo=SonicWall&logoColor=FFFFFF&label=)
 ![Sonos](https://img.shields.io/static/v1?style=for-the-badge&message=Sonos&color=000000&logo=Sonos&logoColor=FFFFFF&label=)
+![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=222222&logo=Sony&logoColor=FFFFFF&label=)
 ![SoundCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)
 ![Source Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Source+Engine&color=222222&logo=Source+Engine&logoColor=F79A10&label=)
 ![SourceForge](https://img.shields.io/static/v1?style=for-the-badge&message=SourceForge&color=FF6600&logo=SourceForge&logoColor=FFFFFF&label=)
