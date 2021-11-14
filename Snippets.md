@@ -2818,6 +2818,10 @@
 ```markdown
 ![GitHub Sponsors](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Sponsors&color=EA4AAA&logo=GitHub+Sponsors&logoColor=FFFFFF&label=)
 ```
+## ![gitignore.io](https://img.shields.io/static/v1?style=for-the-badge&message=gitignore.io&color=204ECF&logo=gitignore.io&logoColor=FFFFFF&label=)
+```markdown
+![gitignore.io](https://img.shields.io/static/v1?style=for-the-badge&message=gitignore.io&color=204ECF&logo=gitignore.io&logoColor=FFFFFF&label=)
+```
 ## ![GitKraken](https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=)
 ```markdown
 ![GitKraken](https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=)
@@ -3257,6 +3261,10 @@
 ## ![Helm](https://img.shields.io/static/v1?style=for-the-badge&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF&label=)
 ```markdown
 ![Helm](https://img.shields.io/static/v1?style=for-the-badge&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF&label=)
+```
+## ![Help Scout](https://img.shields.io/static/v1?style=for-the-badge&message=Help+Scout&color=1292EE&logo=Help+Scout&logoColor=FFFFFF&label=)
+```markdown
+![Help Scout](https://img.shields.io/static/v1?style=for-the-badge&message=Help+Scout&color=1292EE&logo=Help+Scout&logoColor=FFFFFF&label=)
 ```
 ## ![HelpDesk](https://img.shields.io/static/v1?style=for-the-badge&message=HelpDesk&color=222222&logo=HelpDesk&logoColor=FFD000&label=)
 ```markdown
@@ -4721,6 +4729,10 @@
 ## ![MTR](https://img.shields.io/static/v1?style=for-the-badge&message=MTR&color=AC2E45&logo=MTR&logoColor=FFFFFF&label=)
 ```markdown
 ![MTR](https://img.shields.io/static/v1?style=for-the-badge&message=MTR&color=AC2E45&logo=MTR&logoColor=FFFFFF&label=)
+```
+## ![Mulesoft](https://img.shields.io/static/v1?style=for-the-badge&message=Mulesoft&color=00A0DF&logo=Mulesoft&logoColor=FFFFFF&label=)
+```markdown
+![Mulesoft](https://img.shields.io/static/v1?style=for-the-badge&message=Mulesoft&color=00A0DF&logo=Mulesoft&logoColor=FFFFFF&label=)
 ```
 ## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
 ```markdown
@@ -6609,6 +6621,10 @@
 ## ![Skynet](https://img.shields.io/static/v1?style=for-the-badge&message=Skynet&color=222222&logo=Skynet&logoColor=00C65E&label=)
 ```markdown
 ![Skynet](https://img.shields.io/static/v1?style=for-the-badge&message=Skynet&color=222222&logo=Skynet&logoColor=00C65E&label=)
+```
+## ![Skypack](https://img.shields.io/static/v1?style=for-the-badge&message=Skypack&color=3167FF&logo=Skypack&logoColor=FFFFFF&label=)
+```markdown
+![Skypack](https://img.shields.io/static/v1?style=for-the-badge&message=Skypack&color=3167FF&logo=Skypack&logoColor=FFFFFF&label=)
 ```
 ## ![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=)
 ```markdown
