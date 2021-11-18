@@ -5610,6 +5610,10 @@
 ```markdown
 ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
 ```
+## ![Polkadot](https://img.shields.io/static/v1?style=for-the-badge&message=Polkadot&color=E6007A&logo=Polkadot&logoColor=FFFFFF&label=)
+```markdown
+![Polkadot](https://img.shields.io/static/v1?style=for-the-badge&message=Polkadot&color=E6007A&logo=Polkadot&logoColor=FFFFFF&label=)
+```
 ## ![Poly](https://img.shields.io/static/v1?style=for-the-badge&message=Poly&color=EB3C00&logo=Poly&logoColor=FFFFFF&label=)
 ```markdown
 ![Poly](https://img.shields.io/static/v1?style=for-the-badge&message=Poly&color=EB3C00&logo=Poly&logoColor=FFFFFF&label=)
@@ -6373,6 +6377,10 @@
 ## ![Scania](https://img.shields.io/static/v1?style=for-the-badge&message=Scania&color=041E42&logo=Scania&logoColor=FFFFFF&label=)
 ```markdown
 ![Scania](https://img.shields.io/static/v1?style=for-the-badge&message=Scania&color=041E42&logo=Scania&logoColor=FFFFFF&label=)
+```
+## ![Schneider Electric](https://img.shields.io/static/v1?style=for-the-badge&message=Schneider+Electric&color=222222&logo=Schneider+Electric&logoColor=3DCD58&label=)
+```markdown
+![Schneider Electric](https://img.shields.io/static/v1?style=for-the-badge&message=Schneider+Electric&color=222222&logo=Schneider+Electric&logoColor=3DCD58&label=)
 ```
 ## ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ```markdown
