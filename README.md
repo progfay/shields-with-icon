@@ -632,6 +632,7 @@
 ![FiveM](https://img.shields.io/static/v1?style=for-the-badge&message=FiveM&color=F40552&logo=FiveM&logoColor=FFFFFF&label=)
 ![Fiverr](https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Flat](https://img.shields.io/static/v1?style=for-the-badge&message=Flat&color=3481FE&logo=Flat&logoColor=FFFFFF&label=)
 ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
 ![Flattr](https://img.shields.io/static/v1?style=for-the-badge&message=Flattr&color=000000&logo=Flattr&logoColor=FFFFFF&label=)
 ![Flickr](https://img.shields.io/static/v1?style=for-the-badge&message=Flickr&color=0063DC&logo=Flickr&logoColor=FFFFFF&label=)

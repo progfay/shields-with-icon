@@ -2534,6 +2534,10 @@
 ```markdown
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ```
+## ![Flat](https://img.shields.io/static/v1?style=for-the-badge&message=Flat&color=3481FE&logo=Flat&logoColor=FFFFFF&label=)
+```markdown
+![Flat](https://img.shields.io/static/v1?style=for-the-badge&message=Flat&color=3481FE&logo=Flat&logoColor=FFFFFF&label=)
+```
 ## ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
 ```markdown
 ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
