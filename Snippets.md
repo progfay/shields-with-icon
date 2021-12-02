@@ -702,6 +702,10 @@
 ```markdown
 ![asciinema](https://img.shields.io/static/v1?style=for-the-badge&message=asciinema&color=D40000&logo=asciinema&logoColor=FFFFFF&label=)
 ```
+## ![ASDA](https://img.shields.io/static/v1?style=for-the-badge&message=ASDA&color=68A51C&logo=ASDA&logoColor=FFFFFF&label=)
+```markdown
+![ASDA](https://img.shields.io/static/v1?style=for-the-badge&message=ASDA&color=68A51C&logo=ASDA&logoColor=FFFFFF&label=)
+```
 ## ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
 ```markdown
 ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
@@ -1073,6 +1077,10 @@
 ## ![Boost](https://img.shields.io/static/v1?style=for-the-badge&message=Boost&color=222222&logo=Boost&logoColor=F7901E&label=)
 ```markdown
 ![Boost](https://img.shields.io/static/v1?style=for-the-badge&message=Boost&color=222222&logo=Boost&logoColor=F7901E&label=)
+```
+## ![Boots](https://img.shields.io/static/v1?style=for-the-badge&message=Boots&color=05054B&logo=Boots&logoColor=FFFFFF&label=)
+```markdown
+![Boots](https://img.shields.io/static/v1?style=for-the-badge&message=Boots&color=05054B&logo=Boots&logoColor=FFFFFF&label=)
 ```
 ## ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ```markdown
@@ -2721,6 +2729,10 @@
 ## ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
 ```markdown
 ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
+```
+## ![Game & Watch](https://img.shields.io/static/v1?style=for-the-badge&message=Game+%26+Watch&color=000000&logo=Game+%26+Watch&logoColor=FFFFFF&label=)
+```markdown
+![Game & Watch](https://img.shields.io/static/v1?style=for-the-badge&message=Game+%26+Watch&color=000000&logo=Game+%26+Watch&logoColor=FFFFFF&label=)
 ```
 ## ![Game Jolt](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Jolt&color=222222&logo=Game+Jolt&logoColor=CCFF00&label=)
 ```markdown
@@ -5946,6 +5958,10 @@
 ```markdown
 ![QuickBooks](https://img.shields.io/static/v1?style=for-the-badge&message=QuickBooks&color=2CA01C&logo=QuickBooks&logoColor=FFFFFF&label=)
 ```
+## ![QuickLook](https://img.shields.io/static/v1?style=for-the-badge&message=QuickLook&color=22A2E3&logo=QuickLook&logoColor=FFFFFF&label=)
+```markdown
+![QuickLook](https://img.shields.io/static/v1?style=for-the-badge&message=QuickLook&color=22A2E3&logo=QuickLook&logoColor=FFFFFF&label=)
+```
 ## ![QuickTime](https://img.shields.io/static/v1?style=for-the-badge&message=QuickTime&color=1C69F0&logo=QuickTime&logoColor=FFFFFF&label=)
 ```markdown
 ![QuickTime](https://img.shields.io/static/v1?style=for-the-badge&message=QuickTime&color=1C69F0&logo=QuickTime&logoColor=FFFFFF&label=)
@@ -6722,6 +6738,10 @@
 ```markdown
 ![Sogou](https://img.shields.io/static/v1?style=for-the-badge&message=Sogou&color=FB6022&logo=Sogou&logoColor=FFFFFF&label=)
 ```
+## ![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
+```markdown
+![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
+```
 ## ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
 ```markdown
 ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
@@ -7297,6 +7317,10 @@
 ## ![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFDA44&label=)
 ```markdown
 ![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFDA44&label=)
+```
+## ![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
+```markdown
+![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
 ```
 ## ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
 ```markdown
