@@ -4614,6 +4614,10 @@
 ```markdown
 ![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
 ```
+## ![Microsoft Translator](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Translator&color=057B00&logo=Microsoft+Translator&logoColor=FFFFFF&label=)
+```markdown
+![Microsoft Translator](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Translator&color=057B00&logo=Microsoft+Translator&logoColor=FFFFFF&label=)
+```
 ## ![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
 ```markdown
 ![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
@@ -5061,6 +5065,10 @@
 ## ![OCaml](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
 ```markdown
 ![OCaml](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
+```
+## ![Octane Render](https://img.shields.io/static/v1?style=for-the-badge&message=Octane+Render&color=000000&logo=Octane+Render&logoColor=FFFFFF&label=)
+```markdown
+![Octane Render](https://img.shields.io/static/v1?style=for-the-badge&message=Octane+Render&color=000000&logo=Octane+Render&logoColor=FFFFFF&label=)
 ```
 ## ![Octave](https://img.shields.io/static/v1?style=for-the-badge&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label=)
 ```markdown
@@ -7205,6 +7213,10 @@
 ## ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
 ```markdown
 ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
+```
+## ![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=222222&logo=Talenthouse&logoColor=FFFFFF&label=)
+```markdown
+![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=222222&logo=Talenthouse&logoColor=FFFFFF&label=)
 ```
 ## ![Tampermonkey](https://img.shields.io/static/v1?style=for-the-badge&message=Tampermonkey&color=00485B&logo=Tampermonkey&logoColor=FFFFFF&label=)
 ```markdown
