@@ -1932,7 +1932,7 @@
 ![Unicode](https://img.shields.io/static/v1?style=for-the-badge&message=Unicode&color=5455FE&logo=Unicode&logoColor=FFFFFF&label=)
 ![Unilever](https://img.shields.io/static/v1?style=for-the-badge&message=Unilever&color=1F36C7&logo=Unilever&logoColor=FFFFFF&label=)
 ![United Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=United+Airlines&color=002244&logo=United+Airlines&logoColor=FFFFFF&label=)
-![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
+![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
 ![Unraid](https://img.shields.io/static/v1?style=for-the-badge&message=Unraid&color=F15A2C&logo=Unraid&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ![Unsplash](https://img.shields.io/static/v1?style=for-the-badge&message=Unsplash&color=000000&logo=Unsplash&logoColor=FFFFFF&label=)
