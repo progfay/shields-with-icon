@@ -1470,6 +1470,10 @@
 ```markdown
 ![CMake](https://img.shields.io/static/v1?style=for-the-badge&message=CMake&color=064F8C&logo=CMake&logoColor=FFFFFF&label=)
 ```
+## ![CNCF](https://img.shields.io/static/v1?style=for-the-badge&message=CNCF&color=231F20&logo=CNCF&logoColor=FFFFFF&label=)
+```markdown
+![CNCF](https://img.shields.io/static/v1?style=for-the-badge&message=CNCF&color=231F20&logo=CNCF&logoColor=FFFFFF&label=)
+```
 ## ![CNN](https://img.shields.io/static/v1?style=for-the-badge&message=CNN&color=CC0000&logo=CNN&logoColor=FFFFFF&label=)
 ```markdown
 ![CNN](https://img.shields.io/static/v1?style=for-the-badge&message=CNN&color=CC0000&logo=CNN&logoColor=FFFFFF&label=)
@@ -3030,6 +3034,10 @@
 ```markdown
 ![Google Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Maps&color=4285F4&logo=Google+Maps&logoColor=FFFFFF&label=)
 ```
+## ![Google Marketing Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Marketing+Platform&color=4285F4&logo=Google+Marketing+Platform&logoColor=FFFFFF&label=)
+```markdown
+![Google Marketing Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Marketing+Platform&color=4285F4&logo=Google+Marketing+Platform&logoColor=FFFFFF&label=)
+```
 ## ![Google Meet](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Meet&color=00897B&logo=Google+Meet&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Meet](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Meet&color=00897B&logo=Google+Meet&logoColor=FFFFFF&label=)
@@ -3141,6 +3149,10 @@
 ## ![Gridsome](https://img.shields.io/static/v1?style=for-the-badge&message=Gridsome&color=00A672&logo=Gridsome&logoColor=FFFFFF&label=)
 ```markdown
 ![Gridsome](https://img.shields.io/static/v1?style=for-the-badge&message=Gridsome&color=00A672&logo=Gridsome&logoColor=FFFFFF&label=)
+```
+## ![GroupMe](https://img.shields.io/static/v1?style=for-the-badge&message=GroupMe&color=00AFF0&logo=GroupMe&logoColor=FFFFFF&label=)
+```markdown
+![GroupMe](https://img.shields.io/static/v1?style=for-the-badge&message=GroupMe&color=00AFF0&logo=GroupMe&logoColor=FFFFFF&label=)
 ```
 ## ![Groupon](https://img.shields.io/static/v1?style=for-the-badge&message=Groupon&color=53A318&logo=Groupon&logoColor=FFFFFF&label=)
 ```markdown
