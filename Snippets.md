@@ -8102,6 +8102,10 @@
 ```markdown
 ![WEMO](https://img.shields.io/static/v1?style=for-the-badge&message=WEMO&color=222222&logo=WEMO&logoColor=72D44C&label=)
 ```
+## ![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
+```markdown
+![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
+```
 ## ![WeTransfer](https://img.shields.io/static/v1?style=for-the-badge&message=WeTransfer&color=409FFF&logo=WeTransfer&logoColor=FFFFFF&label=)
 ```markdown
 ![WeTransfer](https://img.shields.io/static/v1?style=for-the-badge&message=WeTransfer&color=409FFF&logo=WeTransfer&logoColor=FFFFFF&label=)
@@ -8149,6 +8153,10 @@
 ## ![Wikivoyage](https://img.shields.io/static/v1?style=for-the-badge&message=Wikivoyage&color=006699&logo=Wikivoyage&logoColor=FFFFFF&label=)
 ```markdown
 ![Wikivoyage](https://img.shields.io/static/v1?style=for-the-badge&message=Wikivoyage&color=006699&logo=Wikivoyage&logoColor=FFFFFF&label=)
+```
+## ![Winamp](https://img.shields.io/static/v1?style=for-the-badge&message=Winamp&color=F93821&logo=Winamp&logoColor=FFFFFF&label=)
+```markdown
+![Winamp](https://img.shields.io/static/v1?style=for-the-badge&message=Winamp&color=F93821&logo=Winamp&logoColor=FFFFFF&label=)
 ```
 ## ![Windi CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Windi+CSS&color=222222&logo=Windi+CSS&logoColor=48B0F1&label=)
 ```markdown
