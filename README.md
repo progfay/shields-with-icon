@@ -946,6 +946,7 @@
 ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![JET](https://img.shields.io/static/v1?style=for-the-badge&message=JET&color=222222&logo=JET&logoColor=FBBA00&label=)
 ![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)
+![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 ![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=41BF47&label=)
 ![JFrog Bintray](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog+Bintray&color=43A047&logo=JFrog+Bintray&logoColor=FFFFFF&label=)
 ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
