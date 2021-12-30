@@ -1366,9 +1366,9 @@
 ```markdown
 ![Chocolatey](https://img.shields.io/static/v1?style=for-the-badge&message=Chocolatey&color=222222&logo=Chocolatey&logoColor=80B5E3&label=)
 ```
-## ![Chromecast](https://img.shields.io/static/v1?style=for-the-badge&message=Chromecast&color=222222&logo=Chromecast&logoColor=1BB6F6&label=)
+## ![Chromecast](https://img.shields.io/static/v1?style=for-the-badge&message=Chromecast&color=999999&logo=Chromecast&logoColor=FFFFFF&label=)
 ```markdown
-![Chromecast](https://img.shields.io/static/v1?style=for-the-badge&message=Chromecast&color=222222&logo=Chromecast&logoColor=1BB6F6&label=)
+![Chromecast](https://img.shields.io/static/v1?style=for-the-badge&message=Chromecast&color=999999&logo=Chromecast&logoColor=FFFFFF&label=)
 ```
 ## ![Chrysler](https://img.shields.io/static/v1?style=for-the-badge&message=Chrysler&color=000000&logo=Chrysler&logoColor=FFFFFF&label=)
 ```markdown
@@ -3006,9 +3006,9 @@
 ```markdown
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ```
-## ![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=4285F4&logo=Google+Classroom&logoColor=FFFFFF&label=)
+## ![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=0F9D58&logo=Google+Classroom&logoColor=FFFFFF&label=)
 ```markdown
-![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=4285F4&logo=Google+Classroom&logoColor=FFFFFF&label=)
+![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=0F9D58&logo=Google+Classroom&logoColor=FFFFFF&label=)
 ```
 ## ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ```markdown
