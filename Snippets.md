@@ -2638,9 +2638,9 @@
 ```markdown
 ![Fonoma](https://img.shields.io/static/v1?style=for-the-badge&message=Fonoma&color=02B78F&logo=Fonoma&logoColor=FFFFFF&label=)
 ```
-## ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
+## ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ```markdown
-![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
+![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ```
 ## ![FontBase](https://img.shields.io/static/v1?style=for-the-badge&message=FontBase&color=3D03A7&logo=FontBase&logoColor=FFFFFF&label=)
 ```markdown
@@ -7326,9 +7326,9 @@
 ```markdown
 ![TED](https://img.shields.io/static/v1?style=for-the-badge&message=TED&color=E62B1E&logo=TED&logoColor=FFFFFF&label=)
 ```
-## ![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=39ACE6&logo=Teespring&logoColor=FFFFFF&label=)
+## ![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=ED2761&logo=Teespring&logoColor=FFFFFF&label=)
 ```markdown
-![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=39ACE6&logo=Teespring&logoColor=FFFFFF&label=)
+![Teespring](https://img.shields.io/static/v1?style=for-the-badge&message=Teespring&color=ED2761&logo=Teespring&logoColor=FFFFFF&label=)
 ```
 ## ![Tekton](https://img.shields.io/static/v1?style=for-the-badge&message=Tekton&color=FD495C&logo=Tekton&logoColor=FFFFFF&label=)
 ```markdown
