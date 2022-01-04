@@ -3610,9 +3610,9 @@
 ```markdown
 ![Inkscape](https://img.shields.io/static/v1?style=for-the-badge&message=Inkscape&color=000000&logo=Inkscape&logoColor=FFFFFF&label=)
 ```
-## ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=5849BE&logo=Insomnia&logoColor=FFFFFF&label=)
+## ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
 ```markdown
-![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=5849BE&logo=Insomnia&logoColor=FFFFFF&label=)
+![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
 ```
 ## ![Instacart](https://img.shields.io/static/v1?style=for-the-badge&message=Instacart&color=43B02A&logo=Instacart&logoColor=FFFFFF&label=)
 ```markdown
@@ -3997,6 +3997,10 @@
 ## ![Kik](https://img.shields.io/static/v1?style=for-the-badge&message=Kik&color=222222&logo=Kik&logoColor=82BC23&label=)
 ```markdown
 ![Kik](https://img.shields.io/static/v1?style=for-the-badge&message=Kik&color=222222&logo=Kik&logoColor=82BC23&label=)
+```
+## ![Kingston Technology](https://img.shields.io/static/v1?style=for-the-badge&message=Kingston+Technology&color=000000&logo=Kingston+Technology&logoColor=FFFFFF&label=)
+```markdown
+![Kingston Technology](https://img.shields.io/static/v1?style=for-the-badge&message=Kingston+Technology&color=000000&logo=Kingston+Technology&logoColor=FFFFFF&label=)
 ```
 ## ![KinoPoisk](https://img.shields.io/static/v1?style=for-the-badge&message=KinoPoisk&color=FF6600&logo=KinoPoisk&logoColor=FFFFFF&label=)
 ```markdown
@@ -8125,6 +8129,10 @@
 ## ![WeChat](https://img.shields.io/static/v1?style=for-the-badge&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=)
 ```markdown
 ![WeChat](https://img.shields.io/static/v1?style=for-the-badge&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=)
+```
+## ![WeGame](https://img.shields.io/static/v1?style=for-the-badge&message=WeGame&color=222222&logo=WeGame&logoColor=FAAB00&label=)
+```markdown
+![WeGame](https://img.shields.io/static/v1?style=for-the-badge&message=WeGame&color=222222&logo=WeGame&logoColor=FAAB00&label=)
 ```
 ## ![Weights & Biases](https://img.shields.io/static/v1?style=for-the-badge&message=Weights+%26+Biases&color=222222&logo=Weights+%26+Biases&logoColor=FFBE00&label=)
 ```markdown
