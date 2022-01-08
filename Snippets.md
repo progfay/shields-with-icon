@@ -2758,6 +2758,10 @@
 ```markdown
 ![FutureLearn](https://img.shields.io/static/v1?style=for-the-badge&message=FutureLearn&color=DE00A5&logo=FutureLearn&logoColor=FFFFFF&label=)
 ```
+## ![G2](https://img.shields.io/static/v1?style=for-the-badge&message=G2&color=FF492C&logo=G2&logoColor=FFFFFF&label=)
+```markdown
+![G2](https://img.shields.io/static/v1?style=for-the-badge&message=G2&color=FF492C&logo=G2&logoColor=FFFFFF&label=)
+```
 ## ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
 ```markdown
 ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
