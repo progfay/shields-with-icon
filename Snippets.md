@@ -762,6 +762,10 @@
 ```markdown
 ![Atom](https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=66595C&logo=Atom&logoColor=FFFFFF&label=)
 ```
+## ![Auchan](https://img.shields.io/static/v1?style=for-the-badge&message=Auchan&color=D6180B&logo=Auchan&logoColor=FFFFFF&label=)
+```markdown
+![Auchan](https://img.shields.io/static/v1?style=for-the-badge&message=Auchan&color=D6180B&logo=Auchan&logoColor=FFFFFF&label=)
+```
 ## ![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
 ```markdown
 ![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
@@ -2489,6 +2493,10 @@
 ## ![FedEx](https://img.shields.io/static/v1?style=for-the-badge&message=FedEx&color=4D148C&logo=FedEx&logoColor=FFFFFF&label=)
 ```markdown
 ![FedEx](https://img.shields.io/static/v1?style=for-the-badge&message=FedEx&color=4D148C&logo=FedEx&logoColor=FFFFFF&label=)
+```
+## ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)
+```markdown
+![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)
 ```
 ## ![Feedly](https://img.shields.io/static/v1?style=for-the-badge&message=Feedly&color=2BB24C&logo=Feedly&logoColor=FFFFFF&label=)
 ```markdown
@@ -4369,6 +4377,10 @@
 ## ![Macy’s](https://img.shields.io/static/v1?style=for-the-badge&message=Macy%E2%80%99s&color=E21A2C&logo=Macy%E2%80%99s&logoColor=FFFFFF&label=)
 ```markdown
 ![Macy’s](https://img.shields.io/static/v1?style=for-the-badge&message=Macy%E2%80%99s&color=E21A2C&logo=Macy%E2%80%99s&logoColor=FFFFFF&label=)
+```
+## ![Magasins U](https://img.shields.io/static/v1?style=for-the-badge&message=Magasins+U&color=E71B34&logo=Magasins+U&logoColor=FFFFFF&label=)
+```markdown
+![Magasins U](https://img.shields.io/static/v1?style=for-the-badge&message=Magasins+U&color=E71B34&logo=Magasins+U&logoColor=FFFFFF&label=)
 ```
 ## ![Magento](https://img.shields.io/static/v1?style=for-the-badge&message=Magento&color=EE672F&logo=Magento&logoColor=FFFFFF&label=)
 ```markdown
