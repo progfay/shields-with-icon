@@ -4770,6 +4770,10 @@
 ```markdown
 ![Monero](https://img.shields.io/static/v1?style=for-the-badge&message=Monero&color=FF6600&logo=Monero&logoColor=FFFFFF&label=)
 ```
+## ![MoneyGram](https://img.shields.io/static/v1?style=for-the-badge&message=MoneyGram&color=FF6600&logo=MoneyGram&logoColor=FFFFFF&label=)
+```markdown
+![MoneyGram](https://img.shields.io/static/v1?style=for-the-badge&message=MoneyGram&color=FF6600&logo=MoneyGram&logoColor=FFFFFF&label=)
+```
 ## ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ```markdown
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)

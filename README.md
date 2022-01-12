@@ -1191,6 +1191,7 @@
 ![Moleculer](https://img.shields.io/static/v1?style=for-the-badge&message=Moleculer&color=3CAFCE&logo=Moleculer&logoColor=FFFFFF&label=)
 ![Momenteo](https://img.shields.io/static/v1?style=for-the-badge&message=Momenteo&color=5A6AB1&logo=Momenteo&logoColor=FFFFFF&label=)
 ![Monero](https://img.shields.io/static/v1?style=for-the-badge&message=Monero&color=FF6600&logo=Monero&logoColor=FFFFFF&label=)
+![MoneyGram](https://img.shields.io/static/v1?style=for-the-badge&message=MoneyGram&color=FF6600&logo=MoneyGram&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![monkey tie](https://img.shields.io/static/v1?style=for-the-badge&message=monkey+tie&color=1A52C2&logo=monkey+tie&logoColor=FFFFFF&label=)
 ![Monster](https://img.shields.io/static/v1?style=for-the-badge&message=Monster&color=6D4C9F&logo=Monster&logoColor=FFFFFF&label=)
