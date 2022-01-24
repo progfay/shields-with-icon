@@ -4942,6 +4942,10 @@
 ```markdown
 ![NetApp](https://img.shields.io/static/v1?style=for-the-badge&message=NetApp&color=0067C5&logo=NetApp&logoColor=FFFFFF&label=)
 ```
+## ![NetBSD](https://img.shields.io/static/v1?style=for-the-badge&message=NetBSD&color=FF6600&logo=NetBSD&logoColor=FFFFFF&label=)
+```markdown
+![NetBSD](https://img.shields.io/static/v1?style=for-the-badge&message=NetBSD&color=FF6600&logo=NetBSD&logoColor=FFFFFF&label=)
+```
 ## ![Netflix](https://img.shields.io/static/v1?style=for-the-badge&message=Netflix&color=E50914&logo=Netflix&logoColor=FFFFFF&label=)
 ```markdown
 ![Netflix](https://img.shields.io/static/v1?style=for-the-badge&message=Netflix&color=E50914&logo=Netflix&logoColor=FFFFFF&label=)
@@ -8061,6 +8065,10 @@
 ## ![VSCO](https://img.shields.io/static/v1?style=for-the-badge&message=VSCO&color=000000&logo=VSCO&logoColor=FFFFFF&label=)
 ```markdown
 ![VSCO](https://img.shields.io/static/v1?style=for-the-badge&message=VSCO&color=000000&logo=VSCO&logoColor=FFFFFF&label=)
+```
+## ![VTEX](https://img.shields.io/static/v1?style=for-the-badge&message=VTEX&color=ED125F&logo=VTEX&logoColor=FFFFFF&label=)
+```markdown
+![VTEX](https://img.shields.io/static/v1?style=for-the-badge&message=VTEX&color=ED125F&logo=VTEX&logoColor=FFFFFF&label=)
 ```
 ## ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ```markdown
