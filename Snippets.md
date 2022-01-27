@@ -4118,6 +4118,10 @@
 ```markdown
 ![Kubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Kubuntu&color=0079C1&logo=Kubuntu&logoColor=FFFFFF&label=)
 ```
+## ![Kuma](https://img.shields.io/static/v1?style=for-the-badge&message=Kuma&color=290B53&logo=Kuma&logoColor=FFFFFF&label=)
+```markdown
+![Kuma](https://img.shields.io/static/v1?style=for-the-badge&message=Kuma&color=290B53&logo=Kuma&logoColor=FFFFFF&label=)
+```
 ## ![Kyocera](https://img.shields.io/static/v1?style=for-the-badge&message=Kyocera&color=DF0522&logo=Kyocera&logoColor=FFFFFF&label=)
 ```markdown
 ![Kyocera](https://img.shields.io/static/v1?style=for-the-badge&message=Kyocera&color=DF0522&logo=Kyocera&logoColor=FFFFFF&label=)

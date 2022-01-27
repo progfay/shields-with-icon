@@ -1028,6 +1028,7 @@
 ![Kuaishou](https://img.shields.io/static/v1?style=for-the-badge&message=Kuaishou&color=FF4906&logo=Kuaishou&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![Kubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Kubuntu&color=0079C1&logo=Kubuntu&logoColor=FFFFFF&label=)
+![Kuma](https://img.shields.io/static/v1?style=for-the-badge&message=Kuma&color=290B53&logo=Kuma&logoColor=FFFFFF&label=)
 ![Kyocera](https://img.shields.io/static/v1?style=for-the-badge&message=Kyocera&color=DF0522&logo=Kyocera&logoColor=FFFFFF&label=)
 ![LabVIEW](https://img.shields.io/static/v1?style=for-the-badge&message=LabVIEW&color=222222&logo=LabVIEW&logoColor=FFDB00&label=)
 ![Lada](https://img.shields.io/static/v1?style=for-the-badge&message=Lada&color=ED6B21&logo=Lada&logoColor=FFFFFF&label=)
