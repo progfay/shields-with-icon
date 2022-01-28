@@ -5382,6 +5382,10 @@
 ```markdown
 ![osu!](https://img.shields.io/static/v1?style=for-the-badge&message=osu%21&color=FF66AA&logo=osu%21&logoColor=FFFFFF&label=)
 ```
+## ![Otto](https://img.shields.io/static/v1?style=for-the-badge&message=Otto&color=D4021D&logo=Otto&logoColor=FFFFFF&label=)
+```markdown
+![Otto](https://img.shields.io/static/v1?style=for-the-badge&message=Otto&color=D4021D&logo=Otto&logoColor=FFFFFF&label=)
+```
 ## ![Overcast](https://img.shields.io/static/v1?style=for-the-badge&message=Overcast&color=FC7E0F&logo=Overcast&logoColor=FFFFFF&label=)
 ```markdown
 ![Overcast](https://img.shields.io/static/v1?style=for-the-badge&message=Overcast&color=FC7E0F&logo=Overcast&logoColor=FFFFFF&label=)
@@ -6405,6 +6409,10 @@
 ## ![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
 ```markdown
 ![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
+```
+## ![Rossmann](https://img.shields.io/static/v1?style=for-the-badge&message=Rossmann&color=C3002D&logo=Rossmann&logoColor=FFFFFF&label=)
+```markdown
+![Rossmann](https://img.shields.io/static/v1?style=for-the-badge&message=Rossmann&color=C3002D&logo=Rossmann&logoColor=FFFFFF&label=)
 ```
 ## ![Rotary International](https://img.shields.io/static/v1?style=for-the-badge&message=Rotary+International&color=222222&logo=Rotary+International&logoColor=F7A81B&label=)
 ```markdown
