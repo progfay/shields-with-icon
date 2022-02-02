@@ -1068,6 +1068,7 @@
 ![LINE](https://img.shields.io/static/v1?style=for-the-badge&message=LINE&color=222222&logo=LINE&logoColor=00C300&label=)
 ![LineageOS](https://img.shields.io/static/v1?style=for-the-badge&message=LineageOS&color=167C80&logo=LineageOS&logoColor=FFFFFF&label=)
 ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+![Linkfire](https://img.shields.io/static/v1?style=for-the-badge&message=Linkfire&color=FF3850&logo=Linkfire&logoColor=FFFFFF&label=)
 ![Linktree](https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)
 ![Linode](https://img.shields.io/static/v1?style=for-the-badge&message=Linode&color=00A95C&logo=Linode&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)

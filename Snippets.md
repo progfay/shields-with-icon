@@ -4278,6 +4278,10 @@
 ```markdown
 ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
 ```
+## ![Linkfire](https://img.shields.io/static/v1?style=for-the-badge&message=Linkfire&color=FF3850&logo=Linkfire&logoColor=FFFFFF&label=)
+```markdown
+![Linkfire](https://img.shields.io/static/v1?style=for-the-badge&message=Linkfire&color=FF3850&logo=Linkfire&logoColor=FFFFFF&label=)
+```
 ## ![Linktree](https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)
 ```markdown
 ![Linktree](https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)
