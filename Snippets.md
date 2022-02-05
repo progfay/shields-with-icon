@@ -5654,6 +5654,10 @@
 ```markdown
 ![pixiv](https://img.shields.io/static/v1?style=for-the-badge&message=pixiv&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
 ```
+## ![pkgsrc](https://img.shields.io/static/v1?style=for-the-badge&message=pkgsrc&color=FF6600&logo=pkgsrc&logoColor=FFFFFF&label=)
+```markdown
+![pkgsrc](https://img.shields.io/static/v1?style=for-the-badge&message=pkgsrc&color=FF6600&logo=pkgsrc&logoColor=FFFFFF&label=)
+```
 ## ![Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Planet&color=009DB1&logo=Planet&logoColor=FFFFFF&label=)
 ```markdown
 ![Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Planet&color=009DB1&logo=Planet&logoColor=FFFFFF&label=)

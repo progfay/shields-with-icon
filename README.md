@@ -1412,6 +1412,7 @@
 ![Pix](https://img.shields.io/static/v1?style=for-the-badge&message=Pix&color=222222&logo=Pix&logoColor=77B6A8&label=)
 ![Pixabay](https://img.shields.io/static/v1?style=for-the-badge&message=Pixabay&color=222222&logo=Pixabay&logoColor=2EC66D&label=)
 ![pixiv](https://img.shields.io/static/v1?style=for-the-badge&message=pixiv&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
+![pkgsrc](https://img.shields.io/static/v1?style=for-the-badge&message=pkgsrc&color=FF6600&logo=pkgsrc&logoColor=FFFFFF&label=)
 ![Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Planet&color=009DB1&logo=Planet&logoColor=FFFFFF&label=)
 ![PlanGrid](https://img.shields.io/static/v1?style=for-the-badge&message=PlanGrid&color=0085DE&logo=PlanGrid&logoColor=FFFFFF&label=)
 ![Platform.sh](https://img.shields.io/static/v1?style=for-the-badge&message=Platform.sh&color=1A182A&logo=Platform.sh&logoColor=FFFFFF&label=)
