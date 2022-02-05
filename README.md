@@ -436,6 +436,7 @@
 ![Craft CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Craft+CMS&color=E5422B&logo=Craft+CMS&logoColor=FFFFFF&label=)
 ![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
 ![Creative Commons](https://img.shields.io/static/v1?style=for-the-badge&message=Creative+Commons&color=222222&logo=Creative+Commons&logoColor=EF9421&label=)
+![Credly](https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)
 ![Crehana](https://img.shields.io/static/v1?style=for-the-badge&message=Crehana&color=4B22F4&logo=Crehana&logoColor=FFFFFF&label=)
 ![Crowdin](https://img.shields.io/static/v1?style=for-the-badge&message=Crowdin&color=2E3340&logo=Crowdin&logoColor=FFFFFF&label=)
 ![Crowdsource](https://img.shields.io/static/v1?style=for-the-badge&message=Crowdsource&color=4285F4&logo=Crowdsource&logoColor=FFFFFF&label=)

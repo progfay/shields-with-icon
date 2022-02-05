@@ -1750,6 +1750,10 @@
 ```markdown
 ![Creative Commons](https://img.shields.io/static/v1?style=for-the-badge&message=Creative+Commons&color=222222&logo=Creative+Commons&logoColor=EF9421&label=)
 ```
+## ![Credly](https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)
+```markdown
+![Credly](https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=)
+```
 ## ![Crehana](https://img.shields.io/static/v1?style=for-the-badge&message=Crehana&color=4B22F4&logo=Crehana&logoColor=FFFFFF&label=)
 ```markdown
 ![Crehana](https://img.shields.io/static/v1?style=for-the-badge&message=Crehana&color=4B22F4&logo=Crehana&logoColor=FFFFFF&label=)
