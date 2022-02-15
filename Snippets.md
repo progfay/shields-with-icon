@@ -2642,6 +2642,10 @@
 ```markdown
 ![Flood](https://img.shields.io/static/v1?style=for-the-badge&message=Flood&color=4285F4&logo=Flood&logoColor=FFFFFF&label=)
 ```
+## ![Fluent Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Fluent+Bit&color=222222&logo=Fluent+Bit&logoColor=49BDA5&label=)
+```markdown
+![Fluent Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Fluent+Bit&color=222222&logo=Fluent+Bit&logoColor=49BDA5&label=)
+```
 ## ![Fluentd](https://img.shields.io/static/v1?style=for-the-badge&message=Fluentd&color=0E83C8&logo=Fluentd&logoColor=FFFFFF&label=)
 ```markdown
 ![Fluentd](https://img.shields.io/static/v1?style=for-the-badge&message=Fluentd&color=0E83C8&logo=Fluentd&logoColor=FFFFFF&label=)
@@ -3689,6 +3693,10 @@
 ## ![Intercom](https://img.shields.io/static/v1?style=for-the-badge&message=Intercom&color=222222&logo=Intercom&logoColor=6AFDEF&label=)
 ```markdown
 ![Intercom](https://img.shields.io/static/v1?style=for-the-badge&message=Intercom&color=222222&logo=Intercom&logoColor=6AFDEF&label=)
+```
+## ![Intermarche](https://img.shields.io/static/v1?style=for-the-badge&message=Intermarche&color=E2001A&logo=Intermarche&logoColor=FFFFFF&label=)
+```markdown
+![Intermarche](https://img.shields.io/static/v1?style=for-the-badge&message=Intermarche&color=E2001A&logo=Intermarche&logoColor=FFFFFF&label=)
 ```
 ## ![Internet Archive](https://img.shields.io/static/v1?style=for-the-badge&message=Internet+Archive&color=666666&logo=Internet+Archive&logoColor=FFFFFF&label=)
 ```markdown
@@ -6205,6 +6213,10 @@
 ## ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ```markdown
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+```
+## ![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
+```markdown
+![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
 ```
 ## ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 ```markdown
