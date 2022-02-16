@@ -4194,6 +4194,10 @@
 ```markdown
 ![LBRY](https://img.shields.io/static/v1?style=for-the-badge&message=LBRY&color=2F9176&logo=LBRY&logoColor=FFFFFF&label=)
 ```
+## ![Leader Price](https://img.shields.io/static/v1?style=for-the-badge&message=Leader+Price&color=E50005&logo=Leader+Price&logoColor=FFFFFF&label=)
+```markdown
+![Leader Price](https://img.shields.io/static/v1?style=for-the-badge&message=Leader+Price&color=E50005&logo=Leader+Price&logoColor=FFFFFF&label=)
+```
 ## ![Leaflet](https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=199900&logo=Leaflet&logoColor=FFFFFF&label=)
 ```markdown
 ![Leaflet](https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=199900&logo=Leaflet&logoColor=FFFFFF&label=)
@@ -5613,6 +5617,10 @@
 ## ![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=96060C&logo=Pi-hole&logoColor=FFFFFF&label=)
 ```markdown
 ![Pi-hole](https://img.shields.io/static/v1?style=for-the-badge&message=Pi-hole&color=96060C&logo=Pi-hole&logoColor=FFFFFF&label=)
+```
+## ![Picard Surgelés](https://img.shields.io/static/v1?style=for-the-badge&message=Picard+Surgel%C3%A9s&color=2D4999&logo=Picard+Surgel%C3%A9s&logoColor=FFFFFF&label=)
+```markdown
+![Picard Surgelés](https://img.shields.io/static/v1?style=for-the-badge&message=Picard+Surgel%C3%A9s&color=2D4999&logo=Picard+Surgel%C3%A9s&logoColor=FFFFFF&label=)
 ```
 ## ![Picarto.TV](https://img.shields.io/static/v1?style=for-the-badge&message=Picarto.TV&color=1DA456&logo=Picarto.TV&logoColor=FFFFFF&label=)
 ```markdown
