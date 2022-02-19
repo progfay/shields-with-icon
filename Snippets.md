@@ -1578,9 +1578,9 @@
 ```markdown
 ![CodeMirror](https://img.shields.io/static/v1?style=for-the-badge&message=CodeMirror&color=D30707&logo=CodeMirror&logoColor=FFFFFF&label=)
 ```
-## ![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=222222&logo=CodeNewbie&logoColor=6BD80B&label=)
+## ![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=9013FE&logo=CodeNewbie&logoColor=FFFFFF&label=)
 ```markdown
-![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=222222&logo=CodeNewbie&logoColor=6BD80B&label=)
+![CodeNewbie](https://img.shields.io/static/v1?style=for-the-badge&message=CodeNewbie&color=9013FE&logo=CodeNewbie&logoColor=FFFFFF&label=)
 ```
 ## ![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)
 ```markdown
@@ -1701,6 +1701,10 @@
 ## ![Cookiecutter](https://img.shields.io/static/v1?style=for-the-badge&message=Cookiecutter&color=222222&logo=Cookiecutter&logoColor=D4AA00&label=)
 ```markdown
 ![Cookiecutter](https://img.shields.io/static/v1?style=for-the-badge&message=Cookiecutter&color=222222&logo=Cookiecutter&logoColor=D4AA00&label=)
+```
+## ![Cora](https://img.shields.io/static/v1?style=for-the-badge&message=Cora&color=E61845&logo=Cora&logoColor=FFFFFF&label=)
+```markdown
+![Cora](https://img.shields.io/static/v1?style=for-the-badge&message=Cora&color=E61845&logo=Cora&logoColor=FFFFFF&label=)
 ```
 ## ![Corona Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Corona+Engine&color=F96F29&logo=Corona+Engine&logoColor=FFFFFF&label=)
 ```markdown
@@ -2478,9 +2482,9 @@
 ```markdown
 ![Fandango](https://img.shields.io/static/v1?style=for-the-badge&message=Fandango&color=FF7300&logo=Fandango&logoColor=FFFFFF&label=)
 ```
-## ![Fandom](https://img.shields.io/static/v1?style=for-the-badge&message=Fandom&color=222222&logo=Fandom&logoColor=00D6D6&label=)
+## ![Fandom](https://img.shields.io/static/v1?style=for-the-badge&message=Fandom&color=FA005A&logo=Fandom&logoColor=FFFFFF&label=)
 ```markdown
-![Fandom](https://img.shields.io/static/v1?style=for-the-badge&message=Fandom&color=222222&logo=Fandom&logoColor=00D6D6&label=)
+![Fandom](https://img.shields.io/static/v1?style=for-the-badge&message=Fandom&color=FA005A&logo=Fandom&logoColor=FFFFFF&label=)
 ```
 ## ![FARFETCH](https://img.shields.io/static/v1?style=for-the-badge&message=FARFETCH&color=000000&logo=FARFETCH&logoColor=FFFFFF&label=)
 ```markdown
@@ -6925,6 +6929,10 @@
 ## ![Snyk](https://img.shields.io/static/v1?style=for-the-badge&message=Snyk&color=4C4A73&logo=Snyk&logoColor=FFFFFF&label=)
 ```markdown
 ![Snyk](https://img.shields.io/static/v1?style=for-the-badge&message=Snyk&color=4C4A73&logo=Snyk&logoColor=FFFFFF&label=)
+```
+## ![Social Blade](https://img.shields.io/static/v1?style=for-the-badge&message=Social+Blade&color=B3382C&logo=Social+Blade&logoColor=FFFFFF&label=)
+```markdown
+![Social Blade](https://img.shields.io/static/v1?style=for-the-badge&message=Social+Blade&color=B3382C&logo=Social+Blade&logoColor=FFFFFF&label=)
 ```
 ## ![Society6](https://img.shields.io/static/v1?style=for-the-badge&message=Society6&color=000000&logo=Society6&logoColor=FFFFFF&label=)
 ```markdown
