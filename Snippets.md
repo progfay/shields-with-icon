@@ -6326,6 +6326,10 @@
 ```markdown
 ![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=667881&logo=Replit&logoColor=FFFFFF&label=)
 ```
+## ![Republic of Gamers](https://img.shields.io/static/v1?style=for-the-badge&message=Republic+of+Gamers&color=FF0029&logo=Republic+of+Gamers&logoColor=FFFFFF&label=)
+```markdown
+![Republic of Gamers](https://img.shields.io/static/v1?style=for-the-badge&message=Republic+of+Gamers&color=FF0029&logo=Republic+of+Gamers&logoColor=FFFFFF&label=)
+```
 ## ![ReScript](https://img.shields.io/static/v1?style=for-the-badge&message=ReScript&color=E6484F&logo=ReScript&logoColor=FFFFFF&label=)
 ```markdown
 ![ReScript](https://img.shields.io/static/v1?style=for-the-badge&message=ReScript&color=E6484F&logo=ReScript&logoColor=FFFFFF&label=)
@@ -7489,6 +7493,10 @@
 ## ![Telegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Telegraph&color=222222&logo=Telegraph&logoColor=FAFAFA&label=)
 ```markdown
 ![Telegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Telegraph&color=222222&logo=Telegraph&logoColor=FAFAFA&label=)
+```
+## ![Temporal](https://img.shields.io/static/v1?style=for-the-badge&message=Temporal&color=000000&logo=Temporal&logoColor=FFFFFF&label=)
+```markdown
+![Temporal](https://img.shields.io/static/v1?style=for-the-badge&message=Temporal&color=000000&logo=Temporal&logoColor=FFFFFF&label=)
 ```
 ## ![Tencent QQ](https://img.shields.io/static/v1?style=for-the-badge&message=Tencent+QQ&color=EB1923&logo=Tencent+QQ&logoColor=FFFFFF&label=)
 ```markdown
