@@ -6214,6 +6214,10 @@
 ```markdown
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ```
+## ![Ray](https://img.shields.io/static/v1?style=for-the-badge&message=Ray&color=028CF0&logo=Ray&logoColor=FFFFFF&label=)
+```markdown
+![Ray](https://img.shields.io/static/v1?style=for-the-badge&message=Ray&color=028CF0&logo=Ray&logoColor=FFFFFF&label=)
+```
 ## ![Razer](https://img.shields.io/static/v1?style=for-the-badge&message=Razer&color=222222&logo=Razer&logoColor=00FF00&label=)
 ```markdown
 ![Razer](https://img.shields.io/static/v1?style=for-the-badge&message=Razer&color=222222&logo=Razer&logoColor=00FF00&label=)

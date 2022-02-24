@@ -1552,6 +1552,7 @@
 ![Rancher](https://img.shields.io/static/v1?style=for-the-badge&message=Rancher&color=0075A8&logo=Rancher&logoColor=FFFFFF&label=)
 ![Rarible](https://img.shields.io/static/v1?style=for-the-badge&message=Rarible&color=222222&logo=Rarible&logoColor=FEDA03&label=)
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+![Ray](https://img.shields.io/static/v1?style=for-the-badge&message=Ray&color=028CF0&logo=Ray&logoColor=FFFFFF&label=)
 ![Razer](https://img.shields.io/static/v1?style=for-the-badge&message=Razer&color=222222&logo=Razer&logoColor=00FF00&label=)
 ![Razorpay](https://img.shields.io/static/v1?style=for-the-badge&message=Razorpay&color=0C2451&logo=Razorpay&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
