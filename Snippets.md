@@ -6426,6 +6426,10 @@
 ```markdown
 ![Rocket.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket.Chat&color=F5455C&logo=Rocket.Chat&logoColor=FFFFFF&label=)
 ```
+## ![RocksDB](https://img.shields.io/static/v1?style=for-the-badge&message=RocksDB&color=2A2A2A&logo=RocksDB&logoColor=FFFFFF&label=)
+```markdown
+![RocksDB](https://img.shields.io/static/v1?style=for-the-badge&message=RocksDB&color=2A2A2A&logo=RocksDB&logoColor=FFFFFF&label=)
+```
 ## ![Rocky Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Rocky+Linux&color=10B981&logo=Rocky+Linux&logoColor=FFFFFF&label=)
 ```markdown
 ![Rocky Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Rocky+Linux&color=10B981&logo=Rocky+Linux&logoColor=FFFFFF&label=)
@@ -7153,6 +7157,10 @@
 ## ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ```markdown
 ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
+```
+## ![StackEdit](https://img.shields.io/static/v1?style=for-the-badge&message=StackEdit&color=606060&logo=StackEdit&logoColor=FFFFFF&label=)
+```markdown
+![StackEdit](https://img.shields.io/static/v1?style=for-the-badge&message=StackEdit&color=606060&logo=StackEdit&logoColor=FFFFFF&label=)
 ```
 ## ![StackPath](https://img.shields.io/static/v1?style=for-the-badge&message=StackPath&color=000000&logo=StackPath&logoColor=FFFFFF&label=)
 ```markdown
