@@ -274,6 +274,10 @@
 ```markdown
 ![Airtable](https://img.shields.io/static/v1?style=for-the-badge&message=Airtable&color=222222&logo=Airtable&logoColor=18BFFF&label=)
 ```
+## ![AJV](https://img.shields.io/static/v1?style=for-the-badge&message=AJV&color=222222&logo=AJV&logoColor=23C8D2&label=)
+```markdown
+![AJV](https://img.shields.io/static/v1?style=for-the-badge&message=AJV&color=222222&logo=AJV&logoColor=23C8D2&label=)
+```
 ## ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
 ```markdown
 ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
@@ -4105,6 +4109,10 @@
 ## ![Komoot](https://img.shields.io/static/v1?style=for-the-badge&message=Komoot&color=6AA127&logo=Komoot&logoColor=FFFFFF&label=)
 ```markdown
 ![Komoot](https://img.shields.io/static/v1?style=for-the-badge&message=Komoot&color=6AA127&logo=Komoot&logoColor=FFFFFF&label=)
+```
+## ![Konami](https://img.shields.io/static/v1?style=for-the-badge&message=Konami&color=B60014&logo=Konami&logoColor=FFFFFF&label=)
+```markdown
+![Konami](https://img.shields.io/static/v1?style=for-the-badge&message=Konami&color=B60014&logo=Konami&logoColor=FFFFFF&label=)
 ```
 ## ![Kongregate](https://img.shields.io/static/v1?style=for-the-badge&message=Kongregate&color=990000&logo=Kongregate&logoColor=FFFFFF&label=)
 ```markdown
@@ -8585,6 +8593,10 @@
 ## ![Yoast](https://img.shields.io/static/v1?style=for-the-badge&message=Yoast&color=A4286A&logo=Yoast&logoColor=FFFFFF&label=)
 ```markdown
 ![Yoast](https://img.shields.io/static/v1?style=for-the-badge&message=Yoast&color=A4286A&logo=Yoast&logoColor=FFFFFF&label=)
+```
+## ![YOLO](https://img.shields.io/static/v1?style=for-the-badge&message=YOLO&color=222222&logo=YOLO&logoColor=00FFFF&label=)
+```markdown
+![YOLO](https://img.shields.io/static/v1?style=for-the-badge&message=YOLO&color=222222&logo=YOLO&logoColor=00FFFF&label=)
 ```
 ## ![YourTravel.TV](https://img.shields.io/static/v1?style=for-the-badge&message=YourTravel.TV&color=222222&logo=YourTravel.TV&logoColor=F79025&label=)
 ```markdown
