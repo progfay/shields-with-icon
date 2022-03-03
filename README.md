@@ -469,6 +469,7 @@
 ![Dashlane](https://img.shields.io/static/v1?style=for-the-badge&message=Dashlane&color=0E353D&logo=Dashlane&logoColor=FFFFFF&label=)
 ![Dassault Systèmes](https://img.shields.io/static/v1?style=for-the-badge&message=Dassault+Syst%C3%A8mes&color=005386&logo=Dassault+Syst%C3%A8mes&logoColor=FFFFFF&label=)
 ![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=Data+Version+Control&color=945DD6&logo=Data+Version+Control&logoColor=FFFFFF&label=)
+![data.ai](https://img.shields.io/static/v1?style=for-the-badge&message=data.ai&color=000000&logo=data.ai&logoColor=FFFFFF&label=)
 ![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
 ![DataCamp](https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=)
 ![Datadog](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog&color=632CA6&logo=Datadog&logoColor=FFFFFF&label=)

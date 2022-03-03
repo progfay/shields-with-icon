@@ -1882,6 +1882,10 @@
 ```markdown
 ![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=Data+Version+Control&color=945DD6&logo=Data+Version+Control&logoColor=FFFFFF&label=)
 ```
+## ![data.ai](https://img.shields.io/static/v1?style=for-the-badge&message=data.ai&color=000000&logo=data.ai&logoColor=FFFFFF&label=)
+```markdown
+![data.ai](https://img.shields.io/static/v1?style=for-the-badge&message=data.ai&color=000000&logo=data.ai&logoColor=FFFFFF&label=)
+```
 ## ![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
 ```markdown
 ![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
