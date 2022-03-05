@@ -1707,6 +1707,7 @@
 ![Simkl](https://img.shields.io/static/v1?style=for-the-badge&message=Simkl&color=000000&logo=Simkl&logoColor=FFFFFF&label=)
 ![Simple Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Analytics&color=FF4F64&logo=Simple+Analytics&logoColor=FFFFFF&label=)
 ![Simple Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Icons&color=111111&logo=Simple+Icons&logoColor=FFFFFF&label=)
+![Simplenote](https://img.shields.io/static/v1?style=for-the-badge&message=Simplenote&color=3361CC&logo=Simplenote&logoColor=FFFFFF&label=)
 ![Sina Weibo](https://img.shields.io/static/v1?style=for-the-badge&message=Sina+Weibo&color=E6162D&logo=Sina+Weibo&logoColor=FFFFFF&label=)
 ![SingleStore](https://img.shields.io/static/v1?style=for-the-badge&message=SingleStore&color=AA00FF&logo=SingleStore&logoColor=FFFFFF&label=)
 ![SitePoint](https://img.shields.io/static/v1?style=for-the-badge&message=SitePoint&color=258AAF&logo=SitePoint&logoColor=FFFFFF&label=)

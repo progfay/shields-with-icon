@@ -6834,6 +6834,10 @@
 ```markdown
 ![Simple Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Icons&color=111111&logo=Simple+Icons&logoColor=FFFFFF&label=)
 ```
+## ![Simplenote](https://img.shields.io/static/v1?style=for-the-badge&message=Simplenote&color=3361CC&logo=Simplenote&logoColor=FFFFFF&label=)
+```markdown
+![Simplenote](https://img.shields.io/static/v1?style=for-the-badge&message=Simplenote&color=3361CC&logo=Simplenote&logoColor=FFFFFF&label=)
+```
 ## ![Sina Weibo](https://img.shields.io/static/v1?style=for-the-badge&message=Sina+Weibo&color=E6162D&logo=Sina+Weibo&logoColor=FFFFFF&label=)
 ```markdown
 ![Sina Weibo](https://img.shields.io/static/v1?style=for-the-badge&message=Sina+Weibo&color=E6162D&logo=Sina+Weibo&logoColor=FFFFFF&label=)
