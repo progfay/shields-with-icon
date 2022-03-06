@@ -3546,6 +3546,10 @@
 ```markdown
 ![IBM](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=)
 ```
+## ![IBM Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Cloud&color=1261FE&logo=IBM+Cloud&logoColor=FFFFFF&label=)
+```markdown
+![IBM Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Cloud&color=1261FE&logo=IBM+Cloud&logoColor=FFFFFF&label=)
+```
 ## ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
 ```markdown
 ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
@@ -4421,6 +4425,10 @@
 ## ![Lumen](https://img.shields.io/static/v1?style=for-the-badge&message=Lumen&color=E74430&logo=Lumen&logoColor=FFFFFF&label=)
 ```markdown
 ![Lumen](https://img.shields.io/static/v1?style=for-the-badge&message=Lumen&color=E74430&logo=Lumen&logoColor=FFFFFF&label=)
+```
+## ![Lunacy](https://img.shields.io/static/v1?style=for-the-badge&message=Lunacy&color=179DE3&logo=Lunacy&logoColor=FFFFFF&label=)
+```markdown
+![Lunacy](https://img.shields.io/static/v1?style=for-the-badge&message=Lunacy&color=179DE3&logo=Lunacy&logoColor=FFFFFF&label=)
 ```
 ## ![Lydia](https://img.shields.io/static/v1?style=for-the-badge&message=Lydia&color=0180FF&logo=Lydia&logoColor=FFFFFF&label=)
 ```markdown
@@ -5373,6 +5381,10 @@
 ## ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
 ```markdown
 ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
+```
+## ![OpenZFS](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZFS&color=2A667F&logo=OpenZFS&logoColor=FFFFFF&label=)
+```markdown
+![OpenZFS](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZFS&color=2A667F&logo=OpenZFS&logoColor=FFFFFF&label=)
 ```
 ## ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
 ```markdown
@@ -8645,6 +8657,14 @@
 ## ![Zapier](https://img.shields.io/static/v1?style=for-the-badge&message=Zapier&color=FF4A00&logo=Zapier&logoColor=FFFFFF&label=)
 ```markdown
 ![Zapier](https://img.shields.io/static/v1?style=for-the-badge&message=Zapier&color=FF4A00&logo=Zapier&logoColor=FFFFFF&label=)
+```
+## ![Zara](https://img.shields.io/static/v1?style=for-the-badge&message=Zara&color=000000&logo=Zara&logoColor=FFFFFF&label=)
+```markdown
+![Zara](https://img.shields.io/static/v1?style=for-the-badge&message=Zara&color=000000&logo=Zara&logoColor=FFFFFF&label=)
+```
+## ![Zazzle](https://img.shields.io/static/v1?style=for-the-badge&message=Zazzle&color=212121&logo=Zazzle&logoColor=FFFFFF&label=)
+```markdown
+![Zazzle](https://img.shields.io/static/v1?style=for-the-badge&message=Zazzle&color=212121&logo=Zazzle&logoColor=FFFFFF&label=)
 ```
 ## ![Zcash](https://img.shields.io/static/v1?style=for-the-badge&message=Zcash&color=222222&logo=Zcash&logoColor=F4B728&label=)
 ```markdown
