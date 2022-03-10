@@ -1499,6 +1499,7 @@
 ![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=56B366&logo=ProtonVPN&logoColor=FFFFFF&label=)
 ![Protractor](https://img.shields.io/static/v1?style=for-the-badge&message=Protractor&color=ED163A&logo=Protractor&logoColor=FFFFFF&label=)
 ![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
+![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=FEAB02&label=)
 ![Publons](https://img.shields.io/static/v1?style=for-the-badge&message=Publons&color=336699&logo=Publons&logoColor=FFFFFF&label=)
 ![PubMed](https://img.shields.io/static/v1?style=for-the-badge&message=PubMed&color=326599&logo=PubMed&logoColor=FFFFFF&label=)
 ![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=)

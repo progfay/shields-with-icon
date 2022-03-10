@@ -6002,6 +6002,10 @@
 ```markdown
 ![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
 ```
+## ![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=FEAB02&label=)
+```markdown
+![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=FEAB02&label=)
+```
 ## ![Publons](https://img.shields.io/static/v1?style=for-the-badge&message=Publons&color=336699&logo=Publons&logoColor=FFFFFF&label=)
 ```markdown
 ![Publons](https://img.shields.io/static/v1?style=for-the-badge&message=Publons&color=336699&logo=Publons&logoColor=FFFFFF&label=)
