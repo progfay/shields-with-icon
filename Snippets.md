@@ -1698,6 +1698,10 @@
 ```markdown
 ![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
 ```
+## ![Conventional Commits](https://img.shields.io/static/v1?style=for-the-badge&message=Conventional+Commits&color=FE5196&logo=Conventional+Commits&logoColor=FFFFFF&label=)
+```markdown
+![Conventional Commits](https://img.shields.io/static/v1?style=for-the-badge&message=Conventional+Commits&color=FE5196&logo=Conventional+Commits&logoColor=FFFFFF&label=)
+```
 ## ![Convertio](https://img.shields.io/static/v1?style=for-the-badge&message=Convertio&color=FF3333&logo=Convertio&logoColor=FFFFFF&label=)
 ```markdown
 ![Convertio](https://img.shields.io/static/v1?style=for-the-badge&message=Convertio&color=FF3333&logo=Convertio&logoColor=FFFFFF&label=)
@@ -5353,6 +5357,10 @@
 ## ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
+```
+## ![OpenSearch](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSearch&color=005EB8&logo=OpenSearch&logoColor=FFFFFF&label=)
+```markdown
+![OpenSearch](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSearch&color=005EB8&logo=OpenSearch&logoColor=FFFFFF&label=)
 ```
 ## ![OpenSSL](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSSL&color=721412&logo=OpenSSL&logoColor=FFFFFF&label=)
 ```markdown
