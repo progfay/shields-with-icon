@@ -1454,6 +1454,7 @@
 ![Pocket Casts](https://img.shields.io/static/v1?style=for-the-badge&message=Pocket+Casts&color=F43E37&logo=Pocket+Casts&logoColor=FFFFFF&label=)
 ![Podcast Addict](https://img.shields.io/static/v1?style=for-the-badge&message=Podcast+Addict&color=F4842D&logo=Podcast+Addict&logoColor=FFFFFF&label=)
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
+![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
 ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
 ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
 ![Polkadot](https://img.shields.io/static/v1?style=for-the-badge&message=Polkadot&color=E6007A&logo=Polkadot&logoColor=FFFFFF&label=)

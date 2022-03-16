@@ -5822,6 +5822,10 @@
 ```markdown
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
 ```
+## ![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
+```markdown
+![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
+```
 ## ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
 ```markdown
 ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
