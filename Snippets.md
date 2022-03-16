@@ -274,9 +274,9 @@
 ```markdown
 ![Airtable](https://img.shields.io/static/v1?style=for-the-badge&message=Airtable&color=222222&logo=Airtable&logoColor=18BFFF&label=)
 ```
-## ![AJV](https://img.shields.io/static/v1?style=for-the-badge&message=AJV&color=222222&logo=AJV&logoColor=23C8D2&label=)
+## ![Ajv](https://img.shields.io/static/v1?style=for-the-badge&message=Ajv&color=222222&logo=Ajv&logoColor=23C8D2&label=)
 ```markdown
-![AJV](https://img.shields.io/static/v1?style=for-the-badge&message=AJV&color=222222&logo=AJV&logoColor=23C8D2&label=)
+![Ajv](https://img.shields.io/static/v1?style=for-the-badge&message=Ajv&color=222222&logo=Ajv&logoColor=23C8D2&label=)
 ```
 ## ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
 ```markdown
@@ -4553,6 +4553,10 @@
 ## ![Matrix](https://img.shields.io/static/v1?style=for-the-badge&message=Matrix&color=000000&logo=Matrix&logoColor=FFFFFF&label=)
 ```markdown
 ![Matrix](https://img.shields.io/static/v1?style=for-the-badge&message=Matrix&color=000000&logo=Matrix&logoColor=FFFFFF&label=)
+```
+## ![Matter.js](https://img.shields.io/static/v1?style=for-the-badge&message=Matter.js&color=222222&logo=Matter.js&logoColor=76F09B&label=)
+```markdown
+![Matter.js](https://img.shields.io/static/v1?style=for-the-badge&message=Matter.js&color=222222&logo=Matter.js&logoColor=76F09B&label=)
 ```
 ## ![Mattermost](https://img.shields.io/static/v1?style=for-the-badge&message=Mattermost&color=0058CC&logo=Mattermost&logoColor=FFFFFF&label=)
 ```markdown
