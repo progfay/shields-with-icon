@@ -1362,6 +1362,10 @@
 ```markdown
 ![Chef](https://img.shields.io/static/v1?style=for-the-badge&message=Chef&color=222222&logo=Chef&logoColor=F09820&label=)
 ```
+## ![Chemex](https://img.shields.io/static/v1?style=for-the-badge&message=Chemex&color=4D2B1A&logo=Chemex&logoColor=FFFFFF&label=)
+```markdown
+![Chemex](https://img.shields.io/static/v1?style=for-the-badge&message=Chemex&color=4D2B1A&logo=Chemex&logoColor=FFFFFF&label=)
+```
 ## ![Chevrolet](https://img.shields.io/static/v1?style=for-the-badge&message=Chevrolet&color=CD9834&logo=Chevrolet&logoColor=FFFFFF&label=)
 ```markdown
 ![Chevrolet](https://img.shields.io/static/v1?style=for-the-badge&message=Chevrolet&color=CD9834&logo=Chevrolet&logoColor=FFFFFF&label=)
@@ -1433,6 +1437,10 @@
 ## ![Claris](https://img.shields.io/static/v1?style=for-the-badge&message=Claris&color=000000&logo=Claris&logoColor=FFFFFF&label=)
 ```markdown
 ![Claris](https://img.shields.io/static/v1?style=for-the-badge&message=Claris&color=000000&logo=Claris&logoColor=FFFFFF&label=)
+```
+## ![ClickHouse](https://img.shields.io/static/v1?style=for-the-badge&message=ClickHouse&color=222222&logo=ClickHouse&logoColor=FFCC01&label=)
+```markdown
+![ClickHouse](https://img.shields.io/static/v1?style=for-the-badge&message=ClickHouse&color=222222&logo=ClickHouse&logoColor=FFCC01&label=)
 ```
 ## ![ClickUp](https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=)
 ```markdown
@@ -3198,6 +3206,10 @@
 ```markdown
 ![Grammarly](https://img.shields.io/static/v1?style=for-the-badge&message=Grammarly&color=222222&logo=Grammarly&logoColor=15C39A&label=)
 ```
+## ![Grand Frais](https://img.shields.io/static/v1?style=for-the-badge&message=Grand+Frais&color=ED2D2F&logo=Grand+Frais&logoColor=FFFFFF&label=)
+```markdown
+![Grand Frais](https://img.shields.io/static/v1?style=for-the-badge&message=Grand+Frais&color=ED2D2F&logo=Grand+Frais&logoColor=FFFFFF&label=)
+```
 ## ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ```markdown
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
@@ -3954,6 +3966,10 @@
 ```markdown
 ![JustGiving](https://img.shields.io/static/v1?style=for-the-badge&message=JustGiving&color=AD29B6&logo=JustGiving&logoColor=FFFFFF&label=)
 ```
+## ![K3s](https://img.shields.io/static/v1?style=for-the-badge&message=K3s&color=222222&logo=K3s&logoColor=FFC61C&label=)
+```markdown
+![K3s](https://img.shields.io/static/v1?style=for-the-badge&message=K3s&color=222222&logo=K3s&logoColor=FFC61C&label=)
+```
 ## ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
 ```markdown
 ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
@@ -4241,6 +4257,10 @@
 ## ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ```markdown
 ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
+```
+## ![Lens](https://img.shields.io/static/v1?style=for-the-badge&message=Lens&color=3D90CE&logo=Lens&logoColor=FFFFFF&label=)
+```markdown
+![Lens](https://img.shields.io/static/v1?style=for-the-badge&message=Lens&color=3D90CE&logo=Lens&logoColor=FFFFFF&label=)
 ```
 ## ![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=2F0268&logo=Lerna&logoColor=FFFFFF&label=)
 ```markdown
@@ -7389,6 +7409,10 @@
 ## ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ```markdown
 ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
+```
+## ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
+```markdown
+![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
 ```
 ## ![SurveyMonkey](https://img.shields.io/static/v1?style=for-the-badge&message=SurveyMonkey&color=222222&logo=SurveyMonkey&logoColor=00BF6F&label=)
 ```markdown
