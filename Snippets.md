@@ -842,6 +842,10 @@
 ```markdown
 ![AWS Amplify](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label=)
 ```
+## ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+```markdown
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+```
 ## ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
 ```markdown
 ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)

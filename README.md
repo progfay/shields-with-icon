@@ -209,6 +209,7 @@
 ![Awesome Lists](https://img.shields.io/static/v1?style=for-the-badge&message=Awesome+Lists&color=FC60A8&logo=Awesome+Lists&logoColor=FFFFFF&label=)
 ![awesomeWM](https://img.shields.io/static/v1?style=for-the-badge&message=awesomeWM&color=535D6C&logo=awesomeWM&logoColor=FFFFFF&label=)
 ![AWS Amplify](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label=)
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
 ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
 ![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
