@@ -1331,6 +1331,7 @@
 ![Okta](https://img.shields.io/static/v1?style=for-the-badge&message=Okta&color=007DC1&logo=Okta&logoColor=FFFFFF&label=)
 ![OnePlus](https://img.shields.io/static/v1?style=for-the-badge&message=OnePlus&color=F5010C&logo=OnePlus&logoColor=FFFFFF&label=)
 ![OnlyFans](https://img.shields.io/static/v1?style=for-the-badge&message=OnlyFans&color=00AFF0&logo=OnlyFans&logoColor=FFFFFF&label=)
+![ONLYOFFICE](https://img.shields.io/static/v1?style=for-the-badge&message=ONLYOFFICE&color=444444&logo=ONLYOFFICE&logoColor=FFFFFF&label=)
 ![ONNX](https://img.shields.io/static/v1?style=for-the-badge&message=ONNX&color=005CED&logo=ONNX&logoColor=FFFFFF&label=)
 ![OnStar](https://img.shields.io/static/v1?style=for-the-badge&message=OnStar&color=003D7D&logo=OnStar&logoColor=FFFFFF&label=)
 ![Opel](https://img.shields.io/static/v1?style=for-the-badge&message=Opel&color=222222&logo=Opel&logoColor=F7FF14&label=)
