@@ -682,6 +682,10 @@
 ```markdown
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ```
+## ![Argos](https://img.shields.io/static/v1?style=for-the-badge&message=Argos&color=DA291C&logo=Argos&logoColor=FFFFFF&label=)
+```markdown
+![Argos](https://img.shields.io/static/v1?style=for-the-badge&message=Argos&color=DA291C&logo=Argos&logoColor=FFFFFF&label=)
+```
 ## ![ARK Ecosystem](https://img.shields.io/static/v1?style=for-the-badge&message=ARK+Ecosystem&color=C9292C&logo=ARK+Ecosystem&logoColor=FFFFFF&label=)
 ```markdown
 ![ARK Ecosystem](https://img.shields.io/static/v1?style=for-the-badge&message=ARK+Ecosystem&color=C9292C&logo=ARK+Ecosystem&logoColor=FFFFFF&label=)
@@ -3782,6 +3786,10 @@
 ```markdown
 ![Ionic](https://img.shields.io/static/v1?style=for-the-badge&message=Ionic&color=3880FF&logo=Ionic&logoColor=FFFFFF&label=)
 ```
+## ![Ionos](https://img.shields.io/static/v1?style=for-the-badge&message=Ionos&color=003D8F&logo=Ionos&logoColor=FFFFFF&label=)
+```markdown
+![Ionos](https://img.shields.io/static/v1?style=for-the-badge&message=Ionos&color=003D8F&logo=Ionos&logoColor=FFFFFF&label=)
+```
 ## ![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)
 ```markdown
 ![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)
@@ -4017,6 +4025,10 @@
 ## ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
 ```markdown
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
+```
+## ![Kaniko](https://img.shields.io/static/v1?style=for-the-badge&message=Kaniko&color=222222&logo=Kaniko&logoColor=FFA600&label=)
+```markdown
+![Kaniko](https://img.shields.io/static/v1?style=for-the-badge&message=Kaniko&color=222222&logo=Kaniko&logoColor=FFA600&label=)
 ```
 ## ![Karlsruher Verkehrsverbund](https://img.shields.io/static/v1?style=for-the-badge&message=Karlsruher+Verkehrsverbund&color=9B2321&logo=Karlsruher+Verkehrsverbund&logoColor=FFFFFF&label=)
 ```markdown
@@ -8194,6 +8206,10 @@
 ```markdown
 ![Verizon](https://img.shields.io/static/v1?style=for-the-badge&message=Verizon&color=CD040B&logo=Verizon&logoColor=FFFFFF&label=)
 ```
+## ![VEXXHOST](https://img.shields.io/static/v1?style=for-the-badge&message=VEXXHOST&color=2A1659&logo=VEXXHOST&logoColor=FFFFFF&label=)
+```markdown
+![VEXXHOST](https://img.shields.io/static/v1?style=for-the-badge&message=VEXXHOST&color=2A1659&logo=VEXXHOST&logoColor=FFFFFF&label=)
+```
 ## ![vFairs](https://img.shields.io/static/v1?style=for-the-badge&message=vFairs&color=EF4678&logo=vFairs&logoColor=FFFFFF&label=)
 ```markdown
 ![vFairs](https://img.shields.io/static/v1?style=for-the-badge&message=vFairs&color=EF4678&logo=vFairs&logoColor=FFFFFF&label=)
@@ -8733,6 +8749,10 @@
 ## ![Z-Wave](https://img.shields.io/static/v1?style=for-the-badge&message=Z-Wave&color=1B365D&logo=Z-Wave&logoColor=FFFFFF&label=)
 ```markdown
 ![Z-Wave](https://img.shields.io/static/v1?style=for-the-badge&message=Z-Wave&color=1B365D&logo=Z-Wave&logoColor=FFFFFF&label=)
+```
+## ![Żabka](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%BBabka&color=006420&logo=%C5%BBabka&logoColor=FFFFFF&label=)
+```markdown
+![Żabka](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%BBabka&color=006420&logo=%C5%BBabka&logoColor=FFFFFF&label=)
 ```
 ## ![Zalando](https://img.shields.io/static/v1?style=for-the-badge&message=Zalando&color=FF6900&logo=Zalando&logoColor=FFFFFF&label=)
 ```markdown
