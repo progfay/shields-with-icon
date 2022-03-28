@@ -1044,6 +1044,7 @@
 ![Kofax](https://img.shields.io/static/v1?style=for-the-badge&message=Kofax&color=00558C&logo=Kofax&logoColor=FFFFFF&label=)
 ![Komoot](https://img.shields.io/static/v1?style=for-the-badge&message=Komoot&color=6AA127&logo=Komoot&logoColor=FFFFFF&label=)
 ![Konami](https://img.shields.io/static/v1?style=for-the-badge&message=Konami&color=B60014&logo=Konami&logoColor=FFFFFF&label=)
+![Kong](https://img.shields.io/static/v1?style=for-the-badge&message=Kong&color=003459&logo=Kong&logoColor=FFFFFF&label=)
 ![Kongregate](https://img.shields.io/static/v1?style=for-the-badge&message=Kongregate&color=990000&logo=Kongregate&logoColor=FFFFFF&label=)
 ![Konva](https://img.shields.io/static/v1?style=for-the-badge&message=Konva&color=0D83CD&logo=Konva&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)

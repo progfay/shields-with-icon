@@ -4182,6 +4182,10 @@
 ```markdown
 ![Konami](https://img.shields.io/static/v1?style=for-the-badge&message=Konami&color=B60014&logo=Konami&logoColor=FFFFFF&label=)
 ```
+## ![Kong](https://img.shields.io/static/v1?style=for-the-badge&message=Kong&color=003459&logo=Kong&logoColor=FFFFFF&label=)
+```markdown
+![Kong](https://img.shields.io/static/v1?style=for-the-badge&message=Kong&color=003459&logo=Kong&logoColor=FFFFFF&label=)
+```
 ## ![Kongregate](https://img.shields.io/static/v1?style=for-the-badge&message=Kongregate&color=990000&logo=Kongregate&logoColor=FFFFFF&label=)
 ```markdown
 ![Kongregate](https://img.shields.io/static/v1?style=for-the-badge&message=Kongregate&color=990000&logo=Kongregate&logoColor=FFFFFF&label=)
