@@ -2138,6 +2138,10 @@
 ```markdown
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ```
+## ![Docs.rs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs.rs&color=000000&logo=Docs.rs&logoColor=FFFFFF&label=)
+```markdown
+![Docs.rs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs.rs&color=000000&logo=Docs.rs&logoColor=FFFFFF&label=)
+```
 ## ![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)
 ```markdown
 ![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)

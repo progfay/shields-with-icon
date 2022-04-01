@@ -533,6 +533,7 @@
 ![DLNA](https://img.shields.io/static/v1?style=for-the-badge&message=DLNA&color=48A842&logo=DLNA&logoColor=FFFFFF&label=)
 ![dm](https://img.shields.io/static/v1?style=for-the-badge&message=dm&color=002878&logo=dm&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Docs.rs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs.rs&color=000000&logo=Docs.rs&logoColor=FFFFFF&label=)
 ![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)
 ![Dogecoin](https://img.shields.io/static/v1?style=for-the-badge&message=Dogecoin&color=222222&logo=Dogecoin&logoColor=C2A633&label=)
 ![Dolby](https://img.shields.io/static/v1?style=for-the-badge&message=Dolby&color=000000&logo=Dolby&logoColor=FFFFFF&label=)
