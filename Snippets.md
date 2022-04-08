@@ -3410,6 +3410,10 @@
 ```markdown
 ![HCL](https://img.shields.io/static/v1?style=for-the-badge&message=HCL&color=006BB6&logo=HCL&logoColor=FFFFFF&label=)
 ```
+## ![Headless UI](https://img.shields.io/static/v1?style=for-the-badge&message=Headless+UI&color=222222&logo=Headless+UI&logoColor=66E3FF&label=)
+```markdown
+![Headless UI](https://img.shields.io/static/v1?style=for-the-badge&message=Headless+UI&color=222222&logo=Headless+UI&logoColor=66E3FF&label=)
+```
 ## ![Headspace](https://img.shields.io/static/v1?style=for-the-badge&message=Headspace&color=F47D31&logo=Headspace&logoColor=FFFFFF&label=)
 ```markdown
 ![Headspace](https://img.shields.io/static/v1?style=for-the-badge&message=Headspace&color=F47D31&logo=Headspace&logoColor=FFFFFF&label=)
@@ -5690,6 +5694,10 @@
 ```markdown
 ![Personio](https://img.shields.io/static/v1?style=for-the-badge&message=Personio&color=222222&logo=Personio&logoColor=FFFFFF&label=)
 ```
+## ![Pets at Home](https://img.shields.io/static/v1?style=for-the-badge&message=Pets+at+Home&color=4BA840&logo=Pets+at+Home&logoColor=FFFFFF&label=)
+```markdown
+![Pets at Home](https://img.shields.io/static/v1?style=for-the-badge&message=Pets+at+Home&color=4BA840&logo=Pets+at+Home&logoColor=FFFFFF&label=)
+```
 ## ![Peugeot](https://img.shields.io/static/v1?style=for-the-badge&message=Peugeot&color=000000&logo=Peugeot&logoColor=FFFFFF&label=)
 ```markdown
 ![Peugeot](https://img.shields.io/static/v1?style=for-the-badge&message=Peugeot&color=000000&logo=Peugeot&logoColor=FFFFFF&label=)
@@ -6685,6 +6693,10 @@
 ## ![Sahibinden](https://img.shields.io/static/v1?style=for-the-badge&message=Sahibinden&color=222222&logo=Sahibinden&logoColor=FFE800&label=)
 ```markdown
 ![Sahibinden](https://img.shields.io/static/v1?style=for-the-badge&message=Sahibinden&color=222222&logo=Sahibinden&logoColor=FFE800&label=)
+```
+## ![Sailfish OS](https://img.shields.io/static/v1?style=for-the-badge&message=Sailfish+OS&color=053766&logo=Sailfish+OS&logoColor=FFFFFF&label=)
+```markdown
+![Sailfish OS](https://img.shields.io/static/v1?style=for-the-badge&message=Sailfish+OS&color=053766&logo=Sailfish+OS&logoColor=FFFFFF&label=)
 ```
 ## ![Salesforce](https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=00A1E0&logo=Salesforce&logoColor=FFFFFF&label=)
 ```markdown
@@ -8769,6 +8781,10 @@
 ## ![YouTube TV](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+TV&color=FF0000&logo=YouTube+TV&logoColor=FFFFFF&label=)
 ```markdown
 ![YouTube TV](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+TV&color=FF0000&logo=YouTube+TV&logoColor=FFFFFF&label=)
+```
+## ![Yubico](https://img.shields.io/static/v1?style=for-the-badge&message=Yubico&color=222222&logo=Yubico&logoColor=84BD00&label=)
+```markdown
+![Yubico](https://img.shields.io/static/v1?style=for-the-badge&message=Yubico&color=222222&logo=Yubico&logoColor=84BD00&label=)
 ```
 ## ![Z-Wave](https://img.shields.io/static/v1?style=for-the-badge&message=Z-Wave&color=1B365D&logo=Z-Wave&logoColor=FFFFFF&label=)
 ```markdown
