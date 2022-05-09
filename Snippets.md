@@ -3306,6 +3306,10 @@
 ```markdown
 ![Grunt](https://img.shields.io/static/v1?style=for-the-badge&message=Grunt&color=222222&logo=Grunt&logoColor=FAA918&label=)
 ```
+## ![GTK](https://img.shields.io/static/v1?style=for-the-badge&message=GTK&color=222222&logo=GTK&logoColor=7FE719&label=)
+```markdown
+![GTK](https://img.shields.io/static/v1?style=for-the-badge&message=GTK&color=222222&logo=GTK&logoColor=7FE719&label=)
+```
 ## ![Guangzhou Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Guangzhou+Metro&color=C51935&logo=Guangzhou+Metro&logoColor=FFFFFF&label=)
 ```markdown
 ![Guangzhou Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Guangzhou+Metro&color=C51935&logo=Guangzhou+Metro&logoColor=FFFFFF&label=)
@@ -6701,6 +6705,10 @@
 ## ![RTLZWEI](https://img.shields.io/static/v1?style=for-the-badge&message=RTLZWEI&color=222222&logo=RTLZWEI&logoColor=00BCF6&label=)
 ```markdown
 ![RTLZWEI](https://img.shields.io/static/v1?style=for-the-badge&message=RTLZWEI&color=222222&logo=RTLZWEI&logoColor=00BCF6&label=)
+```
+## ![RuboCop](https://img.shields.io/static/v1?style=for-the-badge&message=RuboCop&color=000000&logo=RuboCop&logoColor=FFFFFF&label=)
+```markdown
+![RuboCop](https://img.shields.io/static/v1?style=for-the-badge&message=RuboCop&color=000000&logo=RuboCop&logoColor=FFFFFF&label=)
 ```
 ## ![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
 ```markdown
