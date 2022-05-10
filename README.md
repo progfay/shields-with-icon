@@ -1179,6 +1179,7 @@
 ![McAfee](https://img.shields.io/static/v1?style=for-the-badge&message=McAfee&color=C01818&logo=McAfee&logoColor=FFFFFF&label=)
 ![McDonald's](https://img.shields.io/static/v1?style=for-the-badge&message=McDonald%27s&color=222222&logo=McDonald%27s&logoColor=FBC817&label=)
 ![McLaren](https://img.shields.io/static/v1?style=for-the-badge&message=McLaren&color=FF0000&logo=McLaren&logoColor=FFFFFF&label=)
+![mdBook](https://img.shields.io/static/v1?style=for-the-badge&message=mdBook&color=000000&logo=mdBook&logoColor=FFFFFF&label=)
 ![MDN Web Docs](https://img.shields.io/static/v1?style=for-the-badge&message=MDN+Web+Docs&color=000000&logo=MDN+Web+Docs&logoColor=FFFFFF&label=)
 ![MDX](https://img.shields.io/static/v1?style=for-the-badge&message=MDX&color=1B1F24&logo=MDX&logoColor=FFFFFF&label=)
 ![MediaFire](https://img.shields.io/static/v1?style=for-the-badge&message=MediaFire&color=1299F3&logo=MediaFire&logoColor=FFFFFF&label=)
