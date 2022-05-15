@@ -2390,6 +2390,10 @@
 ```markdown
 ![Enpass](https://img.shields.io/static/v1?style=for-the-badge&message=Enpass&color=0D47A1&logo=Enpass&logoColor=FFFFFF&label=)
 ```
+## ![EnterpriseDB](https://img.shields.io/static/v1?style=for-the-badge&message=EnterpriseDB&color=FF3E00&logo=EnterpriseDB&logoColor=FFFFFF&label=)
+```markdown
+![EnterpriseDB](https://img.shields.io/static/v1?style=for-the-badge&message=EnterpriseDB&color=FF3E00&logo=EnterpriseDB&logoColor=FFFFFF&label=)
+```
 ## ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
 ```markdown
 ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
@@ -7445,6 +7449,10 @@
 ## ![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
 ```markdown
 ![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
+```
+## ![Steam Deck](https://img.shields.io/static/v1?style=for-the-badge&message=Steam+Deck&color=1A9FFF&logo=Steam+Deck&logoColor=FFFFFF&label=)
+```markdown
+![Steam Deck](https://img.shields.io/static/v1?style=for-the-badge&message=Steam+Deck&color=1A9FFF&logo=Steam+Deck&logoColor=FFFFFF&label=)
 ```
 ## ![SteamDB](https://img.shields.io/static/v1?style=for-the-badge&message=SteamDB&color=000000&logo=SteamDB&logoColor=FFFFFF&label=)
 ```markdown
