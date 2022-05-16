@@ -4286,6 +4286,10 @@
 ```markdown
 ![Land Rover](https://img.shields.io/static/v1?style=for-the-badge&message=Land+Rover&color=005A2B&logo=Land+Rover&logoColor=FFFFFF&label=)
 ```
+## ![Lapce](https://img.shields.io/static/v1?style=for-the-badge&message=Lapce&color=3B82F6&logo=Lapce&logoColor=FFFFFF&label=)
+```markdown
+![Lapce](https://img.shields.io/static/v1?style=for-the-badge&message=Lapce&color=3B82F6&logo=Lapce&logoColor=FFFFFF&label=)
+```
 ## ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
 ```markdown
 ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)

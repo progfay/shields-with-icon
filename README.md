@@ -1070,6 +1070,7 @@
 ![Lada](https://img.shields.io/static/v1?style=for-the-badge&message=Lada&color=ED6B21&logo=Lada&logoColor=FFFFFF&label=)
 ![Lamborghini](https://img.shields.io/static/v1?style=for-the-badge&message=Lamborghini&color=222222&logo=Lamborghini&logoColor=DDB320&label=)
 ![Land Rover](https://img.shields.io/static/v1?style=for-the-badge&message=Land+Rover&color=005A2B&logo=Land+Rover&logoColor=FFFFFF&label=)
+![Lapce](https://img.shields.io/static/v1?style=for-the-badge&message=Lapce&color=3B82F6&logo=Lapce&logoColor=FFFFFF&label=)
 ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Laravel Horizon](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel+Horizon&color=405263&logo=Laravel+Horizon&logoColor=FFFFFF&label=)
