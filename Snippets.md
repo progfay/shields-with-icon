@@ -8274,6 +8274,10 @@
 ```markdown
 ![Vagrant](https://img.shields.io/static/v1?style=for-the-badge&message=Vagrant&color=1868F2&logo=Vagrant&logoColor=FFFFFF&label=)
 ```
+## ![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=FA4454&logo=Valorant&logoColor=FFFFFF&label=)
+```markdown
+![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=FA4454&logo=Valorant&logoColor=FFFFFF&label=)
+```
 ## ![Valve](https://img.shields.io/static/v1?style=for-the-badge&message=Valve&color=F74843&logo=Valve&logoColor=FFFFFF&label=)
 ```markdown
 ![Valve](https://img.shields.io/static/v1?style=for-the-badge&message=Valve&color=F74843&logo=Valve&logoColor=FFFFFF&label=)
@@ -8681,6 +8685,10 @@
 ## ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
 ```markdown
 ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
+```
+## ![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=00B9FF&label=)
+```markdown
+![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=00B9FF&label=)
 ```
 ## ![Wish](https://img.shields.io/static/v1?style=for-the-badge&message=Wish&color=222222&logo=Wish&logoColor=2FB7EC&label=)
 ```markdown
