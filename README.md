@@ -1132,6 +1132,7 @@
 ![Looker](https://img.shields.io/static/v1?style=for-the-badge&message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
 ![Loom](https://img.shields.io/static/v1?style=for-the-badge&message=Loom&color=625DF5&logo=Loom&logoColor=FFFFFF&label=)
 ![Loop](https://img.shields.io/static/v1?style=for-the-badge&message=Loop&color=222222&logo=Loop&logoColor=F29400&label=)
+![LoopBack](https://img.shields.io/static/v1?style=for-the-badge&message=LoopBack&color=3F5DFF&logo=LoopBack&logoColor=FFFFFF&label=)
 ![Lospec](https://img.shields.io/static/v1?style=for-the-badge&message=Lospec&color=222222&logo=Lospec&logoColor=EAEAEA&label=)
 ![LOT Polish Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=LOT+Polish+Airlines&color=11397E&logo=LOT+Polish+Airlines&logoColor=FFFFFF&label=)
 ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)

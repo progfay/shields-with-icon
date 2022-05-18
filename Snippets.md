@@ -4534,6 +4534,10 @@
 ```markdown
 ![Loop](https://img.shields.io/static/v1?style=for-the-badge&message=Loop&color=222222&logo=Loop&logoColor=F29400&label=)
 ```
+## ![LoopBack](https://img.shields.io/static/v1?style=for-the-badge&message=LoopBack&color=3F5DFF&logo=LoopBack&logoColor=FFFFFF&label=)
+```markdown
+![LoopBack](https://img.shields.io/static/v1?style=for-the-badge&message=LoopBack&color=3F5DFF&logo=LoopBack&logoColor=FFFFFF&label=)
+```
 ## ![Lospec](https://img.shields.io/static/v1?style=for-the-badge&message=Lospec&color=222222&logo=Lospec&logoColor=EAEAEA&label=)
 ```markdown
 ![Lospec](https://img.shields.io/static/v1?style=for-the-badge&message=Lospec&color=222222&logo=Lospec&logoColor=EAEAEA&label=)
