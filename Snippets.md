@@ -5562,6 +5562,10 @@
 ```markdown
 ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
 ```
+## ![OpenZeppelin](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZeppelin&color=4E5EE4&logo=OpenZeppelin&logoColor=FFFFFF&label=)
+```markdown
+![OpenZeppelin](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZeppelin&color=4E5EE4&logo=OpenZeppelin&logoColor=FFFFFF&label=)
+```
 ## ![OpenZFS](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZFS&color=2A667F&logo=OpenZFS&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenZFS](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZFS&color=2A667F&logo=OpenZFS&logoColor=FFFFFF&label=)
