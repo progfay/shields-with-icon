@@ -4046,6 +4046,10 @@
 ```markdown
 ![K3s](https://img.shields.io/static/v1?style=for-the-badge&message=K3s&color=222222&logo=K3s&logoColor=FFC61C&label=)
 ```
+## ![k6](https://img.shields.io/static/v1?style=for-the-badge&message=k6&color=7D64FF&logo=k6&logoColor=FFFFFF&label=)
+```markdown
+![k6](https://img.shields.io/static/v1?style=for-the-badge&message=k6&color=7D64FF&logo=k6&logoColor=FFFFFF&label=)
+```
 ## ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
 ```markdown
 ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)

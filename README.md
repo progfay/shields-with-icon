@@ -1010,6 +1010,7 @@
 ![Just Eat](https://img.shields.io/static/v1?style=for-the-badge&message=Just+Eat&color=F36D00&logo=Just+Eat&logoColor=FFFFFF&label=)
 ![JustGiving](https://img.shields.io/static/v1?style=for-the-badge&message=JustGiving&color=AD29B6&logo=JustGiving&logoColor=FFFFFF&label=)
 ![K3s](https://img.shields.io/static/v1?style=for-the-badge&message=K3s&color=222222&logo=K3s&logoColor=FFC61C&label=)
+![k6](https://img.shields.io/static/v1?style=for-the-badge&message=k6&color=7D64FF&logo=k6&logoColor=FFFFFF&label=)
 ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
 ![Kahoot!](https://img.shields.io/static/v1?style=for-the-badge&message=Kahoot%21&color=46178F&logo=Kahoot%21&logoColor=FFFFFF&label=)
 ![KaiOS](https://img.shields.io/static/v1?style=for-the-badge&message=KaiOS&color=6F02B5&logo=KaiOS&logoColor=FFFFFF&label=)
