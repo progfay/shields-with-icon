@@ -370,6 +370,18 @@
 ```markdown
 ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
 ```
+## ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
+```markdown
+![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
+```
+## ![Amazon ECS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ECS&color=222222&logo=Amazon+ECS&logoColor=FF9900&label=)
+```markdown
+![Amazon ECS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ECS&color=222222&logo=Amazon+ECS&logoColor=FF9900&label=)
+```
+## ![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
+```markdown
+![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
+```
 ## ![Amazon Fire TV](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Fire+TV&color=FC4C02&logo=Amazon+Fire+TV&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon Fire TV](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Fire+TV&color=FC4C02&logo=Amazon+Fire+TV&logoColor=FFFFFF&label=)
@@ -6265,6 +6277,10 @@
 ## ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ```markdown
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
+```
+## ![PyG](https://img.shields.io/static/v1?style=for-the-badge&message=PyG&color=3C2179&logo=PyG&logoColor=FFFFFF&label=)
+```markdown
+![PyG](https://img.shields.io/static/v1?style=for-the-badge&message=PyG&color=3C2179&logo=PyG&logoColor=FFFFFF&label=)
 ```
 ## ![PyPI](https://img.shields.io/static/v1?style=for-the-badge&message=PyPI&color=3775A9&logo=PyPI&logoColor=FFFFFF&label=)
 ```markdown
