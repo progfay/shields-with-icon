@@ -2594,6 +2594,10 @@
 ```markdown
 ![Fathom](https://img.shields.io/static/v1?style=for-the-badge&message=Fathom&color=9187FF&logo=Fathom&logoColor=FFFFFF&label=)
 ```
+## ![Fauna](https://img.shields.io/static/v1?style=for-the-badge&message=Fauna&color=3A1AB6&logo=Fauna&logoColor=FFFFFF&label=)
+```markdown
+![Fauna](https://img.shields.io/static/v1?style=for-the-badge&message=Fauna&color=3A1AB6&logo=Fauna&logoColor=FFFFFF&label=)
+```
 ## ![Favro](https://img.shields.io/static/v1?style=for-the-badge&message=Favro&color=512DA8&logo=Favro&logoColor=FFFFFF&label=)
 ```markdown
 ![Favro](https://img.shields.io/static/v1?style=for-the-badge&message=Favro&color=512DA8&logo=Favro&logoColor=FFFFFF&label=)
