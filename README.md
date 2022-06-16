@@ -874,6 +874,7 @@
 ![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&message=Hetzner&color=D50C2D&logo=Hetzner&logoColor=FFFFFF&label=)
 ![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=0E83CD&logo=Hexo&logoColor=FFFFFF&label=)
 ![HEY](https://img.shields.io/static/v1?style=for-the-badge&message=HEY&color=5522FA&logo=HEY&logoColor=FFFFFF&label=)
+![Hi Bob](https://img.shields.io/static/v1?style=for-the-badge&message=Hi+Bob&color=E42C51&logo=Hi+Bob&logoColor=FFFFFF&label=)
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![Hilton](https://img.shields.io/static/v1?style=for-the-badge&message=Hilton&color=124D97&logo=Hilton&logoColor=FFFFFF&label=)
 ![Hitachi](https://img.shields.io/static/v1?style=for-the-badge&message=Hitachi&color=E60027&logo=Hitachi&logoColor=FFFFFF&label=)

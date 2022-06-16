@@ -3502,6 +3502,10 @@
 ```markdown
 ![HEY](https://img.shields.io/static/v1?style=for-the-badge&message=HEY&color=5522FA&logo=HEY&logoColor=FFFFFF&label=)
 ```
+## ![Hi Bob](https://img.shields.io/static/v1?style=for-the-badge&message=Hi+Bob&color=E42C51&logo=Hi+Bob&logoColor=FFFFFF&label=)
+```markdown
+![Hi Bob](https://img.shields.io/static/v1?style=for-the-badge&message=Hi+Bob&color=E42C51&logo=Hi+Bob&logoColor=FFFFFF&label=)
+```
 ## ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ```markdown
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
