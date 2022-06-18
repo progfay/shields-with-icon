@@ -1094,7 +1094,7 @@
 ![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=222222&logo=Lemmy&logoColor=FFFFFF&label=)
 ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ![Lens](https://img.shields.io/static/v1?style=for-the-badge&message=Lens&color=3D90CE&logo=Lens&logoColor=FFFFFF&label=)
-![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=2F0268&logo=Lerna&logoColor=FFFFFF&label=)
+![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=9333EA&logo=Lerna&logoColor=FFFFFF&label=)
 ![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
 ![Less](https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=1D365D&logo=Less&logoColor=FFFFFF&label=)
 ![Let's Encrypt](https://img.shields.io/static/v1?style=for-the-badge&message=Let%27s+Encrypt&color=003A70&logo=Let%27s+Encrypt&logoColor=FFFFFF&label=)
