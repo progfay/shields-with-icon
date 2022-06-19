@@ -694,6 +694,10 @@
 ```markdown
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ```
+## ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
+```markdown
+![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
+```
 ## ![Argos](https://img.shields.io/static/v1?style=for-the-badge&message=Argos&color=DA291C&logo=Argos&logoColor=FFFFFF&label=)
 ```markdown
 ![Argos](https://img.shields.io/static/v1?style=for-the-badge&message=Argos&color=DA291C&logo=Argos&logoColor=FFFFFF&label=)

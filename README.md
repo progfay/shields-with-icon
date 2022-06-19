@@ -172,6 +172,7 @@
 ![Archive of Our Own](https://img.shields.io/static/v1?style=for-the-badge&message=Archive+of+Our+Own&color=990000&logo=Archive+of+Our+Own&logoColor=FFFFFF&label=)
 ![Ardour](https://img.shields.io/static/v1?style=for-the-badge&message=Ardour&color=C61C3E&logo=Ardour&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
+![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
 ![Argos](https://img.shields.io/static/v1?style=for-the-badge&message=Argos&color=DA291C&logo=Argos&logoColor=FFFFFF&label=)
 ![ARK Ecosystem](https://img.shields.io/static/v1?style=for-the-badge&message=ARK+Ecosystem&color=C9292C&logo=ARK+Ecosystem&logoColor=FFFFFF&label=)
 ![Arlo](https://img.shields.io/static/v1?style=for-the-badge&message=Arlo&color=49B48A&logo=Arlo&logoColor=FFFFFF&label=)
