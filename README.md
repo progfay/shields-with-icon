@@ -677,6 +677,7 @@
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![Flat](https://img.shields.io/static/v1?style=for-the-badge&message=Flat&color=3481FE&logo=Flat&logoColor=FFFFFF&label=)
 ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
+![Flatpak](https://img.shields.io/static/v1?style=for-the-badge&message=Flatpak&color=4A90D9&logo=Flatpak&logoColor=FFFFFF&label=)
 ![Flattr](https://img.shields.io/static/v1?style=for-the-badge&message=Flattr&color=000000&logo=Flattr&logoColor=FFFFFF&label=)
 ![Flickr](https://img.shields.io/static/v1?style=for-the-badge&message=Flickr&color=0063DC&logo=Flickr&logoColor=FFFFFF&label=)
 ![Flipboard](https://img.shields.io/static/v1?style=for-the-badge&message=Flipboard&color=E12828&logo=Flipboard&logoColor=FFFFFF&label=)
