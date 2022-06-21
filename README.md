@@ -1034,6 +1034,7 @@
 ![Kaufland](https://img.shields.io/static/v1?style=for-the-badge&message=Kaufland&color=E10915&logo=Kaufland&logoColor=FFFFFF&label=)
 ![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
 ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
+![Keep a Changelog](https://img.shields.io/static/v1?style=for-the-badge&message=Keep+a+Changelog&color=E05735&logo=Keep+a+Changelog&logoColor=FFFFFF&label=)
 ![KeePassXC](https://img.shields.io/static/v1?style=for-the-badge&message=KeePassXC&color=6CAC4D&logo=KeePassXC&logoColor=FFFFFF&label=)
 ![Kentico](https://img.shields.io/static/v1?style=for-the-badge&message=Kentico&color=F05A22&logo=Kentico&logoColor=FFFFFF&label=)
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)

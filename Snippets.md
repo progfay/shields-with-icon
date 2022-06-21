@@ -4142,6 +4142,10 @@
 ```markdown
 ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
 ```
+## ![Keep a Changelog](https://img.shields.io/static/v1?style=for-the-badge&message=Keep+a+Changelog&color=E05735&logo=Keep+a+Changelog&logoColor=FFFFFF&label=)
+```markdown
+![Keep a Changelog](https://img.shields.io/static/v1?style=for-the-badge&message=Keep+a+Changelog&color=E05735&logo=Keep+a+Changelog&logoColor=FFFFFF&label=)
+```
 ## ![KeePassXC](https://img.shields.io/static/v1?style=for-the-badge&message=KeePassXC&color=6CAC4D&logo=KeePassXC&logoColor=FFFFFF&label=)
 ```markdown
 ![KeePassXC](https://img.shields.io/static/v1?style=for-the-badge&message=KeePassXC&color=6CAC4D&logo=KeePassXC&logoColor=FFFFFF&label=)
