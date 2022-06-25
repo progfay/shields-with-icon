@@ -557,6 +557,7 @@
 ![Drupal](https://img.shields.io/static/v1?style=for-the-badge&message=Drupal&color=0678BE&logo=Drupal&logoColor=FFFFFF&label=)
 ![DS Automobiles](https://img.shields.io/static/v1?style=for-the-badge&message=DS+Automobiles&color=1D1717&logo=DS+Automobiles&logoColor=FFFFFF&label=)
 ![DTube](https://img.shields.io/static/v1?style=for-the-badge&message=DTube&color=F01A30&logo=DTube&logoColor=FFFFFF&label=)
+![DuckDB](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=)
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
 ![Dungeons & Dragons](https://img.shields.io/static/v1?style=for-the-badge&message=Dungeons+%26+Dragons&color=ED1C24&logo=Dungeons+%26+Dragons&logoColor=FFFFFF&label=)
 ![Dunked](https://img.shields.io/static/v1?style=for-the-badge&message=Dunked&color=2DA9D7&logo=Dunked&logoColor=FFFFFF&label=)

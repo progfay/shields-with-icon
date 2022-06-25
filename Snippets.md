@@ -2234,6 +2234,10 @@
 ```markdown
 ![DTube](https://img.shields.io/static/v1?style=for-the-badge&message=DTube&color=F01A30&logo=DTube&logoColor=FFFFFF&label=)
 ```
+## ![DuckDB](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=)
+```markdown
+![DuckDB](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=)
+```
 ## ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
 ```markdown
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
