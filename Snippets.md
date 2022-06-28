@@ -6042,6 +6042,10 @@
 ```markdown
 ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
 ```
+## ![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
+```markdown
+![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
+```
 ## ![Pleroma](https://img.shields.io/static/v1?style=for-the-badge&message=Pleroma&color=222222&logo=Pleroma&logoColor=FBA457&label=)
 ```markdown
 ![Pleroma](https://img.shields.io/static/v1?style=for-the-badge&message=Pleroma&color=222222&logo=Pleroma&logoColor=FBA457&label=)

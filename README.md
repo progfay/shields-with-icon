@@ -1509,6 +1509,7 @@
 ![PlayStation 4](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+4&color=003791&logo=PlayStation+4&logoColor=FFFFFF&label=)
 ![PlayStation 5](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+5&color=003791&logo=PlayStation+5&logoColor=FFFFFF&label=)
 ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
+![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
 ![Pleroma](https://img.shields.io/static/v1?style=for-the-badge&message=Pleroma&color=222222&logo=Pleroma&logoColor=FBA457&label=)
 ![Plesk](https://img.shields.io/static/v1?style=for-the-badge&message=Plesk&color=222222&logo=Plesk&logoColor=52BBE6&label=)
 ![Plex](https://img.shields.io/static/v1?style=for-the-badge&message=Plex&color=222222&logo=Plex&logoColor=E5A00D&label=)
