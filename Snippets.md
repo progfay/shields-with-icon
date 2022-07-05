@@ -258,6 +258,10 @@
 ```markdown
 ![Airbus](https://img.shields.io/static/v1?style=for-the-badge&message=Airbus&color=00205B&logo=Airbus&logoColor=FFFFFF&label=)
 ```
+## ![Airbyte](https://img.shields.io/static/v1?style=for-the-badge&message=Airbyte&color=615EFF&logo=Airbyte&logoColor=FFFFFF&label=)
+```markdown
+![Airbyte](https://img.shields.io/static/v1?style=for-the-badge&message=Airbyte&color=615EFF&logo=Airbyte&logoColor=FFFFFF&label=)
+```
 ## ![Aircall](https://img.shields.io/static/v1?style=for-the-badge&message=Aircall&color=00B388&logo=Aircall&logoColor=FFFFFF&label=)
 ```markdown
 ![Aircall](https://img.shields.io/static/v1?style=for-the-badge&message=Aircall&color=00B388&logo=Aircall&logoColor=FFFFFF&label=)
@@ -917,6 +921,10 @@
 ## ![Backbone.js](https://img.shields.io/static/v1?style=for-the-badge&message=Backbone.js&color=0071B5&logo=Backbone.js&logoColor=FFFFFF&label=)
 ```markdown
 ![Backbone.js](https://img.shields.io/static/v1?style=for-the-badge&message=Backbone.js&color=0071B5&logo=Backbone.js&logoColor=FFFFFF&label=)
+```
+## ![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=222222&logo=Backendless&logoColor=FFFFFF&label=)
+```markdown
+![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=222222&logo=Backendless&logoColor=FFFFFF&label=)
 ```
 ## ![Badgr](https://img.shields.io/static/v1?style=for-the-badge&message=Badgr&color=282C4C&logo=Badgr&logoColor=FFFFFF&label=)
 ```markdown
@@ -5437,6 +5445,10 @@
 ## ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ```markdown
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+```
+## ![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=Nunjucks&color=1C4913&logo=Nunjucks&logoColor=FFFFFF&label=)
+```markdown
+![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=Nunjucks&color=1C4913&logo=Nunjucks&logoColor=FFFFFF&label=)
 ```
 ## ![Nutanix](https://img.shields.io/static/v1?style=for-the-badge&message=Nutanix&color=024DA1&logo=Nutanix&logoColor=FFFFFF&label=)
 ```markdown
