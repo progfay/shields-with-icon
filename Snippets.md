@@ -2406,6 +2406,10 @@
 ```markdown
 ![elementary](https://img.shields.io/static/v1?style=for-the-badge&message=elementary&color=222222&logo=elementary&logoColor=64BAFF&label=)
 ```
+## ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
+```markdown
+![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
+```
 ## ![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=000000&logo=Eleventy&logoColor=FFFFFF&label=)
 ```markdown
 ![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=000000&logo=Eleventy&logoColor=FFFFFF&label=)
@@ -8642,6 +8646,10 @@
 ```markdown
 ![Warner Bros.](https://img.shields.io/static/v1?style=for-the-badge&message=Warner+Bros.&color=004DB4&logo=Warner+Bros.&logoColor=FFFFFF&label=)
 ```
+## ![wasmCloud](https://img.shields.io/static/v1?style=for-the-badge&message=wasmCloud&color=222222&logo=wasmCloud&logoColor=00BC8E&label=)
+```markdown
+![wasmCloud](https://img.shields.io/static/v1?style=for-the-badge&message=wasmCloud&color=222222&logo=wasmCloud&logoColor=00BC8E&label=)
+```
 ## ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
 ```markdown
 ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
@@ -9073,6 +9081,10 @@
 ## ![ZDF](https://img.shields.io/static/v1?style=for-the-badge&message=ZDF&color=FA7D19&logo=ZDF&logoColor=FFFFFF&label=)
 ```markdown
 ![ZDF](https://img.shields.io/static/v1?style=for-the-badge&message=ZDF&color=FA7D19&logo=ZDF&logoColor=FFFFFF&label=)
+```
+## ![Zebra Technologies](https://img.shields.io/static/v1?style=for-the-badge&message=Zebra+Technologies&color=000000&logo=Zebra+Technologies&logoColor=FFFFFF&label=)
+```markdown
+![Zebra Technologies](https://img.shields.io/static/v1?style=for-the-badge&message=Zebra+Technologies&color=000000&logo=Zebra+Technologies&logoColor=FFFFFF&label=)
 ```
 ## ![Zelle](https://img.shields.io/static/v1?style=for-the-badge&message=Zelle&color=6D1ED4&logo=Zelle&logoColor=FFFFFF&label=)
 ```markdown
