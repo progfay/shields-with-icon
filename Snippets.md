@@ -5654,6 +5654,10 @@
 ```markdown
 ![OpenTelemetry](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTelemetry&color=000000&logo=OpenTelemetry&logoColor=FFFFFF&label=)
 ```
+## ![Openverse](https://img.shields.io/static/v1?style=for-the-badge&message=Openverse&color=222222&logo=Openverse&logoColor=FFE033&label=)
+```markdown
+![Openverse](https://img.shields.io/static/v1?style=for-the-badge&message=Openverse&color=222222&logo=Openverse&logoColor=FFE033&label=)
+```
 ## ![OpenVPN](https://img.shields.io/static/v1?style=for-the-badge&message=OpenVPN&color=EA7E20&logo=OpenVPN&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenVPN](https://img.shields.io/static/v1?style=for-the-badge&message=OpenVPN&color=EA7E20&logo=OpenVPN&logoColor=FFFFFF&label=)

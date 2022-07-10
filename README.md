@@ -1412,6 +1412,7 @@
 ![OpenStreetMap](https://img.shields.io/static/v1?style=for-the-badge&message=OpenStreetMap&color=222222&logo=OpenStreetMap&logoColor=7EBC6F&label=)
 ![openSUSE](https://img.shields.io/static/v1?style=for-the-badge&message=openSUSE&color=222222&logo=openSUSE&logoColor=73BA25&label=)
 ![OpenTelemetry](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTelemetry&color=000000&logo=OpenTelemetry&logoColor=FFFFFF&label=)
+![Openverse](https://img.shields.io/static/v1?style=for-the-badge&message=Openverse&color=222222&logo=Openverse&logoColor=FFE033&label=)
 ![OpenVPN](https://img.shields.io/static/v1?style=for-the-badge&message=OpenVPN&color=EA7E20&logo=OpenVPN&logoColor=FFFFFF&label=)
 ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
 ![OpenZeppelin](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZeppelin&color=4E5EE4&logo=OpenZeppelin&logoColor=FFFFFF&label=)
