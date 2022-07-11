@@ -1266,6 +1266,10 @@
 ```markdown
 ![Burger King](https://img.shields.io/static/v1?style=for-the-badge&message=Burger+King&color=D62300&logo=Burger+King&logoColor=FFFFFF&label=)
 ```
+## ![Burton](https://img.shields.io/static/v1?style=for-the-badge&message=Burton&color=000000&logo=Burton&logoColor=FFFFFF&label=)
+```markdown
+![Burton](https://img.shields.io/static/v1?style=for-the-badge&message=Burton&color=000000&logo=Burton&logoColor=FFFFFF&label=)
+```
 ## ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ```markdown
 ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)

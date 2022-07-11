@@ -315,6 +315,7 @@
 ![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=)
 ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
 ![Burger King](https://img.shields.io/static/v1?style=for-the-badge&message=Burger+King&color=D62300&logo=Burger+King&logoColor=FFFFFF&label=)
+![Burton](https://img.shields.io/static/v1?style=for-the-badge&message=Burton&color=000000&logo=Burton&logoColor=FFFFFF&label=)
 ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ![BuzzFeed](https://img.shields.io/static/v1?style=for-the-badge&message=BuzzFeed&color=EE3322&logo=BuzzFeed&logoColor=FFFFFF&label=)
 ![Byju's](https://img.shields.io/static/v1?style=for-the-badge&message=Byju%27s&color=813588&logo=Byju%27s&logoColor=FFFFFF&label=)
