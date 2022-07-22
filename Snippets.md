@@ -2402,6 +2402,10 @@
 ```markdown
 ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
 ```
+## ![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=222222&logo=electron-builder&logoColor=FFFFFF&label=)
+```markdown
+![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=222222&logo=electron-builder&logoColor=FFFFFF&label=)
+```
 ## ![Element](https://img.shields.io/static/v1?style=for-the-badge&message=Element&color=222222&logo=Element&logoColor=0DBD8B&label=)
 ```markdown
 ![Element](https://img.shields.io/static/v1?style=for-the-badge&message=Element&color=222222&logo=Element&logoColor=0DBD8B&label=)
@@ -6581,6 +6585,10 @@
 ## ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ```markdown
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+```
+## ![React Hook Form](https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
+```markdown
+![React Hook Form](https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
 ```
 ## ![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
 ```markdown
