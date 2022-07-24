@@ -2594,6 +2594,10 @@
 ```markdown
 ![F-Secure](https://img.shields.io/static/v1?style=for-the-badge&message=F-Secure&color=222222&logo=F-Secure&logoColor=00BAFF&label=)
 ```
+## ![F1](https://img.shields.io/static/v1?style=for-the-badge&message=F1&color=E10600&logo=F1&logoColor=FFFFFF&label=)
+```markdown
+![F1](https://img.shields.io/static/v1?style=for-the-badge&message=F1&color=E10600&logo=F1&logoColor=FFFFFF&label=)
+```
 ## ![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)
 ```markdown
 ![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)

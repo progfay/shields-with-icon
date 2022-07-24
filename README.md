@@ -647,6 +647,7 @@
 ![EyeEm](https://img.shields.io/static/v1?style=for-the-badge&message=EyeEm&color=000000&logo=EyeEm&logoColor=FFFFFF&label=)
 ![F-Droid](https://img.shields.io/static/v1?style=for-the-badge&message=F-Droid&color=1976D2&logo=F-Droid&logoColor=FFFFFF&label=)
 ![F-Secure](https://img.shields.io/static/v1?style=for-the-badge&message=F-Secure&color=222222&logo=F-Secure&logoColor=00BAFF&label=)
+![F1](https://img.shields.io/static/v1?style=for-the-badge&message=F1&color=E10600&logo=F1&logoColor=FFFFFF&label=)
 ![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)
 ![Facebook Gaming](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook+Gaming&color=005FED&logo=Facebook+Gaming&logoColor=FFFFFF&label=)
 ![Facebook Live](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook+Live&color=ED4242&logo=Facebook+Live&logoColor=FFFFFF&label=)
