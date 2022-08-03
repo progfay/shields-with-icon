@@ -2138,6 +2138,7 @@
 ![Vimeo](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo&color=222222&logo=Vimeo&logoColor=1AB7EA&label=)
 ![Vimeo Livestream](https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo+Livestream&color=0A0A20&logo=Vimeo+Livestream&logoColor=FFFFFF&label=)
 ![Virgin](https://img.shields.io/static/v1?style=for-the-badge&message=Virgin&color=E10A0A&logo=Virgin&logoColor=FFFFFF&label=)
+![Virgin Media](https://img.shields.io/static/v1?style=for-the-badge&message=Virgin+Media&color=ED1A37&logo=Virgin+Media&logoColor=FFFFFF&label=)
 ![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
 ![VirusTotal](https://img.shields.io/static/v1?style=for-the-badge&message=VirusTotal&color=394EFF&logo=VirusTotal&logoColor=FFFFFF&label=)
 ![Visa](https://img.shields.io/static/v1?style=for-the-badge&message=Visa&color=1A1F71&logo=Visa&logoColor=FFFFFF&label=)

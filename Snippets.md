@@ -8558,6 +8558,10 @@
 ```markdown
 ![Virgin](https://img.shields.io/static/v1?style=for-the-badge&message=Virgin&color=E10A0A&logo=Virgin&logoColor=FFFFFF&label=)
 ```
+## ![Virgin Media](https://img.shields.io/static/v1?style=for-the-badge&message=Virgin+Media&color=ED1A37&logo=Virgin+Media&logoColor=FFFFFF&label=)
+```markdown
+![Virgin Media](https://img.shields.io/static/v1?style=for-the-badge&message=Virgin+Media&color=ED1A37&logo=Virgin+Media&logoColor=FFFFFF&label=)
+```
 ## ![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
 ```markdown
 ![VirtualBox](https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=)
