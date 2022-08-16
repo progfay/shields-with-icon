@@ -1942,6 +1942,10 @@
 ```markdown
 ![Cytoscape.js](https://img.shields.io/static/v1?style=for-the-badge&message=Cytoscape.js&color=222222&logo=Cytoscape.js&logoColor=F7DF1E&label=)
 ```
+## ![D](https://img.shields.io/static/v1?style=for-the-badge&message=D&color=B03931&logo=D&logoColor=FFFFFF&label=)
+```markdown
+![D](https://img.shields.io/static/v1?style=for-the-badge&message=D&color=B03931&logo=D&logoColor=FFFFFF&label=)
+```
 ## ![D-EDGE](https://img.shields.io/static/v1?style=for-the-badge&message=D-EDGE&color=432975&logo=D-EDGE&logoColor=FFFFFF&label=)
 ```markdown
 ![D-EDGE](https://img.shields.io/static/v1?style=for-the-badge&message=D-EDGE&color=432975&logo=D-EDGE&logoColor=FFFFFF&label=)
@@ -4818,9 +4822,9 @@
 ```markdown
 ![mastercomfig](https://img.shields.io/static/v1?style=for-the-badge&message=mastercomfig&color=009688&logo=mastercomfig&logoColor=FFFFFF&label=)
 ```
-## ![Mastodon](https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=3088D4&logo=Mastodon&logoColor=FFFFFF&label=)
+## ![Mastodon](https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=6364FF&logo=Mastodon&logoColor=FFFFFF&label=)
 ```markdown
-![Mastodon](https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=3088D4&logo=Mastodon&logoColor=FFFFFF&label=)
+![Mastodon](https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=6364FF&logo=Mastodon&logoColor=FFFFFF&label=)
 ```
 ## ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 ```markdown
