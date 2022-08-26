@@ -894,6 +894,10 @@
 ```markdown
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
 ```
+## ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
+```markdown
+![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
+```
 ## ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
 ```markdown
 ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
@@ -3513,6 +3517,10 @@
 ## ![Harbor](https://img.shields.io/static/v1?style=for-the-badge&message=Harbor&color=222222&logo=Harbor&logoColor=60B932&label=)
 ```markdown
 ![Harbor](https://img.shields.io/static/v1?style=for-the-badge&message=Harbor&color=222222&logo=Harbor&logoColor=60B932&label=)
+```
+## ![HarmonyOS](https://img.shields.io/static/v1?style=for-the-badge&message=HarmonyOS&color=000000&logo=HarmonyOS&logoColor=FFFFFF&label=)
+```markdown
+![HarmonyOS](https://img.shields.io/static/v1?style=for-the-badge&message=HarmonyOS&color=000000&logo=HarmonyOS&logoColor=FFFFFF&label=)
 ```
 ## ![Hashnode](https://img.shields.io/static/v1?style=for-the-badge&message=Hashnode&color=2962FF&logo=Hashnode&logoColor=FFFFFF&label=)
 ```markdown
@@ -7874,6 +7882,10 @@
 ```markdown
 ![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
 ```
+## ![TableCheck](https://img.shields.io/static/v1?style=for-the-badge&message=TableCheck&color=7935D2&logo=TableCheck&logoColor=FFFFFF&label=)
+```markdown
+![TableCheck](https://img.shields.io/static/v1?style=for-the-badge&message=TableCheck&color=7935D2&logo=TableCheck&logoColor=FFFFFF&label=)
+```
 ## ![Taco Bell](https://img.shields.io/static/v1?style=for-the-badge&message=Taco+Bell&color=38096C&logo=Taco+Bell&logoColor=FFFFFF&label=)
 ```markdown
 ![Taco Bell](https://img.shields.io/static/v1?style=for-the-badge&message=Taco+Bell&color=38096C&logo=Taco+Bell&logoColor=FFFFFF&label=)
@@ -8705,6 +8717,10 @@
 ## ![W3C](https://img.shields.io/static/v1?style=for-the-badge&message=W3C&color=005A9C&logo=W3C&logoColor=FFFFFF&label=)
 ```markdown
 ![W3C](https://img.shields.io/static/v1?style=for-the-badge&message=W3C&color=005A9C&logo=W3C&logoColor=FFFFFF&label=)
+```
+## ![Wacom](https://img.shields.io/static/v1?style=for-the-badge&message=Wacom&color=000000&logo=Wacom&logoColor=FFFFFF&label=)
+```markdown
+![Wacom](https://img.shields.io/static/v1?style=for-the-badge&message=Wacom&color=000000&logo=Wacom&logoColor=FFFFFF&label=)
 ```
 ## ![Wagtail](https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=)
 ```markdown
