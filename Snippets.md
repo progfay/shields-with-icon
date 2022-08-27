@@ -1,3 +1,7 @@
+## ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
+```markdown
+![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
+```
 ## ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ```markdown
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
@@ -4489,6 +4493,10 @@
 ## ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
 ```markdown
 ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
+```
+## ![Legacy Games](https://img.shields.io/static/v1?style=for-the-badge&message=Legacy+Games&color=144B9E&logo=Legacy+Games&logoColor=FFFFFF&label=)
+```markdown
+![Legacy Games](https://img.shields.io/static/v1?style=for-the-badge&message=Legacy+Games&color=144B9E&logo=Legacy+Games&logoColor=FFFFFF&label=)
 ```
 ## ![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=222222&logo=Lemmy&logoColor=FFFFFF&label=)
 ```markdown

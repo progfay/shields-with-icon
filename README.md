@@ -1,3 +1,4 @@
+![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![/e/](https://img.shields.io/static/v1?style=for-the-badge&message=%2Fe%2F&color=000000&logo=%2Fe%2F&logoColor=FFFFFF&label=)
 ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
@@ -1121,6 +1122,7 @@
 ![Leaflet](https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=199900&logo=Leaflet&logoColor=FFFFFF&label=)
 ![Leanpub](https://img.shields.io/static/v1?style=for-the-badge&message=Leanpub&color=222222&logo=Leanpub&logoColor=FFFFFF&label=)
 ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
+![Legacy Games](https://img.shields.io/static/v1?style=for-the-badge&message=Legacy+Games&color=144B9E&logo=Legacy+Games&logoColor=FFFFFF&label=)
 ![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=222222&logo=Lemmy&logoColor=FFFFFF&label=)
 ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ![Lens](https://img.shields.io/static/v1?style=for-the-badge&message=Lens&color=3D90CE&logo=Lens&logoColor=FFFFFF&label=)
