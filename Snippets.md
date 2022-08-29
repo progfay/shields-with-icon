@@ -2306,6 +2306,10 @@
 ```markdown
 ![DTube](https://img.shields.io/static/v1?style=for-the-badge&message=DTube&color=F01A30&logo=DTube&logoColor=FFFFFF&label=)
 ```
+## ![Ducati](https://img.shields.io/static/v1?style=for-the-badge&message=Ducati&color=CC0000&logo=Ducati&logoColor=FFFFFF&label=)
+```markdown
+![Ducati](https://img.shields.io/static/v1?style=for-the-badge&message=Ducati&color=CC0000&logo=Ducati&logoColor=FFFFFF&label=)
+```
 ## ![DuckDB](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=)
 ```markdown
 ![DuckDB](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=)
@@ -2961,6 +2965,10 @@
 ## ![Frontend Mentor](https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=)
 ```markdown
 ![Frontend Mentor](https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=)
+```
+## ![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
+```markdown
+![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
 ```
 ## ![Fujifilm](https://img.shields.io/static/v1?style=for-the-badge&message=Fujifilm&color=ED1A3A&logo=Fujifilm&logoColor=FFFFFF&label=)
 ```markdown
