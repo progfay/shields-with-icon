@@ -8770,6 +8770,10 @@
 ```markdown
 ![wasmCloud](https://img.shields.io/static/v1?style=for-the-badge&message=wasmCloud&color=222222&logo=wasmCloud&logoColor=00BC8E&label=)
 ```
+## ![Wasmer](https://img.shields.io/static/v1?style=for-the-badge&message=Wasmer&color=4946DD&logo=Wasmer&logoColor=FFFFFF&label=)
+```markdown
+![Wasmer](https://img.shields.io/static/v1?style=for-the-badge&message=Wasmer&color=4946DD&logo=Wasmer&logoColor=FFFFFF&label=)
+```
 ## ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
 ```markdown
 ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
