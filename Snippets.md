@@ -1278,6 +1278,10 @@
 ```markdown
 ![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=)
 ```
+## ![Bun](https://img.shields.io/static/v1?style=for-the-badge&message=Bun&color=000000&logo=Bun&logoColor=FFFFFF&label=)
+```markdown
+![Bun](https://img.shields.io/static/v1?style=for-the-badge&message=Bun&color=000000&logo=Bun&logoColor=FFFFFF&label=)
+```
 ## ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
 ```markdown
 ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
@@ -6522,6 +6526,10 @@
 ```markdown
 ![QIWI](https://img.shields.io/static/v1?style=for-the-badge&message=QIWI&color=222222&logo=QIWI&logoColor=FF8C00&label=)
 ```
+## ![QMK](https://img.shields.io/static/v1?style=for-the-badge&message=QMK&color=333333&logo=QMK&logoColor=FFFFFF&label=)
+```markdown
+![QMK](https://img.shields.io/static/v1?style=for-the-badge&message=QMK&color=333333&logo=QMK&logoColor=FFFFFF&label=)
+```
 ## ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
 ```markdown
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
@@ -8933,6 +8941,10 @@
 ## ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ```markdown
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+```
+## ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
+```markdown
+![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
 ```
 ## ![Windows 95](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+95&color=008080&logo=Windows+95&logoColor=FFFFFF&label=)
 ```markdown
