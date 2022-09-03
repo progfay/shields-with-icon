@@ -8530,6 +8530,10 @@
 ```markdown
 ![V](https://img.shields.io/static/v1?style=for-the-badge&message=V&color=5D87BF&logo=V&logoColor=FFFFFF&label=)
 ```
+## ![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=V2EX&color=1F1F1F&logo=V2EX&logoColor=FFFFFF&label=)
+```markdown
+![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=V2EX&color=1F1F1F&logo=V2EX&logoColor=FFFFFF&label=)
+```
 ## ![V8](https://img.shields.io/static/v1?style=for-the-badge&message=V8&color=4B8BF5&logo=V8&logoColor=FFFFFF&label=)
 ```markdown
 ![V8](https://img.shields.io/static/v1?style=for-the-badge&message=V8&color=4B8BF5&logo=V8&logoColor=FFFFFF&label=)
