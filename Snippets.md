@@ -5394,6 +5394,10 @@
 ```markdown
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ```
+## ![NextBillion.ai](https://img.shields.io/static/v1?style=for-the-badge&message=NextBillion.ai&color=8D5A9E&logo=NextBillion.ai&logoColor=FFFFFF&label=)
+```markdown
+![NextBillion.ai](https://img.shields.io/static/v1?style=for-the-badge&message=NextBillion.ai&color=8D5A9E&logo=NextBillion.ai&logoColor=FFFFFF&label=)
+```
 ## ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
 ```markdown
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
@@ -5713,6 +5717,10 @@
 ## ![OpenNebula](https://img.shields.io/static/v1?style=for-the-badge&message=OpenNebula&color=0097C2&logo=OpenNebula&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenNebula](https://img.shields.io/static/v1?style=for-the-badge&message=OpenNebula&color=0097C2&logo=OpenNebula&logoColor=FFFFFF&label=)
+```
+## ![OpenProject](https://img.shields.io/static/v1?style=for-the-badge&message=OpenProject&color=0770B8&logo=OpenProject&logoColor=FFFFFF&label=)
+```markdown
+![OpenProject](https://img.shields.io/static/v1?style=for-the-badge&message=OpenProject&color=0770B8&logo=OpenProject&logoColor=FFFFFF&label=)
 ```
 ## ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
 ```markdown
