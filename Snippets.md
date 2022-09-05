@@ -7642,6 +7642,10 @@
 ```markdown
 ![Stackbit](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ```
+## ![StackBlitz](https://img.shields.io/static/v1?style=for-the-badge&message=StackBlitz&color=1269D3&logo=StackBlitz&logoColor=FFFFFF&label=)
+```markdown
+![StackBlitz](https://img.shields.io/static/v1?style=for-the-badge&message=StackBlitz&color=1269D3&logo=StackBlitz&logoColor=FFFFFF&label=)
+```
 ## ![StackEdit](https://img.shields.io/static/v1?style=for-the-badge&message=StackEdit&color=606060&logo=StackEdit&logoColor=FFFFFF&label=)
 ```markdown
 ![StackEdit](https://img.shields.io/static/v1?style=for-the-badge&message=StackEdit&color=606060&logo=StackEdit&logoColor=FFFFFF&label=)
@@ -9113,6 +9117,10 @@
 ## ![XMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XMPP&color=002B5C&logo=XMPP&logoColor=FFFFFF&label=)
 ```markdown
 ![XMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XMPP&color=002B5C&logo=XMPP&logoColor=FFFFFF&label=)
+```
+## ![XO](https://img.shields.io/static/v1?style=for-the-badge&message=XO&color=222222&logo=XO&logoColor=5ED9C7&label=)
+```markdown
+![XO](https://img.shields.io/static/v1?style=for-the-badge&message=XO&color=222222&logo=XO&logoColor=5ED9C7&label=)
 ```
 ## ![XRP](https://img.shields.io/static/v1?style=for-the-badge&message=XRP&color=25A768&logo=XRP&logoColor=FFFFFF&label=)
 ```markdown
