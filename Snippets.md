@@ -7142,6 +7142,10 @@
 ```markdown
 ![SEAT](https://img.shields.io/static/v1?style=for-the-badge&message=SEAT&color=33302E&logo=SEAT&logoColor=FFFFFF&label=)
 ```
+## ![SecurityScorecard](https://img.shields.io/static/v1?style=for-the-badge&message=SecurityScorecard&color=7033FD&logo=SecurityScorecard&logoColor=FFFFFF&label=)
+```markdown
+![SecurityScorecard](https://img.shields.io/static/v1?style=for-the-badge&message=SecurityScorecard&color=7033FD&logo=SecurityScorecard&logoColor=FFFFFF&label=)
+```
 ## ![Sefaria](https://img.shields.io/static/v1?style=for-the-badge&message=Sefaria&color=212E50&logo=Sefaria&logoColor=FFFFFF&label=)
 ```markdown
 ![Sefaria](https://img.shields.io/static/v1?style=for-the-badge&message=Sefaria&color=212E50&logo=Sefaria&logoColor=FFFFFF&label=)

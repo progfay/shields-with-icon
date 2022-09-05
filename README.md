@@ -1784,6 +1784,7 @@
 ![Scrutinizer CI](https://img.shields.io/static/v1?style=for-the-badge&message=Scrutinizer+CI&color=8A9296&logo=Scrutinizer+CI&logoColor=FFFFFF&label=)
 ![Seagate](https://img.shields.io/static/v1?style=for-the-badge&message=Seagate&color=222222&logo=Seagate&logoColor=6EBE49&label=)
 ![SEAT](https://img.shields.io/static/v1?style=for-the-badge&message=SEAT&color=33302E&logo=SEAT&logoColor=FFFFFF&label=)
+![SecurityScorecard](https://img.shields.io/static/v1?style=for-the-badge&message=SecurityScorecard&color=7033FD&logo=SecurityScorecard&logoColor=FFFFFF&label=)
 ![Sefaria](https://img.shields.io/static/v1?style=for-the-badge&message=Sefaria&color=212E50&logo=Sefaria&logoColor=FFFFFF&label=)
 ![Sega](https://img.shields.io/static/v1?style=for-the-badge&message=Sega&color=0089CF&logo=Sega&logoColor=FFFFFF&label=)
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
