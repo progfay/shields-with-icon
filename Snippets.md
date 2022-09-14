@@ -222,6 +222,10 @@
 ```markdown
 ![Affinity Publisher](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Publisher&color=C9284D&logo=Affinity+Publisher&logoColor=FFFFFF&label=)
 ```
+## ![Agora](https://img.shields.io/static/v1?style=for-the-badge&message=Agora&color=099DFD&logo=Agora&logoColor=FFFFFF&label=)
+```markdown
+![Agora](https://img.shields.io/static/v1?style=for-the-badge&message=Agora&color=099DFD&logo=Agora&logoColor=FFFFFF&label=)
+```
 ## ![AI Dungeon](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Dungeon&color=000000&logo=AI+Dungeon&logoColor=FFFFFF&label=)
 ```markdown
 ![AI Dungeon](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Dungeon&color=000000&logo=AI+Dungeon&logoColor=FFFFFF&label=)
@@ -661,6 +665,10 @@
 ## ![Apple Music](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+Music&color=FA243C&logo=Apple+Music&logoColor=FFFFFF&label=)
 ```markdown
 ![Apple Music](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+Music&color=FA243C&logo=Apple+Music&logoColor=FFFFFF&label=)
+```
+## ![Apple News](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+News&color=FD415E&logo=Apple+News&logoColor=FFFFFF&label=)
+```markdown
+![Apple News](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+News&color=FD415E&logo=Apple+News&logoColor=FFFFFF&label=)
 ```
 ## ![Apple Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+Pay&color=000000&logo=Apple+Pay&logoColor=FFFFFF&label=)
 ```markdown
@@ -1765,6 +1773,10 @@
 ## ![commitlint](https://img.shields.io/static/v1?style=for-the-badge&message=commitlint&color=000000&logo=commitlint&logoColor=FFFFFF&label=)
 ```markdown
 ![commitlint](https://img.shields.io/static/v1?style=for-the-badge&message=commitlint&color=000000&logo=commitlint&logoColor=FFFFFF&label=)
+```
+## ![Commodore](https://img.shields.io/static/v1?style=for-the-badge&message=Commodore&color=1E2A4E&logo=Commodore&logoColor=FFFFFF&label=)
+```markdown
+![Commodore](https://img.shields.io/static/v1?style=for-the-badge&message=Commodore&color=1E2A4E&logo=Commodore&logoColor=FFFFFF&label=)
 ```
 ## ![Common Workflow Language](https://img.shields.io/static/v1?style=for-the-badge&message=Common+Workflow+Language&color=B5314C&logo=Common+Workflow+Language&logoColor=FFFFFF&label=)
 ```markdown
@@ -5382,6 +5394,10 @@
 ```markdown
 ![Netto](https://img.shields.io/static/v1?style=for-the-badge&message=Netto&color=222222&logo=Netto&logoColor=FFE500&label=)
 ```
+## ![Neutralinojs](https://img.shields.io/static/v1?style=for-the-badge&message=Neutralinojs&color=222222&logo=Neutralinojs&logoColor=F89901&label=)
+```markdown
+![Neutralinojs](https://img.shields.io/static/v1?style=for-the-badge&message=Neutralinojs&color=222222&logo=Neutralinojs&logoColor=F89901&label=)
+```
 ## ![New Balance](https://img.shields.io/static/v1?style=for-the-badge&message=New+Balance&color=CF0A2C&logo=New+Balance&logoColor=FFFFFF&label=)
 ```markdown
 ![New Balance](https://img.shields.io/static/v1?style=for-the-badge&message=New+Balance&color=CF0A2C&logo=New+Balance&logoColor=FFFFFF&label=)
@@ -7173,6 +7189,10 @@
 ## ![Sellfy](https://img.shields.io/static/v1?style=for-the-badge&message=Sellfy&color=21B352&logo=Sellfy&logoColor=FFFFFF&label=)
 ```markdown
 ![Sellfy](https://img.shields.io/static/v1?style=for-the-badge&message=Sellfy&color=21B352&logo=Sellfy&logoColor=FFFFFF&label=)
+```
+## ![Semantic Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Semantic+Scholar&color=1857B6&logo=Semantic+Scholar&logoColor=FFFFFF&label=)
+```markdown
+![Semantic Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Semantic+Scholar&color=1857B6&logo=Semantic+Scholar&logoColor=FFFFFF&label=)
 ```
 ## ![Semantic UI React](https://img.shields.io/static/v1?style=for-the-badge&message=Semantic+UI+React&color=222222&logo=Semantic+UI+React&logoColor=35BDB2&label=)
 ```markdown
