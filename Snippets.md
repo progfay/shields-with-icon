@@ -318,6 +318,10 @@
 ```markdown
 ![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=5468FF&logo=Algolia&logoColor=FFFFFF&label=)
 ```
+## ![Algorand](https://img.shields.io/static/v1?style=for-the-badge&message=Algorand&color=000000&logo=Algorand&logoColor=FFFFFF&label=)
+```markdown
+![Algorand](https://img.shields.io/static/v1?style=for-the-badge&message=Algorand&color=000000&logo=Algorand&logoColor=FFFFFF&label=)
+```
 ## ![Alibaba Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Alibaba+Cloud&color=FF6A00&logo=Alibaba+Cloud&logoColor=FFFFFF&label=)
 ```markdown
 ![Alibaba Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Alibaba+Cloud&color=FF6A00&logo=Alibaba+Cloud&logoColor=FFFFFF&label=)
@@ -2070,6 +2074,10 @@
 ```markdown
 ![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=3A3A42&logo=DataStax&logoColor=FFFFFF&label=)
 ```
+## ![Dataverse](https://img.shields.io/static/v1?style=for-the-badge&message=Dataverse&color=088142&logo=Dataverse&logoColor=FFFFFF&label=)
+```markdown
+![Dataverse](https://img.shields.io/static/v1?style=for-the-badge&message=Dataverse&color=088142&logo=Dataverse&logoColor=FFFFFF&label=)
+```
 ## ![DatoCMS](https://img.shields.io/static/v1?style=for-the-badge&message=DatoCMS&color=FF7751&logo=DatoCMS&logoColor=FFFFFF&label=)
 ```markdown
 ![DatoCMS](https://img.shields.io/static/v1?style=for-the-badge&message=DatoCMS&color=FF7751&logo=DatoCMS&logoColor=FFFFFF&label=)
@@ -2362,9 +2370,9 @@
 ```markdown
 ![dwm](https://img.shields.io/static/v1?style=for-the-badge&message=dwm&color=1177AA&logo=dwm&logoColor=FFFFFF&label=)
 ```
-## ![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=002050&logo=Dynamics+365&logoColor=FFFFFF&label=)
+## ![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=0B53CE&logo=Dynamics+365&logoColor=FFFFFF&label=)
 ```markdown
-![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=002050&logo=Dynamics+365&logoColor=FFFFFF&label=)
+![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=0B53CE&logo=Dynamics+365&logoColor=FFFFFF&label=)
 ```
 ## ![Dynatrace](https://img.shields.io/static/v1?style=for-the-badge&message=Dynatrace&color=1496FF&logo=Dynatrace&logoColor=FFFFFF&label=)
 ```markdown
@@ -3313,6 +3321,10 @@
 ## ![Google Hangouts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Hangouts&color=0C9D58&logo=Google+Hangouts&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Hangouts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Hangouts&color=0C9D58&logo=Google+Hangouts&logoColor=FFFFFF&label=)
+```
+## ![Google Home](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Home&color=4285F4&logo=Google+Home&logoColor=FFFFFF&label=)
+```markdown
+![Google Home](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Home&color=4285F4&logo=Google+Home&logoColor=FFFFFF&label=)
 ```
 ## ![Google Keep](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Keep&color=222222&logo=Google+Keep&logoColor=FFBB00&label=)
 ```markdown
@@ -6309,6 +6321,14 @@
 ## ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 ```markdown
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+```
+## ![Power Fx](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Fx&color=7F2157&logo=Power+Fx&logoColor=FFFFFF&label=)
+```markdown
+![Power Fx](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Fx&color=7F2157&logo=Power+Fx&logoColor=FFFFFF&label=)
+```
+## ![Power Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Pages&color=A493E7&logo=Power+Pages&logoColor=FFFFFF&label=)
+```markdown
+![Power Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Pages&color=A493E7&logo=Power+Pages&logoColor=FFFFFF&label=)
 ```
 ## ![Power Virtual Agents](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Virtual+Agents&color=0B556A&logo=Power+Virtual+Agents&logoColor=FFFFFF&label=)
 ```markdown
