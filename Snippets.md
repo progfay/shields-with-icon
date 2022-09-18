@@ -474,9 +474,9 @@
 ```markdown
 ![Anchor](https://img.shields.io/static/v1?style=for-the-badge&message=Anchor&color=5000B9&logo=Anchor&logoColor=FFFFFF&label=)
 ```
-## ![Andela](https://img.shields.io/static/v1?style=for-the-badge&message=Andela&color=3359DF&logo=Andela&logoColor=FFFFFF&label=)
+## ![Andela](https://img.shields.io/static/v1?style=for-the-badge&message=Andela&color=173B3F&logo=Andela&logoColor=FFFFFF&label=)
 ```markdown
-![Andela](https://img.shields.io/static/v1?style=for-the-badge&message=Andela&color=3359DF&logo=Andela&logoColor=FFFFFF&label=)
+![Andela](https://img.shields.io/static/v1?style=for-the-badge&message=Andela&color=173B3F&logo=Andela&logoColor=FFFFFF&label=)
 ```
 ## ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ```markdown
@@ -5370,9 +5370,9 @@
 ```markdown
 ![NEC](https://img.shields.io/static/v1?style=for-the-badge&message=NEC&color=1414A0&logo=NEC&logoColor=FFFFFF&label=)
 ```
-## ![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=Neo4j&logoColor=FFFFFF&label=)
+## ![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)
 ```markdown
-![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=Neo4j&logoColor=FFFFFF&label=)
+![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)
 ```
 ## ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ```markdown
@@ -7265,6 +7265,10 @@
 ## ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
 ```markdown
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
+```
+## ![Sessionize](https://img.shields.io/static/v1?style=for-the-badge&message=Sessionize&color=1AB394&logo=Sessionize&logoColor=FFFFFF&label=)
+```markdown
+![Sessionize](https://img.shields.io/static/v1?style=for-the-badge&message=Sessionize&color=1AB394&logo=Sessionize&logoColor=FFFFFF&label=)
 ```
 ## ![SFML](https://img.shields.io/static/v1?style=for-the-badge&message=SFML&color=222222&logo=SFML&logoColor=8CC445&label=)
 ```markdown
