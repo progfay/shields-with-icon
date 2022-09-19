@@ -122,6 +122,10 @@
 ```markdown
 ![Adidas](https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=)
 ```
+## ![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=34567C&logo=Adminer&logoColor=FFFFFF&label=)
+```markdown
+![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=34567C&logo=Adminer&logoColor=FFFFFF&label=)
+```
 ## ![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
 ```markdown
 ![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)

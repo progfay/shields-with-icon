@@ -29,6 +29,7 @@
 ![AddThis](https://img.shields.io/static/v1?style=for-the-badge&message=AddThis&color=FF6550&logo=AddThis&logoColor=FFFFFF&label=)
 ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
 ![Adidas](https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=)
+![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=34567C&logo=Adminer&logoColor=FFFFFF&label=)
 ![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
