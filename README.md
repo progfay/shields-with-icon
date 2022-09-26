@@ -1990,6 +1990,7 @@
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
 ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
+![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
 ![SurveyMonkey](https://img.shields.io/static/v1?style=for-the-badge&message=SurveyMonkey&color=222222&logo=SurveyMonkey&logoColor=00BF6F&label=)
 ![SUSE](https://img.shields.io/static/v1?style=for-the-badge&message=SUSE&color=0C322C&logo=SUSE&logoColor=FFFFFF&label=)
 ![Suzuki](https://img.shields.io/static/v1?style=for-the-badge&message=Suzuki&color=E30613&logo=Suzuki&logoColor=FFFFFF&label=)

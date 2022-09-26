@@ -7966,6 +7966,10 @@
 ```markdown
 ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
 ```
+## ![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
+```markdown
+![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
+```
 ## ![SurveyMonkey](https://img.shields.io/static/v1?style=for-the-badge&message=SurveyMonkey&color=222222&logo=SurveyMonkey&logoColor=00BF6F&label=)
 ```markdown
 ![SurveyMonkey](https://img.shields.io/static/v1?style=for-the-badge&message=SurveyMonkey&color=222222&logo=SurveyMonkey&logoColor=00BF6F&label=)
