@@ -1362,6 +1362,10 @@
 ```markdown
 ![Caffeine](https://img.shields.io/static/v1?style=for-the-badge&message=Caffeine&color=0000FF&logo=Caffeine&logoColor=FFFFFF&label=)
 ```
+## ![Cairo Graphics](https://img.shields.io/static/v1?style=for-the-badge&message=Cairo+Graphics&color=222222&logo=Cairo+Graphics&logoColor=F39914&label=)
+```markdown
+![Cairo Graphics](https://img.shields.io/static/v1?style=for-the-badge&message=Cairo+Graphics&color=222222&logo=Cairo+Graphics&logoColor=F39914&label=)
+```
 ## ![Cairo Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Cairo+Metro&color=C10C0C&logo=Cairo+Metro&logoColor=FFFFFF&label=)
 ```markdown
 ![Cairo Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Cairo+Metro&color=C10C0C&logo=Cairo+Metro&logoColor=FFFFFF&label=)
@@ -1738,9 +1742,9 @@
 ```markdown
 ![Coderwall](https://img.shields.io/static/v1?style=for-the-badge&message=Coderwall&color=3E8DCC&logo=Coderwall&logoColor=FFFFFF&label=)
 ```
-## ![CodeSandbox](https://img.shields.io/static/v1?style=for-the-badge&message=CodeSandbox&color=000000&logo=CodeSandbox&logoColor=FFFFFF&label=)
+## ![CodeSandbox](https://img.shields.io/static/v1?style=for-the-badge&message=CodeSandbox&color=151515&logo=CodeSandbox&logoColor=FFFFFF&label=)
 ```markdown
-![CodeSandbox](https://img.shields.io/static/v1?style=for-the-badge&message=CodeSandbox&color=000000&logo=CodeSandbox&logoColor=FFFFFF&label=)
+![CodeSandbox](https://img.shields.io/static/v1?style=for-the-badge&message=CodeSandbox&color=151515&logo=CodeSandbox&logoColor=FFFFFF&label=)
 ```
 ## ![Codeship](https://img.shields.io/static/v1?style=for-the-badge&message=Codeship&color=004466&logo=Codeship&logoColor=FFFFFF&label=)
 ```markdown
