@@ -868,6 +868,7 @@
 ![Grav](https://img.shields.io/static/v1?style=for-the-badge&message=Grav&color=221E1F&logo=Grav&logoColor=FFFFFF&label=)
 ![Gravatar](https://img.shields.io/static/v1?style=for-the-badge&message=Gravatar&color=1E8CBE&logo=Gravatar&logoColor=FFFFFF&label=)
 ![Graylog](https://img.shields.io/static/v1?style=for-the-badge&message=Graylog&color=FF3633&logo=Graylog&logoColor=FFFFFF&label=)
+![Greenhouse](https://img.shields.io/static/v1?style=for-the-badge&message=Greenhouse&color=24A47F&logo=Greenhouse&logoColor=FFFFFF&label=)
 ![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ![Grid.ai](https://img.shields.io/static/v1?style=for-the-badge&message=Grid.ai&color=222222&logo=Grid.ai&logoColor=78FF96&label=)
 ![Gridsome](https://img.shields.io/static/v1?style=for-the-badge&message=Gridsome&color=00A672&logo=Gridsome&logoColor=FFFFFF&label=)

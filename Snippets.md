@@ -3478,6 +3478,10 @@
 ```markdown
 ![Graylog](https://img.shields.io/static/v1?style=for-the-badge&message=Graylog&color=FF3633&logo=Graylog&logoColor=FFFFFF&label=)
 ```
+## ![Greenhouse](https://img.shields.io/static/v1?style=for-the-badge&message=Greenhouse&color=24A47F&logo=Greenhouse&logoColor=FFFFFF&label=)
+```markdown
+![Greenhouse](https://img.shields.io/static/v1?style=for-the-badge&message=Greenhouse&color=24A47F&logo=Greenhouse&logoColor=FFFFFF&label=)
+```
 ## ![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ```markdown
 ![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
