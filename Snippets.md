@@ -3994,6 +3994,10 @@
 ```markdown
 ![Instructables](https://img.shields.io/static/v1?style=for-the-badge&message=Instructables&color=222222&logo=Instructables&logoColor=FABF15&label=)
 ```
+## ![Instructure](https://img.shields.io/static/v1?style=for-the-badge&message=Instructure&color=2A7BA0&logo=Instructure&logoColor=FFFFFF&label=)
+```markdown
+![Instructure](https://img.shields.io/static/v1?style=for-the-badge&message=Instructure&color=2A7BA0&logo=Instructure&logoColor=FFFFFF&label=)
+```
 ## ![Integromat](https://img.shields.io/static/v1?style=for-the-badge&message=Integromat&color=2F8CBB&logo=Integromat&logoColor=FFFFFF&label=)
 ```markdown
 ![Integromat](https://img.shields.io/static/v1?style=for-the-badge&message=Integromat&color=2F8CBB&logo=Integromat&logoColor=FFFFFF&label=)

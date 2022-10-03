@@ -997,6 +997,7 @@
 ![Instapaper](https://img.shields.io/static/v1?style=for-the-badge&message=Instapaper&color=1F1F1F&logo=Instapaper&logoColor=FFFFFF&label=)
 ![Instatus](https://img.shields.io/static/v1?style=for-the-badge&message=Instatus&color=222222&logo=Instatus&logoColor=4EE3C2&label=)
 ![Instructables](https://img.shields.io/static/v1?style=for-the-badge&message=Instructables&color=222222&logo=Instructables&logoColor=FABF15&label=)
+![Instructure](https://img.shields.io/static/v1?style=for-the-badge&message=Instructure&color=2A7BA0&logo=Instructure&logoColor=FFFFFF&label=)
 ![Integromat](https://img.shields.io/static/v1?style=for-the-badge&message=Integromat&color=2F8CBB&logo=Integromat&logoColor=FFFFFF&label=)
 ![Intel](https://img.shields.io/static/v1?style=for-the-badge&message=Intel&color=0071C5&logo=Intel&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
