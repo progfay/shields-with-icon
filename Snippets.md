@@ -2846,6 +2846,10 @@
 ```markdown
 ![Firefox Browser](https://img.shields.io/static/v1?style=for-the-badge&message=Firefox+Browser&color=FF7139&logo=Firefox+Browser&logoColor=FFFFFF&label=)
 ```
+## ![Fireship](https://img.shields.io/static/v1?style=for-the-badge&message=Fireship&color=EB844E&logo=Fireship&logoColor=FFFFFF&label=)
+```markdown
+![Fireship](https://img.shields.io/static/v1?style=for-the-badge&message=Fireship&color=EB844E&logo=Fireship&logoColor=FFFFFF&label=)
+```
 ## ![FIRST](https://img.shields.io/static/v1?style=for-the-badge&message=FIRST&color=0066B3&logo=FIRST&logoColor=FFFFFF&label=)
 ```markdown
 ![FIRST](https://img.shields.io/static/v1?style=for-the-badge&message=FIRST&color=0066B3&logo=FIRST&logoColor=FFFFFF&label=)
@@ -6597,6 +6601,10 @@
 ## ![PyScaffold](https://img.shields.io/static/v1?style=for-the-badge&message=PyScaffold&color=005CA0&logo=PyScaffold&logoColor=FFFFFF&label=)
 ```markdown
 ![PyScaffold](https://img.shields.io/static/v1?style=for-the-badge&message=PyScaffold&color=005CA0&logo=PyScaffold&logoColor=FFFFFF&label=)
+```
+## ![PySyft](https://img.shields.io/static/v1?style=for-the-badge&message=PySyft&color=222222&logo=PySyft&logoColor=F1BF7A&label=)
+```markdown
+![PySyft](https://img.shields.io/static/v1?style=for-the-badge&message=PySyft&color=222222&logo=PySyft&logoColor=F1BF7A&label=)
 ```
 ## ![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)
 ```markdown
