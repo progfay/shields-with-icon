@@ -5322,6 +5322,10 @@
 ```markdown
 ![Moo](https://img.shields.io/static/v1?style=for-the-badge&message=Moo&color=00945E&logo=Moo&logoColor=FFFFFF&label=)
 ```
+## ![Moonrepo](https://img.shields.io/static/v1?style=for-the-badge&message=Moonrepo&color=6F53F3&logo=Moonrepo&logoColor=FFFFFF&label=)
+```markdown
+![Moonrepo](https://img.shields.io/static/v1?style=for-the-badge&message=Moonrepo&color=6F53F3&logo=Moonrepo&logoColor=FFFFFF&label=)
+```
 ## ![Morrisons](https://img.shields.io/static/v1?style=for-the-badge&message=Morrisons&color=007531&logo=Morrisons&logoColor=FFFFFF&label=)
 ```markdown
 ![Morrisons](https://img.shields.io/static/v1?style=for-the-badge&message=Morrisons&color=007531&logo=Morrisons&logoColor=FFFFFF&label=)
@@ -6930,9 +6934,9 @@
 ```markdown
 ![Renren](https://img.shields.io/static/v1?style=for-the-badge&message=Renren&color=217DC6&logo=Renren&logoColor=FFFFFF&label=)
 ```
-## ![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=667881&logo=Replit&logoColor=FFFFFF&label=)
+## ![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=F26207&logo=Replit&logoColor=FFFFFF&label=)
 ```markdown
-![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=667881&logo=Replit&logoColor=FFFFFF&label=)
+![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=F26207&logo=Replit&logoColor=FFFFFF&label=)
 ```
 ## ![Republic of Gamers](https://img.shields.io/static/v1?style=for-the-badge&message=Republic+of+Gamers&color=FF0029&logo=Republic+of+Gamers&logoColor=FFFFFF&label=)
 ```markdown
@@ -8093,6 +8097,10 @@
 ## ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
 ```markdown
 ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
+```
+## ![System76](https://img.shields.io/static/v1?style=for-the-badge&message=System76&color=585048&logo=System76&logoColor=FFFFFF&label=)
+```markdown
+![System76](https://img.shields.io/static/v1?style=for-the-badge&message=System76&color=585048&logo=System76&logoColor=FFFFFF&label=)
 ```
 ## ![T-Mobile](https://img.shields.io/static/v1?style=for-the-badge&message=T-Mobile&color=E20074&logo=T-Mobile&logoColor=FFFFFF&label=)
 ```markdown
@@ -9269,6 +9277,10 @@
 ## ![WP Rocket](https://img.shields.io/static/v1?style=for-the-badge&message=WP+Rocket&color=F56640&logo=WP+Rocket&logoColor=FFFFFF&label=)
 ```markdown
 ![WP Rocket](https://img.shields.io/static/v1?style=for-the-badge&message=WP+Rocket&color=F56640&logo=WP+Rocket&logoColor=FFFFFF&label=)
+```
+## ![WPExplorer](https://img.shields.io/static/v1?style=for-the-badge&message=WPExplorer&color=2563EB&logo=WPExplorer&logoColor=FFFFFF&label=)
+```markdown
+![WPExplorer](https://img.shields.io/static/v1?style=for-the-badge&message=WPExplorer&color=2563EB&logo=WPExplorer&logoColor=FFFFFF&label=)
 ```
 ## ![write.as](https://img.shields.io/static/v1?style=for-the-badge&message=write.as&color=222222&logo=write.as&logoColor=5BC4EE&label=)
 ```markdown
