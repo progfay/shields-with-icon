@@ -1086,6 +1086,10 @@
 ```markdown
 ![Billboard](https://img.shields.io/static/v1?style=for-the-badge&message=Billboard&color=000000&logo=Billboard&logoColor=FFFFFF&label=)
 ```
+## ![BIM](https://img.shields.io/static/v1?style=for-the-badge&message=BIM&color=EB1928&logo=BIM&logoColor=FFFFFF&label=)
+```markdown
+![BIM](https://img.shields.io/static/v1?style=for-the-badge&message=BIM&color=EB1928&logo=BIM&logoColor=FFFFFF&label=)
+```
 ## ![Binance](https://img.shields.io/static/v1?style=for-the-badge&message=Binance&color=222222&logo=Binance&logoColor=F0B90B&label=)
 ```markdown
 ![Binance](https://img.shields.io/static/v1?style=for-the-badge&message=Binance&color=222222&logo=Binance&logoColor=F0B90B&label=)
@@ -2326,6 +2330,10 @@
 ```markdown
 ![Douban Read](https://img.shields.io/static/v1?style=for-the-badge&message=Douban+Read&color=389EAC&logo=Douban+Read&logoColor=FFFFFF&label=)
 ```
+## ![Dovecot](https://img.shields.io/static/v1?style=for-the-badge&message=Dovecot&color=222222&logo=Dovecot&logoColor=54BCAB&label=)
+```markdown
+![Dovecot](https://img.shields.io/static/v1?style=for-the-badge&message=Dovecot&color=222222&logo=Dovecot&logoColor=54BCAB&label=)
+```
 ## ![DPD](https://img.shields.io/static/v1?style=for-the-badge&message=DPD&color=DC0032&logo=DPD&logoColor=FFFFFF&label=)
 ```markdown
 ![DPD](https://img.shields.io/static/v1?style=for-the-badge&message=DPD&color=DC0032&logo=DPD&logoColor=FFFFFF&label=)
@@ -2994,6 +3002,10 @@
 ```markdown
 ![Foursquare City Guide](https://img.shields.io/static/v1?style=for-the-badge&message=Foursquare+City+Guide&color=F94877&logo=Foursquare+City+Guide&logoColor=FFFFFF&label=)
 ```
+## ![FOX](https://img.shields.io/static/v1?style=for-the-badge&message=FOX&color=000000&logo=FOX&logoColor=FFFFFF&label=)
+```markdown
+![FOX](https://img.shields.io/static/v1?style=for-the-badge&message=FOX&color=000000&logo=FOX&logoColor=FFFFFF&label=)
+```
 ## ![Foxtel](https://img.shields.io/static/v1?style=for-the-badge&message=Foxtel&color=EB5205&logo=Foxtel&logoColor=FFFFFF&label=)
 ```markdown
 ![Foxtel](https://img.shields.io/static/v1?style=for-the-badge&message=Foxtel&color=EB5205&logo=Foxtel&logoColor=FFFFFF&label=)
@@ -3525,6 +3537,10 @@
 ## ![Grunt](https://img.shields.io/static/v1?style=for-the-badge&message=Grunt&color=222222&logo=Grunt&logoColor=FAA918&label=)
 ```markdown
 ![Grunt](https://img.shields.io/static/v1?style=for-the-badge&message=Grunt&color=222222&logo=Grunt&logoColor=FAA918&label=)
+```
+## ![GSK](https://img.shields.io/static/v1?style=for-the-badge&message=GSK&color=F36633&logo=GSK&logoColor=FFFFFF&label=)
+```markdown
+![GSK](https://img.shields.io/static/v1?style=for-the-badge&message=GSK&color=F36633&logo=GSK&logoColor=FFFFFF&label=)
 ```
 ## ![GTK](https://img.shields.io/static/v1?style=for-the-badge&message=GTK&color=222222&logo=GTK&logoColor=7FE719&label=)
 ```markdown
