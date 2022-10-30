@@ -5378,6 +5378,10 @@
 ```markdown
 ![Mozilla](https://img.shields.io/static/v1?style=for-the-badge&message=Mozilla&color=000000&logo=Mozilla&logoColor=FFFFFF&label=)
 ```
+## ![MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=MQTT&color=660066&logo=MQTT&logoColor=FFFFFF&label=)
+```markdown
+![MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=MQTT&color=660066&logo=MQTT&logoColor=FFFFFF&label=)
+```
 ## ![MSI](https://img.shields.io/static/v1?style=for-the-badge&message=MSI&color=FF0000&logo=MSI&logoColor=FFFFFF&label=)
 ```markdown
 ![MSI](https://img.shields.io/static/v1?style=for-the-badge&message=MSI&color=FF0000&logo=MSI&logoColor=FFFFFF&label=)
@@ -6841,6 +6845,10 @@
 ## ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ```markdown
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+```
+## ![Ravelry](https://img.shields.io/static/v1?style=for-the-badge&message=Ravelry&color=EE6E62&logo=Ravelry&logoColor=FFFFFF&label=)
+```markdown
+![Ravelry](https://img.shields.io/static/v1?style=for-the-badge&message=Ravelry&color=EE6E62&logo=Ravelry&logoColor=FFFFFF&label=)
 ```
 ## ![Ray](https://img.shields.io/static/v1?style=for-the-badge&message=Ray&color=028CF0&logo=Ray&logoColor=FFFFFF&label=)
 ```markdown
