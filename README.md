@@ -2261,6 +2261,7 @@
 ![WALKMAN](https://img.shields.io/static/v1?style=for-the-badge&message=WALKMAN&color=000000&logo=WALKMAN&logoColor=FFFFFF&label=)
 ![Wallabag](https://img.shields.io/static/v1?style=for-the-badge&message=Wallabag&color=3F6184&logo=Wallabag&logoColor=FFFFFF&label=)
 ![Walmart](https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=0071CE&logo=Walmart&logoColor=FFFFFF&label=)
+![Wantedly](https://img.shields.io/static/v1?style=for-the-badge&message=Wantedly&color=222222&logo=Wantedly&logoColor=21BDDB&label=)
 ![Wappalyzer](https://img.shields.io/static/v1?style=for-the-badge&message=Wappalyzer&color=32067C&logo=Wappalyzer&logoColor=FFFFFF&label=)
 ![Warner Bros.](https://img.shields.io/static/v1?style=for-the-badge&message=Warner+Bros.&color=004DB4&logo=Warner+Bros.&logoColor=FFFFFF&label=)
 ![Warp](https://img.shields.io/static/v1?style=for-the-badge&message=Warp&color=01A4FF&logo=Warp&logoColor=FFFFFF&label=)

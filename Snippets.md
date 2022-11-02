@@ -9050,6 +9050,10 @@
 ```markdown
 ![Walmart](https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=0071CE&logo=Walmart&logoColor=FFFFFF&label=)
 ```
+## ![Wantedly](https://img.shields.io/static/v1?style=for-the-badge&message=Wantedly&color=222222&logo=Wantedly&logoColor=21BDDB&label=)
+```markdown
+![Wantedly](https://img.shields.io/static/v1?style=for-the-badge&message=Wantedly&color=222222&logo=Wantedly&logoColor=21BDDB&label=)
+```
 ## ![Wappalyzer](https://img.shields.io/static/v1?style=for-the-badge&message=Wappalyzer&color=32067C&logo=Wappalyzer&logoColor=FFFFFF&label=)
 ```markdown
 ![Wappalyzer](https://img.shields.io/static/v1?style=for-the-badge&message=Wappalyzer&color=32067C&logo=Wappalyzer&logoColor=FFFFFF&label=)
