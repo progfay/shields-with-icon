@@ -374,6 +374,10 @@
 ```markdown
 ![Altium Designer](https://img.shields.io/static/v1?style=for-the-badge&message=Altium+Designer&color=A5915F&logo=Altium+Designer&logoColor=FFFFFF&label=)
 ```
+## ![Alwaysdata](https://img.shields.io/static/v1?style=for-the-badge&message=Alwaysdata&color=E9568E&logo=Alwaysdata&logoColor=FFFFFF&label=)
+```markdown
+![Alwaysdata](https://img.shields.io/static/v1?style=for-the-badge&message=Alwaysdata&color=E9568E&logo=Alwaysdata&logoColor=FFFFFF&label=)
+```
 ## ![Amazon](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=)
 ```markdown
 ![Amazon](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=)
