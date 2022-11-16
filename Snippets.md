@@ -186,6 +186,10 @@
 ```markdown
 ![AdonisJS](https://img.shields.io/static/v1?style=for-the-badge&message=AdonisJS&color=5A45FF&logo=AdonisJS&logoColor=FFFFFF&label=)
 ```
+## ![ADP](https://img.shields.io/static/v1?style=for-the-badge&message=ADP&color=D0271D&logo=ADP&logoColor=FFFFFF&label=)
+```markdown
+![ADP](https://img.shields.io/static/v1?style=for-the-badge&message=ADP&color=D0271D&logo=ADP&logoColor=FFFFFF&label=)
+```
 ## ![Adyen](https://img.shields.io/static/v1?style=for-the-badge&message=Adyen&color=222222&logo=Adyen&logoColor=0ABF53&label=)
 ```markdown
 ![Adyen](https://img.shields.io/static/v1?style=for-the-badge&message=Adyen&color=222222&logo=Adyen&logoColor=0ABF53&label=)
