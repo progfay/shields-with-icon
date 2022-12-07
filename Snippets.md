@@ -1346,6 +1346,10 @@
 ```markdown
 ![BuzzFeed](https://img.shields.io/static/v1?style=for-the-badge&message=BuzzFeed&color=EE3322&logo=BuzzFeed&logoColor=FFFFFF&label=)
 ```
+## ![BVG](https://img.shields.io/static/v1?style=for-the-badge&message=BVG&color=222222&logo=BVG&logoColor=F0D722&label=)
+```markdown
+![BVG](https://img.shields.io/static/v1?style=for-the-badge&message=BVG&color=222222&logo=BVG&logoColor=F0D722&label=)
+```
 ## ![Byju's](https://img.shields.io/static/v1?style=for-the-badge&message=Byju%27s&color=813588&logo=Byju%27s&logoColor=FFFFFF&label=)
 ```markdown
 ![Byju's](https://img.shields.io/static/v1?style=for-the-badge&message=Byju%27s&color=813588&logo=Byju%27s&logoColor=FFFFFF&label=)
@@ -1989,6 +1993,10 @@
 ## ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ```markdown
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+```
+## ![CTS](https://img.shields.io/static/v1?style=for-the-badge&message=CTS&color=E53236&logo=CTS&logoColor=FFFFFF&label=)
+```markdown
+![CTS](https://img.shields.io/static/v1?style=for-the-badge&message=CTS&color=E53236&logo=CTS&logoColor=FFFFFF&label=)
 ```
 ## ![Cucumber](https://img.shields.io/static/v1?style=for-the-badge&message=Cucumber&color=222222&logo=Cucumber&logoColor=23D96C&label=)
 ```markdown
@@ -7645,6 +7653,10 @@
 ## ![Snapcraft](https://img.shields.io/static/v1?style=for-the-badge&message=Snapcraft&color=222222&logo=Snapcraft&logoColor=82BEA0&label=)
 ```markdown
 ![Snapcraft](https://img.shields.io/static/v1?style=for-the-badge&message=Snapcraft&color=222222&logo=Snapcraft&logoColor=82BEA0&label=)
+```
+## ![SNCF](https://img.shields.io/static/v1?style=for-the-badge&message=SNCF&color=CA0939&logo=SNCF&logoColor=FFFFFF&label=)
+```markdown
+![SNCF](https://img.shields.io/static/v1?style=for-the-badge&message=SNCF&color=CA0939&logo=SNCF&logoColor=FFFFFF&label=)
 ```
 ## ![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
 ```markdown
