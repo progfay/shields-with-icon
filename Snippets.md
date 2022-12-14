@@ -2846,6 +2846,10 @@
 ```markdown
 ![FIFA](https://img.shields.io/static/v1?style=for-the-badge&message=FIFA&color=326295&logo=FIFA&logoColor=FFFFFF&label=)
 ```
+## ![Fig](https://img.shields.io/static/v1?style=for-the-badge&message=Fig&color=000000&logo=Fig&logoColor=FFFFFF&label=)
+```markdown
+![Fig](https://img.shields.io/static/v1?style=for-the-badge&message=Fig&color=000000&logo=Fig&logoColor=FFFFFF&label=)
+```
 ## ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ```markdown
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
