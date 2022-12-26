@@ -2002,6 +2002,10 @@
 ```markdown
 ![Cucumber](https://img.shields.io/static/v1?style=for-the-badge&message=Cucumber&color=222222&logo=Cucumber&logoColor=23D96C&label=)
 ```
+## ![Cultura](https://img.shields.io/static/v1?style=for-the-badge&message=Cultura&color=1D2C54&logo=Cultura&logoColor=FFFFFF&label=)
+```markdown
+![Cultura](https://img.shields.io/static/v1?style=for-the-badge&message=Cultura&color=1D2C54&logo=Cultura&logoColor=FFFFFF&label=)
+```
 ## ![curl](https://img.shields.io/static/v1?style=for-the-badge&message=curl&color=073551&logo=curl&logoColor=FFFFFF&label=)
 ```markdown
 ![curl](https://img.shields.io/static/v1?style=for-the-badge&message=curl&color=073551&logo=curl&logoColor=FFFFFF&label=)
@@ -3990,6 +3994,10 @@
 ```markdown
 ![IKEA](https://img.shields.io/static/v1?style=for-the-badge&message=IKEA&color=0058A3&logo=IKEA&logoColor=FFFFFF&label=)
 ```
+## ![Île-de-France Mobilités](https://img.shields.io/static/v1?style=for-the-badge&message=%C3%8Ele-de-France+Mobilit%C3%A9s&color=222222&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7&label=)
+```markdown
+![Île-de-France Mobilités](https://img.shields.io/static/v1?style=for-the-badge&message=%C3%8Ele-de-France+Mobilit%C3%A9s&color=222222&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7&label=)
+```
 ## ![ImageJ](https://img.shields.io/static/v1?style=for-the-badge&message=ImageJ&color=222222&logo=ImageJ&logoColor=00D8E0&label=)
 ```markdown
 ![ImageJ](https://img.shields.io/static/v1?style=for-the-badge&message=ImageJ&color=222222&logo=ImageJ&logoColor=00D8E0&label=)
@@ -4029,6 +4037,10 @@
 ## ![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
 ```markdown
 ![Infosys](https://img.shields.io/static/v1?style=for-the-badge&message=Infosys&color=007CC3&logo=Infosys&logoColor=FFFFFF&label=)
+```
+## ![Infracost](https://img.shields.io/static/v1?style=for-the-badge&message=Infracost&color=DB44B8&logo=Infracost&logoColor=FFFFFF&label=)
+```markdown
+![Infracost](https://img.shields.io/static/v1?style=for-the-badge&message=Infracost&color=DB44B8&logo=Infracost&logoColor=FFFFFF&label=)
 ```
 ## ![Ingress](https://img.shields.io/static/v1?style=for-the-badge&message=Ingress&color=783CBD&logo=Ingress&logoColor=FFFFFF&label=)
 ```markdown
@@ -5326,6 +5338,10 @@
 ```markdown
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ```
+## ![Modrinth](https://img.shields.io/static/v1?style=for-the-badge&message=Modrinth&color=00AF5C&logo=Modrinth&logoColor=FFFFFF&label=)
+```markdown
+![Modrinth](https://img.shields.io/static/v1?style=for-the-badge&message=Modrinth&color=00AF5C&logo=Modrinth&logoColor=FFFFFF&label=)
+```
 ## ![MODX](https://img.shields.io/static/v1?style=for-the-badge&message=MODX&color=102C53&logo=MODX&logoColor=FFFFFF&label=)
 ```markdown
 ![MODX](https://img.shields.io/static/v1?style=for-the-badge&message=MODX&color=102C53&logo=MODX&logoColor=FFFFFF&label=)
@@ -6413,6 +6429,10 @@
 ## ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
 ```markdown
 ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
+```
+## ![Polars](https://img.shields.io/static/v1?style=for-the-badge&message=Polars&color=CD792C&logo=Polars&logoColor=FFFFFF&label=)
+```markdown
+![Polars](https://img.shields.io/static/v1?style=for-the-badge&message=Polars&color=CD792C&logo=Polars&logoColor=FFFFFF&label=)
 ```
 ## ![Polkadot](https://img.shields.io/static/v1?style=for-the-badge&message=Polkadot&color=E6007A&logo=Polkadot&logoColor=FFFFFF&label=)
 ```markdown
