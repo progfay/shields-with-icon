@@ -2292,6 +2292,7 @@
 ![wasmCloud](https://img.shields.io/static/v1?style=for-the-badge&message=wasmCloud&color=222222&logo=wasmCloud&logoColor=00BC8E&label=)
 ![Wasmer](https://img.shields.io/static/v1?style=for-the-badge&message=Wasmer&color=4946DD&logo=Wasmer&logoColor=FFFFFF&label=)
 ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
+![Wayland](https://img.shields.io/static/v1?style=for-the-badge&message=Wayland&color=222222&logo=Wayland&logoColor=FFBC00&label=)
 ![Waze](https://img.shields.io/static/v1?style=for-the-badge&message=Waze&color=222222&logo=Waze&logoColor=33CCFF&label=)
 ![Wear OS](https://img.shields.io/static/v1?style=for-the-badge&message=Wear+OS&color=4285F4&logo=Wear+OS&logoColor=FFFFFF&label=)
 ![Weasyl](https://img.shields.io/static/v1?style=for-the-badge&message=Weasyl&color=990000&logo=Weasyl&logoColor=FFFFFF&label=)

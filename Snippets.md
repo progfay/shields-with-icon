@@ -9174,6 +9174,10 @@
 ```markdown
 ![Wattpad](https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=)
 ```
+## ![Wayland](https://img.shields.io/static/v1?style=for-the-badge&message=Wayland&color=222222&logo=Wayland&logoColor=FFBC00&label=)
+```markdown
+![Wayland](https://img.shields.io/static/v1?style=for-the-badge&message=Wayland&color=222222&logo=Wayland&logoColor=FFBC00&label=)
+```
 ## ![Waze](https://img.shields.io/static/v1?style=for-the-badge&message=Waze&color=222222&logo=Waze&logoColor=33CCFF&label=)
 ```markdown
 ![Waze](https://img.shields.io/static/v1?style=for-the-badge&message=Waze&color=222222&logo=Waze&logoColor=33CCFF&label=)
