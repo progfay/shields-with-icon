@@ -2078,6 +2078,10 @@
 ```markdown
 ![Daimler](https://img.shields.io/static/v1?style=for-the-badge&message=Daimler&color=222222&logo=Daimler&logoColor=E6E6E6&label=)
 ```
+## ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
+```markdown
+![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
+```
 ## ![Dapr](https://img.shields.io/static/v1?style=for-the-badge&message=Dapr&color=0D2192&logo=Dapr&logoColor=FFFFFF&label=)
 ```markdown
 ![Dapr](https://img.shields.io/static/v1?style=for-the-badge&message=Dapr&color=0D2192&logo=Dapr&logoColor=FFFFFF&label=)
@@ -4201,6 +4205,10 @@
 ## ![iTunes](https://img.shields.io/static/v1?style=for-the-badge&message=iTunes&color=FB5BC5&logo=iTunes&logoColor=FFFFFF&label=)
 ```markdown
 ![iTunes](https://img.shields.io/static/v1?style=for-the-badge&message=iTunes&color=FB5BC5&logo=iTunes&logoColor=FFFFFF&label=)
+```
+## ![ITVx](https://img.shields.io/static/v1?style=for-the-badge&message=ITVx&color=222222&logo=ITVx&logoColor=DEEB52&label=)
+```markdown
+![ITVx](https://img.shields.io/static/v1?style=for-the-badge&message=ITVx&color=222222&logo=ITVx&logoColor=DEEB52&label=)
 ```
 ## ![IVECO](https://img.shields.io/static/v1?style=for-the-badge&message=IVECO&color=004994&logo=IVECO&logoColor=FFFFFF&label=)
 ```markdown
@@ -8550,6 +8558,10 @@
 ```markdown
 ![Tokyo Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Tokyo+Metro&color=149DD3&logo=Tokyo+Metro&logoColor=FFFFFF&label=)
 ```
+## ![TOML](https://img.shields.io/static/v1?style=for-the-badge&message=TOML&color=9C4121&logo=TOML&logoColor=FFFFFF&label=)
+```markdown
+![TOML](https://img.shields.io/static/v1?style=for-the-badge&message=TOML&color=9C4121&logo=TOML&logoColor=FFFFFF&label=)
+```
 ## ![Tomorrowland](https://img.shields.io/static/v1?style=for-the-badge&message=Tomorrowland&color=000000&logo=Tomorrowland&logoColor=FFFFFF&label=)
 ```markdown
 ![Tomorrowland](https://img.shields.io/static/v1?style=for-the-badge&message=Tomorrowland&color=000000&logo=Tomorrowland&logoColor=FFFFFF&label=)
@@ -8909,6 +8921,10 @@
 ## ![Vagrant](https://img.shields.io/static/v1?style=for-the-badge&message=Vagrant&color=1868F2&logo=Vagrant&logoColor=FFFFFF&label=)
 ```markdown
 ![Vagrant](https://img.shields.io/static/v1?style=for-the-badge&message=Vagrant&color=1868F2&logo=Vagrant&logoColor=FFFFFF&label=)
+```
+## ![Vala](https://img.shields.io/static/v1?style=for-the-badge&message=Vala&color=7239B3&logo=Vala&logoColor=FFFFFF&label=)
+```markdown
+![Vala](https://img.shields.io/static/v1?style=for-the-badge&message=Vala&color=7239B3&logo=Vala&logoColor=FFFFFF&label=)
 ```
 ## ![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=FA4454&logo=Valorant&logoColor=FFFFFF&label=)
 ```markdown
