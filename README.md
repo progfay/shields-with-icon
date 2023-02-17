@@ -1290,6 +1290,7 @@
 ![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)
 ![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
 ![Mendeley](https://img.shields.io/static/v1?style=for-the-badge&message=Mendeley&color=9D1620&logo=Mendeley&logoColor=FFFFFF&label=)
+![Mercado Pago](https://img.shields.io/static/v1?style=for-the-badge&message=Mercado+Pago&color=222222&logo=Mercado+Pago&logoColor=00B1EA&label=)
 ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)
 ![Merck](https://img.shields.io/static/v1?style=for-the-badge&message=Merck&color=007A73&logo=Merck&logoColor=FFFFFF&label=)
 ![Mercurial](https://img.shields.io/static/v1?style=for-the-badge&message=Mercurial&color=999999&logo=Mercurial&logoColor=FFFFFF&label=)

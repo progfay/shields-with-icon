@@ -5166,6 +5166,10 @@
 ```markdown
 ![Mendeley](https://img.shields.io/static/v1?style=for-the-badge&message=Mendeley&color=9D1620&logo=Mendeley&logoColor=FFFFFF&label=)
 ```
+## ![Mercado Pago](https://img.shields.io/static/v1?style=for-the-badge&message=Mercado+Pago&color=222222&logo=Mercado+Pago&logoColor=00B1EA&label=)
+```markdown
+![Mercado Pago](https://img.shields.io/static/v1?style=for-the-badge&message=Mercado+Pago&color=222222&logo=Mercado+Pago&logoColor=00B1EA&label=)
+```
 ## ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)
 ```markdown
 ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)
