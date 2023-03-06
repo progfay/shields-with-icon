@@ -3034,6 +3034,10 @@
 ```markdown
 ![FontBase](https://img.shields.io/static/v1?style=for-the-badge&message=FontBase&color=3D03A7&logo=FontBase&logoColor=FFFFFF&label=)
 ```
+## ![FontForge](https://img.shields.io/static/v1?style=for-the-badge&message=FontForge&color=F2712B&logo=FontForge&logoColor=FFFFFF&label=)
+```markdown
+![FontForge](https://img.shields.io/static/v1?style=for-the-badge&message=FontForge&color=F2712B&logo=FontForge&logoColor=FFFFFF&label=)
+```
 ## ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
 ```markdown
 ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
@@ -5382,6 +5386,10 @@
 ```markdown
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ```
+## ![Modin](https://img.shields.io/static/v1?style=for-the-badge&message=Modin&color=001729&logo=Modin&logoColor=FFFFFF&label=)
+```markdown
+![Modin](https://img.shields.io/static/v1?style=for-the-badge&message=Modin&color=001729&logo=Modin&logoColor=FFFFFF&label=)
+```
 ## ![Modrinth](https://img.shields.io/static/v1?style=for-the-badge&message=Modrinth&color=00AF5C&logo=Modrinth&logoColor=FFFFFF&label=)
 ```markdown
 ![Modrinth](https://img.shields.io/static/v1?style=for-the-badge&message=Modrinth&color=00AF5C&logo=Modrinth&logoColor=FFFFFF&label=)
@@ -7029,6 +7037,10 @@
 ## ![Redmine](https://img.shields.io/static/v1?style=for-the-badge&message=Redmine&color=B32024&logo=Redmine&logoColor=FFFFFF&label=)
 ```markdown
 ![Redmine](https://img.shields.io/static/v1?style=for-the-badge&message=Redmine&color=B32024&logo=Redmine&logoColor=FFFFFF&label=)
+```
+## ![Redox](https://img.shields.io/static/v1?style=for-the-badge&message=Redox&color=000000&logo=Redox&logoColor=FFFFFF&label=)
+```markdown
+![Redox](https://img.shields.io/static/v1?style=for-the-badge&message=Redox&color=000000&logo=Redox&logoColor=FFFFFF&label=)
 ```
 ## ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
 ```markdown
