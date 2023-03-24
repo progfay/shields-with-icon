@@ -890,9 +890,9 @@
 ```markdown
 ![Authy](https://img.shields.io/static/v1?style=for-the-badge&message=Authy&color=EC1C24&logo=Authy&logoColor=FFFFFF&label=)
 ```
-## ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
+## ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
 ```markdown
-![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
+![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
 ```
 ## ![AutoHotkey](https://img.shields.io/static/v1?style=for-the-badge&message=AutoHotkey&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
 ```markdown
@@ -7501,6 +7501,10 @@
 ## ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
 ```markdown
 ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
+```
+## ![Sendinblue](https://img.shields.io/static/v1?style=for-the-badge&message=Sendinblue&color=0092FF&logo=Sendinblue&logoColor=FFFFFF&label=)
+```markdown
+![Sendinblue](https://img.shields.io/static/v1?style=for-the-badge&message=Sendinblue&color=0092FF&logo=Sendinblue&logoColor=FFFFFF&label=)
 ```
 ## ![Sennheiser](https://img.shields.io/static/v1?style=for-the-badge&message=Sennheiser&color=000000&logo=Sennheiser&logoColor=FFFFFF&label=)
 ```markdown
