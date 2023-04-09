@@ -6066,6 +6066,10 @@
 ```markdown
 ![Osano](https://img.shields.io/static/v1?style=for-the-badge&message=Osano&color=7764FA&logo=Osano&logoColor=FFFFFF&label=)
 ```
+## ![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=5CAE58&logo=OSGeo&logoColor=FFFFFF&label=)
+```markdown
+![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=5CAE58&logo=OSGeo&logoColor=FFFFFF&label=)
+```
 ## ![Oshkosh](https://img.shields.io/static/v1?style=for-the-badge&message=Oshkosh&color=E6830F&logo=Oshkosh&logoColor=FFFFFF&label=)
 ```markdown
 ![Oshkosh](https://img.shields.io/static/v1?style=for-the-badge&message=Oshkosh&color=E6830F&logo=Oshkosh&logoColor=FFFFFF&label=)
@@ -6489,6 +6493,10 @@
 ## ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
 ```markdown
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
+```
+## ![Poe](https://img.shields.io/static/v1?style=for-the-badge&message=Poe&color=5D5CDE&logo=Poe&logoColor=FFFFFF&label=)
+```markdown
+![Poe](https://img.shields.io/static/v1?style=for-the-badge&message=Poe&color=5D5CDE&logo=Poe&logoColor=FFFFFF&label=)
 ```
 ## ![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
 ```markdown
@@ -9434,9 +9442,9 @@
 ```markdown
 ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
 ```
-## ![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=00B9FF&label=)
+## ![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=9FE870&label=)
 ```markdown
-![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=00B9FF&label=)
+![Wise](https://img.shields.io/static/v1?style=for-the-badge&message=Wise&color=222222&logo=Wise&logoColor=9FE870&label=)
 ```
 ## ![Wish](https://img.shields.io/static/v1?style=for-the-badge&message=Wish&color=222222&logo=Wish&logoColor=2FB7EC&label=)
 ```markdown
@@ -9597,6 +9605,10 @@
 ## ![Yamaha Motor Corporation](https://img.shields.io/static/v1?style=for-the-badge&message=Yamaha+Motor+Corporation&color=E60012&logo=Yamaha+Motor+Corporation&logoColor=FFFFFF&label=)
 ```markdown
 ![Yamaha Motor Corporation](https://img.shields.io/static/v1?style=for-the-badge&message=Yamaha+Motor+Corporation&color=E60012&logo=Yamaha+Motor+Corporation&logoColor=FFFFFF&label=)
+```
+## ![YAML](https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=CB171E&logo=YAML&logoColor=FFFFFF&label=)
+```markdown
+![YAML](https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=CB171E&logo=YAML&logoColor=FFFFFF&label=)
 ```
 ## ![Yammer](https://img.shields.io/static/v1?style=for-the-badge&message=Yammer&color=106EBE&logo=Yammer&logoColor=FFFFFF&label=)
 ```markdown
