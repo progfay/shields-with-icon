@@ -1434,6 +1434,10 @@
 ```markdown
 ![Car Throttle](https://img.shields.io/static/v1?style=for-the-badge&message=Car+Throttle&color=222222&logo=Car+Throttle&logoColor=FF9C42&label=)
 ```
+## ![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
+```markdown
+![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
+```
 ## ![Carrefour](https://img.shields.io/static/v1?style=for-the-badge&message=Carrefour&color=004E9F&logo=Carrefour&logoColor=FFFFFF&label=)
 ```markdown
 ![Carrefour](https://img.shields.io/static/v1?style=for-the-badge&message=Carrefour&color=004E9F&logo=Carrefour&logoColor=FFFFFF&label=)
@@ -1697,6 +1701,10 @@
 ## ![Co-op](https://img.shields.io/static/v1?style=for-the-badge&message=Co-op&color=222222&logo=Co-op&logoColor=00B1E7&label=)
 ```markdown
 ![Co-op](https://img.shields.io/static/v1?style=for-the-badge&message=Co-op&color=222222&logo=Co-op&logoColor=00B1E7&label=)
+```
+## ![Coca Cola](https://img.shields.io/static/v1?style=for-the-badge&message=Coca+Cola&color=D00013&logo=Coca+Cola&logoColor=FFFFFF&label=)
+```markdown
+![Coca Cola](https://img.shields.io/static/v1?style=for-the-badge&message=Coca+Cola&color=D00013&logo=Coca+Cola&logoColor=FFFFFF&label=)
 ```
 ## ![Cockpit](https://img.shields.io/static/v1?style=for-the-badge&message=Cockpit&color=0066CC&logo=Cockpit&logoColor=FFFFFF&label=)
 ```markdown
@@ -2962,9 +2970,9 @@
 ```markdown
 ![Flat](https://img.shields.io/static/v1?style=for-the-badge&message=Flat&color=3481FE&logo=Flat&logoColor=FFFFFF&label=)
 ```
-## ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
+## ![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=000000&logo=Flathub&logoColor=FFFFFF&label=)
 ```markdown
-![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=4A86CF&logo=Flathub&logoColor=FFFFFF&label=)
+![Flathub](https://img.shields.io/static/v1?style=for-the-badge&message=Flathub&color=000000&logo=Flathub&logoColor=FFFFFF&label=)
 ```
 ## ![Flatpak](https://img.shields.io/static/v1?style=for-the-badge&message=Flatpak&color=4A90D9&logo=Flatpak&logoColor=FFFFFF&label=)
 ```markdown
