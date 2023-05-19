@@ -214,6 +214,10 @@
 ```markdown
 ![AEW](https://img.shields.io/static/v1?style=for-the-badge&message=AEW&color=000000&logo=AEW&logoColor=FFFFFF&label=)
 ```
+## ![AFFiNE](https://img.shields.io/static/v1?style=for-the-badge&message=AFFiNE&color=1E96EB&logo=AFFiNE&logoColor=FFFFFF&label=)
+```markdown
+![AFFiNE](https://img.shields.io/static/v1?style=for-the-badge&message=AFFiNE&color=1E96EB&logo=AFFiNE&logoColor=FFFFFF&label=)
+```
 ## ![Affinity](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity&color=222324&logo=Affinity&logoColor=FFFFFF&label=)
 ```markdown
 ![Affinity](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity&color=222324&logo=Affinity&logoColor=FFFFFF&label=)
@@ -330,9 +334,9 @@
 ```markdown
 ![Alfred](https://img.shields.io/static/v1?style=for-the-badge&message=Alfred&color=5C1F87&logo=Alfred&logoColor=FFFFFF&label=)
 ```
-## ![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=5468FF&logo=Algolia&logoColor=FFFFFF&label=)
+## ![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=003DFF&logo=Algolia&logoColor=FFFFFF&label=)
 ```markdown
-![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=5468FF&logo=Algolia&logoColor=FFFFFF&label=)
+![Algolia](https://img.shields.io/static/v1?style=for-the-badge&message=Algolia&color=003DFF&logo=Algolia&logoColor=FFFFFF&label=)
 ```
 ## ![Algorand](https://img.shields.io/static/v1?style=for-the-badge&message=Algorand&color=000000&logo=Algorand&logoColor=FFFFFF&label=)
 ```markdown
@@ -733,6 +737,10 @@
 ## ![ArangoDB](https://img.shields.io/static/v1?style=for-the-badge&message=ArangoDB&color=222222&logo=ArangoDB&logoColor=DDE072&label=)
 ```markdown
 ![ArangoDB](https://img.shields.io/static/v1?style=for-the-badge&message=ArangoDB&color=222222&logo=ArangoDB&logoColor=DDE072&label=)
+```
+## ![ArcGIS](https://img.shields.io/static/v1?style=for-the-badge&message=ArcGIS&color=2C7AC3&logo=ArcGIS&logoColor=FFFFFF&label=)
+```markdown
+![ArcGIS](https://img.shields.io/static/v1?style=for-the-badge&message=ArcGIS&color=2C7AC3&logo=ArcGIS&logoColor=FFFFFF&label=)
 ```
 ## ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ```markdown
@@ -1902,6 +1910,10 @@
 ```markdown
 ![containerd](https://img.shields.io/static/v1?style=for-the-badge&message=containerd&color=575757&logo=containerd&logoColor=FFFFFF&label=)
 ```
+## ![Contao](https://img.shields.io/static/v1?style=for-the-badge&message=Contao&color=F47C00&logo=Contao&logoColor=FFFFFF&label=)
+```markdown
+![Contao](https://img.shields.io/static/v1?style=for-the-badge&message=Contao&color=F47C00&logo=Contao&logoColor=FFFFFF&label=)
+```
 ## ![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
 ```markdown
 ![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
@@ -2693,6 +2705,10 @@
 ## ![Espressif](https://img.shields.io/static/v1?style=for-the-badge&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=)
 ```markdown
 ![Espressif](https://img.shields.io/static/v1?style=for-the-badge&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=)
+```
+## ![ESRI](https://img.shields.io/static/v1?style=for-the-badge&message=ESRI&color=000000&logo=ESRI&logoColor=FFFFFF&label=)
+```markdown
+![ESRI](https://img.shields.io/static/v1?style=for-the-badge&message=ESRI&color=000000&logo=ESRI&logoColor=FFFFFF&label=)
 ```
 ## ![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
 ```markdown
@@ -5434,6 +5450,10 @@
 ```markdown
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ```
+## ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
+```markdown
+![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
+```
 ## ![Monica](https://img.shields.io/static/v1?style=for-the-badge&message=Monica&color=2C2B29&logo=Monica&logoColor=FFFFFF&label=)
 ```markdown
 ![Monica](https://img.shields.io/static/v1?style=for-the-badge&message=Monica&color=2C2B29&logo=Monica&logoColor=FFFFFF&label=)
@@ -6642,6 +6662,10 @@
 ```markdown
 ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
 ```
+## ![Printables](https://img.shields.io/static/v1?style=for-the-badge&message=Printables&color=FA6831&logo=Printables&logoColor=FFFFFF&label=)
+```markdown
+![Printables](https://img.shields.io/static/v1?style=for-the-badge&message=Printables&color=FA6831&logo=Printables&logoColor=FFFFFF&label=)
+```
 ## ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 ```markdown
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
@@ -7325,6 +7349,10 @@
 ## ![RubyGems](https://img.shields.io/static/v1?style=for-the-badge&message=RubyGems&color=E9573F&logo=RubyGems&logoColor=FFFFFF&label=)
 ```markdown
 ![RubyGems](https://img.shields.io/static/v1?style=for-the-badge&message=RubyGems&color=E9573F&logo=RubyGems&logoColor=FFFFFF&label=)
+```
+## ![Ruff](https://img.shields.io/static/v1?style=for-the-badge&message=Ruff&color=222222&logo=Ruff&logoColor=FCC21B&label=)
+```markdown
+![Ruff](https://img.shields.io/static/v1?style=for-the-badge&message=Ruff&color=222222&logo=Ruff&logoColor=FCC21B&label=)
 ```
 ## ![Runkeeper](https://img.shields.io/static/v1?style=for-the-badge&message=Runkeeper&color=001E62&logo=Runkeeper&logoColor=FFFFFF&label=)
 ```markdown
@@ -8214,9 +8242,9 @@
 ```markdown
 ![Sumo Logic](https://img.shields.io/static/v1?style=for-the-badge&message=Sumo+Logic&color=000099&logo=Sumo+Logic&logoColor=FFFFFF&label=)
 ```
-## ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
+## ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ```markdown
-![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
+![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ```
 ## ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ```markdown
@@ -9757,6 +9785,10 @@
 ## ![Zigbee](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee&color=EB0443&logo=Zigbee&logoColor=FFFFFF&label=)
 ```markdown
 ![Zigbee](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee&color=EB0443&logo=Zigbee&logoColor=FFFFFF&label=)
+```
+## ![Zilch](https://img.shields.io/static/v1?style=for-the-badge&message=Zilch&color=222222&logo=Zilch&logoColor=00D287&label=)
+```markdown
+![Zilch](https://img.shields.io/static/v1?style=for-the-badge&message=Zilch&color=222222&logo=Zilch&logoColor=00D287&label=)
 ```
 ## ![Zillow](https://img.shields.io/static/v1?style=for-the-badge&message=Zillow&color=006AFF&logo=Zillow&logoColor=FFFFFF&label=)
 ```markdown
