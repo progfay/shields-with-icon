@@ -2518,6 +2518,10 @@
 ```markdown
 ![eBay](https://img.shields.io/static/v1?style=for-the-badge&message=eBay&color=E53238&logo=eBay&logoColor=FFFFFF&label=)
 ```
+## ![EBOX](https://img.shields.io/static/v1?style=for-the-badge&message=EBOX&color=BE2323&logo=EBOX&logoColor=FFFFFF&label=)
+```markdown
+![EBOX](https://img.shields.io/static/v1?style=for-the-badge&message=EBOX&color=BE2323&logo=EBOX&logoColor=FFFFFF&label=)
+```
 ## ![Eclipse Che](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Che&color=525C86&logo=Eclipse+Che&logoColor=FFFFFF&label=)
 ```markdown
 ![Eclipse Che](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Che&color=525C86&logo=Eclipse+Che&logoColor=FFFFFF&label=)
@@ -3089,6 +3093,10 @@
 ## ![Forestry](https://img.shields.io/static/v1?style=for-the-badge&message=Forestry&color=343A40&logo=Forestry&logoColor=FFFFFF&label=)
 ```markdown
 ![Forestry](https://img.shields.io/static/v1?style=for-the-badge&message=Forestry&color=343A40&logo=Forestry&logoColor=FFFFFF&label=)
+```
+## ![Forgejo](https://img.shields.io/static/v1?style=for-the-badge&message=Forgejo&color=222222&logo=Forgejo&logoColor=FB923C&label=)
+```markdown
+![Forgejo](https://img.shields.io/static/v1?style=for-the-badge&message=Forgejo&color=222222&logo=Forgejo&logoColor=FB923C&label=)
 ```
 ## ![Formstack](https://img.shields.io/static/v1?style=for-the-badge&message=Formstack&color=21B573&logo=Formstack&logoColor=FFFFFF&label=)
 ```markdown
@@ -7938,6 +7946,10 @@
 ```markdown
 ![Sourcegraph](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcegraph&color=222222&logo=Sourcegraph&logoColor=00CBEC&label=)
 ```
+## ![SourceHut](https://img.shields.io/static/v1?style=for-the-badge&message=SourceHut&color=000000&logo=SourceHut&logoColor=FFFFFF&label=)
+```markdown
+![SourceHut](https://img.shields.io/static/v1?style=for-the-badge&message=SourceHut&color=000000&logo=SourceHut&logoColor=FFFFFF&label=)
+```
 ## ![Sourcetree](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcetree&color=0052CC&logo=Sourcetree&logoColor=FFFFFF&label=)
 ```markdown
 ![Sourcetree](https://img.shields.io/static/v1?style=for-the-badge&message=Sourcetree&color=0052CC&logo=Sourcetree&logoColor=FFFFFF&label=)
@@ -9205,6 +9217,10 @@
 ## ![Vodafone](https://img.shields.io/static/v1?style=for-the-badge&message=Vodafone&color=E60000&logo=Vodafone&logoColor=FFFFFF&label=)
 ```markdown
 ![Vodafone](https://img.shields.io/static/v1?style=for-the-badge&message=Vodafone&color=E60000&logo=Vodafone&logoColor=FFFFFF&label=)
+```
+## ![VoIP.ms](https://img.shields.io/static/v1?style=for-the-badge&message=VoIP.ms&color=E1382D&logo=VoIP.ms&logoColor=FFFFFF&label=)
+```markdown
+![VoIP.ms](https://img.shields.io/static/v1?style=for-the-badge&message=VoIP.ms&color=E1382D&logo=VoIP.ms&logoColor=FFFFFF&label=)
 ```
 ## ![Volkswagen](https://img.shields.io/static/v1?style=for-the-badge&message=Volkswagen&color=151F5D&logo=Volkswagen&logoColor=FFFFFF&label=)
 ```markdown
