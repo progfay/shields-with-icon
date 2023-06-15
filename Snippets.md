@@ -5586,6 +5586,10 @@
 ```markdown
 ![Müller](https://img.shields.io/static/v1?style=for-the-badge&message=M%C3%BCller&color=F46519&logo=M%C3%BCller&logoColor=FFFFFF&label=)
 ```
+## ![Multisim](https://img.shields.io/static/v1?style=for-the-badge&message=Multisim&color=222222&logo=Multisim&logoColor=57B685&label=)
+```markdown
+![Multisim](https://img.shields.io/static/v1?style=for-the-badge&message=Multisim&color=222222&logo=Multisim&logoColor=57B685&label=)
+```
 ## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
 ```markdown
 ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
@@ -8317,6 +8321,10 @@
 ## ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ```markdown
 ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
+```
+## ![Supercrease](https://img.shields.io/static/v1?style=for-the-badge&message=Supercrease&color=000000&logo=Supercrease&logoColor=FFFFFF&label=)
+```markdown
+![Supercrease](https://img.shields.io/static/v1?style=for-the-badge&message=Supercrease&color=000000&logo=Supercrease&logoColor=FFFFFF&label=)
 ```
 ## ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
 ```markdown
