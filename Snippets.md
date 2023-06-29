@@ -1582,6 +1582,10 @@
 ```markdown
 ![Chevrolet](https://img.shields.io/static/v1?style=for-the-badge&message=Chevrolet&color=CD9834&logo=Chevrolet&logoColor=FFFFFF&label=)
 ```
+## ![Chia Network](https://img.shields.io/static/v1?style=for-the-badge&message=Chia+Network&color=222222&logo=Chia+Network&logoColor=5ECE71&label=)
+```markdown
+![Chia Network](https://img.shields.io/static/v1?style=for-the-badge&message=Chia+Network&color=222222&logo=Chia+Network&logoColor=5ECE71&label=)
+```
 ## ![China Eastern Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=China+Eastern+Airlines&color=1A2477&logo=China+Eastern+Airlines&logoColor=FFFFFF&label=)
 ```markdown
 ![China Eastern Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=China+Eastern+Airlines&color=1A2477&logo=China+Eastern+Airlines&logoColor=FFFFFF&label=)
@@ -6878,13 +6882,13 @@
 ```markdown
 ![ProtonDB](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonDB&color=F50057&logo=ProtonDB&logoColor=FFFFFF&label=)
 ```
-## ![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)
+## ![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=6D4AFF&logo=ProtonMail&logoColor=FFFFFF&label=)
 ```markdown
-![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)
+![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=6D4AFF&logo=ProtonMail&logoColor=FFFFFF&label=)
 ```
-## ![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=56B366&logo=ProtonVPN&logoColor=FFFFFF&label=)
+## ![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=6D4AFF&logo=ProtonVPN&logoColor=FFFFFF&label=)
 ```markdown
-![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=56B366&logo=ProtonVPN&logoColor=FFFFFF&label=)
+![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=6D4AFF&logo=ProtonVPN&logoColor=FFFFFF&label=)
 ```
 ## ![Protractor](https://img.shields.io/static/v1?style=for-the-badge&message=Protractor&color=ED163A&logo=Protractor&logoColor=FFFFFF&label=)
 ```markdown
@@ -9237,6 +9241,10 @@
 ## ![Veepee](https://img.shields.io/static/v1?style=for-the-badge&message=Veepee&color=EC008C&logo=Veepee&logoColor=FFFFFF&label=)
 ```markdown
 ![Veepee](https://img.shields.io/static/v1?style=for-the-badge&message=Veepee&color=EC008C&logo=Veepee&logoColor=FFFFFF&label=)
+```
+## ![Vega](https://img.shields.io/static/v1?style=for-the-badge&message=Vega&color=2450B2&logo=Vega&logoColor=FFFFFF&label=)
+```markdown
+![Vega](https://img.shields.io/static/v1?style=for-the-badge&message=Vega&color=2450B2&logo=Vega&logoColor=FFFFFF&label=)
 ```
 ## ![Velog](https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)
 ```markdown
