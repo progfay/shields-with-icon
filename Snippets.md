@@ -7398,6 +7398,10 @@
 ```markdown
 ![Ripple](https://img.shields.io/static/v1?style=for-the-badge&message=Ripple&color=0085C0&logo=Ripple&logoColor=FFFFFF&label=)
 ```
+## ![RISC-V](https://img.shields.io/static/v1?style=for-the-badge&message=RISC-V&color=283272&logo=RISC-V&logoColor=FFFFFF&label=)
+```markdown
+![RISC-V](https://img.shields.io/static/v1?style=for-the-badge&message=RISC-V&color=283272&logo=RISC-V&logoColor=FFFFFF&label=)
+```
 ## ![Riseup](https://img.shields.io/static/v1?style=for-the-badge&message=Riseup&color=FF0000&logo=Riseup&logoColor=FFFFFF&label=)
 ```markdown
 ![Riseup](https://img.shields.io/static/v1?style=for-the-badge&message=Riseup&color=FF0000&logo=Riseup&logoColor=FFFFFF&label=)

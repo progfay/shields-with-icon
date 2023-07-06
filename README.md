@@ -1848,6 +1848,7 @@
 ![Ring](https://img.shields.io/static/v1?style=for-the-badge&message=Ring&color=1C9AD6&logo=Ring&logoColor=FFFFFF&label=)
 ![Riot Games](https://img.shields.io/static/v1?style=for-the-badge&message=Riot+Games&color=D32936&logo=Riot+Games&logoColor=FFFFFF&label=)
 ![Ripple](https://img.shields.io/static/v1?style=for-the-badge&message=Ripple&color=0085C0&logo=Ripple&logoColor=FFFFFF&label=)
+![RISC-V](https://img.shields.io/static/v1?style=for-the-badge&message=RISC-V&color=283272&logo=RISC-V&logoColor=FFFFFF&label=)
 ![Riseup](https://img.shields.io/static/v1?style=for-the-badge&message=Riseup&color=FF0000&logo=Riseup&logoColor=FFFFFF&label=)
 ![Roam Research](https://img.shields.io/static/v1?style=for-the-badge&message=Roam+Research&color=343A40&logo=Roam+Research&logoColor=FFFFFF&label=)
 ![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
