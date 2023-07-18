@@ -14,9 +14,9 @@
 ```markdown
 ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
 ```
-## ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=0094F5&logo=1Password&logoColor=FFFFFF&label=)
+## ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=1A285F&logo=1Password&logoColor=FFFFFF&label=)
 ```markdown
-![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=0094F5&logo=1Password&logoColor=FFFFFF&label=)
+![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=1A285F&logo=1Password&logoColor=FFFFFF&label=)
 ```
 ## ![3M](https://img.shields.io/static/v1?style=for-the-badge&message=3M&color=FF0000&logo=3M&logoColor=FFFFFF&label=)
 ```markdown
@@ -441,6 +441,10 @@
 ## ![Amazon Lumberyard](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lumberyard&color=66459B&logo=Amazon+Lumberyard&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon Lumberyard](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lumberyard&color=66459B&logo=Amazon+Lumberyard&logoColor=FFFFFF&label=)
+```
+## ![Amazon Luna](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Luna&color=9146FF&logo=Amazon+Luna&logoColor=FFFFFF&label=)
+```markdown
+![Amazon Luna](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Luna&color=9146FF&logo=Amazon+Luna&logoColor=FFFFFF&label=)
 ```
 ## ![Amazon Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Pay&color=222222&logo=Amazon+Pay&logoColor=FF9900&label=)
 ```markdown
@@ -4502,6 +4506,10 @@
 ```markdown
 ![JSS](https://img.shields.io/static/v1?style=for-the-badge&message=JSS&color=222222&logo=JSS&logoColor=F7DF1E&label=)
 ```
+## ![Juejin](https://img.shields.io/static/v1?style=for-the-badge&message=Juejin&color=007FFF&logo=Juejin&logoColor=FFFFFF&label=)
+```markdown
+![Juejin](https://img.shields.io/static/v1?style=for-the-badge&message=Juejin&color=007FFF&logo=Juejin&logoColor=FFFFFF&label=)
+```
 ## ![JUKE](https://img.shields.io/static/v1?style=for-the-badge&message=JUKE&color=222222&logo=JUKE&logoColor=6CD74A&label=)
 ```markdown
 ![JUKE](https://img.shields.io/static/v1?style=for-the-badge&message=JUKE&color=222222&logo=JUKE&logoColor=6CD74A&label=)
@@ -4898,9 +4906,9 @@
 ```markdown
 ![Let's Encrypt](https://img.shields.io/static/v1?style=for-the-badge&message=Let%27s+Encrypt&color=003A70&logo=Let%27s+Encrypt&logoColor=FFFFFF&label=)
 ```
-## ![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=222222&logo=Letterboxd&logoColor=00D735&label=)
+## ![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=202830&logo=Letterboxd&logoColor=FFFFFF&label=)
 ```markdown
-![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=222222&logo=Letterboxd&logoColor=00D735&label=)
+![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=202830&logo=Letterboxd&logoColor=FFFFFF&label=)
 ```
 ## ![levels.fyi](https://img.shields.io/static/v1?style=for-the-badge&message=levels.fyi&color=788B95&logo=levels.fyi&logoColor=FFFFFF&label=)
 ```markdown
