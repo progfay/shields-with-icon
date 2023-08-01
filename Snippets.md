@@ -710,6 +710,10 @@
 ```markdown
 ![Aparat](https://img.shields.io/static/v1?style=for-the-badge&message=Aparat&color=ED145B&logo=Aparat&logoColor=FFFFFF&label=)
 ```
+## ![Apifox](https://img.shields.io/static/v1?style=for-the-badge&message=Apifox&color=F44A53&logo=Apifox&logoColor=FFFFFF&label=)
+```markdown
+![Apifox](https://img.shields.io/static/v1?style=for-the-badge&message=Apifox&color=F44A53&logo=Apifox&logoColor=FFFFFF&label=)
+```
 ## ![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
 ```markdown
 ![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
@@ -802,9 +806,9 @@
 ```markdown
 ![Ardour](https://img.shields.io/static/v1?style=for-the-badge&message=Ardour&color=C61C3E&logo=Ardour&logoColor=FFFFFF&label=)
 ```
-## ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
+## ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
 ```markdown
-![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
+![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
 ```
 ## ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
 ```markdown
@@ -2110,6 +2114,10 @@
 ```markdown
 ![Crayon](https://img.shields.io/static/v1?style=for-the-badge&message=Crayon&color=FF6A4C&logo=Crayon&logoColor=FFFFFF&label=)
 ```
+## ![Creality](https://img.shields.io/static/v1?style=for-the-badge&message=Creality&color=000000&logo=Creality&logoColor=FFFFFF&label=)
+```markdown
+![Creality](https://img.shields.io/static/v1?style=for-the-badge&message=Creality&color=000000&logo=Creality&logoColor=FFFFFF&label=)
+```
 ## ![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
 ```markdown
 ![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
@@ -2637,6 +2645,10 @@
 ## ![Eagle](https://img.shields.io/static/v1?style=for-the-badge&message=Eagle&color=0072EF&logo=Eagle&logoColor=FFFFFF&label=)
 ```markdown
 ![Eagle](https://img.shields.io/static/v1?style=for-the-badge&message=Eagle&color=0072EF&logo=Eagle&logoColor=FFFFFF&label=)
+```
+## ![EasyEDA](https://img.shields.io/static/v1?style=for-the-badge&message=EasyEDA&color=1765F6&logo=EasyEDA&logoColor=FFFFFF&label=)
+```markdown
+![EasyEDA](https://img.shields.io/static/v1?style=for-the-badge&message=EasyEDA&color=1765F6&logo=EasyEDA&logoColor=FFFFFF&label=)
 ```
 ## ![easyJet](https://img.shields.io/static/v1?style=for-the-badge&message=easyJet&color=FF6600&logo=easyJet&logoColor=FFFFFF&label=)
 ```markdown
@@ -3389,6 +3401,10 @@
 ## ![Game Jolt](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Jolt&color=222222&logo=Game+Jolt&logoColor=CCFF00&label=)
 ```markdown
 ![Game Jolt](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Jolt&color=222222&logo=Game+Jolt&logoColor=CCFF00&label=)
+```
+## ![Gamemaker](https://img.shields.io/static/v1?style=for-the-badge&message=Gamemaker&color=000000&logo=Gamemaker&logoColor=FFFFFF&label=)
+```markdown
+![Gamemaker](https://img.shields.io/static/v1?style=for-the-badge&message=Gamemaker&color=000000&logo=Gamemaker&logoColor=FFFFFF&label=)
 ```
 ## ![Garmin](https://img.shields.io/static/v1?style=for-the-badge&message=Garmin&color=000000&logo=Garmin&logoColor=FFFFFF&label=)
 ```markdown
@@ -6338,6 +6354,10 @@
 ```markdown
 ![Open Containers Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Containers+Initiative&color=262261&logo=Open+Containers+Initiative&logoColor=FFFFFF&label=)
 ```
+## ![Open Source Hardware](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Source+Hardware&color=0099B0&logo=Open+Source+Hardware&logoColor=FFFFFF&label=)
+```markdown
+![Open Source Hardware](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Source+Hardware&color=0099B0&logo=Open+Source+Hardware&logoColor=FFFFFF&label=)
+```
 ## ![Open Source Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Source+Initiative&color=3DA639&logo=Open+Source+Initiative&logoColor=FFFFFF&label=)
 ```markdown
 ![Open Source Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=Open+Source+Initiative&color=3DA639&logo=Open+Source+Initiative&logoColor=FFFFFF&label=)
@@ -7589,6 +7609,10 @@
 ## ![Reliance Industries Limited](https://img.shields.io/static/v1?style=for-the-badge&message=Reliance+Industries+Limited&color=222222&logo=Reliance+Industries+Limited&logoColor=D1AB66&label=)
 ```markdown
 ![Reliance Industries Limited](https://img.shields.io/static/v1?style=for-the-badge&message=Reliance+Industries+Limited&color=222222&logo=Reliance+Industries+Limited&logoColor=D1AB66&label=)
+```
+## ![remark](https://img.shields.io/static/v1?style=for-the-badge&message=remark&color=000000&logo=remark&logoColor=FFFFFF&label=)
+```markdown
+![remark](https://img.shields.io/static/v1?style=for-the-badge&message=remark&color=000000&logo=remark&logoColor=FFFFFF&label=)
 ```
 ## ![Remix](https://img.shields.io/static/v1?style=for-the-badge&message=Remix&color=000000&logo=Remix&logoColor=FFFFFF&label=)
 ```markdown
@@ -9810,6 +9834,10 @@
 ```markdown
 ![Vonage](https://img.shields.io/static/v1?style=for-the-badge&message=Vonage&color=222222&logo=Vonage&logoColor=FFFFFF&label=)
 ```
+## ![Voron Design](https://img.shields.io/static/v1?style=for-the-badge&message=Voron+Design&color=ED3023&logo=Voron+Design&logoColor=FFFFFF&label=)
+```markdown
+![Voron Design](https://img.shields.io/static/v1?style=for-the-badge&message=Voron+Design&color=ED3023&logo=Voron+Design&logoColor=FFFFFF&label=)
+```
 ## ![Vowpal Wabbit](https://img.shields.io/static/v1?style=for-the-badge&message=Vowpal+Wabbit&color=222222&logo=Vowpal+Wabbit&logoColor=FF81F9&label=)
 ```markdown
 ![Vowpal Wabbit](https://img.shields.io/static/v1?style=for-the-badge&message=Vowpal+Wabbit&color=222222&logo=Vowpal+Wabbit&logoColor=FF81F9&label=)
@@ -10466,9 +10494,9 @@
 ```markdown
 ![Zoom](https://img.shields.io/static/v1?style=for-the-badge&message=Zoom&color=2D8CFF&logo=Zoom&logoColor=FFFFFF&label=)
 ```
-## ![Zorin](https://img.shields.io/static/v1?style=for-the-badge&message=Zorin&color=222222&logo=Zorin&logoColor=0CC1F3&label=)
+## ![Zorin](https://img.shields.io/static/v1?style=for-the-badge&message=Zorin&color=15A6F0&logo=Zorin&logoColor=FFFFFF&label=)
 ```markdown
-![Zorin](https://img.shields.io/static/v1?style=for-the-badge&message=Zorin&color=222222&logo=Zorin&logoColor=0CC1F3&label=)
+![Zorin](https://img.shields.io/static/v1?style=for-the-badge&message=Zorin&color=15A6F0&logo=Zorin&logoColor=FFFFFF&label=)
 ```
 ## ![Zotero](https://img.shields.io/static/v1?style=for-the-badge&message=Zotero&color=CC2936&logo=Zotero&logoColor=FFFFFF&label=)
 ```markdown
