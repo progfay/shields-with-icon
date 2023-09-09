@@ -218,9 +218,9 @@
 ```markdown
 ![Aeroméxico](https://img.shields.io/static/v1?style=for-the-badge&message=Aerom%C3%A9xico&color=0B2343&logo=Aerom%C3%A9xico&logoColor=FFFFFF&label=)
 ```
-## ![Aerospike](https://img.shields.io/static/v1?style=for-the-badge&message=Aerospike&color=C41E25&logo=Aerospike&logoColor=FFFFFF&label=)
+## ![Aerospike](https://img.shields.io/static/v1?style=for-the-badge&message=Aerospike&color=C22127&logo=Aerospike&logoColor=FFFFFF&label=)
 ```markdown
-![Aerospike](https://img.shields.io/static/v1?style=for-the-badge&message=Aerospike&color=C41E25&logo=Aerospike&logoColor=FFFFFF&label=)
+![Aerospike](https://img.shields.io/static/v1?style=for-the-badge&message=Aerospike&color=C22127&logo=Aerospike&logoColor=FFFFFF&label=)
 ```
 ## ![AEW](https://img.shields.io/static/v1?style=for-the-badge&message=AEW&color=000000&logo=AEW&logoColor=FFFFFF&label=)
 ```markdown
@@ -442,6 +442,10 @@
 ```markdown
 ![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=)
 ```
+## ![Amazon DocumentDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DocumentDB&color=C925D1&logo=Amazon+DocumentDB&logoColor=FFFFFF&label=)
+```markdown
+![Amazon DocumentDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DocumentDB&color=C925D1&logo=Amazon+DocumentDB&logoColor=FFFFFF&label=)
+```
 ## ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
@@ -493,6 +497,10 @@
 ## ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=)
+```
+## ![Amazon Route 53](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Route+53&color=8C4FFF&logo=Amazon+Route+53&logoColor=FFFFFF&label=)
+```markdown
+![Amazon Route 53](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Route+53&color=8C4FFF&logo=Amazon+Route+53&logoColor=FFFFFF&label=)
 ```
 ## ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 ```markdown
@@ -1018,6 +1026,10 @@
 ```markdown
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
 ```
+## ![AWS Organizations](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Organizations&color=E7157B&logo=AWS+Organizations&logoColor=FFFFFF&label=)
+```markdown
+![AWS Organizations](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Organizations&color=E7157B&logo=AWS+Organizations&logoColor=FFFFFF&label=)
+```
 ## ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ```markdown
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
@@ -1062,9 +1074,9 @@
 ```markdown
 ![Backbone.js](https://img.shields.io/static/v1?style=for-the-badge&message=Backbone.js&color=0071B5&logo=Backbone.js&logoColor=FFFFFF&label=)
 ```
-## ![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=222222&logo=Backendless&logoColor=FFFFFF&label=)
+## ![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=5056E5&logo=Backendless&logoColor=FFFFFF&label=)
 ```markdown
-![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=222222&logo=Backendless&logoColor=FFFFFF&label=)
+![Backendless](https://img.shields.io/static/v1?style=for-the-badge&message=Backendless&color=5056E5&logo=Backendless&logoColor=FFFFFF&label=)
 ```
 ## ![Backstage](https://img.shields.io/static/v1?style=for-the-badge&message=Backstage&color=222222&logo=Backstage&logoColor=9BF0E1&label=)
 ```markdown
@@ -1218,9 +1230,9 @@
 ```markdown
 ![BisectHosting](https://img.shields.io/static/v1?style=for-the-badge&message=BisectHosting&color=0D1129&logo=BisectHosting&logoColor=FFFFFF&label=)
 ```
-## ![Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Bit&color=73398D&logo=Bit&logoColor=FFFFFF&label=)
+## ![Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Bit&color=592EC1&logo=Bit&logoColor=FFFFFF&label=)
 ```markdown
-![Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Bit&color=73398D&logo=Bit&logoColor=FFFFFF&label=)
+![Bit](https://img.shields.io/static/v1?style=for-the-badge&message=Bit&color=592EC1&logo=Bit&logoColor=FFFFFF&label=)
 ```
 ## ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
 ```markdown
@@ -1406,6 +1418,10 @@
 ```markdown
 ![Broadcom](https://img.shields.io/static/v1?style=for-the-badge&message=Broadcom&color=E31837&logo=Broadcom&logoColor=FFFFFF&label=)
 ```
+## ![BSD](https://img.shields.io/static/v1?style=for-the-badge&message=BSD&color=AB2B28&logo=BSD&logoColor=FFFFFF&label=)
+```markdown
+![BSD](https://img.shields.io/static/v1?style=for-the-badge&message=BSD&color=AB2B28&logo=BSD&logoColor=FFFFFF&label=)
+```
 ## ![bspwm](https://img.shields.io/static/v1?style=for-the-badge&message=bspwm&color=2E2E2E&logo=bspwm&logoColor=FFFFFF&label=)
 ```markdown
 ![bspwm](https://img.shields.io/static/v1?style=for-the-badge&message=bspwm&color=2E2E2E&logo=bspwm&logoColor=FFFFFF&label=)
@@ -1506,6 +1522,10 @@
 ```markdown
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ```
+## ![C++ Builder](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B+Builder&color=E62431&logo=C%2B%2B+Builder&logoColor=FFFFFF&label=)
+```markdown
+![C++ Builder](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B+Builder&color=E62431&logo=C%2B%2B+Builder&logoColor=FFFFFF&label=)
+```
 ## ![Cachet](https://img.shields.io/static/v1?style=for-the-badge&message=Cachet&color=222222&logo=Cachet&logoColor=7ED321&label=)
 ```markdown
 ![Cachet](https://img.shields.io/static/v1?style=for-the-badge&message=Cachet&color=222222&logo=Cachet&logoColor=7ED321&label=)
@@ -1561,6 +1581,10 @@
 ## ![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
 ```markdown
 ![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
+```
+## ![Carrd](https://img.shields.io/static/v1?style=for-the-badge&message=Carrd&color=596CAF&logo=Carrd&logoColor=FFFFFF&label=)
+```markdown
+![Carrd](https://img.shields.io/static/v1?style=for-the-badge&message=Carrd&color=596CAF&logo=Carrd&logoColor=FFFFFF&label=)
 ```
 ## ![Carrefour](https://img.shields.io/static/v1?style=for-the-badge&message=Carrefour&color=004E9F&logo=Carrefour&logoColor=FFFFFF&label=)
 ```markdown
@@ -1766,9 +1790,9 @@
 ```markdown
 ![Claris](https://img.shields.io/static/v1?style=for-the-badge&message=Claris&color=000000&logo=Claris&logoColor=FFFFFF&label=)
 ```
-## ![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=222222&logo=Clarivate&logoColor=FFFFFF&label=)
+## ![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=000000&logo=Clarivate&logoColor=FFFFFF&label=)
 ```markdown
-![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=222222&logo=Clarivate&logoColor=FFFFFF&label=)
+![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=000000&logo=Clarivate&logoColor=FFFFFF&label=)
 ```
 ## ![ClickHouse](https://img.shields.io/static/v1?style=for-the-badge&message=ClickHouse&color=222222&logo=ClickHouse&logoColor=FFCC01&label=)
 ```markdown
@@ -2230,6 +2254,10 @@
 ```markdown
 ![CurseForge](https://img.shields.io/static/v1?style=for-the-badge&message=CurseForge&color=F16436&logo=CurseForge&logoColor=FFFFFF&label=)
 ```
+## ![CyberDefenders](https://img.shields.io/static/v1?style=for-the-badge&message=CyberDefenders&color=335EEA&logo=CyberDefenders&logoColor=FFFFFF&label=)
+```markdown
+![CyberDefenders](https://img.shields.io/static/v1?style=for-the-badge&message=CyberDefenders&color=335EEA&logo=CyberDefenders&logoColor=FFFFFF&label=)
+```
 ## ![Cycling '74](https://img.shields.io/static/v1?style=for-the-badge&message=Cycling+%2774&color=111111&logo=Cycling+%2774&logoColor=FFFFFF&label=)
 ```markdown
 ![Cycling '74](https://img.shields.io/static/v1?style=for-the-badge&message=Cycling+%2774&color=111111&logo=Cycling+%2774&logoColor=FFFFFF&label=)
@@ -2406,9 +2434,9 @@
 ```markdown
 ![Dell](https://img.shields.io/static/v1?style=for-the-badge&message=Dell&color=007DB8&logo=Dell&logoColor=FFFFFF&label=)
 ```
-## ![Delphi](https://img.shields.io/static/v1?style=for-the-badge&message=Delphi&color=EE1F35&logo=Delphi&logoColor=FFFFFF&label=)
+## ![Delphi](https://img.shields.io/static/v1?style=for-the-badge&message=Delphi&color=E62431&logo=Delphi&logoColor=FFFFFF&label=)
 ```markdown
-![Delphi](https://img.shields.io/static/v1?style=for-the-badge&message=Delphi&color=EE1F35&logo=Delphi&logoColor=FFFFFF&label=)
+![Delphi](https://img.shields.io/static/v1?style=for-the-badge&message=Delphi&color=E62431&logo=Delphi&logoColor=FFFFFF&label=)
 ```
 ## ![Delta](https://img.shields.io/static/v1?style=for-the-badge&message=Delta&color=003366&logo=Delta&logoColor=FFFFFF&label=)
 ```markdown
@@ -2553,6 +2581,14 @@
 ## ![Docs.rs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs.rs&color=000000&logo=Docs.rs&logoColor=FFFFFF&label=)
 ```markdown
 ![Docs.rs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs.rs&color=000000&logo=Docs.rs&logoColor=FFFFFF&label=)
+```
+## ![Docsify](https://img.shields.io/static/v1?style=for-the-badge&message=Docsify&color=222222&logo=Docsify&logoColor=2ECE53&label=)
+```markdown
+![Docsify](https://img.shields.io/static/v1?style=for-the-badge&message=Docsify&color=222222&logo=Docsify&logoColor=2ECE53&label=)
+```
+## ![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=222222&logo=Docusaurus&logoColor=3ECC5F&label=)
+```markdown
+![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=222222&logo=Docusaurus&logoColor=3ECC5F&label=)
 ```
 ## ![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)
 ```markdown
@@ -2782,9 +2818,9 @@
 ```markdown
 ![Electron Fiddle](https://img.shields.io/static/v1?style=for-the-badge&message=Electron+Fiddle&color=222222&logo=Electron+Fiddle&logoColor=E79537&label=)
 ```
-## ![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=222222&logo=electron-builder&logoColor=FFFFFF&label=)
+## ![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=000000&logo=electron-builder&logoColor=FFFFFF&label=)
 ```markdown
-![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=222222&logo=electron-builder&logoColor=FFFFFF&label=)
+![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=000000&logo=electron-builder&logoColor=FFFFFF&label=)
 ```
 ## ![Element](https://img.shields.io/static/v1?style=for-the-badge&message=Element&color=222222&logo=Element&logoColor=0DBD8B&label=)
 ```markdown
@@ -3170,6 +3206,10 @@
 ```markdown
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ```
+## ![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=222222&logo=Firefish&logoColor=F19885&label=)
+```markdown
+![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=222222&logo=Firefish&logoColor=F19885&label=)
+```
 ## ![Firefly III](https://img.shields.io/static/v1?style=for-the-badge&message=Firefly+III&color=CD5029&logo=Firefly+III&logoColor=FFFFFF&label=)
 ```markdown
 ![Firefly III](https://img.shields.io/static/v1?style=for-the-badge&message=Firefly+III&color=CD5029&logo=Firefly+III&logoColor=FFFFFF&label=)
@@ -3262,6 +3302,10 @@
 ```markdown
 ![Fluentd](https://img.shields.io/static/v1?style=for-the-badge&message=Fluentd&color=0E83C8&logo=Fluentd&logoColor=FFFFFF&label=)
 ```
+## ![Fluke](https://img.shields.io/static/v1?style=for-the-badge&message=Fluke&color=222222&logo=Fluke&logoColor=FFC20E&label=)
+```markdown
+![Fluke](https://img.shields.io/static/v1?style=for-the-badge&message=Fluke&color=222222&logo=Fluke&logoColor=FFC20E&label=)
+```
 ## ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ```markdown
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
@@ -3270,9 +3314,9 @@
 ```markdown
 ![Flux](https://img.shields.io/static/v1?style=for-the-badge&message=Flux&color=5468FF&logo=Flux&logoColor=FFFFFF&label=)
 ```
-## ![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=222222&logo=Fluxus&logoColor=FFFFFF&label=)
+## ![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=8D73B0&logo=Fluxus&logoColor=FFFFFF&label=)
 ```markdown
-![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=222222&logo=Fluxus&logoColor=FFFFFF&label=)
+![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=8D73B0&logo=Fluxus&logoColor=FFFFFF&label=)
 ```
 ## ![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)
 ```markdown
@@ -3706,6 +3750,10 @@
 ```markdown
 ![Google Bard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Bard&color=886FBF&logo=Google+Bard&logoColor=FFFFFF&label=)
 ```
+## ![Google BigQuery](https://img.shields.io/static/v1?style=for-the-badge&message=Google+BigQuery&color=669DF6&logo=Google+BigQuery&logoColor=FFFFFF&label=)
+```markdown
+![Google BigQuery](https://img.shields.io/static/v1?style=for-the-badge&message=Google+BigQuery&color=669DF6&logo=Google+BigQuery&logoColor=FFFFFF&label=)
+```
 ## ![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
@@ -3730,6 +3778,10 @@
 ```markdown
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ```
+## ![Google Cloud Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Composer&color=4285F4&logo=Google+Cloud+Composer&logoColor=FFFFFF&label=)
+```markdown
+![Google Cloud Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Composer&color=4285F4&logo=Google+Cloud+Composer&logoColor=FFFFFF&label=)
+```
 ## ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
 ```markdown
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
@@ -3737,6 +3789,10 @@
 ## ![Google Container Optimized OS](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Container+Optimized+OS&color=4285F4&logo=Google+Container+Optimized+OS&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Container Optimized OS](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Container+Optimized+OS&color=4285F4&logo=Google+Container+Optimized+OS&logoColor=FFFFFF&label=)
+```
+## ![Google Data Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Data+Studio&color=669DF6&logo=Google+Data+Studio&logoColor=FFFFFF&label=)
+```markdown
+![Google Data Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Data+Studio&color=669DF6&logo=Google+Data+Studio&logoColor=FFFFFF&label=)
 ```
 ## ![Google Docs](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Docs&color=4285F4&logo=Google+Docs&logoColor=FFFFFF&label=)
 ```markdown
@@ -3753,6 +3809,10 @@
 ## ![Google Earth](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Earth&color=4285F4&logo=Google+Earth&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Earth](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Earth&color=4285F4&logo=Google+Earth&logoColor=FFFFFF&label=)
+```
+## ![Google Earth Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Earth+Engine&color=4285F4&logo=Google+Earth+Engine&logoColor=FFFFFF&label=)
+```markdown
+![Google Earth Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Earth+Engine&color=4285F4&logo=Google+Earth+Engine&logoColor=FFFFFF&label=)
 ```
 ## ![Google Fit](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fit&color=4285F4&logo=Google+Fit&logoColor=FFFFFF&label=)
 ```markdown
@@ -3978,6 +4038,10 @@
 ```markdown
 ![Gutenberg](https://img.shields.io/static/v1?style=for-the-badge&message=Gutenberg&color=000000&logo=Gutenberg&logoColor=FFFFFF&label=)
 ```
+## ![H&M](https://img.shields.io/static/v1?style=for-the-badge&message=H%26M&color=E50010&logo=H%26M&logoColor=FFFFFF&label=)
+```markdown
+![H&M](https://img.shields.io/static/v1?style=for-the-badge&message=H%26M&color=E50010&logo=H%26M&logoColor=FFFFFF&label=)
+```
 ## ![H3](https://img.shields.io/static/v1?style=for-the-badge&message=H3&color=1E54B7&logo=H3&logoColor=FFFFFF&label=)
 ```markdown
 ![H3](https://img.shields.io/static/v1?style=for-the-badge&message=H3&color=1E54B7&logo=H3&logoColor=FFFFFF&label=)
@@ -4198,9 +4262,9 @@
 ```markdown
 ![Honey](https://img.shields.io/static/v1?style=for-the-badge&message=Honey&color=FF6801&logo=Honey&logoColor=FFFFFF&label=)
 ```
-## ![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=222222&logo=Honor&logoColor=FFFFFF&label=)
+## ![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=000000&logo=Honor&logoColor=FFFFFF&label=)
 ```markdown
-![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=222222&logo=Honor&logoColor=FFFFFF&label=)
+![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=000000&logo=Honor&logoColor=FFFFFF&label=)
 ```
 ## ![Hootsuite](https://img.shields.io/static/v1?style=for-the-badge&message=Hootsuite&color=143059&logo=Hootsuite&logoColor=FFFFFF&label=)
 ```markdown
@@ -4522,6 +4586,10 @@
 ```markdown
 ![InteractJS](https://img.shields.io/static/v1?style=for-the-badge&message=InteractJS&color=2599ED&logo=InteractJS&logoColor=FFFFFF&label=)
 ```
+## ![Interbase](https://img.shields.io/static/v1?style=for-the-badge&message=Interbase&color=E62431&logo=Interbase&logoColor=FFFFFF&label=)
+```markdown
+![Interbase](https://img.shields.io/static/v1?style=for-the-badge&message=Interbase&color=E62431&logo=Interbase&logoColor=FFFFFF&label=)
+```
 ## ![Intercom](https://img.shields.io/static/v1?style=for-the-badge&message=Intercom&color=222222&logo=Intercom&logoColor=6AFDEF&label=)
 ```markdown
 ![Intercom](https://img.shields.io/static/v1?style=for-the-badge&message=Intercom&color=222222&logo=Intercom&logoColor=6AFDEF&label=)
@@ -4618,9 +4686,9 @@
 ```markdown
 ![Jabber](https://img.shields.io/static/v1?style=for-the-badge&message=Jabber&color=CC0000&logo=Jabber&logoColor=FFFFFF&label=)
 ```
-## ![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=222222&logo=Jaguar&logoColor=FFFFFF&label=)
+## ![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=000000&logo=Jaguar&logoColor=FFFFFF&label=)
 ```markdown
-![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=222222&logo=Jaguar&logoColor=FFFFFF&label=)
+![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=000000&logo=Jaguar&logoColor=FFFFFF&label=)
 ```
 ## ![Jamboard](https://img.shields.io/static/v1?style=for-the-badge&message=Jamboard&color=F37C20&logo=Jamboard&logoColor=FFFFFF&label=)
 ```markdown
@@ -4881,6 +4949,10 @@
 ## ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
 ```markdown
 ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
+```
+## ![Kedro](https://img.shields.io/static/v1?style=for-the-badge&message=Kedro&color=222222&logo=Kedro&logoColor=FFC900&label=)
+```markdown
+![Kedro](https://img.shields.io/static/v1?style=for-the-badge&message=Kedro&color=222222&logo=Kedro&logoColor=FFC900&label=)
 ```
 ## ![Keep a Changelog](https://img.shields.io/static/v1?style=for-the-badge&message=Keep+a+Changelog&color=E05735&logo=Keep+a+Changelog&logoColor=FFFFFF&label=)
 ```markdown
@@ -5162,9 +5234,9 @@
 ```markdown
 ![Leica](https://img.shields.io/static/v1?style=for-the-badge&message=Leica&color=E20612&logo=Leica&logoColor=FFFFFF&label=)
 ```
-## ![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=222222&logo=Lemmy&logoColor=FFFFFF&label=)
+## ![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=14854F&logo=Lemmy&logoColor=FFFFFF&label=)
 ```markdown
-![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=222222&logo=Lemmy&logoColor=FFFFFF&label=)
+![Lemmy](https://img.shields.io/static/v1?style=for-the-badge&message=Lemmy&color=14854F&logo=Lemmy&logoColor=FFFFFF&label=)
 ```
 ## ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ```markdown
@@ -5206,9 +5278,9 @@
 ```markdown
 ![LG](https://img.shields.io/static/v1?style=for-the-badge&message=LG&color=A50034&logo=LG&logoColor=FFFFFF&label=)
 ```
-## ![LGTM](https://img.shields.io/static/v1?style=for-the-badge&message=LGTM&color=222222&logo=LGTM&logoColor=FFFFFF&label=)
+## ![LGTM](https://img.shields.io/static/v1?style=for-the-badge&message=LGTM&color=000000&logo=LGTM&logoColor=FFFFFF&label=)
 ```markdown
-![LGTM](https://img.shields.io/static/v1?style=for-the-badge&message=LGTM&color=222222&logo=LGTM&logoColor=FFFFFF&label=)
+![LGTM](https://img.shields.io/static/v1?style=for-the-badge&message=LGTM&color=000000&logo=LGTM&logoColor=FFFFFF&label=)
 ```
 ## ![Libera.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Libera.Chat&color=FF55DD&logo=Libera.Chat&logoColor=FFFFFF&label=)
 ```markdown
@@ -5402,9 +5474,9 @@
 ```markdown
 ![Lubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Lubuntu&color=0068C8&logo=Lubuntu&logoColor=FFFFFF&label=)
 ```
-## ![Ludwig](https://img.shields.io/static/v1?style=for-the-badge&message=Ludwig&color=222222&logo=Ludwig&logoColor=FFFFFF&label=)
+## ![Ludwig](https://img.shields.io/static/v1?style=for-the-badge&message=Ludwig&color=000000&logo=Ludwig&logoColor=FFFFFF&label=)
 ```markdown
-![Ludwig](https://img.shields.io/static/v1?style=for-the-badge&message=Ludwig&color=222222&logo=Ludwig&logoColor=FFFFFF&label=)
+![Ludwig](https://img.shields.io/static/v1?style=for-the-badge&message=Ludwig&color=000000&logo=Ludwig&logoColor=FFFFFF&label=)
 ```
 ## ![Lufthansa](https://img.shields.io/static/v1?style=for-the-badge&message=Lufthansa&color=05164D&logo=Lufthansa&logoColor=FFFFFF&label=)
 ```markdown
@@ -5557,6 +5629,10 @@
 ## ![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
 ```markdown
 ![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
+```
+## ![Matillion](https://img.shields.io/static/v1?style=for-the-badge&message=Matillion&color=222222&logo=Matillion&logoColor=19E57F&label=)
+```markdown
+![Matillion](https://img.shields.io/static/v1?style=for-the-badge&message=Matillion&color=222222&logo=Matillion&logoColor=19E57F&label=)
 ```
 ## ![Matomo](https://img.shields.io/static/v1?style=for-the-badge&message=Matomo&color=3152A0&logo=Matomo&logoColor=FFFFFF&label=)
 ```markdown
@@ -6038,9 +6114,9 @@
 ```markdown
 ![Multisim](https://img.shields.io/static/v1?style=for-the-badge&message=Multisim&color=222222&logo=Multisim&logoColor=57B685&label=)
 ```
-## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
+## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=000000&logo=Mumble&logoColor=FFFFFF&label=)
 ```markdown
-![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=222222&logo=Mumble&logoColor=FFFFFF&label=)
+![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=000000&logo=Mumble&logoColor=FFFFFF&label=)
 ```
 ## ![MuseScore](https://img.shields.io/static/v1?style=for-the-badge&message=MuseScore&color=1A70B8&logo=MuseScore&logoColor=FFFFFF&label=)
 ```markdown
@@ -6442,9 +6518,9 @@
 ```markdown
 ![Odysee](https://img.shields.io/static/v1?style=for-the-badge&message=Odysee&color=EF1970&logo=Odysee&logoColor=FFFFFF&label=)
 ```
-## ![Oh Dear](https://img.shields.io/static/v1?style=for-the-badge&message=Oh+Dear&color=222222&logo=Oh+Dear&logoColor=FFFFFF&label=)
+## ![Oh Dear](https://img.shields.io/static/v1?style=for-the-badge&message=Oh+Dear&color=FF3900&logo=Oh+Dear&logoColor=FFFFFF&label=)
 ```markdown
-![Oh Dear](https://img.shields.io/static/v1?style=for-the-badge&message=Oh+Dear&color=222222&logo=Oh+Dear&logoColor=FFFFFF&label=)
+![Oh Dear](https://img.shields.io/static/v1?style=for-the-badge&message=Oh+Dear&color=FF3900&logo=Oh+Dear&logoColor=FFFFFF&label=)
 ```
 ## ![okcupid](https://img.shields.io/static/v1?style=for-the-badge&message=okcupid&color=0500BE&logo=okcupid&logoColor=FFFFFF&label=)
 ```markdown
@@ -6538,9 +6614,9 @@
 ```markdown
 ![OpenID](https://img.shields.io/static/v1?style=for-the-badge&message=OpenID&color=222222&logo=OpenID&logoColor=F78C40&label=)
 ```
-## ![OpenJDK](https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)
+## ![OpenJDK](https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=437291&logo=OpenJDK&logoColor=FFFFFF&label=)
 ```markdown
-![OpenJDK](https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)
+![OpenJDK](https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=437291&logo=OpenJDK&logoColor=FFFFFF&label=)
 ```
 ## ![Openlayers](https://img.shields.io/static/v1?style=for-the-badge&message=Openlayers&color=1F6B75&logo=Openlayers&logoColor=FFFFFF&label=)
 ```markdown
@@ -6589,6 +6665,10 @@
 ## ![OpenTelemetry](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTelemetry&color=000000&logo=OpenTelemetry&logoColor=FFFFFF&label=)
 ```markdown
 ![OpenTelemetry](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTelemetry&color=000000&logo=OpenTelemetry&logoColor=FFFFFF&label=)
+```
+## ![OpenTF](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTF&color=933EFF&logo=OpenTF&logoColor=FFFFFF&label=)
+```markdown
+![OpenTF](https://img.shields.io/static/v1?style=for-the-badge&message=OpenTF&color=933EFF&logo=OpenTF&logoColor=FFFFFF&label=)
 ```
 ## ![Openverse](https://img.shields.io/static/v1?style=for-the-badge&message=Openverse&color=222222&logo=Openverse&logoColor=FFE033&label=)
 ```markdown
@@ -6746,6 +6826,10 @@
 ```markdown
 ![Palo Alto Software](https://img.shields.io/static/v1?style=for-the-badge&message=Palo+Alto+Software&color=222222&logo=Palo+Alto+Software&logoColor=83DA77&label=)
 ```
+## ![Panasonic](https://img.shields.io/static/v1?style=for-the-badge&message=Panasonic&color=0049AB&logo=Panasonic&logoColor=FFFFFF&label=)
+```markdown
+![Panasonic](https://img.shields.io/static/v1?style=for-the-badge&message=Panasonic&color=0049AB&logo=Panasonic&logoColor=FFFFFF&label=)
+```
 ## ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ```markdown
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
@@ -6814,6 +6898,10 @@
 ```markdown
 ![Pearson](https://img.shields.io/static/v1?style=for-the-badge&message=Pearson&color=000000&logo=Pearson&logoColor=FFFFFF&label=)
 ```
+## ![Peerlist](https://img.shields.io/static/v1?style=for-the-badge&message=Peerlist&color=00AA45&logo=Peerlist&logoColor=FFFFFF&label=)
+```markdown
+![Peerlist](https://img.shields.io/static/v1?style=for-the-badge&message=Peerlist&color=00AA45&logo=Peerlist&logoColor=FFFFFF&label=)
+```
 ## ![PeerTube](https://img.shields.io/static/v1?style=for-the-badge&message=PeerTube&color=F1680D&logo=PeerTube&logoColor=FFFFFF&label=)
 ```markdown
 ![PeerTube](https://img.shields.io/static/v1?style=for-the-badge&message=PeerTube&color=F1680D&logo=PeerTube&logoColor=FFFFFF&label=)
@@ -6858,9 +6946,9 @@
 ```markdown
 ![Persistent](https://img.shields.io/static/v1?style=for-the-badge&message=Persistent&color=FD5F07&logo=Persistent&logoColor=FFFFFF&label=)
 ```
-## ![Personio](https://img.shields.io/static/v1?style=for-the-badge&message=Personio&color=222222&logo=Personio&logoColor=FFFFFF&label=)
+## ![Personio](https://img.shields.io/static/v1?style=for-the-badge&message=Personio&color=000000&logo=Personio&logoColor=FFFFFF&label=)
 ```markdown
-![Personio](https://img.shields.io/static/v1?style=for-the-badge&message=Personio&color=222222&logo=Personio&logoColor=FFFFFF&label=)
+![Personio](https://img.shields.io/static/v1?style=for-the-badge&message=Personio&color=000000&logo=Personio&logoColor=FFFFFF&label=)
 ```
 ## ![Pets at Home](https://img.shields.io/static/v1?style=for-the-badge&message=Pets+at+Home&color=4BA840&logo=Pets+at+Home&logoColor=FFFFFF&label=)
 ```markdown
@@ -7586,6 +7674,10 @@
 ```markdown
 ![Racket](https://img.shields.io/static/v1?style=for-the-badge&message=Racket&color=9F1D20&logo=Racket&logoColor=FFFFFF&label=)
 ```
+## ![RAD Studio](https://img.shields.io/static/v1?style=for-the-badge&message=RAD+Studio&color=E62431&logo=RAD+Studio&logoColor=FFFFFF&label=)
+```markdown
+![RAD Studio](https://img.shields.io/static/v1?style=for-the-badge&message=RAD+Studio&color=E62431&logo=RAD+Studio&logoColor=FFFFFF&label=)
+```
 ## ![Radar](https://img.shields.io/static/v1?style=for-the-badge&message=Radar&color=007AFF&logo=Radar&logoColor=FFFFFF&label=)
 ```markdown
 ![Radar](https://img.shields.io/static/v1?style=for-the-badge&message=Radar&color=007AFF&logo=Radar&logoColor=FFFFFF&label=)
@@ -7694,9 +7786,9 @@
 ```markdown
 ![Reason](https://img.shields.io/static/v1?style=for-the-badge&message=Reason&color=DD4B39&logo=Reason&logoColor=FFFFFF&label=)
 ```
-## ![Reason Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Reason+Studios&color=222222&logo=Reason+Studios&logoColor=FFFFFF&label=)
+## ![Reason Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Reason+Studios&color=222222&logo=Reason+Studios&logoColor=F9CB61&label=)
 ```markdown
-![Reason Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Reason+Studios&color=222222&logo=Reason+Studios&logoColor=FFFFFF&label=)
+![Reason Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Reason+Studios&color=222222&logo=Reason+Studios&logoColor=F9CB61&label=)
 ```
 ## ![Recoil](https://img.shields.io/static/v1?style=for-the-badge&message=Recoil&color=3578E5&logo=Recoil&logoColor=FFFFFF&label=)
 ```markdown
@@ -7897,6 +7989,10 @@
 ## ![Roam Research](https://img.shields.io/static/v1?style=for-the-badge&message=Roam+Research&color=343A40&logo=Roam+Research&logoColor=FFFFFF&label=)
 ```markdown
 ![Roam Research](https://img.shields.io/static/v1?style=for-the-badge&message=Roam+Research&color=343A40&logo=Roam+Research&logoColor=FFFFFF&label=)
+```
+## ![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=00C805&label=)
+```markdown
+![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=00C805&label=)
 ```
 ## ![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
 ```markdown
@@ -8154,9 +8250,9 @@
 ```markdown
 ![Scopus](https://img.shields.io/static/v1?style=for-the-badge&message=Scopus&color=E9711C&logo=Scopus&logoColor=FFFFFF&label=)
 ```
-## ![SCP Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=SCP+Foundation&color=222222&logo=SCP+Foundation&logoColor=FFFFFF&label=)
+## ![SCP Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=SCP+Foundation&color=000000&logo=SCP+Foundation&logoColor=FFFFFF&label=)
 ```markdown
-![SCP Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=SCP+Foundation&color=222222&logo=SCP+Foundation&logoColor=FFFFFF&label=)
+![SCP Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=SCP+Foundation&color=000000&logo=SCP+Foundation&logoColor=FFFFFF&label=)
 ```
 ## ![Scrapbox](https://img.shields.io/static/v1?style=for-the-badge&message=Scrapbox&color=06B632&logo=Scrapbox&logoColor=FFFFFF&label=)
 ```markdown
@@ -8197,6 +8293,10 @@
 ## ![Seagate](https://img.shields.io/static/v1?style=for-the-badge&message=Seagate&color=222222&logo=Seagate&logoColor=6EBE49&label=)
 ```markdown
 ![Seagate](https://img.shields.io/static/v1?style=for-the-badge&message=Seagate&color=222222&logo=Seagate&logoColor=6EBE49&label=)
+```
+## ![SearXNG](https://img.shields.io/static/v1?style=for-the-badge&message=SearXNG&color=3050FF&logo=SearXNG&logoColor=FFFFFF&label=)
+```markdown
+![SearXNG](https://img.shields.io/static/v1?style=for-the-badge&message=SearXNG&color=3050FF&logo=SearXNG&logoColor=FFFFFF&label=)
 ```
 ## ![SEAT](https://img.shields.io/static/v1?style=for-the-badge&message=SEAT&color=33302E&logo=SEAT&logoColor=FFFFFF&label=)
 ```markdown
@@ -8373,6 +8473,10 @@
 ## ![Siemens](https://img.shields.io/static/v1?style=for-the-badge&message=Siemens&color=009999&logo=Siemens&logoColor=FFFFFF&label=)
 ```markdown
 ![Siemens](https://img.shields.io/static/v1?style=for-the-badge&message=Siemens&color=009999&logo=Siemens&logoColor=FFFFFF&label=)
+```
+## ![SiFive](https://img.shields.io/static/v1?style=for-the-badge&message=SiFive&color=252323&logo=SiFive&logoColor=FFFFFF&label=)
+```markdown
+![SiFive](https://img.shields.io/static/v1?style=for-the-badge&message=SiFive&color=252323&logo=SiFive&logoColor=FFFFFF&label=)
 ```
 ## ![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3A76F0&logo=Signal&logoColor=FFFFFF&label=)
 ```markdown
@@ -8586,6 +8690,10 @@
 ```markdown
 ![SonarSource](https://img.shields.io/static/v1?style=for-the-badge&message=SonarSource&color=CB3032&logo=SonarSource&logoColor=FFFFFF&label=)
 ```
+## ![Sonatype](https://img.shields.io/static/v1?style=for-the-badge&message=Sonatype&color=1B1C30&logo=Sonatype&logoColor=FFFFFF&label=)
+```markdown
+![Sonatype](https://img.shields.io/static/v1?style=for-the-badge&message=Sonatype&color=1B1C30&logo=Sonatype&logoColor=FFFFFF&label=)
+```
 ## ![Songkick](https://img.shields.io/static/v1?style=for-the-badge&message=Songkick&color=F80046&logo=Songkick&logoColor=FFFFFF&label=)
 ```markdown
 ![Songkick](https://img.shields.io/static/v1?style=for-the-badge&message=Songkick&color=F80046&logo=Songkick&logoColor=FFFFFF&label=)
@@ -8602,9 +8710,9 @@
 ```markdown
 ![Sonos](https://img.shields.io/static/v1?style=for-the-badge&message=Sonos&color=000000&logo=Sonos&logoColor=FFFFFF&label=)
 ```
-## ![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=222222&logo=Sony&logoColor=FFFFFF&label=)
+## ![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=000000&logo=Sony&logoColor=FFFFFF&label=)
 ```markdown
-![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=222222&logo=Sony&logoColor=FFFFFF&label=)
+![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=000000&logo=Sony&logoColor=FFFFFF&label=)
 ```
 ## ![Soundcharts](https://img.shields.io/static/v1?style=for-the-badge&message=Soundcharts&color=0C1528&logo=Soundcharts&logoColor=FFFFFF&label=)
 ```markdown
@@ -8918,9 +9026,9 @@
 ```markdown
 ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
 ```
-## ![Strapi](https://img.shields.io/static/v1?style=for-the-badge&message=Strapi&color=2F2E8B&logo=Strapi&logoColor=FFFFFF&label=)
+## ![Strapi](https://img.shields.io/static/v1?style=for-the-badge&message=Strapi&color=4945FF&logo=Strapi&logoColor=FFFFFF&label=)
 ```markdown
-![Strapi](https://img.shields.io/static/v1?style=for-the-badge&message=Strapi&color=2F2E8B&logo=Strapi&logoColor=FFFFFF&label=)
+![Strapi](https://img.shields.io/static/v1?style=for-the-badge&message=Strapi&color=4945FF&logo=Strapi&logoColor=FFFFFF&label=)
 ```
 ## ![Strava](https://img.shields.io/static/v1?style=for-the-badge&message=Strava&color=FC4C02&logo=Strava&logoColor=FFFFFF&label=)
 ```markdown
@@ -9050,9 +9158,9 @@
 ```markdown
 ![Swarm](https://img.shields.io/static/v1?style=for-the-badge&message=Swarm&color=222222&logo=Swarm&logoColor=FFA633&label=)
 ```
-## ![SWC](https://img.shields.io/static/v1?style=for-the-badge&message=SWC&color=222222&logo=SWC&logoColor=FFFFFF&label=)
+## ![SWC](https://img.shields.io/static/v1?style=for-the-badge&message=SWC&color=000000&logo=SWC&logoColor=FFFFFF&label=)
 ```markdown
-![SWC](https://img.shields.io/static/v1?style=for-the-badge&message=SWC&color=222222&logo=SWC&logoColor=FFFFFF&label=)
+![SWC](https://img.shields.io/static/v1?style=for-the-badge&message=SWC&color=000000&logo=SWC&logoColor=FFFFFF&label=)
 ```
 ## ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
 ```markdown
@@ -9134,9 +9242,9 @@
 ```markdown
 ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
 ```
-## ![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=222222&logo=Talenthouse&logoColor=FFFFFF&label=)
+## ![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=000000&logo=Talenthouse&logoColor=FFFFFF&label=)
 ```markdown
-![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=222222&logo=Talenthouse&logoColor=FFFFFF&label=)
+![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=000000&logo=Talenthouse&logoColor=FFFFFF&label=)
 ```
 ## ![Tamiya](https://img.shields.io/static/v1?style=for-the-badge&message=Tamiya&color=000000&logo=Tamiya&logoColor=FFFFFF&label=)
 ```markdown
@@ -9242,9 +9350,9 @@
 ```markdown
 ![Termius](https://img.shields.io/static/v1?style=for-the-badge&message=Termius&color=000000&logo=Termius&logoColor=FFFFFF&label=)
 ```
-## ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
+## ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF&label=)
 ```markdown
-![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF&label=)
 ```
 ## ![Tesco](https://img.shields.io/static/v1?style=for-the-badge&message=Tesco&color=00539F&logo=Tesco&logoColor=FFFFFF&label=)
 ```markdown
@@ -9466,9 +9574,9 @@
 ```markdown
 ![Tor Browser](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Browser&color=7D4698&logo=Tor+Browser&logoColor=FFFFFF&label=)
 ```
-## ![Tor Project](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Project&color=7E4798&logo=Tor+Project&logoColor=FFFFFF&label=)
+## ![Tor Project](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Project&color=7D4698&logo=Tor+Project&logoColor=FFFFFF&label=)
 ```markdown
-![Tor Project](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Project&color=7E4798&logo=Tor+Project&logoColor=FFFFFF&label=)
+![Tor Project](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Project&color=7D4698&logo=Tor+Project&logoColor=FFFFFF&label=)
 ```
 ## ![Toshiba](https://img.shields.io/static/v1?style=for-the-badge&message=Toshiba&color=FF0000&logo=Toshiba&logoColor=FFFFFF&label=)
 ```markdown
@@ -9686,6 +9794,10 @@
 ```markdown
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ```
+## ![Ubuntu MATE](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu+MATE&color=84A454&logo=Ubuntu+MATE&logoColor=FFFFFF&label=)
+```markdown
+![Ubuntu MATE](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu+MATE&color=84A454&logo=Ubuntu+MATE&logoColor=FFFFFF&label=)
+```
 ## ![Udacity](https://img.shields.io/static/v1?style=for-the-badge&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)
 ```markdown
 ![Udacity](https://img.shields.io/static/v1?style=for-the-badge&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=)
@@ -9705,6 +9817,10 @@
 ## ![Ulule](https://img.shields.io/static/v1?style=for-the-badge&message=Ulule&color=18A5D6&logo=Ulule&logoColor=FFFFFF&label=)
 ```markdown
 ![Ulule](https://img.shields.io/static/v1?style=for-the-badge&message=Ulule&color=18A5D6&logo=Ulule&logoColor=FFFFFF&label=)
+```
+## ![Umami](https://img.shields.io/static/v1?style=for-the-badge&message=Umami&color=000000&logo=Umami&logoColor=FFFFFF&label=)
+```markdown
+![Umami](https://img.shields.io/static/v1?style=for-the-badge&message=Umami&color=000000&logo=Umami&logoColor=FFFFFF&label=)
 ```
 ## ![Umbraco](https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=)
 ```markdown
@@ -9742,13 +9858,17 @@
 ```markdown
 ![United Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=United+Airlines&color=002244&logo=United+Airlines&logoColor=FFFFFF&label=)
 ```
-## ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
+## ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ```markdown
-![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
+![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ```
 ## ![Unlicense](https://img.shields.io/static/v1?style=for-the-badge&message=Unlicense&color=808080&logo=Unlicense&logoColor=FFFFFF&label=)
 ```markdown
 ![Unlicense](https://img.shields.io/static/v1?style=for-the-badge&message=Unlicense&color=808080&logo=Unlicense&logoColor=FFFFFF&label=)
+```
+## ![Uno](https://img.shields.io/static/v1?style=for-the-badge&message=Uno&color=ED1C24&logo=Uno&logoColor=FFFFFF&label=)
+```markdown
+![Uno](https://img.shields.io/static/v1?style=for-the-badge&message=Uno&color=ED1C24&logo=Uno&logoColor=FFFFFF&label=)
 ```
 ## ![UnoCSS](https://img.shields.io/static/v1?style=for-the-badge&message=UnoCSS&color=333333&logo=UnoCSS&logoColor=FFFFFF&label=)
 ```markdown
@@ -9850,6 +9970,10 @@
 ```markdown
 ![Vault](https://img.shields.io/static/v1?style=for-the-badge&message=Vault&color=222222&logo=Vault&logoColor=FFEC6E&label=)
 ```
+## ![Vaultwarden](https://img.shields.io/static/v1?style=for-the-badge&message=Vaultwarden&color=000000&logo=Vaultwarden&logoColor=FFFFFF&label=)
+```markdown
+![Vaultwarden](https://img.shields.io/static/v1?style=for-the-badge&message=Vaultwarden&color=000000&logo=Vaultwarden&logoColor=FFFFFF&label=)
+```
 ## ![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=EB001E&logo=Vauxhall&logoColor=FFFFFF&label=)
 ```markdown
 ![Vauxhall](https://img.shields.io/static/v1?style=for-the-badge&message=Vauxhall&color=EB001E&logo=Vauxhall&logoColor=FFFFFF&label=)
@@ -9917,6 +10041,10 @@
 ## ![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=F07355&logo=Viadeo&logoColor=FFFFFF&label=)
 ```markdown
 ![Viadeo](https://img.shields.io/static/v1?style=for-the-badge&message=Viadeo&color=F07355&logo=Viadeo&logoColor=FFFFFF&label=)
+```
+## ![Viaplay](https://img.shields.io/static/v1?style=for-the-badge&message=Viaplay&color=FE365F&logo=Viaplay&logoColor=FFFFFF&label=)
+```markdown
+![Viaplay](https://img.shields.io/static/v1?style=for-the-badge&message=Viaplay&color=FE365F&logo=Viaplay&logoColor=FFFFFF&label=)
 ```
 ## ![Viber](https://img.shields.io/static/v1?style=for-the-badge&message=Viber&color=7360F2&logo=Viber&logoColor=FFFFFF&label=)
 ```markdown
@@ -10018,9 +10146,9 @@
 ```markdown
 ![Volvo](https://img.shields.io/static/v1?style=for-the-badge&message=Volvo&color=003057&logo=Volvo&logoColor=FFFFFF&label=)
 ```
-## ![Vonage](https://img.shields.io/static/v1?style=for-the-badge&message=Vonage&color=222222&logo=Vonage&logoColor=FFFFFF&label=)
+## ![Vonage](https://img.shields.io/static/v1?style=for-the-badge&message=Vonage&color=000000&logo=Vonage&logoColor=FFFFFF&label=)
 ```markdown
-![Vonage](https://img.shields.io/static/v1?style=for-the-badge&message=Vonage&color=222222&logo=Vonage&logoColor=FFFFFF&label=)
+![Vonage](https://img.shields.io/static/v1?style=for-the-badge&message=Vonage&color=000000&logo=Vonage&logoColor=FFFFFF&label=)
 ```
 ## ![Voron Design](https://img.shields.io/static/v1?style=for-the-badge&message=Voron+Design&color=ED3023&logo=Voron+Design&logoColor=FFFFFF&label=)
 ```markdown
@@ -10710,9 +10838,9 @@
 ```markdown
 ![Zotero](https://img.shields.io/static/v1?style=for-the-badge&message=Zotero&color=CC2936&logo=Zotero&logoColor=FFFFFF&label=)
 ```
-## ![Zulip](https://img.shields.io/static/v1?style=for-the-badge&message=Zulip&color=222222&logo=Zulip&logoColor=FFFFFF&label=)
+## ![Zulip](https://img.shields.io/static/v1?style=for-the-badge&message=Zulip&color=222222&logo=Zulip&logoColor=50ADFF&label=)
 ```markdown
-![Zulip](https://img.shields.io/static/v1?style=for-the-badge&message=Zulip&color=222222&logo=Zulip&logoColor=FFFFFF&label=)
+![Zulip](https://img.shields.io/static/v1?style=for-the-badge&message=Zulip&color=222222&logo=Zulip&logoColor=50ADFF&label=)
 ```
 ## ![Zyte](https://img.shields.io/static/v1?style=for-the-badge&message=Zyte&color=B02CCE&logo=Zyte&logoColor=FFFFFF&label=)
 ```markdown
