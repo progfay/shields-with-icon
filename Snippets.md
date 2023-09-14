@@ -506,6 +506,10 @@
 ```markdown
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 ```
+## ![Amazon Simple Email Service](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Simple+Email+Service&color=DD344C&logo=Amazon+Simple+Email+Service&logoColor=FFFFFF&label=)
+```markdown
+![Amazon Simple Email Service](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Simple+Email+Service&color=DD344C&logo=Amazon+Simple+Email+Service&logoColor=FFFFFF&label=)
+```
 ## ![Amazon SQS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+SQS&color=FF4F8B&logo=Amazon+SQS&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon SQS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+SQS&color=FF4F8B&logo=Amazon+SQS&logoColor=FFFFFF&label=)
@@ -5497,6 +5501,10 @@
 ## ![Lunacy](https://img.shields.io/static/v1?style=for-the-badge&message=Lunacy&color=179DE3&logo=Lunacy&logoColor=FFFFFF&label=)
 ```markdown
 ![Lunacy](https://img.shields.io/static/v1?style=for-the-badge&message=Lunacy&color=179DE3&logo=Lunacy&logoColor=FFFFFF&label=)
+```
+## ![Lutris](https://img.shields.io/static/v1?style=for-the-badge&message=Lutris&color=222222&logo=Lutris&logoColor=FF9900&label=)
+```markdown
+![Lutris](https://img.shields.io/static/v1?style=for-the-badge&message=Lutris&color=222222&logo=Lutris&logoColor=FF9900&label=)
 ```
 ## ![Lydia](https://img.shields.io/static/v1?style=for-the-badge&message=Lydia&color=0180FF&logo=Lydia&logoColor=FFFFFF&label=)
 ```markdown
