@@ -62,9 +62,9 @@
 ```markdown
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 ```
-## ![About.me](https://img.shields.io/static/v1?style=for-the-badge&message=About.me&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)
+## ![about.me](https://img.shields.io/static/v1?style=for-the-badge&message=about.me&color=333333&logo=about.me&logoColor=FFFFFF&label=)
 ```markdown
-![About.me](https://img.shields.io/static/v1?style=for-the-badge&message=About.me&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)
+![about.me](https://img.shields.io/static/v1?style=for-the-badge&message=about.me&color=333333&logo=about.me&logoColor=FFFFFF&label=)
 ```
 ## ![Abstract](https://img.shields.io/static/v1?style=for-the-badge&message=Abstract&color=191A1B&logo=Abstract&logoColor=FFFFFF&label=)
 ```markdown
@@ -201,6 +201,10 @@
 ## ![Adroll](https://img.shields.io/static/v1?style=for-the-badge&message=Adroll&color=222222&logo=Adroll&logoColor=0DBDFF&label=)
 ```markdown
 ![Adroll](https://img.shields.io/static/v1?style=for-the-badge&message=Adroll&color=222222&logo=Adroll&logoColor=0DBDFF&label=)
+```
+## ![Advent Of Code](https://img.shields.io/static/v1?style=for-the-badge&message=Advent+Of+Code&color=222222&logo=Advent+Of+Code&logoColor=FFFF66&label=)
+```markdown
+![Advent Of Code](https://img.shields.io/static/v1?style=for-the-badge&message=Advent+Of+Code&color=222222&logo=Advent+Of+Code&logoColor=FFFF66&label=)
 ```
 ## ![Adyen](https://img.shields.io/static/v1?style=for-the-badge&message=Adyen&color=222222&logo=Adyen&logoColor=0ABF53&label=)
 ```markdown
@@ -993,6 +997,10 @@
 ## ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
 ```markdown
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
+```
+## ![Autodesk Revit](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Revit&color=186BFF&logo=Autodesk+Revit&logoColor=FFFFFF&label=)
+```markdown
+![Autodesk Revit](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Revit&color=186BFF&logo=Autodesk+Revit&logoColor=FFFFFF&label=)
 ```
 ## ![AutoHotkey](https://img.shields.io/static/v1?style=for-the-badge&message=AutoHotkey&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
 ```markdown
@@ -3218,9 +3226,9 @@
 ```markdown
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ```
-## ![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=222222&logo=Firefish&logoColor=F19885&label=)
+## ![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=F07A5B&logo=Firefish&logoColor=FFFFFF&label=)
 ```markdown
-![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=222222&logo=Firefish&logoColor=F19885&label=)
+![Firefish](https://img.shields.io/static/v1?style=for-the-badge&message=Firefish&color=F07A5B&logo=Firefish&logoColor=FFFFFF&label=)
 ```
 ## ![Firefly III](https://img.shields.io/static/v1?style=for-the-badge&message=Firefly+III&color=CD5029&logo=Firefly+III&logoColor=FFFFFF&label=)
 ```markdown
@@ -6022,6 +6030,10 @@
 ```markdown
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ```
+## ![Mock Service Worker](https://img.shields.io/static/v1?style=for-the-badge&message=Mock+Service+Worker&color=FF6A33&logo=Mock+Service+Worker&logoColor=FFFFFF&label=)
+```markdown
+![Mock Service Worker](https://img.shields.io/static/v1?style=for-the-badge&message=Mock+Service+Worker&color=FF6A33&logo=Mock+Service+Worker&logoColor=FFFFFF&label=)
+```
 ## ![Modin](https://img.shields.io/static/v1?style=for-the-badge&message=Modin&color=001729&logo=Modin&logoColor=FFFFFF&label=)
 ```markdown
 ![Modin](https://img.shields.io/static/v1?style=for-the-badge&message=Modin&color=001729&logo=Modin&logoColor=FFFFFF&label=)
@@ -6810,6 +6822,10 @@
 ```markdown
 ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=)
 ```
+## ![OWASP Dependency-Check](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP+Dependency-Check&color=222222&logo=OWASP+Dependency-Check&logoColor=F78D0A&label=)
+```markdown
+![OWASP Dependency-Check](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP+Dependency-Check&color=222222&logo=OWASP+Dependency-Check&logoColor=F78D0A&label=)
+```
 ## ![ownCloud](https://img.shields.io/static/v1?style=for-the-badge&message=ownCloud&color=041E42&logo=ownCloud&logoColor=FFFFFF&label=)
 ```markdown
 ![ownCloud](https://img.shields.io/static/v1?style=for-the-badge&message=ownCloud&color=041E42&logo=ownCloud&logoColor=FFFFFF&label=)
@@ -6922,9 +6938,9 @@
 ```markdown
 ![Payoneer](https://img.shields.io/static/v1?style=for-the-badge&message=Payoneer&color=FF4800&logo=Payoneer&logoColor=FFFFFF&label=)
 ```
-## ![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=00457C&logo=PayPal&logoColor=FFFFFF&label=)
+## ![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=003087&logo=PayPal&logoColor=FFFFFF&label=)
 ```markdown
-![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=00457C&logo=PayPal&logoColor=FFFFFF&label=)
+![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=003087&logo=PayPal&logoColor=FFFFFF&label=)
 ```
 ## ![Paytm](https://img.shields.io/static/v1?style=for-the-badge&message=Paytm&color=20336B&logo=Paytm&logoColor=FFFFFF&label=)
 ```markdown
@@ -9922,6 +9938,10 @@
 ```markdown
 ![United Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=United+Airlines&color=002244&logo=United+Airlines&logoColor=FFFFFF&label=)
 ```
+## ![United Nations](https://img.shields.io/static/v1?style=for-the-badge&message=United+Nations&color=009EDB&logo=United+Nations&logoColor=FFFFFF&label=)
+```markdown
+![United Nations](https://img.shields.io/static/v1?style=for-the-badge&message=United+Nations&color=009EDB&logo=United+Nations&logoColor=FFFFFF&label=)
+```
 ## ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ```markdown
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
@@ -9993,6 +10013,10 @@
 ## ![USPS](https://img.shields.io/static/v1?style=for-the-badge&message=USPS&color=333366&logo=USPS&logoColor=FFFFFF&label=)
 ```markdown
 ![USPS](https://img.shields.io/static/v1?style=for-the-badge&message=USPS&color=333366&logo=USPS&logoColor=FFFFFF&label=)
+```
+## ![uTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=uTorrent&color=222222&logo=uTorrent&logoColor=76B83F&label=)
+```markdown
+![uTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=uTorrent&color=222222&logo=uTorrent&logoColor=76B83F&label=)
 ```
 ## ![V](https://img.shields.io/static/v1?style=for-the-badge&message=V&color=5D87BF&logo=V&logoColor=FFFFFF&label=)
 ```markdown
