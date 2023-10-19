@@ -4742,6 +4742,10 @@
 ```markdown
 ![Jabber](https://img.shields.io/static/v1?style=for-the-badge&message=Jabber&color=CC0000&logo=Jabber&logoColor=FFFFFF&label=)
 ```
+## ![Jaeger](https://img.shields.io/static/v1?style=for-the-badge&message=Jaeger&color=222222&logo=Jaeger&logoColor=66CFE3&label=)
+```markdown
+![Jaeger](https://img.shields.io/static/v1?style=for-the-badge&message=Jaeger&color=222222&logo=Jaeger&logoColor=66CFE3&label=)
+```
 ## ![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=000000&logo=Jaguar&logoColor=FFFFFF&label=)
 ```markdown
 ![Jaguar](https://img.shields.io/static/v1?style=for-the-badge&message=Jaguar&color=000000&logo=Jaguar&logoColor=FFFFFF&label=)
@@ -4814,9 +4818,9 @@
 ```markdown
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 ```
-## ![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=41BF47&label=)
+## ![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=40BE46&label=)
 ```markdown
-![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=41BF47&label=)
+![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=40BE46&label=)
 ```
 ## ![JFrog Bintray](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog+Bintray&color=43A047&logo=JFrog+Bintray&logoColor=FFFFFF&label=)
 ```markdown
@@ -4870,9 +4874,9 @@
 ```markdown
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ```
-## ![JR Group](https://img.shields.io/static/v1?style=for-the-badge&message=JR+Group&color=000000&logo=JR+Group&logoColor=FFFFFF&label=)
+## ![JR Group](https://img.shields.io/static/v1?style=for-the-badge&message=JR+Group&color=44AF35&logo=JR+Group&logoColor=FFFFFF&label=)
 ```markdown
-![JR Group](https://img.shields.io/static/v1?style=for-the-badge&message=JR+Group&color=000000&logo=JR+Group&logoColor=FFFFFF&label=)
+![JR Group](https://img.shields.io/static/v1?style=for-the-badge&message=JR+Group&color=44AF35&logo=JR+Group&logoColor=FFFFFF&label=)
 ```
 ## ![jsDelivr](https://img.shields.io/static/v1?style=for-the-badge&message=jsDelivr&color=E84D3D&logo=jsDelivr&logoColor=FFFFFF&label=)
 ```markdown
@@ -6193,6 +6197,10 @@
 ## ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=000000&logo=Mumble&logoColor=FFFFFF&label=)
 ```markdown
 ![Mumble](https://img.shields.io/static/v1?style=for-the-badge&message=Mumble&color=000000&logo=Mumble&logoColor=FFFFFF&label=)
+```
+## ![Mural](https://img.shields.io/static/v1?style=for-the-badge&message=Mural&color=FF4B4B&logo=Mural&logoColor=FFFFFF&label=)
+```markdown
+![Mural](https://img.shields.io/static/v1?style=for-the-badge&message=Mural&color=FF4B4B&logo=Mural&logoColor=FFFFFF&label=)
 ```
 ## ![MuseScore](https://img.shields.io/static/v1?style=for-the-badge&message=MuseScore&color=1A70B8&logo=MuseScore&logoColor=FFFFFF&label=)
 ```markdown
