@@ -8646,9 +8646,9 @@
 ```markdown
 ![Skillshare](https://img.shields.io/static/v1?style=for-the-badge&message=Skillshare&color=222222&logo=Skillshare&logoColor=00FF84&label=)
 ```
-## ![ŠKODA](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%A0KODA&color=4BA82E&logo=%C5%A0KODA&logoColor=FFFFFF&label=)
+## ![ŠKODA](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%A0KODA&color=0E3A2F&logo=%C5%A0KODA&logoColor=FFFFFF&label=)
 ```markdown
-![ŠKODA](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%A0KODA&color=4BA82E&logo=%C5%A0KODA&logoColor=FFFFFF&label=)
+![ŠKODA](https://img.shields.io/static/v1?style=for-the-badge&message=%C5%A0KODA&color=0E3A2F&logo=%C5%A0KODA&logoColor=FFFFFF&label=)
 ```
 ## ![Sky](https://img.shields.io/static/v1?style=for-the-badge&message=Sky&color=0072C9&logo=Sky&logoColor=FFFFFF&label=)
 ```markdown
@@ -8965,6 +8965,10 @@
 ## ![Spyder IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Spyder+IDE&color=FF0000&logo=Spyder+IDE&logoColor=FFFFFF&label=)
 ```markdown
 ![Spyder IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Spyder+IDE&color=FF0000&logo=Spyder+IDE&logoColor=FFFFFF&label=)
+```
+## ![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=D71F00&logo=SQLAlchemy&logoColor=FFFFFF&label=)
+```markdown
+![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=D71F00&logo=SQLAlchemy&logoColor=FFFFFF&label=)
 ```
 ## ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 ```markdown
