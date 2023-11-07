@@ -4258,9 +4258,9 @@
 ```markdown
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ```
-## ![Hilton](https://img.shields.io/static/v1?style=for-the-badge&message=Hilton&color=124D97&logo=Hilton&logoColor=FFFFFF&label=)
+## ![Hilton](https://img.shields.io/static/v1?style=for-the-badge&message=Hilton&color=231F20&logo=Hilton&logoColor=FFFFFF&label=)
 ```markdown
-![Hilton](https://img.shields.io/static/v1?style=for-the-badge&message=Hilton&color=124D97&logo=Hilton&logoColor=FFFFFF&label=)
+![Hilton](https://img.shields.io/static/v1?style=for-the-badge&message=Hilton&color=231F20&logo=Hilton&logoColor=FFFFFF&label=)
 ```
 ## ![Hitachi](https://img.shields.io/static/v1?style=for-the-badge&message=Hitachi&color=E60027&logo=Hitachi&logoColor=FFFFFF&label=)
 ```markdown
@@ -4314,9 +4314,9 @@
 ```markdown
 ![Hootsuite](https://img.shields.io/static/v1?style=for-the-badge&message=Hootsuite&color=FF4C46&logo=Hootsuite&logoColor=FFFFFF&label=)
 ```
-## ![Hoppscotch](https://img.shields.io/static/v1?style=for-the-badge&message=Hoppscotch&color=222222&logo=Hoppscotch&logoColor=31C48D&label=)
+## ![Hoppscotch](https://img.shields.io/static/v1?style=for-the-badge&message=Hoppscotch&color=10B981&logo=Hoppscotch&logoColor=FFFFFF&label=)
 ```markdown
-![Hoppscotch](https://img.shields.io/static/v1?style=for-the-badge&message=Hoppscotch&color=222222&logo=Hoppscotch&logoColor=31C48D&label=)
+![Hoppscotch](https://img.shields.io/static/v1?style=for-the-badge&message=Hoppscotch&color=10B981&logo=Hoppscotch&logoColor=FFFFFF&label=)
 ```
 ## ![Hotels.com](https://img.shields.io/static/v1?style=for-the-badge&message=Hotels.com&color=EF3346&logo=Hotels.com&logoColor=FFFFFF&label=)
 ```markdown
