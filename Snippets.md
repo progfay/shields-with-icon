@@ -590,9 +590,9 @@
 ```markdown
 ![AngelList](https://img.shields.io/static/v1?style=for-the-badge&message=AngelList&color=000000&logo=AngelList&logoColor=FFFFFF&label=)
 ```
-## ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+## ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=0F0F11&logo=Angular&logoColor=FFFFFF&label=)
 ```markdown
-![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=0F0F11&logo=Angular&logoColor=FFFFFF&label=)
 ```
 ## ![Angular Universal](https://img.shields.io/static/v1?style=for-the-badge&message=Angular+Universal&color=00ACC1&logo=Angular+Universal&logoColor=FFFFFF&label=)
 ```markdown
@@ -681,6 +681,10 @@
 ## ![Apache Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
 ```markdown
 ![Apache Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
+```
+## ![Apache Guacamole](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Guacamole&color=578B34&logo=Apache+Guacamole&logoColor=FFFFFF&label=)
+```markdown
+![Apache Guacamole](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Guacamole&color=578B34&logo=Apache+Guacamole&logoColor=FFFFFF&label=)
 ```
 ## ![Apache Hadoop](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Hadoop&color=222222&logo=Apache+Hadoop&logoColor=66CCFF&label=)
 ```markdown
