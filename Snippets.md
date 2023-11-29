@@ -978,6 +978,10 @@
 ```markdown
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
 ```
+## ![Autodesk Maya](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label=)
+```markdown
+![Autodesk Maya](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label=)
+```
 ## ![Autodesk Revit](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Revit&color=186BFF&logo=Autodesk+Revit&logoColor=FFFFFF&label=)
 ```markdown
 ![Autodesk Revit](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Revit&color=186BFF&logo=Autodesk+Revit&logoColor=FFFFFF&label=)
@@ -9018,6 +9022,10 @@
 ```markdown
 ![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=000000&logo=Sony&logoColor=FFFFFF&label=)
 ```
+## ![Soriana](https://img.shields.io/static/v1?style=for-the-badge&message=Soriana&color=D52B1E&logo=Soriana&logoColor=FFFFFF&label=)
+```markdown
+![Soriana](https://img.shields.io/static/v1?style=for-the-badge&message=Soriana&color=D52B1E&logo=Soriana&logoColor=FFFFFF&label=)
+```
 ## ![Soundcharts](https://img.shields.io/static/v1?style=for-the-badge&message=Soundcharts&color=0C1528&logo=Soundcharts&logoColor=FFFFFF&label=)
 ```markdown
 ![Soundcharts](https://img.shields.io/static/v1?style=for-the-badge&message=Soundcharts&color=0C1528&logo=Soundcharts&logoColor=FFFFFF&label=)
@@ -11029,6 +11037,10 @@
 ## ![YouTube Gaming](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Gaming&color=FF0000&logo=YouTube+Gaming&logoColor=FFFFFF&label=)
 ```markdown
 ![YouTube Gaming](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Gaming&color=FF0000&logo=YouTube+Gaming&logoColor=FFFFFF&label=)
+```
+## ![YouTube Kids](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Kids&color=FF0000&logo=YouTube+Kids&logoColor=FFFFFF&label=)
+```markdown
+![YouTube Kids](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Kids&color=FF0000&logo=YouTube+Kids&logoColor=FFFFFF&label=)
 ```
 ## ![YouTube Music](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Music&color=FF0000&logo=YouTube+Music&logoColor=FFFFFF&label=)
 ```markdown
