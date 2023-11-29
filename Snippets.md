@@ -4506,6 +4506,10 @@
 ```markdown
 ![Iceland](https://img.shields.io/static/v1?style=for-the-badge&message=Iceland&color=CC092F&logo=Iceland&logoColor=FFFFFF&label=)
 ```
+## ![ICICI Bank](https://img.shields.io/static/v1?style=for-the-badge&message=ICICI+Bank&color=AE282E&logo=ICICI+Bank&logoColor=FFFFFF&label=)
+```markdown
+![ICICI Bank](https://img.shields.io/static/v1?style=for-the-badge&message=ICICI+Bank&color=AE282E&logo=ICICI+Bank&logoColor=FFFFFF&label=)
+```
 ## ![Icinga](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga&color=06062C&logo=Icinga&logoColor=FFFFFF&label=)
 ```markdown
 ![Icinga](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga&color=06062C&logo=Icinga&logoColor=FFFFFF&label=)
@@ -8694,6 +8698,10 @@
 ```markdown
 ![SFML](https://img.shields.io/static/v1?style=for-the-badge&message=SFML&color=222222&logo=SFML&logoColor=8CC445&label=)
 ```
+## ![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=000000&logo=shadcn%2Fui&logoColor=FFFFFF&label=)
+```markdown
+![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=000000&logo=shadcn%2Fui&logoColor=FFFFFF&label=)
+```
 ## ![Shadow](https://img.shields.io/static/v1?style=for-the-badge&message=Shadow&color=0A0C0D&logo=Shadow&logoColor=FFFFFF&label=)
 ```markdown
 ![Shadow](https://img.shields.io/static/v1?style=for-the-badge&message=Shadow&color=0A0C0D&logo=Shadow&logoColor=FFFFFF&label=)
@@ -9337,6 +9345,10 @@
 ## ![Strava](https://img.shields.io/static/v1?style=for-the-badge&message=Strava&color=FC4C02&logo=Strava&logoColor=FFFFFF&label=)
 ```markdown
 ![Strava](https://img.shields.io/static/v1?style=for-the-badge&message=Strava&color=FC4C02&logo=Strava&logoColor=FFFFFF&label=)
+```
+## ![Streamlabs](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlabs&color=222222&logo=Streamlabs&logoColor=80F5D2&label=)
+```markdown
+![Streamlabs](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlabs&color=222222&logo=Streamlabs&logoColor=80F5D2&label=)
 ```
 ## ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 ```markdown
@@ -10426,6 +10438,10 @@
 ```markdown
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ```
+## ![Visual Studio App Center](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+App+Center&color=CB2E6D&logo=Visual+Studio+App+Center&logoColor=FFFFFF&label=)
+```markdown
+![Visual Studio App Center](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+App+Center&color=CB2E6D&logo=Visual+Studio+App+Center&logoColor=FFFFFF&label=)
+```
 ## ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ```markdown
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
@@ -10646,9 +10662,9 @@
 ```markdown
 ![WebdriverIO](https://img.shields.io/static/v1?style=for-the-badge&message=WebdriverIO&color=EA5906&logo=WebdriverIO&logoColor=FFFFFF&label=)
 ```
-## ![Webex](https://img.shields.io/static/v1?style=for-the-badge&message=Webex&color=222222&logo=Webex&logoColor=FFFFFF&label=)
+## ![Webex](https://img.shields.io/static/v1?style=for-the-badge&message=Webex&color=000000&logo=Webex&logoColor=FFFFFF&label=)
 ```markdown
-![Webex](https://img.shields.io/static/v1?style=for-the-badge&message=Webex&color=222222&logo=Webex&logoColor=FFFFFF&label=)
+![Webex](https://img.shields.io/static/v1?style=for-the-badge&message=Webex&color=000000&logo=Webex&logoColor=FFFFFF&label=)
 ```
 ## ![Webflow](https://img.shields.io/static/v1?style=for-the-badge&message=Webflow&color=4353FF&logo=Webflow&logoColor=FFFFFF&label=)
 ```markdown
