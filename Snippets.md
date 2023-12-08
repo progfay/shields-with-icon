@@ -7158,6 +7158,10 @@
 ```markdown
 ![Packer](https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=)
 ```
+## ![Packt](https://img.shields.io/static/v1?style=for-the-badge&message=Packt&color=F37143&logo=Packt&logoColor=FFFFFF&label=)
+```markdown
+![Packt](https://img.shields.io/static/v1?style=for-the-badge&message=Packt&color=F37143&logo=Packt&logoColor=FFFFFF&label=)
+```
 ## ![PaddlePaddle](https://img.shields.io/static/v1?style=for-the-badge&message=PaddlePaddle&color=0062B0&logo=PaddlePaddle&logoColor=FFFFFF&label=)
 ```markdown
 ![PaddlePaddle](https://img.shields.io/static/v1?style=for-the-badge&message=PaddlePaddle&color=0062B0&logo=PaddlePaddle&logoColor=FFFFFF&label=)
@@ -7417,6 +7421,10 @@
 ## ![PicPay](https://img.shields.io/static/v1?style=for-the-badge&message=PicPay&color=222222&logo=PicPay&logoColor=21C25E&label=)
 ```markdown
 ![PicPay](https://img.shields.io/static/v1?style=for-the-badge&message=PicPay&color=222222&logo=PicPay&logoColor=21C25E&label=)
+```
+## ![Picxy](https://img.shields.io/static/v1?style=for-the-badge&message=Picxy&color=2E3192&logo=Picxy&logoColor=FFFFFF&label=)
+```markdown
+![Picxy](https://img.shields.io/static/v1?style=for-the-badge&message=Picxy&color=2E3192&logo=Picxy&logoColor=FFFFFF&label=)
 ```
 ## ![Pimcore](https://img.shields.io/static/v1?style=for-the-badge&message=Pimcore&color=6428B4&logo=Pimcore&logoColor=FFFFFF&label=)
 ```markdown
