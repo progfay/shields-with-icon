@@ -2394,6 +2394,10 @@
 ```markdown
 ![DAF](https://img.shields.io/static/v1?style=for-the-badge&message=DAF&color=00529B&logo=DAF&logoColor=FFFFFF&label=)
 ```
+## ![daily.dev](https://img.shields.io/static/v1?style=for-the-badge&message=daily.dev&color=CE3DF3&logo=daily.dev&logoColor=FFFFFF&label=)
+```markdown
+![daily.dev](https://img.shields.io/static/v1?style=for-the-badge&message=daily.dev&color=CE3DF3&logo=daily.dev&logoColor=FFFFFF&label=)
+```
 ## ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0D0D0D&logo=Dailymotion&logoColor=FFFFFF&label=)
 ```markdown
 ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0D0D0D&logo=Dailymotion&logoColor=FFFFFF&label=)
@@ -3765,6 +3769,10 @@
 ## ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ```markdown
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+```
+## ![GitHub Copilot](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Copilot&color=000000&logo=GitHub+Copilot&logoColor=FFFFFF&label=)
+```markdown
+![GitHub Copilot](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Copilot&color=000000&logo=GitHub+Copilot&logoColor=FFFFFF&label=)
 ```
 ## ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 ```markdown
@@ -5390,6 +5398,10 @@
 ```markdown
 ![Kuula](https://img.shields.io/static/v1?style=for-the-badge&message=Kuula&color=4092B4&logo=Kuula&logoColor=FFFFFF&label=)
 ```
+## ![KX](https://img.shields.io/static/v1?style=for-the-badge&message=KX&color=101820&logo=KX&logoColor=FFFFFF&label=)
+```markdown
+![KX](https://img.shields.io/static/v1?style=for-the-badge&message=KX&color=101820&logo=KX&logoColor=FFFFFF&label=)
+```
 ## ![Kyocera](https://img.shields.io/static/v1?style=for-the-badge&message=Kyocera&color=DF0522&logo=Kyocera&logoColor=FFFFFF&label=)
 ```markdown
 ![Kyocera](https://img.shields.io/static/v1?style=for-the-badge&message=Kyocera&color=DF0522&logo=Kyocera&logoColor=FFFFFF&label=)
@@ -5550,9 +5562,13 @@
 ```markdown
 ![LibreOffice](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice&color=18A303&logo=LibreOffice&logoColor=FFFFFF&label=)
 ```
-## ![LibreOffice Base](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Base&color=B63AD3&logo=LibreOffice+Base&logoColor=FFFFFF&label=)
+## ![LibreOffice Base](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Base&color=7324A9&logo=LibreOffice+Base&logoColor=FFFFFF&label=)
 ```markdown
-![LibreOffice Base](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Base&color=B63AD3&logo=LibreOffice+Base&logoColor=FFFFFF&label=)
+![LibreOffice Base](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Base&color=7324A9&logo=LibreOffice+Base&logoColor=FFFFFF&label=)
+```
+## ![LibreOffice Calc](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Calc&color=007C3C&logo=LibreOffice+Calc&logoColor=FFFFFF&label=)
+```markdown
+![LibreOffice Calc](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Calc&color=007C3C&logo=LibreOffice+Calc&logoColor=FFFFFF&label=)
 ```
 ## ![LibreOffice Draw](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Draw&color=CB6D30&logo=LibreOffice+Draw&logoColor=FFFFFF&label=)
 ```markdown
@@ -8266,6 +8282,10 @@
 ```markdown
 ![Red](https://img.shields.io/static/v1?style=for-the-badge&message=Red&color=B32629&logo=Red&logoColor=FFFFFF&label=)
 ```
+## ![Red Bull](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Bull&color=DB0A40&logo=Red+Bull&logoColor=FFFFFF&label=)
+```markdown
+![Red Bull](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Bull&color=DB0A40&logo=Red+Bull&logoColor=FFFFFF&label=)
+```
 ## ![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
 ```markdown
 ![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
@@ -9013,6 +9033,10 @@
 ## ![Simple Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Icons&color=111111&logo=Simple+Icons&logoColor=FFFFFF&label=)
 ```markdown
 ![Simple Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Icons&color=111111&logo=Simple+Icons&logoColor=FFFFFF&label=)
+```
+## ![SimpleLogin](https://img.shields.io/static/v1?style=for-the-badge&message=SimpleLogin&color=EA319F&logo=SimpleLogin&logoColor=FFFFFF&label=)
+```markdown
+![SimpleLogin](https://img.shields.io/static/v1?style=for-the-badge&message=SimpleLogin&color=EA319F&logo=SimpleLogin&logoColor=FFFFFF&label=)
 ```
 ## ![Simplenote](https://img.shields.io/static/v1?style=for-the-badge&message=Simplenote&color=3361CC&logo=Simplenote&logoColor=FFFFFF&label=)
 ```markdown
@@ -10025,6 +10049,10 @@
 ## ![Thunderbird](https://img.shields.io/static/v1?style=for-the-badge&message=Thunderbird&color=0A84FF&logo=Thunderbird&logoColor=FFFFFF&label=)
 ```markdown
 ![Thunderbird](https://img.shields.io/static/v1?style=for-the-badge&message=Thunderbird&color=0A84FF&logo=Thunderbird&logoColor=FFFFFF&label=)
+```
+## ![Thunderstore](https://img.shields.io/static/v1?style=for-the-badge&message=Thunderstore&color=222222&logo=Thunderstore&logoColor=23FFB0&label=)
+```markdown
+![Thunderstore](https://img.shields.io/static/v1?style=for-the-badge&message=Thunderstore&color=222222&logo=Thunderstore&logoColor=23FFB0&label=)
 ```
 ## ![Thurgauer Kantonalbank](https://img.shields.io/static/v1?style=for-the-badge&message=Thurgauer+Kantonalbank&color=006D41&logo=Thurgauer+Kantonalbank&logoColor=FFFFFF&label=)
 ```markdown
