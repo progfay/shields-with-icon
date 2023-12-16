@@ -3038,6 +3038,10 @@
 ```markdown
 ![Embarcadero](https://img.shields.io/static/v1?style=for-the-badge&message=Embarcadero&color=ED1F35&logo=Embarcadero&logoColor=FFFFFF&label=)
 ```
+## ![Embark](https://img.shields.io/static/v1?style=for-the-badge&message=Embark&color=000000&logo=Embark&logoColor=FFFFFF&label=)
+```markdown
+![Embark](https://img.shields.io/static/v1?style=for-the-badge&message=Embark&color=000000&logo=Embark&logoColor=FFFFFF&label=)
+```
 ## ![Ember.js](https://img.shields.io/static/v1?style=for-the-badge&message=Ember.js&color=E04E39&logo=Ember.js&logoColor=FFFFFF&label=)
 ```markdown
 ![Ember.js](https://img.shields.io/static/v1?style=for-the-badge&message=Ember.js&color=E04E39&logo=Ember.js&logoColor=FFFFFF&label=)
@@ -10081,6 +10085,10 @@
 ## ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
 ```markdown
 ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
+```
+## ![THE FINALS](https://img.shields.io/static/v1?style=for-the-badge&message=THE+FINALS&color=D31F3C&logo=THE+FINALS&logoColor=FFFFFF&label=)
+```markdown
+![THE FINALS](https://img.shields.io/static/v1?style=for-the-badge&message=THE+FINALS&color=D31F3C&logo=THE+FINALS&logoColor=FFFFFF&label=)
 ```
 ## ![The Irish Times](https://img.shields.io/static/v1?style=for-the-badge&message=The+Irish+Times&color=000000&logo=The+Irish+Times&logoColor=FFFFFF&label=)
 ```markdown
