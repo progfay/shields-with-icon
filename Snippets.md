@@ -4566,6 +4566,10 @@
 ```markdown
 ![Hoppscotch](https://img.shields.io/static/v1?style=for-the-badge&message=Hoppscotch&color=10B981&logo=Hoppscotch&logoColor=FFFFFF&label=)
 ```
+## ![Hostinger](https://img.shields.io/static/v1?style=for-the-badge&message=Hostinger&color=673DE6&logo=Hostinger&logoColor=FFFFFF&label=)
+```markdown
+![Hostinger](https://img.shields.io/static/v1?style=for-the-badge&message=Hostinger&color=673DE6&logo=Hostinger&logoColor=FFFFFF&label=)
+```
 ## ![Hotels.com](https://img.shields.io/static/v1?style=for-the-badge&message=Hotels.com&color=EF3346&logo=Hotels.com&logoColor=FFFFFF&label=)
 ```markdown
 ![Hotels.com](https://img.shields.io/static/v1?style=for-the-badge&message=Hotels.com&color=EF3346&logo=Hotels.com&logoColor=FFFFFF&label=)
@@ -8925,6 +8929,10 @@
 ## ![SEAT](https://img.shields.io/static/v1?style=for-the-badge&message=SEAT&color=33302E&logo=SEAT&logoColor=FFFFFF&label=)
 ```markdown
 ![SEAT](https://img.shields.io/static/v1?style=for-the-badge&message=SEAT&color=33302E&logo=SEAT&logoColor=FFFFFF&label=)
+```
+## ![SeatGeek](https://img.shields.io/static/v1?style=for-the-badge&message=SeatGeek&color=FF5B49&logo=SeatGeek&logoColor=FFFFFF&label=)
+```markdown
+![SeatGeek](https://img.shields.io/static/v1?style=for-the-badge&message=SeatGeek&color=FF5B49&logo=SeatGeek&logoColor=FFFFFF&label=)
 ```
 ## ![SecurityScorecard](https://img.shields.io/static/v1?style=for-the-badge&message=SecurityScorecard&color=7033FD&logo=SecurityScorecard&logoColor=FFFFFF&label=)
 ```markdown
