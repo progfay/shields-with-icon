@@ -1154,6 +1154,10 @@
 ```markdown
 ![Baremetrics](https://img.shields.io/static/v1?style=for-the-badge&message=Baremetrics&color=6078FF&logo=Baremetrics&logoColor=FFFFFF&label=)
 ```
+## ![Barmenia](https://img.shields.io/static/v1?style=for-the-badge&message=Barmenia&color=009FE3&logo=Barmenia&logoColor=FFFFFF&label=)
+```markdown
+![Barmenia](https://img.shields.io/static/v1?style=for-the-badge&message=Barmenia&color=009FE3&logo=Barmenia&logoColor=FFFFFF&label=)
+```
 ## ![Basecamp](https://img.shields.io/static/v1?style=for-the-badge&message=Basecamp&color=1D2D35&logo=Basecamp&logoColor=FFFFFF&label=)
 ```markdown
 ![Basecamp](https://img.shields.io/static/v1?style=for-the-badge&message=Basecamp&color=1D2D35&logo=Basecamp&logoColor=FFFFFF&label=)
@@ -1301,6 +1305,10 @@
 ## ![Bitrise](https://img.shields.io/static/v1?style=for-the-badge&message=Bitrise&color=683D87&logo=Bitrise&logoColor=FFFFFF&label=)
 ```markdown
 ![Bitrise](https://img.shields.io/static/v1?style=for-the-badge&message=Bitrise&color=683D87&logo=Bitrise&logoColor=FFFFFF&label=)
+```
+## ![BitTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=BitTorrent&color=050505&logo=BitTorrent&logoColor=FFFFFF&label=)
+```markdown
+![BitTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=BitTorrent&color=050505&logo=BitTorrent&logoColor=FFFFFF&label=)
 ```
 ## ![Bitwarden](https://img.shields.io/static/v1?style=for-the-badge&message=Bitwarden&color=175DDC&logo=Bitwarden&logoColor=FFFFFF&label=)
 ```markdown
@@ -1465,6 +1473,10 @@
 ## ![Brevo](https://img.shields.io/static/v1?style=for-the-badge&message=Brevo&color=0B996E&logo=Brevo&logoColor=FFFFFF&label=)
 ```markdown
 ![Brevo](https://img.shields.io/static/v1?style=for-the-badge&message=Brevo&color=0B996E&logo=Brevo&logoColor=FFFFFF&label=)
+```
+## ![Brex](https://img.shields.io/static/v1?style=for-the-badge&message=Brex&color=212121&logo=Brex&logoColor=FFFFFF&label=)
+```markdown
+![Brex](https://img.shields.io/static/v1?style=for-the-badge&message=Brex&color=212121&logo=Brex&logoColor=FFFFFF&label=)
 ```
 ## ![Bricks](https://img.shields.io/static/v1?style=for-the-badge&message=Bricks&color=222222&logo=Bricks&logoColor=FFD54D&label=)
 ```markdown
