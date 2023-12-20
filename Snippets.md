@@ -1014,6 +1014,10 @@
 ```markdown
 ![AutoHotkey](https://img.shields.io/static/v1?style=for-the-badge&message=AutoHotkey&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
 ```
+## ![AutoIt](https://img.shields.io/static/v1?style=for-the-badge&message=AutoIt&color=5D83AC&logo=AutoIt&logoColor=FFFFFF&label=)
+```markdown
+![AutoIt](https://img.shields.io/static/v1?style=for-the-badge&message=AutoIt&color=5D83AC&logo=AutoIt&logoColor=FFFFFF&label=)
+```
 ## ![Automattic](https://img.shields.io/static/v1?style=for-the-badge&message=Automattic&color=3499CD&logo=Automattic&logoColor=FFFFFF&label=)
 ```markdown
 ![Automattic](https://img.shields.io/static/v1?style=for-the-badge&message=Automattic&color=3499CD&logo=Automattic&logoColor=FFFFFF&label=)
@@ -2625,6 +2629,10 @@
 ## ![Deutsche Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bank&color=0018A8&logo=Deutsche+Bank&logoColor=FFFFFF&label=)
 ```markdown
 ![Deutsche Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bank&color=0018A8&logo=Deutsche+Bank&logoColor=FFFFFF&label=)
+```
+## ![Deutsche Post](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Post&color=222222&logo=Deutsche+Post&logoColor=FFCC00&label=)
+```markdown
+![Deutsche Post](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Post&color=222222&logo=Deutsche+Post&logoColor=FFCC00&label=)
 ```
 ## ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
 ```markdown
@@ -6125,6 +6133,10 @@
 ## ![Meilisearch](https://img.shields.io/static/v1?style=for-the-badge&message=Meilisearch&color=FF5CAA&logo=Meilisearch&logoColor=FFFFFF&label=)
 ```markdown
 ![Meilisearch](https://img.shields.io/static/v1?style=for-the-badge&message=Meilisearch&color=FF5CAA&logo=Meilisearch&logoColor=FFFFFF&label=)
+```
+## ![Meituan](https://img.shields.io/static/v1?style=for-the-badge&message=Meituan&color=222222&logo=Meituan&logoColor=FFD100&label=)
+```markdown
+![Meituan](https://img.shields.io/static/v1?style=for-the-badge&message=Meituan&color=222222&logo=Meituan&logoColor=FFD100&label=)
 ```
 ## ![Mendeley](https://img.shields.io/static/v1?style=for-the-badge&message=Mendeley&color=9D1620&logo=Mendeley&logoColor=FFFFFF&label=)
 ```markdown
