@@ -4574,6 +4574,10 @@
 ```markdown
 ![Honey](https://img.shields.io/static/v1?style=for-the-badge&message=Honey&color=FF6801&logo=Honey&logoColor=FFFFFF&label=)
 ```
+## ![Hono](https://img.shields.io/static/v1?style=for-the-badge&message=Hono&color=FF612B&logo=Hono&logoColor=FFFFFF&label=)
+```markdown
+![Hono](https://img.shields.io/static/v1?style=for-the-badge&message=Hono&color=FF612B&logo=Hono&logoColor=FFFFFF&label=)
+```
 ## ![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=000000&logo=Honor&logoColor=FFFFFF&label=)
 ```markdown
 ![Honor](https://img.shields.io/static/v1?style=for-the-badge&message=Honor&color=000000&logo=Honor&logoColor=FFFFFF&label=)
@@ -7305,6 +7309,10 @@
 ## ![Packt](https://img.shields.io/static/v1?style=for-the-badge&message=Packt&color=F37143&logo=Packt&logoColor=FFFFFF&label=)
 ```markdown
 ![Packt](https://img.shields.io/static/v1?style=for-the-badge&message=Packt&color=F37143&logo=Packt&logoColor=FFFFFF&label=)
+```
+## ![Paddle](https://img.shields.io/static/v1?style=for-the-badge&message=Paddle&color=222222&logo=Paddle&logoColor=FDDD35&label=)
+```markdown
+![Paddle](https://img.shields.io/static/v1?style=for-the-badge&message=Paddle&color=222222&logo=Paddle&logoColor=FDDD35&label=)
 ```
 ## ![PaddlePaddle](https://img.shields.io/static/v1?style=for-the-badge&message=PaddlePaddle&color=0062B0&logo=PaddlePaddle&logoColor=FFFFFF&label=)
 ```markdown
