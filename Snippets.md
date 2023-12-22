@@ -246,6 +246,10 @@
 ```markdown
 ![Affinity Publisher](https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Publisher&color=C9284D&logo=Affinity+Publisher&logoColor=FFFFFF&label=)
 ```
+## ![Afterpay](https://img.shields.io/static/v1?style=for-the-badge&message=Afterpay&color=222222&logo=Afterpay&logoColor=B2FCE4&label=)
+```markdown
+![Afterpay](https://img.shields.io/static/v1?style=for-the-badge&message=Afterpay&color=222222&logo=Afterpay&logoColor=B2FCE4&label=)
+```
 ## ![Agora](https://img.shields.io/static/v1?style=for-the-badge&message=Agora&color=099DFD&logo=Agora&logoColor=FFFFFF&label=)
 ```markdown
 ![Agora](https://img.shields.io/static/v1?style=for-the-badge&message=Agora&color=099DFD&logo=Agora&logoColor=FFFFFF&label=)
@@ -4014,6 +4018,10 @@
 ```markdown
 ![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
 ```
+## ![Google Campaign Manager 360](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Campaign+Manager+360&color=1E8E3E&logo=Google+Campaign+Manager+360&logoColor=FFFFFF&label=)
+```markdown
+![Google Campaign Manager 360](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Campaign+Manager+360&color=1E8E3E&logo=Google+Campaign+Manager+360&logoColor=FFFFFF&label=)
+```
 ## ![Google Cardboard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cardboard&color=FF7143&logo=Google+Cardboard&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Cardboard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cardboard&color=FF7143&logo=Google+Cardboard&logoColor=FFFFFF&label=)
@@ -6757,6 +6765,10 @@
 ## ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
 ```markdown
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
+```
+## ![NextDNS](https://img.shields.io/static/v1?style=for-the-badge&message=NextDNS&color=007BFF&logo=NextDNS&logoColor=FFFFFF&label=)
+```markdown
+![NextDNS](https://img.shields.io/static/v1?style=for-the-badge&message=NextDNS&color=007BFF&logo=NextDNS&logoColor=FFFFFF&label=)
 ```
 ## ![Nextdoor](https://img.shields.io/static/v1?style=for-the-badge&message=Nextdoor&color=222222&logo=Nextdoor&logoColor=8ED500&label=)
 ```markdown
