@@ -27,7 +27,7 @@ jobs:
           git add README.md Snippets.md
           git diff --name-only --exit-code
         continue-on-error: true
-      - name: Generate outputs
+      - name: Commit outputs
         if: steps.diff.outcome == 'failure'
         run: |
           set -x
