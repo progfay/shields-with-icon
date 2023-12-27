@@ -1,0 +1,39 @@
+name: Go
+on:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.21.4"
+      - name: Install dependencies
+        run: go get .
+      - name: Cleanup outputs
+        run: rm README.md Snippets.md
+      - name: Build
+        run: go build -o=generator ./*.go
+      - name: Generate outputs
+        run: ./generator > README.md 2> Snippets.md
+      - name: Check difference
+        id: diff
+        run: |
+          git add README.md Snippets.md
+          git diff --name-only --exit-code
+        continue-on-error: true
+      - name: Generate outputs
+        if: steps.diff.outcome == 'failure'
+        run: |
+          set -x
+          git config user.name "progfay"
+          git config user.email "19568747+github-actions@users.noreply.github.com"
+          git remote set-url origin https://progfay:${{ secrets.GITHUB_TOKEN }}@github.com/progfay/shields-with-icon
+          git add README.md Snippets.md
+          git commit -m 'doc: update README.md, Snippets.md (auto-generated)'
+          git push origin master
