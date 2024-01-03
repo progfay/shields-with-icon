@@ -23,9 +23,7 @@ jobs:
         run: ./generator > README.md 2> Snippets.md
       - name: Check difference
         id: diff
-        run: |
-          git add README.md Snippets.md
-          git diff --name-only --exit-code
+        run: git diff --name-only --exit-code README.md Snippets.md
         continue-on-error: true
       - name: Commit outputs
         if: steps.diff.outcome == 'failure'
