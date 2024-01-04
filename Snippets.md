@@ -2570,6 +2570,10 @@
 ```markdown
 ![Decap CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Decap+CMS&color=FF0082&logo=Decap+CMS&logoColor=FFFFFF&label=)
 ```
+## ![DeepCool](https://img.shields.io/static/v1?style=for-the-badge&message=DeepCool&color=068584&logo=DeepCool&logoColor=FFFFFF&label=)
+```markdown
+![DeepCool](https://img.shields.io/static/v1?style=for-the-badge&message=DeepCool&color=068584&logo=DeepCool&logoColor=FFFFFF&label=)
+```
 ## ![deepin](https://img.shields.io/static/v1?style=for-the-badge&message=deepin&color=007CFF&logo=deepin&logoColor=FFFFFF&label=)
 ```markdown
 ![deepin](https://img.shields.io/static/v1?style=for-the-badge&message=deepin&color=007CFF&logo=deepin&logoColor=FFFFFF&label=)

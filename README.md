@@ -641,6 +641,7 @@
 ![De'Longhi](https://img.shields.io/static/v1?style=for-the-badge&message=De%27Longhi&color=072240&logo=De%27Longhi&logoColor=FFFFFF&label=)
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 ![Decap CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Decap+CMS&color=FF0082&logo=Decap+CMS&logoColor=FFFFFF&label=)
+![DeepCool](https://img.shields.io/static/v1?style=for-the-badge&message=DeepCool&color=068584&logo=DeepCool&logoColor=FFFFFF&label=)
 ![deepin](https://img.shields.io/static/v1?style=for-the-badge&message=deepin&color=007CFF&logo=deepin&logoColor=FFFFFF&label=)
 ![DeepL](https://img.shields.io/static/v1?style=for-the-badge&message=DeepL&color=0F2B46&logo=DeepL&logoColor=FFFFFF&label=)
 ![Deepnote](https://img.shields.io/static/v1?style=for-the-badge&message=Deepnote&color=3793EF&logo=Deepnote&logoColor=FFFFFF&label=)
