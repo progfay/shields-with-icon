@@ -938,9 +938,9 @@
 ```markdown
 ![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)
 ```
-## ![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=000000&logo=Aston+Martin&logoColor=FFFFFF&label=)
+## ![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=00665E&logo=Aston+Martin&logoColor=FFFFFF&label=)
 ```markdown
-![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=000000&logo=Aston+Martin&logoColor=FFFFFF&label=)
+![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=00665E&logo=Aston+Martin&logoColor=FFFFFF&label=)
 ```
 ## ![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=BC52EE&logo=Astro&logoColor=FFFFFF&label=)
 ```markdown
@@ -8630,9 +8630,9 @@
 ```markdown
 ![Revolt.chat](https://img.shields.io/static/v1?style=for-the-badge&message=Revolt.chat&color=FF4655&logo=Revolt.chat&logoColor=FFFFFF&label=)
 ```
-## ![Revolut](https://img.shields.io/static/v1?style=for-the-badge&message=Revolut&color=0075EB&logo=Revolut&logoColor=FFFFFF&label=)
+## ![Revolut](https://img.shields.io/static/v1?style=for-the-badge&message=Revolut&color=191C1F&logo=Revolut&logoColor=FFFFFF&label=)
 ```markdown
-![Revolut](https://img.shields.io/static/v1?style=for-the-badge&message=Revolut&color=0075EB&logo=Revolut&logoColor=FFFFFF&label=)
+![Revolut](https://img.shields.io/static/v1?style=for-the-badge&message=Revolut&color=191C1F&logo=Revolut&logoColor=FFFFFF&label=)
 ```
 ## ![Revue](https://img.shields.io/static/v1?style=for-the-badge&message=Revue&color=E15718&logo=Revue&logoColor=FFFFFF&label=)
 ```markdown
