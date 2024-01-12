@@ -14,9 +14,9 @@
 ```markdown
 ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
 ```
-## ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=1A285F&logo=1Password&logoColor=FFFFFF&label=)
+## ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=3B66BC&logo=1Password&logoColor=FFFFFF&label=)
 ```markdown
-![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=1A285F&logo=1Password&logoColor=FFFFFF&label=)
+![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=3B66BC&logo=1Password&logoColor=FFFFFF&label=)
 ```
 ## ![3M](https://img.shields.io/static/v1?style=for-the-badge&message=3M&color=FF0000&logo=3M&logoColor=FFFFFF&label=)
 ```markdown
@@ -1681,6 +1681,10 @@
 ## ![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
 ```markdown
 ![Cardano](https://img.shields.io/static/v1?style=for-the-badge&message=Cardano&color=0133AD&logo=Cardano&logoColor=FFFFFF&label=)
+```
+## ![Carlsberg Group](https://img.shields.io/static/v1?style=for-the-badge&message=Carlsberg+Group&color=00321E&logo=Carlsberg+Group&logoColor=FFFFFF&label=)
+```markdown
+![Carlsberg Group](https://img.shields.io/static/v1?style=for-the-badge&message=Carlsberg+Group&color=00321E&logo=Carlsberg+Group&logoColor=FFFFFF&label=)
 ```
 ## ![Carrd](https://img.shields.io/static/v1?style=for-the-badge&message=Carrd&color=596CAF&logo=Carrd&logoColor=FFFFFF&label=)
 ```markdown
@@ -5442,6 +5446,10 @@
 ```markdown
 ![Knative](https://img.shields.io/static/v1?style=for-the-badge&message=Knative&color=0865AD&logo=Knative&logoColor=FFFFFF&label=)
 ```
+## ![Knex.js](https://img.shields.io/static/v1?style=for-the-badge&message=Knex.js&color=D26B38&logo=Knex.js&logoColor=FFFFFF&label=)
+```markdown
+![Knex.js](https://img.shields.io/static/v1?style=for-the-badge&message=Knex.js&color=D26B38&logo=Knex.js&logoColor=FFFFFF&label=)
+```
 ## ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=9146FF&logo=KnowledgeBase&logoColor=FFFFFF&label=)
 ```markdown
 ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=9146FF&logo=KnowledgeBase&logoColor=FFFFFF&label=)
@@ -5546,9 +5554,9 @@
 ```markdown
 ![LabVIEW](https://img.shields.io/static/v1?style=for-the-badge&message=LabVIEW&color=222222&logo=LabVIEW&logoColor=FFDB00&label=)
 ```
-## ![Lada](https://img.shields.io/static/v1?style=for-the-badge&message=Lada&color=ED6B21&logo=Lada&logoColor=FFFFFF&label=)
+## ![LADA](https://img.shields.io/static/v1?style=for-the-badge&message=LADA&color=ED6B21&logo=LADA&logoColor=FFFFFF&label=)
 ```markdown
-![Lada](https://img.shields.io/static/v1?style=for-the-badge&message=Lada&color=ED6B21&logo=Lada&logoColor=FFFFFF&label=)
+![LADA](https://img.shields.io/static/v1?style=for-the-badge&message=LADA&color=ED6B21&logo=LADA&logoColor=FFFFFF&label=)
 ```
 ## ![Lamborghini](https://img.shields.io/static/v1?style=for-the-badge&message=Lamborghini&color=222222&logo=Lamborghini&logoColor=DDB320&label=)
 ```markdown
@@ -6862,9 +6870,9 @@
 ```markdown
 ![Nim](https://img.shields.io/static/v1?style=for-the-badge&message=Nim&color=222222&logo=Nim&logoColor=FFE953&label=)
 ```
-## ![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=8F8F8F&logo=Nintendo&logoColor=FFFFFF&label=)
+## ![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=E60012&logo=Nintendo&logoColor=FFFFFF&label=)
 ```markdown
-![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=8F8F8F&logo=Nintendo&logoColor=FFFFFF&label=)
+![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=E60012&logo=Nintendo&logoColor=FFFFFF&label=)
 ```
 ## ![Nintendo 3DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+3DS&color=D12228&logo=Nintendo+3DS&logoColor=FFFFFF&label=)
 ```markdown
@@ -8441,6 +8449,10 @@
 ## ![React Table](https://img.shields.io/static/v1?style=for-the-badge&message=React+Table&color=FF4154&logo=React+Table&logoColor=FFFFFF&label=)
 ```markdown
 ![React Table](https://img.shields.io/static/v1?style=for-the-badge&message=React+Table&color=FF4154&logo=React+Table&logoColor=FFFFFF&label=)
+```
+## ![Reactive Resume](https://img.shields.io/static/v1?style=for-the-badge&message=Reactive+Resume&color=000000&logo=Reactive+Resume&logoColor=FFFFFF&label=)
+```markdown
+![Reactive Resume](https://img.shields.io/static/v1?style=for-the-badge&message=Reactive+Resume&color=000000&logo=Reactive+Resume&logoColor=FFFFFF&label=)
 ```
 ## ![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 ```markdown
