@@ -34,9 +34,9 @@
 ```markdown
 ![4D](https://img.shields.io/static/v1?style=for-the-badge&message=4D&color=004088&logo=4D&logoColor=FFFFFF&label=)
 ```
-## ![500px](https://img.shields.io/static/v1?style=for-the-badge&message=500px&color=0099E5&logo=500px&logoColor=FFFFFF&label=)
+## ![500px](https://img.shields.io/static/v1?style=for-the-badge&message=500px&color=222222&logo=500px&logoColor=FFFFFF&label=)
 ```markdown
-![500px](https://img.shields.io/static/v1?style=for-the-badge&message=500px&color=0099E5&logo=500px&logoColor=FFFFFF&label=)
+![500px](https://img.shields.io/static/v1?style=for-the-badge&message=500px&color=222222&logo=500px&logoColor=FFFFFF&label=)
 ```
 ## ![7Zip](https://img.shields.io/static/v1?style=for-the-badge&message=7Zip&color=000000&logo=7Zip&logoColor=FFFFFF&label=)
 ```markdown
@@ -2566,6 +2566,10 @@
 ```markdown
 ![Datto](https://img.shields.io/static/v1?style=for-the-badge&message=Datto&color=199ED9&logo=Datto&logoColor=FFFFFF&label=)
 ```
+## ![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
+```markdown
+![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
+```
 ## ![DAZN](https://img.shields.io/static/v1?style=for-the-badge&message=DAZN&color=222222&logo=DAZN&logoColor=F8F8F5&label=)
 ```markdown
 ![DAZN](https://img.shields.io/static/v1?style=for-the-badge&message=DAZN&color=222222&logo=DAZN&logoColor=F8F8F5&label=)
@@ -3190,6 +3194,10 @@
 ```markdown
 ![ESLint](https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=)
 ```
+## ![Esoteric Software](https://img.shields.io/static/v1?style=for-the-badge&message=Esoteric+Software&color=3FA9F5&logo=Esoteric+Software&logoColor=FFFFFF&label=)
+```markdown
+![Esoteric Software](https://img.shields.io/static/v1?style=for-the-badge&message=Esoteric+Software&color=3FA9F5&logo=Esoteric+Software&logoColor=FFFFFF&label=)
+```
 ## ![ESPHome](https://img.shields.io/static/v1?style=for-the-badge&message=ESPHome&color=000000&logo=ESPHome&logoColor=FFFFFF&label=)
 ```markdown
 ![ESPHome](https://img.shields.io/static/v1?style=for-the-badge&message=ESPHome&color=000000&logo=ESPHome&logoColor=FFFFFF&label=)
@@ -3717,6 +3725,10 @@
 ## ![Frontify](https://img.shields.io/static/v1?style=for-the-badge&message=Frontify&color=2D3232&logo=Frontify&logoColor=FFFFFF&label=)
 ```markdown
 ![Frontify](https://img.shields.io/static/v1?style=for-the-badge&message=Frontify&color=2D3232&logo=Frontify&logoColor=FFFFFF&label=)
+```
+## ![Fubo](https://img.shields.io/static/v1?style=for-the-badge&message=Fubo&color=C83D1E&logo=Fubo&logoColor=FFFFFF&label=)
+```markdown
+![Fubo](https://img.shields.io/static/v1?style=for-the-badge&message=Fubo&color=C83D1E&logo=Fubo&logoColor=FFFFFF&label=)
 ```
 ## ![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
 ```markdown
@@ -9593,6 +9605,10 @@
 ## ![SpigotMC](https://img.shields.io/static/v1?style=for-the-badge&message=SpigotMC&color=ED8106&logo=SpigotMC&logoColor=FFFFFF&label=)
 ```markdown
 ![SpigotMC](https://img.shields.io/static/v1?style=for-the-badge&message=SpigotMC&color=ED8106&logo=SpigotMC&logoColor=FFFFFF&label=)
+```
+## ![Spine](https://img.shields.io/static/v1?style=for-the-badge&message=Spine&color=FF4000&logo=Spine&logoColor=FFFFFF&label=)
+```markdown
+![Spine](https://img.shields.io/static/v1?style=for-the-badge&message=Spine&color=FF4000&logo=Spine&logoColor=FFFFFF&label=)
 ```
 ## ![Spinnaker](https://img.shields.io/static/v1?style=for-the-badge&message=Spinnaker&color=139BB4&logo=Spinnaker&logoColor=FFFFFF&label=)
 ```markdown
