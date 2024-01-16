@@ -290,6 +290,10 @@
 ```markdown
 ![Air India](https://img.shields.io/static/v1?style=for-the-badge&message=Air+India&color=D9000D&logo=Air+India&logoColor=FFFFFF&label=)
 ```
+## ![Air Transat](https://img.shields.io/static/v1?style=for-the-badge&message=Air+Transat&color=172B54&logo=Air+Transat&logoColor=FFFFFF&label=)
+```markdown
+![Air Transat](https://img.shields.io/static/v1?style=for-the-badge&message=Air+Transat&color=172B54&logo=Air+Transat&logoColor=FFFFFF&label=)
+```
 ## ![AirAsia](https://img.shields.io/static/v1?style=for-the-badge&message=AirAsia&color=FF0000&logo=AirAsia&logoColor=FFFFFF&label=)
 ```markdown
 ![AirAsia](https://img.shields.io/static/v1?style=for-the-badge&message=AirAsia&color=FF0000&logo=AirAsia&logoColor=FFFFFF&label=)
@@ -10437,6 +10441,10 @@
 ## ![TON](https://img.shields.io/static/v1?style=for-the-badge&message=TON&color=0098EA&logo=TON&logoColor=FFFFFF&label=)
 ```markdown
 ![TON](https://img.shields.io/static/v1?style=for-the-badge&message=TON&color=0098EA&logo=TON&logoColor=FFFFFF&label=)
+```
+## ![Top.gg](https://img.shields.io/static/v1?style=for-the-badge&message=Top.gg&color=FF3366&logo=Top.gg&logoColor=FFFFFF&label=)
+```markdown
+![Top.gg](https://img.shields.io/static/v1?style=for-the-badge&message=Top.gg&color=FF3366&logo=Top.gg&logoColor=FFFFFF&label=)
 ```
 ## ![Topcoder](https://img.shields.io/static/v1?style=for-the-badge&message=Topcoder&color=29A7DF&logo=Topcoder&logoColor=FFFFFF&label=)
 ```markdown
