@@ -3882,6 +3882,10 @@
 ```markdown
 ![GitBook](https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=3884FF&logo=GitBook&logoColor=FFFFFF&label=)
 ```
+## ![Gitconnected](https://img.shields.io/static/v1?style=for-the-badge&message=Gitconnected&color=2E69AE&logo=Gitconnected&logoColor=FFFFFF&label=)
+```markdown
+![Gitconnected](https://img.shields.io/static/v1?style=for-the-badge&message=Gitconnected&color=2E69AE&logo=Gitconnected&logoColor=FFFFFF&label=)
+```
 ## ![Gitea](https://img.shields.io/static/v1?style=for-the-badge&message=Gitea&color=609926&logo=Gitea&logoColor=FFFFFF&label=)
 ```markdown
 ![Gitea](https://img.shields.io/static/v1?style=for-the-badge&message=Gitea&color=609926&logo=Gitea&logoColor=FFFFFF&label=)
@@ -6273,6 +6277,10 @@
 ## ![MetaFilter](https://img.shields.io/static/v1?style=for-the-badge&message=MetaFilter&color=065A8F&logo=MetaFilter&logoColor=FFFFFF&label=)
 ```markdown
 ![MetaFilter](https://img.shields.io/static/v1?style=for-the-badge&message=MetaFilter&color=065A8F&logo=MetaFilter&logoColor=FFFFFF&label=)
+```
+## ![Metasploit](https://img.shields.io/static/v1?style=for-the-badge&message=Metasploit&color=2596CD&logo=Metasploit&logoColor=FFFFFF&label=)
+```markdown
+![Metasploit](https://img.shields.io/static/v1?style=for-the-badge&message=Metasploit&color=2596CD&logo=Metasploit&logoColor=FFFFFF&label=)
 ```
 ## ![Meteor](https://img.shields.io/static/v1?style=for-the-badge&message=Meteor&color=DE4F4F&logo=Meteor&logoColor=FFFFFF&label=)
 ```markdown
