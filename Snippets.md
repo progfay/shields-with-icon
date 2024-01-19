@@ -610,6 +610,10 @@
 ```markdown
 ![AniList](https://img.shields.io/static/v1?style=for-the-badge&message=AniList&color=02A9FF&logo=AniList&logoColor=FFFFFF&label=)
 ```
+## ![Animal Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Animal+Planet&color=0073FF&logo=Animal+Planet&logoColor=FFFFFF&label=)
+```markdown
+![Animal Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Animal+Planet&color=0073FF&logo=Animal+Planet&logoColor=FFFFFF&label=)
+```
 ## ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
 ```markdown
 ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
@@ -4090,9 +4094,9 @@
 ```markdown
 ![Google Cardboard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cardboard&color=FF7143&logo=Google+Cardboard&logoColor=FFFFFF&label=)
 ```
-## ![Google Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chat&color=00AC47&logo=Google+Chat&logoColor=FFFFFF&label=)
+## ![Google Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chat&color=34A853&logo=Google+Chat&logoColor=FFFFFF&label=)
 ```markdown
-![Google Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chat&color=00AC47&logo=Google+Chat&logoColor=FFFFFF&label=)
+![Google Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chat&color=34A853&logo=Google+Chat&logoColor=FFFFFF&label=)
 ```
 ## ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ```markdown
@@ -6005,6 +6009,10 @@
 ## ![Magento](https://img.shields.io/static/v1?style=for-the-badge&message=Magento&color=EE672F&logo=Magento&logoColor=FFFFFF&label=)
 ```markdown
 ![Magento](https://img.shields.io/static/v1?style=for-the-badge&message=Magento&color=EE672F&logo=Magento&logoColor=FFFFFF&label=)
+```
+## ![Magic](https://img.shields.io/static/v1?style=for-the-badge&message=Magic&color=6851FF&logo=Magic&logoColor=FFFFFF&label=)
+```markdown
+![Magic](https://img.shields.io/static/v1?style=for-the-badge&message=Magic&color=6851FF&logo=Magic&logoColor=FFFFFF&label=)
 ```
 ## ![Magisk](https://img.shields.io/static/v1?style=for-the-badge&message=Magisk&color=00AF9C&logo=Magisk&logoColor=FFFFFF&label=)
 ```markdown
@@ -8202,6 +8210,10 @@
 ```markdown
 ![Purism](https://img.shields.io/static/v1?style=for-the-badge&message=Purism&color=2D2D2D&logo=Purism&logoColor=FFFFFF&label=)
 ```
+## ![Pushbullet](https://img.shields.io/static/v1?style=for-the-badge&message=Pushbullet&color=4AB367&logo=Pushbullet&logoColor=FFFFFF&label=)
+```markdown
+![Pushbullet](https://img.shields.io/static/v1?style=for-the-badge&message=Pushbullet&color=4AB367&logo=Pushbullet&logoColor=FFFFFF&label=)
+```
 ## ![Pusher](https://img.shields.io/static/v1?style=for-the-badge&message=Pusher&color=300D4F&logo=Pusher&logoColor=FFFFFF&label=)
 ```markdown
 ![Pusher](https://img.shields.io/static/v1?style=for-the-badge&message=Pusher&color=300D4F&logo=Pusher&logoColor=FFFFFF&label=)
@@ -8794,6 +8806,10 @@
 ```markdown
 ![Rome](https://img.shields.io/static/v1?style=for-the-badge&message=Rome&color=27272A&logo=Rome&logoColor=FFFFFF&label=)
 ```
+## ![Roon](https://img.shields.io/static/v1?style=for-the-badge&message=Roon&color=2039F3&logo=Roon&logoColor=FFFFFF&label=)
+```markdown
+![Roon](https://img.shields.io/static/v1?style=for-the-badge&message=Roon&color=2039F3&logo=Roon&logoColor=FFFFFF&label=)
+```
 ## ![Root Me](https://img.shields.io/static/v1?style=for-the-badge&message=Root+Me&color=000000&logo=Root+Me&logoColor=FFFFFF&label=)
 ```markdown
 ![Root Me](https://img.shields.io/static/v1?style=for-the-badge&message=Root+Me&color=000000&logo=Root+Me&logoColor=FFFFFF&label=)
@@ -8949,6 +8965,10 @@
 ## ![Salesforce](https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=00A1E0&logo=Salesforce&logoColor=FFFFFF&label=)
 ```markdown
 ![Salesforce](https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=00A1E0&logo=Salesforce&logoColor=FFFFFF&label=)
+```
+## ![Salla](https://img.shields.io/static/v1?style=for-the-badge&message=Salla&color=222222&logo=Salla&logoColor=BAF3E6&label=)
+```markdown
+![Salla](https://img.shields.io/static/v1?style=for-the-badge&message=Salla&color=222222&logo=Salla&logoColor=BAF3E6&label=)
 ```
 ## ![Salt Project](https://img.shields.io/static/v1?style=for-the-badge&message=Salt+Project&color=222222&logo=Salt+Project&logoColor=57BCAD&label=)
 ```markdown
@@ -10118,6 +10138,10 @@
 ```markdown
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ```
+## ![Take-Two Interactive Software](https://img.shields.io/static/v1?style=for-the-badge&message=Take-Two+Interactive+Software&color=000000&logo=Take-Two+Interactive+Software&logoColor=FFFFFF&label=)
+```markdown
+![Take-Two Interactive Software](https://img.shields.io/static/v1?style=for-the-badge&message=Take-Two+Interactive+Software&color=000000&logo=Take-Two+Interactive+Software&logoColor=FFFFFF&label=)
+```
 ## ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
 ```markdown
 ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
@@ -10845,6 +10869,10 @@
 ## ![UpCloud](https://img.shields.io/static/v1?style=for-the-badge&message=UpCloud&color=7B00FF&logo=UpCloud&logoColor=FFFFFF&label=)
 ```markdown
 ![UpCloud](https://img.shields.io/static/v1?style=for-the-badge&message=UpCloud&color=7B00FF&logo=UpCloud&logoColor=FFFFFF&label=)
+```
+## ![Uphold](https://img.shields.io/static/v1?style=for-the-badge&message=Uphold&color=222222&logo=Uphold&logoColor=49CC68&label=)
+```markdown
+![Uphold](https://img.shields.io/static/v1?style=for-the-badge&message=Uphold&color=222222&logo=Uphold&logoColor=49CC68&label=)
 ```
 ## ![UpLabs](https://img.shields.io/static/v1?style=for-the-badge&message=UpLabs&color=3930D8&logo=UpLabs&logoColor=FFFFFF&label=)
 ```markdown
