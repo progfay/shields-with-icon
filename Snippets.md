@@ -18,6 +18,10 @@
 ```markdown
 ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=3B66BC&logo=1Password&logoColor=FFFFFF&label=)
 ```
+## ![2K](https://img.shields.io/static/v1?style=for-the-badge&message=2K&color=DD0700&logo=2K&logoColor=FFFFFF&label=)
+```markdown
+![2K](https://img.shields.io/static/v1?style=for-the-badge&message=2K&color=DD0700&logo=2K&logoColor=FFFFFF&label=)
+```
 ## ![3M](https://img.shields.io/static/v1?style=for-the-badge&message=3M&color=FF0000&logo=3M&logoColor=FFFFFF&label=)
 ```markdown
 ![3M](https://img.shields.io/static/v1?style=for-the-badge&message=3M&color=FF0000&logo=3M&logoColor=FFFFFF&label=)
@@ -5566,6 +5570,10 @@
 ```markdown
 ![Kubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Kubuntu&color=0079C1&logo=Kubuntu&logoColor=FFFFFF&label=)
 ```
+## ![KuCoin](https://img.shields.io/static/v1?style=for-the-badge&message=KuCoin&color=222222&logo=KuCoin&logoColor=01BC8D&label=)
+```markdown
+![KuCoin](https://img.shields.io/static/v1?style=for-the-badge&message=KuCoin&color=222222&logo=KuCoin&logoColor=01BC8D&label=)
+```
 ## ![Kuma](https://img.shields.io/static/v1?style=for-the-badge&message=Kuma&color=290B53&logo=Kuma&logoColor=FFFFFF&label=)
 ```markdown
 ![Kuma](https://img.shields.io/static/v1?style=for-the-badge&message=Kuma&color=290B53&logo=Kuma&logoColor=FFFFFF&label=)
@@ -10433,6 +10441,10 @@
 ## ![TikTok](https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=)
 ```markdown
 ![TikTok](https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=)
+```
+## ![Tilda Publishing](https://img.shields.io/static/v1?style=for-the-badge&message=Tilda+Publishing&color=222222&logo=Tilda+Publishing&logoColor=FFA282&label=)
+```markdown
+![Tilda Publishing](https://img.shields.io/static/v1?style=for-the-badge&message=Tilda+Publishing&color=222222&logo=Tilda+Publishing&logoColor=FFA282&label=)
 ```
 ## ![Tile](https://img.shields.io/static/v1?style=for-the-badge&message=Tile&color=000000&logo=Tile&logoColor=FFFFFF&label=)
 ```markdown
