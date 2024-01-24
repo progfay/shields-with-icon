@@ -1394,6 +1394,10 @@
 ```markdown
 ![Bluesky](https://img.shields.io/static/v1?style=for-the-badge&message=Bluesky&color=0285FF&logo=Bluesky&logoColor=FFFFFF&label=)
 ```
+## ![Bluesound](https://img.shields.io/static/v1?style=for-the-badge&message=Bluesound&color=0F131E&logo=Bluesound&logoColor=FFFFFF&label=)
+```markdown
+![Bluesound](https://img.shields.io/static/v1?style=for-the-badge&message=Bluesound&color=0F131E&logo=Bluesound&logoColor=FFFFFF&label=)
+```
 ## ![Bluetooth](https://img.shields.io/static/v1?style=for-the-badge&message=Bluetooth&color=0082FC&logo=Bluetooth&logoColor=FFFFFF&label=)
 ```markdown
 ![Bluetooth](https://img.shields.io/static/v1?style=for-the-badge&message=Bluetooth&color=0082FC&logo=Bluetooth&logoColor=FFFFFF&label=)
@@ -8933,6 +8937,10 @@
 ## ![Ruff](https://img.shields.io/static/v1?style=for-the-badge&message=Ruff&color=222222&logo=Ruff&logoColor=FCC21B&label=)
 ```markdown
 ![Ruff](https://img.shields.io/static/v1?style=for-the-badge&message=Ruff&color=222222&logo=Ruff&logoColor=FCC21B&label=)
+```
+## ![Rumahweb](https://img.shields.io/static/v1?style=for-the-badge&message=Rumahweb&color=222222&logo=Rumahweb&logoColor=2EB4E3&label=)
+```markdown
+![Rumahweb](https://img.shields.io/static/v1?style=for-the-badge&message=Rumahweb&color=222222&logo=Rumahweb&logoColor=2EB4E3&label=)
 ```
 ## ![Rumble](https://img.shields.io/static/v1?style=for-the-badge&message=Rumble&color=222222&logo=Rumble&logoColor=85C742&label=)
 ```markdown
