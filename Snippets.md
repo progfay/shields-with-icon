@@ -3974,6 +3974,10 @@
 ```markdown
 ![Glassdoor](https://img.shields.io/static/v1?style=for-the-badge&message=Glassdoor&color=00A162&logo=Glassdoor&logoColor=FFFFFF&label=)
 ```
+## ![Glide](https://img.shields.io/static/v1?style=for-the-badge&message=Glide&color=222222&logo=Glide&logoColor=18BED4&label=)
+```markdown
+![Glide](https://img.shields.io/static/v1?style=for-the-badge&message=Glide&color=222222&logo=Glide&logoColor=18BED4&label=)
+```
 ## ![Glitch](https://img.shields.io/static/v1?style=for-the-badge&message=Glitch&color=3333FF&logo=Glitch&logoColor=FFFFFF&label=)
 ```markdown
 ![Glitch](https://img.shields.io/static/v1?style=for-the-badge&message=Glitch&color=3333FF&logo=Glitch&logoColor=FFFFFF&label=)

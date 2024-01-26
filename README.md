@@ -992,6 +992,7 @@
 ![Gitpod](https://img.shields.io/static/v1?style=for-the-badge&message=Gitpod&color=222222&logo=Gitpod&logoColor=FFAE33&label=)
 ![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)
 ![Glassdoor](https://img.shields.io/static/v1?style=for-the-badge&message=Glassdoor&color=00A162&logo=Glassdoor&logoColor=FFFFFF&label=)
+![Glide](https://img.shields.io/static/v1?style=for-the-badge&message=Glide&color=222222&logo=Glide&logoColor=18BED4&label=)
 ![Glitch](https://img.shields.io/static/v1?style=for-the-badge&message=Glitch&color=3333FF&logo=Glitch&logoColor=FFFFFF&label=)
 ![Globus](https://img.shields.io/static/v1?style=for-the-badge&message=Globus&color=CA6201&logo=Globus&logoColor=FFFFFF&label=)
 ![Glovo](https://img.shields.io/static/v1?style=for-the-badge&message=Glovo&color=222222&logo=Glovo&logoColor=F2CC38&label=)
