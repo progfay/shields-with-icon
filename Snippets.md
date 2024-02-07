@@ -10838,6 +10838,10 @@
 ```markdown
 ![TYPO3](https://img.shields.io/static/v1?style=for-the-badge&message=TYPO3&color=222222&logo=TYPO3&logoColor=FF8700&label=)
 ```
+## ![Typst](https://img.shields.io/static/v1?style=for-the-badge&message=Typst&color=239DAD&logo=Typst&logoColor=FFFFFF&label=)
+```markdown
+![Typst](https://img.shields.io/static/v1?style=for-the-badge&message=Typst&color=239DAD&logo=Typst&logoColor=FFFFFF&label=)
+```
 ## ![Uber](https://img.shields.io/static/v1?style=for-the-badge&message=Uber&color=000000&logo=Uber&logoColor=FFFFFF&label=)
 ```markdown
 ![Uber](https://img.shields.io/static/v1?style=for-the-badge&message=Uber&color=000000&logo=Uber&logoColor=FFFFFF&label=)

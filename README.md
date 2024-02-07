@@ -2708,6 +2708,7 @@
 ![Typeform](https://img.shields.io/static/v1?style=for-the-badge&message=Typeform&color=262627&logo=Typeform&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![TYPO3](https://img.shields.io/static/v1?style=for-the-badge&message=TYPO3&color=222222&logo=TYPO3&logoColor=FF8700&label=)
+![Typst](https://img.shields.io/static/v1?style=for-the-badge&message=Typst&color=239DAD&logo=Typst&logoColor=FFFFFF&label=)
 ![Uber](https://img.shields.io/static/v1?style=for-the-badge&message=Uber&color=000000&logo=Uber&logoColor=FFFFFF&label=)
 ![Uber Eats](https://img.shields.io/static/v1?style=for-the-badge&message=Uber+Eats&color=222222&logo=Uber+Eats&logoColor=06C167&label=)
 ![Ubiquiti](https://img.shields.io/static/v1?style=for-the-badge&message=Ubiquiti&color=0559C9&logo=Ubiquiti&logoColor=FFFFFF&label=)
