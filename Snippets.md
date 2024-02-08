@@ -1598,6 +1598,10 @@
 ```markdown
 ![Bun](https://img.shields.io/static/v1?style=for-the-badge&message=Bun&color=000000&logo=Bun&logoColor=FFFFFF&label=)
 ```
+## ![Bungie](https://img.shields.io/static/v1?style=for-the-badge&message=Bungie&color=0075BB&logo=Bungie&logoColor=FFFFFF&label=)
+```markdown
+![Bungie](https://img.shields.io/static/v1?style=for-the-badge&message=Bungie&color=0075BB&logo=Bungie&logoColor=FFFFFF&label=)
+```
 ## ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
 ```markdown
 ![bunq](https://img.shields.io/static/v1?style=for-the-badge&message=bunq&color=3394D7&logo=bunq&logoColor=FFFFFF&label=)
@@ -3682,6 +3686,10 @@
 ```markdown
 ![Forgejo](https://img.shields.io/static/v1?style=for-the-badge&message=Forgejo&color=222222&logo=Forgejo&logoColor=FB923C&label=)
 ```
+## ![Formspree](https://img.shields.io/static/v1?style=for-the-badge&message=Formspree&color=E5122E&logo=Formspree&logoColor=FFFFFF&label=)
+```markdown
+![Formspree](https://img.shields.io/static/v1?style=for-the-badge&message=Formspree&color=E5122E&logo=Formspree&logoColor=FFFFFF&label=)
+```
 ## ![Formstack](https://img.shields.io/static/v1?style=for-the-badge&message=Formstack&color=21B573&logo=Formstack&logoColor=FFFFFF&label=)
 ```markdown
 ![Formstack](https://img.shields.io/static/v1?style=for-the-badge&message=Formstack&color=21B573&logo=Formstack&logoColor=FFFFFF&label=)
@@ -5541,6 +5549,10 @@
 ## ![Knex.js](https://img.shields.io/static/v1?style=for-the-badge&message=Knex.js&color=D26B38&logo=Knex.js&logoColor=FFFFFF&label=)
 ```markdown
 ![Knex.js](https://img.shields.io/static/v1?style=for-the-badge&message=Knex.js&color=D26B38&logo=Knex.js&logoColor=FFFFFF&label=)
+```
+## ![KNIME](https://img.shields.io/static/v1?style=for-the-badge&message=KNIME&color=222222&logo=KNIME&logoColor=FDD800&label=)
+```markdown
+![KNIME](https://img.shields.io/static/v1?style=for-the-badge&message=KNIME&color=222222&logo=KNIME&logoColor=FDD800&label=)
 ```
 ## ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=9146FF&logo=KnowledgeBase&logoColor=FFFFFF&label=)
 ```markdown
@@ -11497,6 +11509,10 @@
 ## ![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
 ```markdown
 ![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
+```
+## ![Western Union](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Union&color=222222&logo=Western+Union&logoColor=FFDD00&label=)
+```markdown
+![Western Union](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Union&color=222222&logo=Western+Union&logoColor=FFDD00&label=)
 ```
 ## ![WeTransfer](https://img.shields.io/static/v1?style=for-the-badge&message=WeTransfer&color=409FFF&logo=WeTransfer&logoColor=FFFFFF&label=)
 ```markdown
