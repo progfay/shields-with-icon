@@ -5930,6 +5930,10 @@
 ```markdown
 ![Linktree](https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=43E55E&label=)
 ```
+## ![LintCode](https://img.shields.io/static/v1?style=for-the-badge&message=LintCode&color=222222&logo=LintCode&logoColor=13B4FF&label=)
+```markdown
+![LintCode](https://img.shields.io/static/v1?style=for-the-badge&message=LintCode&color=222222&logo=LintCode&logoColor=13B4FF&label=)
+```
 ## ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ```markdown
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
@@ -8933,6 +8937,10 @@
 ## ![Roku](https://img.shields.io/static/v1?style=for-the-badge&message=Roku&color=662D91&logo=Roku&logoColor=FFFFFF&label=)
 ```markdown
 ![Roku](https://img.shields.io/static/v1?style=for-the-badge&message=Roku&color=662D91&logo=Roku&logoColor=FFFFFF&label=)
+```
+## ![Roll20](https://img.shields.io/static/v1?style=for-the-badge&message=Roll20&color=E10085&logo=Roll20&logoColor=FFFFFF&label=)
+```markdown
+![Roll20](https://img.shields.io/static/v1?style=for-the-badge&message=Roll20&color=E10085&logo=Roll20&logoColor=FFFFFF&label=)
 ```
 ## ![Rolls-Royce](https://img.shields.io/static/v1?style=for-the-badge&message=Rolls-Royce&color=281432&logo=Rolls-Royce&logoColor=FFFFFF&label=)
 ```markdown
