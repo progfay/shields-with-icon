@@ -8374,6 +8374,10 @@
 ```markdown
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ```
+## ![PyCQA](https://img.shields.io/static/v1?style=for-the-badge&message=PyCQA&color=201B44&logo=PyCQA&logoColor=FFFFFF&label=)
+```markdown
+![PyCQA](https://img.shields.io/static/v1?style=for-the-badge&message=PyCQA&color=201B44&logo=PyCQA&logoColor=FFFFFF&label=)
+```
 ## ![Pydantic](https://img.shields.io/static/v1?style=for-the-badge&message=Pydantic&color=E92063&logo=Pydantic&logoColor=FFFFFF&label=)
 ```markdown
 ![Pydantic](https://img.shields.io/static/v1?style=for-the-badge&message=Pydantic&color=E92063&logo=Pydantic&logoColor=FFFFFF&label=)
@@ -9477,6 +9481,10 @@
 ## ![Shutterstock](https://img.shields.io/static/v1?style=for-the-badge&message=Shutterstock&color=EE2B24&logo=Shutterstock&logoColor=FFFFFF&label=)
 ```markdown
 ![Shutterstock](https://img.shields.io/static/v1?style=for-the-badge&message=Shutterstock&color=EE2B24&logo=Shutterstock&logoColor=FFFFFF&label=)
+```
+## ![Sidekiq](https://img.shields.io/static/v1?style=for-the-badge&message=Sidekiq&color=B1003E&logo=Sidekiq&logoColor=FFFFFF&label=)
+```markdown
+![Sidekiq](https://img.shields.io/static/v1?style=for-the-badge&message=Sidekiq&color=B1003E&logo=Sidekiq&logoColor=FFFFFF&label=)
 ```
 ## ![SideQuest](https://img.shields.io/static/v1?style=for-the-badge&message=SideQuest&color=101227&logo=SideQuest&logoColor=FFFFFF&label=)
 ```markdown
@@ -10918,6 +10926,10 @@
 ```markdown
 ![Typeform](https://img.shields.io/static/v1?style=for-the-badge&message=Typeform&color=262627&logo=Typeform&logoColor=FFFFFF&label=)
 ```
+## ![Typer](https://img.shields.io/static/v1?style=for-the-badge&message=Typer&color=000000&logo=Typer&logoColor=FFFFFF&label=)
+```markdown
+![Typer](https://img.shields.io/static/v1?style=for-the-badge&message=Typer&color=000000&logo=Typer&logoColor=FFFFFF&label=)
+```
 ## ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ```markdown
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -11629,6 +11641,10 @@
 ## ![Wikimedia Commons](https://img.shields.io/static/v1?style=for-the-badge&message=Wikimedia+Commons&color=006699&logo=Wikimedia+Commons&logoColor=FFFFFF&label=)
 ```markdown
 ![Wikimedia Commons](https://img.shields.io/static/v1?style=for-the-badge&message=Wikimedia+Commons&color=006699&logo=Wikimedia+Commons&logoColor=FFFFFF&label=)
+```
+## ![Wikimedia Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Wikimedia+Foundation&color=000000&logo=Wikimedia+Foundation&logoColor=FFFFFF&label=)
+```markdown
+![Wikimedia Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Wikimedia+Foundation&color=000000&logo=Wikimedia+Foundation&logoColor=FFFFFF&label=)
 ```
 ## ![Wikipedia](https://img.shields.io/static/v1?style=for-the-badge&message=Wikipedia&color=000000&logo=Wikipedia&logoColor=FFFFFF&label=)
 ```markdown
