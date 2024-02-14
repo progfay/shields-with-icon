@@ -1706,6 +1706,10 @@
 ```markdown
 ![Campaign Monitor](https://img.shields.io/static/v1?style=for-the-badge&message=Campaign+Monitor&color=111324&logo=Campaign+Monitor&logoColor=FFFFFF&label=)
 ```
+## ![Camunda](https://img.shields.io/static/v1?style=for-the-badge&message=Camunda&color=FC5D0D&logo=Camunda&logoColor=FFFFFF&label=)
+```markdown
+![Camunda](https://img.shields.io/static/v1?style=for-the-badge&message=Camunda&color=FC5D0D&logo=Camunda&logoColor=FFFFFF&label=)
+```
 ## ![Canonical](https://img.shields.io/static/v1?style=for-the-badge&message=Canonical&color=E95420&logo=Canonical&logoColor=FFFFFF&label=)
 ```markdown
 ![Canonical](https://img.shields.io/static/v1?style=for-the-badge&message=Canonical&color=E95420&logo=Canonical&logoColor=FFFFFF&label=)
@@ -4661,6 +4665,10 @@
 ## ![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&message=Hetzner&color=D50C2D&logo=Hetzner&logoColor=FFFFFF&label=)
 ```markdown
 ![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&message=Hetzner&color=D50C2D&logo=Hetzner&logoColor=FFFFFF&label=)
+```
+## ![Hevy](https://img.shields.io/static/v1?style=for-the-badge&message=Hevy&color=000000&logo=Hevy&logoColor=FFFFFF&label=)
+```markdown
+![Hevy](https://img.shields.io/static/v1?style=for-the-badge&message=Hevy&color=000000&logo=Hevy&logoColor=FFFFFF&label=)
 ```
 ## ![Hexlet](https://img.shields.io/static/v1?style=for-the-badge&message=Hexlet&color=116EF5&logo=Hexlet&logoColor=FFFFFF&label=)
 ```markdown
@@ -10498,6 +10506,10 @@
 ```markdown
 ![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
 ```
+## ![The Boring Company](https://img.shields.io/static/v1?style=for-the-badge&message=The+Boring+Company&color=000000&logo=The+Boring+Company&logoColor=FFFFFF&label=)
+```markdown
+![The Boring Company](https://img.shields.io/static/v1?style=for-the-badge&message=The+Boring+Company&color=000000&logo=The+Boring+Company&logoColor=FFFFFF&label=)
+```
 ## ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
 ```markdown
 ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)
@@ -11333,6 +11345,10 @@
 ## ![Vivint](https://img.shields.io/static/v1?style=for-the-badge&message=Vivint&color=212721&logo=Vivint&logoColor=FFFFFF&label=)
 ```markdown
 ![Vivint](https://img.shields.io/static/v1?style=for-the-badge&message=Vivint&color=212721&logo=Vivint&logoColor=FFFFFF&label=)
+```
+## ![vivo](https://img.shields.io/static/v1?style=for-the-badge&message=vivo&color=415FFF&logo=vivo&logoColor=FFFFFF&label=)
+```markdown
+![vivo](https://img.shields.io/static/v1?style=for-the-badge&message=vivo&color=415FFF&logo=vivo&logoColor=FFFFFF&label=)
 ```
 ## ![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=0077FF&logo=VK&logoColor=FFFFFF&label=)
 ```markdown
