@@ -1950,6 +1950,7 @@
 ![Phosphor Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Phosphor+Icons&color=3C402B&logo=Phosphor+Icons&logoColor=FFFFFF&label=)
 ![Photobucket](https://img.shields.io/static/v1?style=for-the-badge&message=Photobucket&color=1C47CB&logo=Photobucket&logoColor=FFFFFF&label=)
 ![Photocrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Photocrowd&color=3DAD4B&logo=Photocrowd&logoColor=FFFFFF&label=)
+![Photon](https://img.shields.io/static/v1?style=for-the-badge&message=Photon&color=004480&logo=Photon&logoColor=FFFFFF&label=)
 ![Photopea](https://img.shields.io/static/v1?style=for-the-badge&message=Photopea&color=18A497&logo=Photopea&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
