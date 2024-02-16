@@ -626,6 +626,10 @@
 ```markdown
 ![Animal Planet](https://img.shields.io/static/v1?style=for-the-badge&message=Animal+Planet&color=0073FF&logo=Animal+Planet&logoColor=FFFFFF&label=)
 ```
+## ![AnkerMake](https://img.shields.io/static/v1?style=for-the-badge&message=AnkerMake&color=222222&logo=AnkerMake&logoColor=88F387&label=)
+```markdown
+![AnkerMake](https://img.shields.io/static/v1?style=for-the-badge&message=AnkerMake&color=222222&logo=AnkerMake&logoColor=88F387&label=)
+```
 ## ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
 ```markdown
 ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
@@ -697,6 +701,10 @@
 ## ![Apache Flink](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Flink&color=E6526F&logo=Apache+Flink&logoColor=FFFFFF&label=)
 ```markdown
 ![Apache Flink](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Flink&color=E6526F&logo=Apache+Flink&logoColor=FFFFFF&label=)
+```
+## ![Apache FreeMarker](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+FreeMarker&color=326CAC&logo=Apache+FreeMarker&logoColor=FFFFFF&label=)
+```markdown
+![Apache FreeMarker](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+FreeMarker&color=326CAC&logo=Apache+FreeMarker&logoColor=FFFFFF&label=)
 ```
 ## ![Apache Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
 ```markdown
@@ -8481,6 +8489,10 @@
 ## ![QMK](https://img.shields.io/static/v1?style=for-the-badge&message=QMK&color=333333&logo=QMK&logoColor=FFFFFF&label=)
 ```markdown
 ![QMK](https://img.shields.io/static/v1?style=for-the-badge&message=QMK&color=333333&logo=QMK&logoColor=FFFFFF&label=)
+```
+## ![QNAP](https://img.shields.io/static/v1?style=for-the-badge&message=QNAP&color=0C2E82&logo=QNAP&logoColor=FFFFFF&label=)
+```markdown
+![QNAP](https://img.shields.io/static/v1?style=for-the-badge&message=QNAP&color=0C2E82&logo=QNAP&logoColor=FFFFFF&label=)
 ```
 ## ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
 ```markdown
