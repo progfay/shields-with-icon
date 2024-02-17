@@ -2600,6 +2600,7 @@
 ![Tata Consultancy Services](https://img.shields.io/static/v1?style=for-the-badge&message=Tata+Consultancy+Services&color=EE3984&logo=Tata+Consultancy+Services&logoColor=FFFFFF&label=)
 ![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
 ![TaxBuzz](https://img.shields.io/static/v1?style=for-the-badge&message=TaxBuzz&color=ED8B0B&logo=TaxBuzz&logoColor=FFFFFF&label=)
+![Teal](https://img.shields.io/static/v1?style=for-the-badge&message=Teal&color=005149&logo=Teal&logoColor=FFFFFF&label=)
 ![TeamCity](https://img.shields.io/static/v1?style=for-the-badge&message=TeamCity&color=000000&logo=TeamCity&logoColor=FFFFFF&label=)
 ![TeamSpeak](https://img.shields.io/static/v1?style=for-the-badge&message=TeamSpeak&color=4B69B6&logo=TeamSpeak&logoColor=FFFFFF&label=)
 ![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
