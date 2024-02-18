@@ -1641,6 +1641,7 @@
 ![MicroStrategy](https://img.shields.io/static/v1?style=for-the-badge&message=MicroStrategy&color=D9232E&logo=MicroStrategy&logoColor=FFFFFF&label=)
 ![MIDI](https://img.shields.io/static/v1?style=for-the-badge&message=MIDI&color=000000&logo=MIDI&logoColor=FFFFFF&label=)
 ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
+![Milanote](https://img.shields.io/static/v1?style=for-the-badge&message=Milanote&color=31303A&logo=Milanote&logoColor=FFFFFF&label=)
 ![Milvus](https://img.shields.io/static/v1?style=for-the-badge&message=Milvus&color=00A1EA&logo=Milvus&logoColor=FFFFFF&label=)
 ![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=)
 ![Minecraft](https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=3C8527&logo=Minecraft&logoColor=FFFFFF&label=)

@@ -6570,6 +6570,10 @@
 ```markdown
 ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
 ```
+## ![Milanote](https://img.shields.io/static/v1?style=for-the-badge&message=Milanote&color=31303A&logo=Milanote&logoColor=FFFFFF&label=)
+```markdown
+![Milanote](https://img.shields.io/static/v1?style=for-the-badge&message=Milanote&color=31303A&logo=Milanote&logoColor=FFFFFF&label=)
+```
 ## ![Milvus](https://img.shields.io/static/v1?style=for-the-badge&message=Milvus&color=00A1EA&logo=Milvus&logoColor=FFFFFF&label=)
 ```markdown
 ![Milvus](https://img.shields.io/static/v1?style=for-the-badge&message=Milvus&color=00A1EA&logo=Milvus&logoColor=FFFFFF&label=)
