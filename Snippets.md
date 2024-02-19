@@ -462,6 +462,10 @@
 ```markdown
 ![Alwaysdata](https://img.shields.io/static/v1?style=for-the-badge&message=Alwaysdata&color=E9568E&logo=Alwaysdata&logoColor=FFFFFF&label=)
 ```
+## ![ALX](https://img.shields.io/static/v1?style=for-the-badge&message=ALX&color=002B56&logo=ALX&logoColor=FFFFFF&label=)
+```markdown
+![ALX](https://img.shields.io/static/v1?style=for-the-badge&message=ALX&color=002B56&logo=ALX&logoColor=FFFFFF&label=)
+```
 ## ![Amazon](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=)
 ```markdown
 ![Amazon](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=)
@@ -10949,6 +10953,10 @@
 ## ![Twilio](https://img.shields.io/static/v1?style=for-the-badge&message=Twilio&color=F22F46&logo=Twilio&logoColor=FFFFFF&label=)
 ```markdown
 ![Twilio](https://img.shields.io/static/v1?style=for-the-badge&message=Twilio&color=F22F46&logo=Twilio&logoColor=FFFFFF&label=)
+```
+## ![Twinkly](https://img.shields.io/static/v1?style=for-the-badge&message=Twinkly&color=222222&logo=Twinkly&logoColor=FCC15E&label=)
+```markdown
+![Twinkly](https://img.shields.io/static/v1?style=for-the-badge&message=Twinkly&color=222222&logo=Twinkly&logoColor=FCC15E&label=)
 ```
 ## ![Twitch](https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=9146FF&logo=Twitch&logoColor=FFFFFF&label=)
 ```markdown
