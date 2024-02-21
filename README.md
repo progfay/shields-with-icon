@@ -1294,6 +1294,7 @@
 ![IOTA](https://img.shields.io/static/v1?style=for-the-badge&message=IOTA&color=131F37&logo=IOTA&logoColor=FFFFFF&label=)
 ![IPFS](https://img.shields.io/static/v1?style=for-the-badge&message=IPFS&color=222222&logo=IPFS&logoColor=65C2CB&label=)
 ![IRIS](https://img.shields.io/static/v1?style=for-the-badge&message=IRIS&color=25313C&logo=IRIS&logoColor=FFFFFF&label=)
+![iRobot](https://img.shields.io/static/v1?style=for-the-badge&message=iRobot&color=222222&logo=iRobot&logoColor=6CB86A&label=)
 ![ISC2](https://img.shields.io/static/v1?style=for-the-badge&message=ISC2&color=468145&logo=ISC2&logoColor=FFFFFF&label=)
 ![Issuu](https://img.shields.io/static/v1?style=for-the-badge&message=Issuu&color=F36D5D&logo=Issuu&logoColor=FFFFFF&label=)
 ![Istio](https://img.shields.io/static/v1?style=for-the-badge&message=Istio&color=466BB0&logo=Istio&logoColor=FFFFFF&label=)
