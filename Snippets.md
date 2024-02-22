@@ -6890,6 +6890,10 @@
 ```markdown
 ![National Grid](https://img.shields.io/static/v1?style=for-the-badge&message=National+Grid&color=00148C&logo=National+Grid&logoColor=FFFFFF&label=)
 ```
+## ![National Rail](https://img.shields.io/static/v1?style=for-the-badge&message=National+Rail&color=003366&logo=National+Rail&logoColor=FFFFFF&label=)
+```markdown
+![National Rail](https://img.shields.io/static/v1?style=for-the-badge&message=National+Rail&color=003366&logo=National+Rail&logoColor=FFFFFF&label=)
+```
 ## ![NativeScript](https://img.shields.io/static/v1?style=for-the-badge&message=NativeScript&color=222222&logo=NativeScript&logoColor=65ADF1&label=)
 ```markdown
 ![NativeScript](https://img.shields.io/static/v1?style=for-the-badge&message=NativeScript&color=222222&logo=NativeScript&logoColor=65ADF1&label=)
@@ -7777,6 +7781,10 @@
 ## ![Perl](https://img.shields.io/static/v1?style=for-the-badge&message=Perl&color=39457E&logo=Perl&logoColor=FFFFFF&label=)
 ```markdown
 ![Perl](https://img.shields.io/static/v1?style=for-the-badge&message=Perl&color=39457E&logo=Perl&logoColor=FFFFFF&label=)
+```
+## ![Perplexity](https://img.shields.io/static/v1?style=for-the-badge&message=Perplexity&color=222222&logo=Perplexity&logoColor=1FB8CD&label=)
+```markdown
+![Perplexity](https://img.shields.io/static/v1?style=for-the-badge&message=Perplexity&color=222222&logo=Perplexity&logoColor=1FB8CD&label=)
 ```
 ## ![Persistent](https://img.shields.io/static/v1?style=for-the-badge&message=Persistent&color=FD5F07&logo=Persistent&logoColor=FFFFFF&label=)
 ```markdown
