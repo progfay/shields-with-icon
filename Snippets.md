@@ -3930,6 +3930,10 @@
 ```markdown
 ![Geocaching](https://img.shields.io/static/v1?style=for-the-badge&message=Geocaching&color=00874D&logo=Geocaching&logoColor=FFFFFF&label=)
 ```
+## ![GeoPandas](https://img.shields.io/static/v1?style=for-the-badge&message=GeoPandas&color=139C5A&logo=GeoPandas&logoColor=FFFFFF&label=)
+```markdown
+![GeoPandas](https://img.shields.io/static/v1?style=for-the-badge&message=GeoPandas&color=139C5A&logo=GeoPandas&logoColor=FFFFFF&label=)
+```
 ## ![Gerrit](https://img.shields.io/static/v1?style=for-the-badge&message=Gerrit&color=222222&logo=Gerrit&logoColor=EEEEEE&label=)
 ```markdown
 ![Gerrit](https://img.shields.io/static/v1?style=for-the-badge&message=Gerrit&color=222222&logo=Gerrit&logoColor=EEEEEE&label=)

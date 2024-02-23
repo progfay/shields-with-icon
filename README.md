@@ -981,6 +981,7 @@
 ![Genius](https://img.shields.io/static/v1?style=for-the-badge&message=Genius&color=222222&logo=Genius&logoColor=FFFF64&label=)
 ![Gentoo](https://img.shields.io/static/v1?style=for-the-badge&message=Gentoo&color=54487A&logo=Gentoo&logoColor=FFFFFF&label=)
 ![Geocaching](https://img.shields.io/static/v1?style=for-the-badge&message=Geocaching&color=00874D&logo=Geocaching&logoColor=FFFFFF&label=)
+![GeoPandas](https://img.shields.io/static/v1?style=for-the-badge&message=GeoPandas&color=139C5A&logo=GeoPandas&logoColor=FFFFFF&label=)
 ![Gerrit](https://img.shields.io/static/v1?style=for-the-badge&message=Gerrit&color=222222&logo=Gerrit&logoColor=EEEEEE&label=)
 ![GetX](https://img.shields.io/static/v1?style=for-the-badge&message=GetX&color=8A2BE2&logo=GetX&logoColor=FFFFFF&label=)
 ![Ghost](https://img.shields.io/static/v1?style=for-the-badge&message=Ghost&color=15171A&logo=Ghost&logoColor=FFFFFF&label=)
