@@ -2342,6 +2342,10 @@
 ```markdown
 ![Contentstack](https://img.shields.io/static/v1?style=for-the-badge&message=Contentstack&color=E74C3D&logo=Contentstack&logoColor=FFFFFF&label=)
 ```
+## ![Contributor Covenant](https://img.shields.io/static/v1?style=for-the-badge&message=Contributor+Covenant&color=5E0D73&logo=Contributor+Covenant&logoColor=FFFFFF&label=)
+```markdown
+![Contributor Covenant](https://img.shields.io/static/v1?style=for-the-badge&message=Contributor+Covenant&color=5E0D73&logo=Contributor+Covenant&logoColor=FFFFFF&label=)
+```
 ## ![Conventional Commits](https://img.shields.io/static/v1?style=for-the-badge&message=Conventional+Commits&color=FE5196&logo=Conventional+Commits&logoColor=FFFFFF&label=)
 ```markdown
 ![Conventional Commits](https://img.shields.io/static/v1?style=for-the-badge&message=Conventional+Commits&color=FE5196&logo=Conventional+Commits&logoColor=FFFFFF&label=)
@@ -3718,6 +3722,10 @@
 ```markdown
 ![FontForge](https://img.shields.io/static/v1?style=for-the-badge&message=FontForge&color=F2712B&logo=FontForge&logoColor=FFFFFF&label=)
 ```
+## ![foobar2000](https://img.shields.io/static/v1?style=for-the-badge&message=foobar2000&color=000000&logo=foobar2000&logoColor=FFFFFF&label=)
+```markdown
+![foobar2000](https://img.shields.io/static/v1?style=for-the-badge&message=foobar2000&color=000000&logo=foobar2000&logoColor=FFFFFF&label=)
+```
 ## ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
 ```markdown
 ![foodpanda](https://img.shields.io/static/v1?style=for-the-badge&message=foodpanda&color=D70F64&logo=foodpanda&logoColor=FFFFFF&label=)
@@ -4997,6 +5005,10 @@
 ## ![Île-de-France Mobilités](https://img.shields.io/static/v1?style=for-the-badge&message=%C3%8Ele-de-France+Mobilit%C3%A9s&color=222222&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7&label=)
 ```markdown
 ![Île-de-France Mobilités](https://img.shields.io/static/v1?style=for-the-badge&message=%C3%8Ele-de-France+Mobilit%C3%A9s&color=222222&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7&label=)
+```
+## ![Image.sc](https://img.shields.io/static/v1?style=for-the-badge&message=Image.sc&color=039CB2&logo=Image.sc&logoColor=FFFFFF&label=)
+```markdown
+![Image.sc](https://img.shields.io/static/v1?style=for-the-badge&message=Image.sc&color=039CB2&logo=Image.sc&logoColor=FFFFFF&label=)
 ```
 ## ![ImageJ](https://img.shields.io/static/v1?style=for-the-badge&message=ImageJ&color=222222&logo=ImageJ&logoColor=00D8E0&label=)
 ```markdown
