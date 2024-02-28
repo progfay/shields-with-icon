@@ -862,6 +862,7 @@
 ![Fandom](https://img.shields.io/static/v1?style=for-the-badge&message=Fandom&color=FA005A&logo=Fandom&logoColor=FFFFFF&label=)
 ![Fanfou](https://img.shields.io/static/v1?style=for-the-badge&message=Fanfou&color=222222&logo=Fanfou&logoColor=00CCFF&label=)
 ![Fantom](https://img.shields.io/static/v1?style=for-the-badge&message=Fantom&color=0928FF&logo=Fantom&logoColor=FFFFFF&label=)
+![Farcaster](https://img.shields.io/static/v1?style=for-the-badge&message=Farcaster&color=855DCD&logo=Farcaster&logoColor=FFFFFF&label=)
 ![FareHarbor](https://img.shields.io/static/v1?style=for-the-badge&message=FareHarbor&color=0A6ECE&logo=FareHarbor&logoColor=FFFFFF&label=)
 ![FARFETCH](https://img.shields.io/static/v1?style=for-the-badge&message=FARFETCH&color=000000&logo=FARFETCH&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)

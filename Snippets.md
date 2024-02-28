@@ -3454,6 +3454,10 @@
 ```markdown
 ![Fantom](https://img.shields.io/static/v1?style=for-the-badge&message=Fantom&color=0928FF&logo=Fantom&logoColor=FFFFFF&label=)
 ```
+## ![Farcaster](https://img.shields.io/static/v1?style=for-the-badge&message=Farcaster&color=855DCD&logo=Farcaster&logoColor=FFFFFF&label=)
+```markdown
+![Farcaster](https://img.shields.io/static/v1?style=for-the-badge&message=Farcaster&color=855DCD&logo=Farcaster&logoColor=FFFFFF&label=)
+```
 ## ![FareHarbor](https://img.shields.io/static/v1?style=for-the-badge&message=FareHarbor&color=0A6ECE&logo=FareHarbor&logoColor=FFFFFF&label=)
 ```markdown
 ![FareHarbor](https://img.shields.io/static/v1?style=for-the-badge&message=FareHarbor&color=0A6ECE&logo=FareHarbor&logoColor=FFFFFF&label=)
