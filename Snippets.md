@@ -4214,6 +4214,10 @@
 ```markdown
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ```
+## ![Google Chronicle](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chronicle&color=4285F4&logo=Google+Chronicle&logoColor=FFFFFF&label=)
+```markdown
+![Google Chronicle](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chronicle&color=4285F4&logo=Google+Chronicle&logoColor=FFFFFF&label=)
+```
 ## ![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=0F9D58&logo=Google+Classroom&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=0F9D58&logo=Google+Classroom&logoColor=FFFFFF&label=)

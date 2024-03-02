@@ -1052,6 +1052,7 @@
 ![Google Cardboard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cardboard&color=FF7143&logo=Google+Cardboard&logoColor=FFFFFF&label=)
 ![Google Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chat&color=34A853&logo=Google+Chat&logoColor=FFFFFF&label=)
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![Google Chronicle](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chronicle&color=4285F4&logo=Google+Chronicle&logoColor=FFFFFF&label=)
 ![Google Classroom](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Classroom&color=0F9D58&logo=Google+Classroom&logoColor=FFFFFF&label=)
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ![Google Cloud Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Composer&color=4285F4&logo=Google+Cloud+Composer&logoColor=FFFFFF&label=)
