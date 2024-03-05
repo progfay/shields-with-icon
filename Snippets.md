@@ -3174,9 +3174,9 @@
 ```markdown
 ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
 ```
-## ![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=000000&logo=Eleventy&logoColor=FFFFFF&label=)
+## ![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=222222&logo=Eleventy&logoColor=FFFFFF&label=)
 ```markdown
-![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=000000&logo=Eleventy&logoColor=FFFFFF&label=)
+![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=222222&logo=Eleventy&logoColor=FFFFFF&label=)
 ```
 ## ![Elgato](https://img.shields.io/static/v1?style=for-the-badge&message=Elgato&color=101010&logo=Elgato&logoColor=FFFFFF&label=)
 ```markdown
@@ -10962,9 +10962,9 @@
 ```markdown
 ![ts-node](https://img.shields.io/static/v1?style=for-the-badge&message=ts-node&color=3178C6&logo=ts-node&logoColor=FFFFFF&label=)
 ```
-## ![Tubi](https://img.shields.io/static/v1?style=for-the-badge&message=Tubi&color=000000&logo=Tubi&logoColor=FFFFFF&label=)
+## ![Tubi](https://img.shields.io/static/v1?style=for-the-badge&message=Tubi&color=7408FF&logo=Tubi&logoColor=FFFFFF&label=)
 ```markdown
-![Tubi](https://img.shields.io/static/v1?style=for-the-badge&message=Tubi&color=000000&logo=Tubi&logoColor=FFFFFF&label=)
+![Tubi](https://img.shields.io/static/v1?style=for-the-badge&message=Tubi&color=7408FF&logo=Tubi&logoColor=FFFFFF&label=)
 ```
 ## ![TUI](https://img.shields.io/static/v1?style=for-the-badge&message=TUI&color=D40E14&logo=TUI&logoColor=FFFFFF&label=)
 ```markdown
