@@ -358,6 +358,10 @@
 ```markdown
 ![Akaunting](https://img.shields.io/static/v1?style=for-the-badge&message=Akaunting&color=6DA252&logo=Akaunting&logoColor=FFFFFF&label=)
 ```
+## ![Akiflow](https://img.shields.io/static/v1?style=for-the-badge&message=Akiflow&color=AF38F9&logo=Akiflow&logoColor=FFFFFF&label=)
+```markdown
+![Akiflow](https://img.shields.io/static/v1?style=for-the-badge&message=Akiflow&color=AF38F9&logo=Akiflow&logoColor=FFFFFF&label=)
+```
 ## ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
 ```markdown
 ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)

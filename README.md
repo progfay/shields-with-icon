@@ -88,6 +88,7 @@
 ![Ajv](https://img.shields.io/static/v1?style=for-the-badge&message=Ajv&color=222222&logo=Ajv&logoColor=23C8D2&label=)
 ![Akamai](https://img.shields.io/static/v1?style=for-the-badge&message=Akamai&color=0096D6&logo=Akamai&logoColor=FFFFFF&label=)
 ![Akaunting](https://img.shields.io/static/v1?style=for-the-badge&message=Akaunting&color=6DA252&logo=Akaunting&logoColor=FFFFFF&label=)
+![Akiflow](https://img.shields.io/static/v1?style=for-the-badge&message=Akiflow&color=AF38F9&logo=Akiflow&logoColor=FFFFFF&label=)
 ![Alacritty](https://img.shields.io/static/v1?style=for-the-badge&message=Alacritty&color=F46D01&logo=Alacritty&logoColor=FFFFFF&label=)
 ![Alamy](https://img.shields.io/static/v1?style=for-the-badge&message=Alamy&color=222222&logo=Alamy&logoColor=00FF7B&label=)
 ![Albert Heijn](https://img.shields.io/static/v1?style=for-the-badge&message=Albert+Heijn&color=04ACE6&logo=Albert+Heijn&logoColor=FFFFFF&label=)
