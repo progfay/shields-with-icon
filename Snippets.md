@@ -1458,6 +1458,10 @@
 ```markdown
 ![BoardGameGeek](https://img.shields.io/static/v1?style=for-the-badge&message=BoardGameGeek&color=FF5100&logo=BoardGameGeek&logoColor=FFFFFF&label=)
 ```
+## ![boAt](https://img.shields.io/static/v1?style=for-the-badge&message=boAt&color=E20722&logo=boAt&logoColor=FFFFFF&label=)
+```markdown
+![boAt](https://img.shields.io/static/v1?style=for-the-badge&message=boAt&color=E20722&logo=boAt&logoColor=FFFFFF&label=)
+```
 ## ![Boehringer Ingelheim](https://img.shields.io/static/v1?style=for-the-badge&message=Boehringer+Ingelheim&color=222222&logo=Boehringer+Ingelheim&logoColor=00E47C&label=)
 ```markdown
 ![Boehringer Ingelheim](https://img.shields.io/static/v1?style=for-the-badge&message=Boehringer+Ingelheim&color=222222&logo=Boehringer+Ingelheim&logoColor=00E47C&label=)
@@ -5898,6 +5902,10 @@
 ```markdown
 ![LG](https://img.shields.io/static/v1?style=for-the-badge&message=LG&color=A50034&logo=LG&logoColor=FFFFFF&label=)
 ```
+## ![Li-Ning](https://img.shields.io/static/v1?style=for-the-badge&message=Li-Ning&color=C5242C&logo=Li-Ning&logoColor=FFFFFF&label=)
+```markdown
+![Li-Ning](https://img.shields.io/static/v1?style=for-the-badge&message=Li-Ning&color=C5242C&logo=Li-Ning&logoColor=FFFFFF&label=)
+```
 ## ![Libera.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Libera.Chat&color=FF55DD&logo=Libera.Chat&logoColor=FFFFFF&label=)
 ```markdown
 ![Libera.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Libera.Chat&color=FF55DD&logo=Libera.Chat&logoColor=FFFFFF&label=)
@@ -6917,6 +6925,10 @@
 ## ![NameMC](https://img.shields.io/static/v1?style=for-the-badge&message=NameMC&color=12161A&logo=NameMC&logoColor=FFFFFF&label=)
 ```markdown
 ![NameMC](https://img.shields.io/static/v1?style=for-the-badge&message=NameMC&color=12161A&logo=NameMC&logoColor=FFFFFF&label=)
+```
+## ![NameSilo](https://img.shields.io/static/v1?style=for-the-badge&message=NameSilo&color=031B4E&logo=NameSilo&logoColor=FFFFFF&label=)
+```markdown
+![NameSilo](https://img.shields.io/static/v1?style=for-the-badge&message=NameSilo&color=031B4E&logo=NameSilo&logoColor=FFFFFF&label=)
 ```
 ## ![Namu Wiki](https://img.shields.io/static/v1?style=for-the-badge&message=Namu+Wiki&color=008275&logo=Namu+Wiki&logoColor=FFFFFF&label=)
 ```markdown
@@ -7985,6 +7997,10 @@
 ## ![Pixabay](https://img.shields.io/static/v1?style=for-the-badge&message=Pixabay&color=222222&logo=Pixabay&logoColor=2EC66D&label=)
 ```markdown
 ![Pixabay](https://img.shields.io/static/v1?style=for-the-badge&message=Pixabay&color=222222&logo=Pixabay&logoColor=2EC66D&label=)
+```
+## ![Pixelfed](https://img.shields.io/static/v1?style=for-the-badge&message=Pixelfed&color=6366F1&logo=Pixelfed&logoColor=FFFFFF&label=)
+```markdown
+![Pixelfed](https://img.shields.io/static/v1?style=for-the-badge&message=Pixelfed&color=6366F1&logo=Pixelfed&logoColor=FFFFFF&label=)
 ```
 ## ![pixiv](https://img.shields.io/static/v1?style=for-the-badge&message=pixiv&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
 ```markdown
