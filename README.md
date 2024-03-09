@@ -1251,6 +1251,7 @@
 ![iFood](https://img.shields.io/static/v1?style=for-the-badge&message=iFood&color=EA1D2C&logo=iFood&logoColor=FFFFFF&label=)
 ![IFTTT](https://img.shields.io/static/v1?style=for-the-badge&message=IFTTT&color=000000&logo=IFTTT&logoColor=FFFFFF&label=)
 ![IGDB](https://img.shields.io/static/v1?style=for-the-badge&message=IGDB&color=9147FF&logo=IGDB&logoColor=FFFFFF&label=)
+![IGN](https://img.shields.io/static/v1?style=for-the-badge&message=IGN&color=BF1313&logo=IGN&logoColor=FFFFFF&label=)
 ![iHeartRadio](https://img.shields.io/static/v1?style=for-the-badge&message=iHeartRadio&color=C6002B&logo=iHeartRadio&logoColor=FFFFFF&label=)
 ![IKEA](https://img.shields.io/static/v1?style=for-the-badge&message=IKEA&color=0058A3&logo=IKEA&logoColor=FFFFFF&label=)
 ![Île-de-France Mobilités](https://img.shields.io/static/v1?style=for-the-badge&message=%C3%8Ele-de-France+Mobilit%C3%A9s&color=222222&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7&label=)

@@ -5010,6 +5010,10 @@
 ```markdown
 ![IGDB](https://img.shields.io/static/v1?style=for-the-badge&message=IGDB&color=9147FF&logo=IGDB&logoColor=FFFFFF&label=)
 ```
+## ![IGN](https://img.shields.io/static/v1?style=for-the-badge&message=IGN&color=BF1313&logo=IGN&logoColor=FFFFFF&label=)
+```markdown
+![IGN](https://img.shields.io/static/v1?style=for-the-badge&message=IGN&color=BF1313&logo=IGN&logoColor=FFFFFF&label=)
+```
 ## ![iHeartRadio](https://img.shields.io/static/v1?style=for-the-badge&message=iHeartRadio&color=C6002B&logo=iHeartRadio&logoColor=FFFFFF&label=)
 ```markdown
 ![iHeartRadio](https://img.shields.io/static/v1?style=for-the-badge&message=iHeartRadio&color=C6002B&logo=iHeartRadio&logoColor=FFFFFF&label=)
