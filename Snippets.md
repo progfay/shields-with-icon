@@ -10962,6 +10962,10 @@
 ```markdown
 ![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=0095D5&logo=TrueNAS&logoColor=FFFFFF&label=)
 ```
+## ![TrueUp](https://img.shields.io/static/v1?style=for-the-badge&message=TrueUp&color=4E71DA&logo=TrueUp&logoColor=FFFFFF&label=)
+```markdown
+![TrueUp](https://img.shields.io/static/v1?style=for-the-badge&message=TrueUp&color=4E71DA&logo=TrueUp&logoColor=FFFFFF&label=)
+```
 ## ![trulia](https://img.shields.io/static/v1?style=for-the-badge&message=trulia&color=0A0B09&logo=trulia&logoColor=FFFFFF&label=)
 ```markdown
 ![trulia](https://img.shields.io/static/v1?style=for-the-badge&message=trulia&color=0A0B09&logo=trulia&logoColor=FFFFFF&label=)
@@ -12121,6 +12125,10 @@
 ## ![Zebra Technologies](https://img.shields.io/static/v1?style=for-the-badge&message=Zebra+Technologies&color=000000&logo=Zebra+Technologies&logoColor=FFFFFF&label=)
 ```markdown
 ![Zebra Technologies](https://img.shields.io/static/v1?style=for-the-badge&message=Zebra+Technologies&color=000000&logo=Zebra+Technologies&logoColor=FFFFFF&label=)
+```
+## ![Zed Industries](https://img.shields.io/static/v1?style=for-the-badge&message=Zed+Industries&color=084CCF&logo=Zed+Industries&logoColor=FFFFFF&label=)
+```markdown
+![Zed Industries](https://img.shields.io/static/v1?style=for-the-badge&message=Zed+Industries&color=084CCF&logo=Zed+Industries&logoColor=FFFFFF&label=)
 ```
 ## ![Zelle](https://img.shields.io/static/v1?style=for-the-badge&message=Zelle&color=6D1ED4&logo=Zelle&logoColor=FFFFFF&label=)
 ```markdown
