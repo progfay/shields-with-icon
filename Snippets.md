@@ -1662,6 +1662,10 @@
 ```markdown
 ![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy+Me+A+Coffee&color=222222&logo=Buy+Me+A+Coffee&logoColor=FFDD00&label=)
 ```
+## ![BuySellAds](https://img.shields.io/static/v1?style=for-the-badge&message=BuySellAds&color=EB4714&logo=BuySellAds&logoColor=FFFFFF&label=)
+```markdown
+![BuySellAds](https://img.shields.io/static/v1?style=for-the-badge&message=BuySellAds&color=EB4714&logo=BuySellAds&logoColor=FFFFFF&label=)
+```
 ## ![BuzzFeed](https://img.shields.io/static/v1?style=for-the-badge&message=BuzzFeed&color=EE3322&logo=BuzzFeed&logoColor=FFFFFF&label=)
 ```markdown
 ![BuzzFeed](https://img.shields.io/static/v1?style=for-the-badge&message=BuzzFeed&color=EE3322&logo=BuzzFeed&logoColor=FFFFFF&label=)
@@ -4189,6 +4193,10 @@
 ## ![Google Assistant](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Assistant&color=4285F4&logo=Google+Assistant&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Assistant](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Assistant&color=4285F4&logo=Google+Assistant&logoColor=FFFFFF&label=)
+```
+## ![Google Authenticator](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Authenticator&color=4285F4&logo=Google+Authenticator&logoColor=FFFFFF&label=)
+```markdown
+![Google Authenticator](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Authenticator&color=4285F4&logo=Google+Authenticator&logoColor=FFFFFF&label=)
 ```
 ## ![Google Bard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Bard&color=886FBF&logo=Google+Bard&logoColor=FFFFFF&label=)
 ```markdown
