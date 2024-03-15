@@ -662,6 +662,10 @@
 ```markdown
 ![Antena 3](https://img.shields.io/static/v1?style=for-the-badge&message=Antena+3&color=FF7328&logo=Antena+3&logoColor=FFFFFF&label=)
 ```
+## ![Anycubic](https://img.shields.io/static/v1?style=for-the-badge&message=Anycubic&color=476695&logo=Anycubic&logoColor=FFFFFF&label=)
+```markdown
+![Anycubic](https://img.shields.io/static/v1?style=for-the-badge&message=Anycubic&color=476695&logo=Anycubic&logoColor=FFFFFF&label=)
+```
 ## ![AnyDesk](https://img.shields.io/static/v1?style=for-the-badge&message=AnyDesk&color=EF443B&logo=AnyDesk&logoColor=FFFFFF&label=)
 ```markdown
 ![AnyDesk](https://img.shields.io/static/v1?style=for-the-badge&message=AnyDesk&color=EF443B&logo=AnyDesk&logoColor=FFFFFF&label=)
@@ -1897,6 +1901,10 @@
 ## ![Chedraui](https://img.shields.io/static/v1?style=for-the-badge&message=Chedraui&color=E0832F&logo=Chedraui&logoColor=FFFFFF&label=)
 ```markdown
 ![Chedraui](https://img.shields.io/static/v1?style=for-the-badge&message=Chedraui&color=E0832F&logo=Chedraui&logoColor=FFFFFF&label=)
+```
+## ![Cheerio](https://img.shields.io/static/v1?style=for-the-badge&message=Cheerio&color=E88C1F&logo=Cheerio&logoColor=FFFFFF&label=)
+```markdown
+![Cheerio](https://img.shields.io/static/v1?style=for-the-badge&message=Cheerio&color=E88C1F&logo=Cheerio&logoColor=FFFFFF&label=)
 ```
 ## ![Chef](https://img.shields.io/static/v1?style=for-the-badge&message=Chef&color=222222&logo=Chef&logoColor=F09820&label=)
 ```markdown
@@ -3173,6 +3181,10 @@
 ## ![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=000000&logo=electron-builder&logoColor=FFFFFF&label=)
 ```markdown
 ![electron-builder](https://img.shields.io/static/v1?style=for-the-badge&message=electron-builder&color=000000&logo=electron-builder&logoColor=FFFFFF&label=)
+```
+## ![Elegoo](https://img.shields.io/static/v1?style=for-the-badge&message=Elegoo&color=2C3A83&logo=Elegoo&logoColor=FFFFFF&label=)
+```markdown
+![Elegoo](https://img.shields.io/static/v1?style=for-the-badge&message=Elegoo&color=2C3A83&logo=Elegoo&logoColor=FFFFFF&label=)
 ```
 ## ![Element](https://img.shields.io/static/v1?style=for-the-badge&message=Element&color=222222&logo=Element&logoColor=0DBD8B&label=)
 ```markdown
@@ -11734,9 +11746,9 @@
 ```markdown
 ![WEMO](https://img.shields.io/static/v1?style=for-the-badge&message=WEMO&color=222222&logo=WEMO&logoColor=72D44C&label=)
 ```
-## ![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
+## ![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=995DFF&logo=Western+Digital&logoColor=FFFFFF&label=)
 ```markdown
-![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=000000&logo=Western+Digital&logoColor=FFFFFF&label=)
+![Western Digital](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Digital&color=995DFF&logo=Western+Digital&logoColor=FFFFFF&label=)
 ```
 ## ![Western Union](https://img.shields.io/static/v1?style=for-the-badge&message=Western+Union&color=222222&logo=Western+Union&logoColor=FFDD00&label=)
 ```markdown
