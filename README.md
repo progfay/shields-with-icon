@@ -970,6 +970,7 @@
 ![Frontend Mentor](https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=)
 ![Frontify](https://img.shields.io/static/v1?style=for-the-badge&message=Frontify&color=2D3232&logo=Frontify&logoColor=FFFFFF&label=)
 ![Fubo](https://img.shields.io/static/v1?style=for-the-badge&message=Fubo&color=C83D1E&logo=Fubo&logoColor=FFFFFF&label=)
+![Fueler](https://img.shields.io/static/v1?style=for-the-badge&message=Fueler&color=222222&logo=Fueler&logoColor=09C9E3&label=)
 ![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
 ![Fujifilm](https://img.shields.io/static/v1?style=for-the-badge&message=Fujifilm&color=FB0020&logo=Fujifilm&logoColor=FFFFFF&label=)
 ![Fujitsu](https://img.shields.io/static/v1?style=for-the-badge&message=Fujitsu&color=FF0000&logo=Fujitsu&logoColor=FFFFFF&label=)

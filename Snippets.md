@@ -3886,6 +3886,10 @@
 ```markdown
 ![Fubo](https://img.shields.io/static/v1?style=for-the-badge&message=Fubo&color=C83D1E&logo=Fubo&logoColor=FFFFFF&label=)
 ```
+## ![Fueler](https://img.shields.io/static/v1?style=for-the-badge&message=Fueler&color=222222&logo=Fueler&logoColor=09C9E3&label=)
+```markdown
+![Fueler](https://img.shields.io/static/v1?style=for-the-badge&message=Fueler&color=222222&logo=Fueler&logoColor=09C9E3&label=)
+```
 ## ![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
 ```markdown
 ![Fuga Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Fuga+Cloud&color=242F4B&logo=Fuga+Cloud&logoColor=FFFFFF&label=)
