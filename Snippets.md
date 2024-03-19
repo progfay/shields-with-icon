@@ -2658,9 +2658,9 @@
 ```markdown
 ![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)
 ```
-## ![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=3A3A42&logo=DataStax&logoColor=FFFFFF&label=)
+## ![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=000000&logo=DataStax&logoColor=FFFFFF&label=)
 ```markdown
-![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=3A3A42&logo=DataStax&logoColor=FFFFFF&label=)
+![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=000000&logo=DataStax&logoColor=FFFFFF&label=)
 ```
 ## ![Dataverse](https://img.shields.io/static/v1?style=for-the-badge&message=Dataverse&color=088142&logo=Dataverse&logoColor=FFFFFF&label=)
 ```markdown
@@ -3925,6 +3925,10 @@
 ## ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
 ```markdown
 ![G2A](https://img.shields.io/static/v1?style=for-the-badge&message=G2A&color=F05F00&logo=G2A&logoColor=FFFFFF&label=)
+```
+## ![G2G](https://img.shields.io/static/v1?style=for-the-badge&message=G2G&color=ED1C24&logo=G2G&logoColor=FFFFFF&label=)
+```markdown
+![G2G](https://img.shields.io/static/v1?style=for-the-badge&message=G2G&color=ED1C24&logo=G2G&logoColor=FFFFFF&label=)
 ```
 ## ![Galaxus](https://img.shields.io/static/v1?style=for-the-badge&message=Galaxus&color=000000&logo=Galaxus&logoColor=FFFFFF&label=)
 ```markdown
@@ -6682,6 +6686,10 @@
 ```markdown
 ![MIDI](https://img.shields.io/static/v1?style=for-the-badge&message=MIDI&color=000000&logo=MIDI&logoColor=FFFFFF&label=)
 ```
+## ![Migadu](https://img.shields.io/static/v1?style=for-the-badge&message=Migadu&color=0043CE&logo=Migadu&logoColor=FFFFFF&label=)
+```markdown
+![Migadu](https://img.shields.io/static/v1?style=for-the-badge&message=Migadu&color=0043CE&logo=Migadu&logoColor=FFFFFF&label=)
+```
 ## ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
 ```markdown
 ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
@@ -7329,6 +7337,10 @@
 ## ![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=Nunjucks&color=1C4913&logo=Nunjucks&logoColor=FFFFFF&label=)
 ```markdown
 ![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=Nunjucks&color=1C4913&logo=Nunjucks&logoColor=FFFFFF&label=)
+```
+## ![Nushell](https://img.shields.io/static/v1?style=for-the-badge&message=Nushell&color=4E9A06&logo=Nushell&logoColor=FFFFFF&label=)
+```markdown
+![Nushell](https://img.shields.io/static/v1?style=for-the-badge&message=Nushell&color=4E9A06&logo=Nushell&logoColor=FFFFFF&label=)
 ```
 ## ![Nutanix](https://img.shields.io/static/v1?style=for-the-badge&message=Nutanix&color=024DA1&logo=Nutanix&logoColor=FFFFFF&label=)
 ```markdown
