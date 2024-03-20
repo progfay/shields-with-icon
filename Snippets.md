@@ -670,6 +670,10 @@
 ```markdown
 ![AnyDesk](https://img.shields.io/static/v1?style=for-the-badge&message=AnyDesk&color=EF443B&logo=AnyDesk&logoColor=FFFFFF&label=)
 ```
+## ![Anytype](https://img.shields.io/static/v1?style=for-the-badge&message=Anytype&color=FF6A7B&logo=Anytype&logoColor=FFFFFF&label=)
+```markdown
+![Anytype](https://img.shields.io/static/v1?style=for-the-badge&message=Anytype&color=FF6A7B&logo=Anytype&logoColor=FFFFFF&label=)
+```
 ## ![AOL](https://img.shields.io/static/v1?style=for-the-badge&message=AOL&color=3399FF&logo=AOL&logoColor=FFFFFF&label=)
 ```markdown
 ![AOL](https://img.shields.io/static/v1?style=for-the-badge&message=AOL&color=3399FF&logo=AOL&logoColor=FFFFFF&label=)
@@ -2681,6 +2685,10 @@
 ## ![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
 ```markdown
 ![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
+```
+## ![Dazhong Dianping](https://img.shields.io/static/v1?style=for-the-badge&message=Dazhong+Dianping&color=FF6633&logo=Dazhong+Dianping&logoColor=FFFFFF&label=)
+```markdown
+![Dazhong Dianping](https://img.shields.io/static/v1?style=for-the-badge&message=Dazhong+Dianping&color=FF6633&logo=Dazhong+Dianping&logoColor=FFFFFF&label=)
 ```
 ## ![DAZN](https://img.shields.io/static/v1?style=for-the-badge&message=DAZN&color=222222&logo=DAZN&logoColor=F8F8F5&label=)
 ```markdown
@@ -10517,6 +10525,10 @@
 ## ![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=000000&logo=Talenthouse&logoColor=FFFFFF&label=)
 ```markdown
 ![Talenthouse](https://img.shields.io/static/v1?style=for-the-badge&message=Talenthouse&color=000000&logo=Talenthouse&logoColor=FFFFFF&label=)
+```
+## ![Talos](https://img.shields.io/static/v1?style=for-the-badge&message=Talos&color=FF7300&logo=Talos&logoColor=FFFFFF&label=)
+```markdown
+![Talos](https://img.shields.io/static/v1?style=for-the-badge&message=Talos&color=FF7300&logo=Talos&logoColor=FFFFFF&label=)
 ```
 ## ![Tamiya](https://img.shields.io/static/v1?style=for-the-badge&message=Tamiya&color=000000&logo=Tamiya&logoColor=FFFFFF&label=)
 ```markdown
