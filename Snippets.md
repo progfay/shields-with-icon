@@ -2406,6 +2406,10 @@
 ```markdown
 ![Cora](https://img.shields.io/static/v1?style=for-the-badge&message=Cora&color=E61845&logo=Cora&logoColor=FFFFFF&label=)
 ```
+## ![CorelDRAW](https://img.shields.io/static/v1?style=for-the-badge&message=CorelDRAW&color=000000&logo=CorelDRAW&logoColor=FFFFFF&label=)
+```markdown
+![CorelDRAW](https://img.shields.io/static/v1?style=for-the-badge&message=CorelDRAW&color=000000&logo=CorelDRAW&logoColor=FFFFFF&label=)
+```
 ## ![Corona Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Corona+Engine&color=F96F29&logo=Corona+Engine&logoColor=FFFFFF&label=)
 ```markdown
 ![Corona Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Corona+Engine&color=F96F29&logo=Corona+Engine&logoColor=FFFFFF&label=)
@@ -7678,9 +7682,9 @@
 ```markdown
 ![OSF](https://img.shields.io/static/v1?style=for-the-badge&message=OSF&color=222222&logo=OSF&logoColor=2CB9F1&label=)
 ```
-## ![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=5CAE58&logo=OSGeo&logoColor=FFFFFF&label=)
+## ![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=4CB05B&logo=OSGeo&logoColor=FFFFFF&label=)
 ```markdown
-![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=5CAE58&logo=OSGeo&logoColor=FFFFFF&label=)
+![OSGeo](https://img.shields.io/static/v1?style=for-the-badge&message=OSGeo&color=4CB05B&logo=OSGeo&logoColor=FFFFFF&label=)
 ```
 ## ![Oshkosh](https://img.shields.io/static/v1?style=for-the-badge&message=Oshkosh&color=E6830F&logo=Oshkosh&logoColor=FFFFFF&label=)
 ```markdown
