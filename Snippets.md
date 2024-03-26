@@ -5658,6 +5658,10 @@
 ```markdown
 ![KeyCDN](https://img.shields.io/static/v1?style=for-the-badge&message=KeyCDN&color=047AED&logo=KeyCDN&logoColor=FFFFFF&label=)
 ```
+## ![Keycloak](https://img.shields.io/static/v1?style=for-the-badge&message=Keycloak&color=4D4D4D&logo=Keycloak&logoColor=FFFFFF&label=)
+```markdown
+![Keycloak](https://img.shields.io/static/v1?style=for-the-badge&message=Keycloak&color=4D4D4D&logo=Keycloak&logoColor=FFFFFF&label=)
+```
 ## ![Keystone](https://img.shields.io/static/v1?style=for-the-badge&message=Keystone&color=166BFF&logo=Keystone&logoColor=FFFFFF&label=)
 ```markdown
 ![Keystone](https://img.shields.io/static/v1?style=for-the-badge&message=Keystone&color=166BFF&logo=Keystone&logoColor=FFFFFF&label=)

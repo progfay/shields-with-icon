@@ -1413,6 +1413,7 @@
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
 ![Keybase](https://img.shields.io/static/v1?style=for-the-badge&message=Keybase&color=33A0FF&logo=Keybase&logoColor=FFFFFF&label=)
 ![KeyCDN](https://img.shields.io/static/v1?style=for-the-badge&message=KeyCDN&color=047AED&logo=KeyCDN&logoColor=FFFFFF&label=)
+![Keycloak](https://img.shields.io/static/v1?style=for-the-badge&message=Keycloak&color=4D4D4D&logo=Keycloak&logoColor=FFFFFF&label=)
 ![Keystone](https://img.shields.io/static/v1?style=for-the-badge&message=Keystone&color=166BFF&logo=Keystone&logoColor=FFFFFF&label=)
 ![KFC](https://img.shields.io/static/v1?style=for-the-badge&message=KFC&color=F40027&logo=KFC&logoColor=FFFFFF&label=)
 ![Khan Academy](https://img.shields.io/static/v1?style=for-the-badge&message=Khan+Academy&color=222222&logo=Khan+Academy&logoColor=14BF96&label=)
