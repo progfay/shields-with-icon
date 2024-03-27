@@ -2624,6 +2624,7 @@
 ![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=)
 ![Symphony](https://img.shields.io/static/v1?style=for-the-badge&message=Symphony&color=0098FF&logo=Symphony&logoColor=FFFFFF&label=)
 ![SymPy](https://img.shields.io/static/v1?style=for-the-badge&message=SymPy&color=3B5526&logo=SymPy&logoColor=FFFFFF&label=)
+![Syncthing](https://img.shields.io/static/v1?style=for-the-badge&message=Syncthing&color=0891D1&logo=Syncthing&logoColor=FFFFFF&label=)
 ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
 ![System76](https://img.shields.io/static/v1?style=for-the-badge&message=System76&color=585048&logo=System76&logoColor=FFFFFF&label=)
 ![T-Mobile](https://img.shields.io/static/v1?style=for-the-badge&message=T-Mobile&color=E20074&logo=T-Mobile&logoColor=FFFFFF&label=)

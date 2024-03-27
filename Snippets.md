@@ -10502,6 +10502,10 @@
 ```markdown
 ![SymPy](https://img.shields.io/static/v1?style=for-the-badge&message=SymPy&color=3B5526&logo=SymPy&logoColor=FFFFFF&label=)
 ```
+## ![Syncthing](https://img.shields.io/static/v1?style=for-the-badge&message=Syncthing&color=0891D1&logo=Syncthing&logoColor=FFFFFF&label=)
+```markdown
+![Syncthing](https://img.shields.io/static/v1?style=for-the-badge&message=Syncthing&color=0891D1&logo=Syncthing&logoColor=FFFFFF&label=)
+```
 ## ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
 ```markdown
 ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
