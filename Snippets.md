@@ -494,6 +494,10 @@
 ```markdown
 ![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=)
 ```
+## ![Amazon Cognito](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Cognito&color=DD344C&logo=Amazon+Cognito&logoColor=FFFFFF&label=)
+```markdown
+![Amazon Cognito](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Cognito&color=DD344C&logo=Amazon+Cognito&logoColor=FFFFFF&label=)
+```
 ## ![Amazon DocumentDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DocumentDB&color=C925D1&logo=Amazon+DocumentDB&logoColor=FFFFFF&label=)
 ```markdown
 ![Amazon DocumentDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DocumentDB&color=C925D1&logo=Amazon+DocumentDB&logoColor=FFFFFF&label=)
@@ -513,6 +517,10 @@
 ## ![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
 ```markdown
 ![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
+```
+## ![Amazon ElastiCache](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ElastiCache&color=C925D1&logo=Amazon+ElastiCache&logoColor=FFFFFF&label=)
+```markdown
+![Amazon ElastiCache](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ElastiCache&color=C925D1&logo=Amazon+ElastiCache&logoColor=FFFFFF&label=)
 ```
 ## ![Amazon Fire TV](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Fire+TV&color=FC4C02&logo=Amazon+Fire+TV&logoColor=FFFFFF&label=)
 ```markdown
@@ -1122,6 +1130,10 @@
 ```markdown
 ![AWS Amplify](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label=)
 ```
+## ![AWS Elastic Load Balancing](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Elastic+Load+Balancing&color=8C4FFF&logo=AWS+Elastic+Load+Balancing&logoColor=FFFFFF&label=)
+```markdown
+![AWS Elastic Load Balancing](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Elastic+Load+Balancing&color=8C4FFF&logo=AWS+Elastic+Load+Balancing&logoColor=FFFFFF&label=)
+```
 ## ![AWS Fargate](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Fargate&color=222222&logo=AWS+Fargate&logoColor=FF9900&label=)
 ```markdown
 ![AWS Fargate](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Fargate&color=222222&logo=AWS+Fargate&logoColor=FF9900&label=)
@@ -1133,6 +1145,10 @@
 ## ![AWS Organizations](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Organizations&color=E7157B&logo=AWS+Organizations&logoColor=FFFFFF&label=)
 ```markdown
 ![AWS Organizations](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Organizations&color=E7157B&logo=AWS+Organizations&logoColor=FFFFFF&label=)
+```
+## ![AWS Secrets Manager](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Secrets+Manager&color=DD344C&logo=AWS+Secrets+Manager&logoColor=FFFFFF&label=)
+```markdown
+![AWS Secrets Manager](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Secrets+Manager&color=DD344C&logo=AWS+Secrets+Manager&logoColor=FFFFFF&label=)
 ```
 ## ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ```markdown
@@ -5438,6 +5454,10 @@
 ```markdown
 ![JFrog Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog+Pipelines&color=222222&logo=JFrog+Pipelines&logoColor=40BE46&label=)
 ```
+## ![JHipster](https://img.shields.io/static/v1?style=for-the-badge&message=JHipster&color=3E8ACC&logo=JHipster&logoColor=FFFFFF&label=)
+```markdown
+![JHipster](https://img.shields.io/static/v1?style=for-the-badge&message=JHipster&color=3E8ACC&logo=JHipster&logoColor=FFFFFF&label=)
+```
 ## ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
 ```markdown
 ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
@@ -8933,6 +8953,10 @@
 ## ![Red Hat Open Shift](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat+Open+Shift&color=EE0000&logo=Red+Hat+Open+Shift&logoColor=FFFFFF&label=)
 ```markdown
 ![Red Hat Open Shift](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat+Open+Shift&color=EE0000&logo=Red+Hat+Open+Shift&logoColor=FFFFFF&label=)
+```
+## ![Redash](https://img.shields.io/static/v1?style=for-the-badge&message=Redash&color=FF7964&logo=Redash&logoColor=FFFFFF&label=)
+```markdown
+![Redash](https://img.shields.io/static/v1?style=for-the-badge&message=Redash&color=FF7964&logo=Redash&logoColor=FFFFFF&label=)
 ```
 ## ![Redbubble](https://img.shields.io/static/v1?style=for-the-badge&message=Redbubble&color=E41321&logo=Redbubble&logoColor=FFFFFF&label=)
 ```markdown
