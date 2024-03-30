@@ -847,6 +847,7 @@
 ![ESRI](https://img.shields.io/static/v1?style=for-the-badge&message=ESRI&color=000000&logo=ESRI&logoColor=FFFFFF&label=)
 ![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
+![Ethers](https://img.shields.io/static/v1?style=for-the-badge&message=Ethers&color=2535A0&logo=Ethers&logoColor=FFFFFF&label=)
 ![Ethiopian Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Ethiopian+Airlines&color=648B1A&logo=Ethiopian+Airlines&logoColor=FFFFFF&label=)
 ![Etihad Airways](https://img.shields.io/static/v1?style=for-the-badge&message=Etihad+Airways&color=BD8B13&logo=Etihad+Airways&logoColor=FFFFFF&label=)
 ![Etsy](https://img.shields.io/static/v1?style=for-the-badge&message=Etsy&color=F16521&logo=Etsy&logoColor=FFFFFF&label=)

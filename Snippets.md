@@ -3394,6 +3394,10 @@
 ```markdown
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
 ```
+## ![Ethers](https://img.shields.io/static/v1?style=for-the-badge&message=Ethers&color=2535A0&logo=Ethers&logoColor=FFFFFF&label=)
+```markdown
+![Ethers](https://img.shields.io/static/v1?style=for-the-badge&message=Ethers&color=2535A0&logo=Ethers&logoColor=FFFFFF&label=)
+```
 ## ![Ethiopian Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Ethiopian+Airlines&color=648B1A&logo=Ethiopian+Airlines&logoColor=FFFFFF&label=)
 ```markdown
 ![Ethiopian Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Ethiopian+Airlines&color=648B1A&logo=Ethiopian+Airlines&logoColor=FFFFFF&label=)
