@@ -1258,6 +1258,10 @@
 ```markdown
 ![Bastyon](https://img.shields.io/static/v1?style=for-the-badge&message=Bastyon&color=00A4FF&logo=Bastyon&logoColor=FFFFFF&label=)
 ```
+## ![bat](https://img.shields.io/static/v1?style=for-the-badge&message=bat&color=31369E&logo=bat&logoColor=FFFFFF&label=)
+```markdown
+![bat](https://img.shields.io/static/v1?style=for-the-badge&message=bat&color=31369E&logo=bat&logoColor=FFFFFF&label=)
+```
 ## ![Bata](https://img.shields.io/static/v1?style=for-the-badge&message=Bata&color=DD282E&logo=Bata&logoColor=FFFFFF&label=)
 ```markdown
 ![Bata](https://img.shields.io/static/v1?style=for-the-badge&message=Bata&color=DD282E&logo=Bata&logoColor=FFFFFF&label=)
@@ -6370,6 +6374,10 @@
 ```markdown
 ![Malt](https://img.shields.io/static/v1?style=for-the-badge&message=Malt&color=FC5757&logo=Malt&logoColor=FFFFFF&label=)
 ```
+## ![Malwarebytes](https://img.shields.io/static/v1?style=for-the-badge&message=Malwarebytes&color=0D3ECC&logo=Malwarebytes&logoColor=FFFFFF&label=)
+```markdown
+![Malwarebytes](https://img.shields.io/static/v1?style=for-the-badge&message=Malwarebytes&color=0D3ECC&logo=Malwarebytes&logoColor=FFFFFF&label=)
+```
 ## ![Mamba UI](https://img.shields.io/static/v1?style=for-the-badge&message=Mamba+UI&color=6D28D9&logo=Mamba+UI&logoColor=FFFFFF&label=)
 ```markdown
 ![Mamba UI](https://img.shields.io/static/v1?style=for-the-badge&message=Mamba+UI&color=6D28D9&logo=Mamba+UI&logoColor=FFFFFF&label=)
@@ -7869,6 +7877,10 @@
 ## ![Parity Substrate](https://img.shields.io/static/v1?style=for-the-badge&message=Parity+Substrate&color=282828&logo=Parity+Substrate&logoColor=FFFFFF&label=)
 ```markdown
 ![Parity Substrate](https://img.shields.io/static/v1?style=for-the-badge&message=Parity+Substrate&color=282828&logo=Parity+Substrate&logoColor=FFFFFF&label=)
+```
+## ![Parrot Security](https://img.shields.io/static/v1?style=for-the-badge&message=Parrot+Security&color=222222&logo=Parrot+Security&logoColor=15E0ED&label=)
+```markdown
+![Parrot Security](https://img.shields.io/static/v1?style=for-the-badge&message=Parrot+Security&color=222222&logo=Parrot+Security&logoColor=15E0ED&label=)
 ```
 ## ![Parse.ly](https://img.shields.io/static/v1?style=for-the-badge&message=Parse.ly&color=5BA745&logo=Parse.ly&logoColor=FFFFFF&label=)
 ```markdown
