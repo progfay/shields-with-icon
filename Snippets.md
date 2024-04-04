@@ -3810,9 +3810,9 @@
 ```markdown
 ![Fonoma](https://img.shields.io/static/v1?style=for-the-badge&message=Fonoma&color=02B78F&logo=Fonoma&logoColor=FFFFFF&label=)
 ```
-## ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
+## ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=538DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ```markdown
-![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
+![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=538DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ```
 ## ![FontBase](https://img.shields.io/static/v1?style=for-the-badge&message=FontBase&color=3D03A7&logo=FontBase&logoColor=FFFFFF&label=)
 ```markdown
@@ -9197,6 +9197,10 @@
 ## ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
 ```markdown
 ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
+```
+## ![Rocket](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket&color=D33847&logo=Rocket&logoColor=FFFFFF&label=)
+```markdown
+![Rocket](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket&color=D33847&logo=Rocket&logoColor=FFFFFF&label=)
 ```
 ## ![Rocket.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket.Chat&color=F5455C&logo=Rocket.Chat&logoColor=FFFFFF&label=)
 ```markdown
