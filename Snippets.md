@@ -2430,6 +2430,10 @@
 ```markdown
 ![Cooler Master](https://img.shields.io/static/v1?style=for-the-badge&message=Cooler+Master&color=1E1E28&logo=Cooler+Master&logoColor=FFFFFF&label=)
 ```
+## ![Copa Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Copa+Airlines&color=0032A0&logo=Copa+Airlines&logoColor=FFFFFF&label=)
+```markdown
+![Copa Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Copa+Airlines&color=0032A0&logo=Copa+Airlines&logoColor=FFFFFF&label=)
+```
 ## ![Coppel](https://img.shields.io/static/v1?style=for-the-badge&message=Coppel&color=0266AE&logo=Coppel&logoColor=FFFFFF&label=)
 ```markdown
 ![Coppel](https://img.shields.io/static/v1?style=for-the-badge&message=Coppel&color=0266AE&logo=Coppel&logoColor=FFFFFF&label=)
@@ -5173,6 +5177,10 @@
 ## ![Indeed](https://img.shields.io/static/v1?style=for-the-badge&message=Indeed&color=003A9B&logo=Indeed&logoColor=FFFFFF&label=)
 ```markdown
 ![Indeed](https://img.shields.io/static/v1?style=for-the-badge&message=Indeed&color=003A9B&logo=Indeed&logoColor=FFFFFF&label=)
+```
+## ![Indian Super League](https://img.shields.io/static/v1?style=for-the-badge&message=Indian+Super+League&color=ED2F21&logo=Indian+Super+League&logoColor=FFFFFF&label=)
+```markdown
+![Indian Super League](https://img.shields.io/static/v1?style=for-the-badge&message=Indian+Super+League&color=ED2F21&logo=Indian+Super+League&logoColor=FFFFFF&label=)
 ```
 ## ![Indie Hackers](https://img.shields.io/static/v1?style=for-the-badge&message=Indie+Hackers&color=0E2439&logo=Indie+Hackers&logoColor=FFFFFF&label=)
 ```markdown
@@ -8166,6 +8174,10 @@
 ```markdown
 ![pixiv](https://img.shields.io/static/v1?style=for-the-badge&message=pixiv&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
 ```
+## ![Pixlr](https://img.shields.io/static/v1?style=for-the-badge&message=Pixlr&color=222222&logo=Pixlr&logoColor=3EBBDF&label=)
+```markdown
+![Pixlr](https://img.shields.io/static/v1?style=for-the-badge&message=Pixlr&color=222222&logo=Pixlr&logoColor=3EBBDF&label=)
+```
 ## ![pkgsrc](https://img.shields.io/static/v1?style=for-the-badge&message=pkgsrc&color=FF6600&logo=pkgsrc&logoColor=FFFFFF&label=)
 ```markdown
 ![pkgsrc](https://img.shields.io/static/v1?style=for-the-badge&message=pkgsrc&color=FF6600&logo=pkgsrc&logoColor=FFFFFF&label=)
@@ -10349,6 +10361,10 @@
 ## ![Stellar](https://img.shields.io/static/v1?style=for-the-badge&message=Stellar&color=7D00FF&logo=Stellar&logoColor=FFFFFF&label=)
 ```markdown
 ![Stellar](https://img.shields.io/static/v1?style=for-the-badge&message=Stellar&color=7D00FF&logo=Stellar&logoColor=FFFFFF&label=)
+```
+## ![Stencil](https://img.shields.io/static/v1?style=for-the-badge&message=Stencil&color=5530FF&logo=Stencil&logoColor=FFFFFF&label=)
+```markdown
+![Stencil](https://img.shields.io/static/v1?style=for-the-badge&message=Stencil&color=5530FF&logo=Stencil&logoColor=FFFFFF&label=)
 ```
 ## ![Stencyl](https://img.shields.io/static/v1?style=for-the-badge&message=Stencyl&color=8E1C04&logo=Stencyl&logoColor=FFFFFF&label=)
 ```markdown
