@@ -442,9 +442,9 @@
 ```markdown
 ![AlloCiné](https://img.shields.io/static/v1?style=for-the-badge&message=AlloCin%C3%A9&color=222222&logo=AlloCin%C3%A9&logoColor=FECC00&label=)
 ```
-## ![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=428813&logo=AllTrails&logoColor=FFFFFF&label=)
+## ![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=142800&logo=AllTrails&logoColor=FFFFFF&label=)
 ```markdown
-![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=428813&logo=AllTrails&logoColor=FFFFFF&label=)
+![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=142800&logo=AllTrails&logoColor=FFFFFF&label=)
 ```
 ## ![AlmaLinux](https://img.shields.io/static/v1?style=for-the-badge&message=AlmaLinux&color=000000&logo=AlmaLinux&logoColor=FFFFFF&label=)
 ```markdown

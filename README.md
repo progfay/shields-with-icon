@@ -109,7 +109,7 @@
 ![Allegro](https://img.shields.io/static/v1?style=for-the-badge&message=Allegro&color=FF5A00&logo=Allegro&logoColor=FFFFFF&label=)
 ![AlliedModders](https://img.shields.io/static/v1?style=for-the-badge&message=AlliedModders&color=1578D3&logo=AlliedModders&logoColor=FFFFFF&label=)
 ![AlloCiné](https://img.shields.io/static/v1?style=for-the-badge&message=AlloCin%C3%A9&color=222222&logo=AlloCin%C3%A9&logoColor=FECC00&label=)
-![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=428813&logo=AllTrails&logoColor=FFFFFF&label=)
+![AllTrails](https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=142800&logo=AllTrails&logoColor=FFFFFF&label=)
 ![AlmaLinux](https://img.shields.io/static/v1?style=for-the-badge&message=AlmaLinux&color=000000&logo=AlmaLinux&logoColor=FFFFFF&label=)
 ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
 ![Alpine.js](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
