@@ -5554,6 +5554,10 @@
 ```markdown
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 ```
+## ![JSR](https://img.shields.io/static/v1?style=for-the-badge&message=JSR&color=222222&logo=JSR&logoColor=F7DF1E&label=)
+```markdown
+![JSR](https://img.shields.io/static/v1?style=for-the-badge&message=JSR&color=222222&logo=JSR&logoColor=F7DF1E&label=)
+```
 ## ![JSS](https://img.shields.io/static/v1?style=for-the-badge&message=JSS&color=222222&logo=JSS&logoColor=F7DF1E&label=)
 ```markdown
 ![JSS](https://img.shields.io/static/v1?style=for-the-badge&message=JSS&color=222222&logo=JSS&logoColor=F7DF1E&label=)
@@ -10485,6 +10489,10 @@
 ## ![Sumo Logic](https://img.shields.io/static/v1?style=for-the-badge&message=Sumo+Logic&color=000099&logo=Sumo+Logic&logoColor=FFFFFF&label=)
 ```markdown
 ![Sumo Logic](https://img.shields.io/static/v1?style=for-the-badge&message=Sumo+Logic&color=000099&logo=Sumo+Logic&logoColor=FFFFFF&label=)
+```
+## ![Sunrise](https://img.shields.io/static/v1?style=for-the-badge&message=Sunrise&color=DA291C&logo=Sunrise&logoColor=FFFFFF&label=)
+```markdown
+![Sunrise](https://img.shields.io/static/v1?style=for-the-badge&message=Sunrise&color=DA291C&logo=Sunrise&logoColor=FFFFFF&label=)
 ```
 ## ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ```markdown
