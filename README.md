@@ -2134,6 +2134,7 @@
 ![Progate](https://img.shields.io/static/v1?style=for-the-badge&message=Progate&color=380953&logo=Progate&logoColor=FFFFFF&label=)
 ![Progress](https://img.shields.io/static/v1?style=for-the-badge&message=Progress&color=222222&logo=Progress&logoColor=5CE500&label=)
 ![Prometheus](https://img.shields.io/static/v1?style=for-the-badge&message=Prometheus&color=E6522C&logo=Prometheus&logoColor=FFFFFF&label=)
+![Pronouns.page](https://img.shields.io/static/v1?style=for-the-badge&message=Pronouns.page&color=C71585&logo=Pronouns.page&logoColor=FFFFFF&label=)
 ![ProSieben](https://img.shields.io/static/v1?style=for-the-badge&message=ProSieben&color=E6000F&logo=ProSieben&logoColor=FFFFFF&label=)
 ![Proteus](https://img.shields.io/static/v1?style=for-the-badge&message=Proteus&color=1C79B3&logo=Proteus&logoColor=FFFFFF&label=)
 ![Proto.io](https://img.shields.io/static/v1?style=for-the-badge&message=Proto.io&color=34A7C1&logo=Proto.io&logoColor=FFFFFF&label=)
