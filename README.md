@@ -2383,6 +2383,7 @@
 ![Scania](https://img.shields.io/static/v1?style=for-the-badge&message=Scania&color=041E42&logo=Scania&logoColor=FFFFFF&label=)
 ![Schneider Electric](https://img.shields.io/static/v1?style=for-the-badge&message=Schneider+Electric&color=222222&logo=Schneider+Electric&logoColor=3DCD58&label=)
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+![Scilab](https://img.shields.io/static/v1?style=for-the-badge&message=Scilab&color=CD1925&logo=Scilab&logoColor=FFFFFF&label=)
 ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
 ![Scopus](https://img.shields.io/static/v1?style=for-the-badge&message=Scopus&color=E9711C&logo=Scopus&logoColor=FFFFFF&label=)
 ![SCP Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=SCP+Foundation&color=222222&logo=SCP+Foundation&logoColor=FFFFFF&label=)

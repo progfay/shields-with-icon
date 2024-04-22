@@ -9538,6 +9538,10 @@
 ```markdown
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ```
+## ![Scilab](https://img.shields.io/static/v1?style=for-the-badge&message=Scilab&color=CD1925&logo=Scilab&logoColor=FFFFFF&label=)
+```markdown
+![Scilab](https://img.shields.io/static/v1?style=for-the-badge&message=Scilab&color=CD1925&logo=Scilab&logoColor=FFFFFF&label=)
+```
 ## ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
 ```markdown
 ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
