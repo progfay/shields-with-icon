@@ -6174,9 +6174,9 @@
 ```markdown
 ![Linux Containers](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Containers&color=333333&logo=Linux+Containers&logoColor=FFFFFF&label=)
 ```
-## ![Linux Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Foundation&color=003366&logo=Linux+Foundation&logoColor=FFFFFF&label=)
+## ![Linux Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Foundation&color=003778&logo=Linux+Foundation&logoColor=FFFFFF&label=)
 ```markdown
-![Linux Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Foundation&color=003366&logo=Linux+Foundation&logoColor=FFFFFF&label=)
+![Linux Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Foundation&color=003778&logo=Linux+Foundation&logoColor=FFFFFF&label=)
 ```
 ## ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
 ```markdown
@@ -7346,9 +7346,9 @@
 ```markdown
 ![Node-RED](https://img.shields.io/static/v1?style=for-the-badge&message=Node-RED&color=8F0000&logo=Node-RED&logoColor=FFFFFF&label=)
 ```
-## ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+## ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ```markdown
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ```
 ## ![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
 ```markdown
