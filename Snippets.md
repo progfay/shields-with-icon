@@ -1162,6 +1162,10 @@
 ```markdown
 ![AWS Secrets Manager](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Secrets+Manager&color=DD344C&logo=AWS+Secrets+Manager&logoColor=FFFFFF&label=)
 ```
+## ![Awwwards](https://img.shields.io/static/v1?style=for-the-badge&message=Awwwards&color=222222&logo=Awwwards&logoColor=FFFFFF&label=)
+```markdown
+![Awwwards](https://img.shields.io/static/v1?style=for-the-badge&message=Awwwards&color=222222&logo=Awwwards&logoColor=FFFFFF&label=)
+```
 ## ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ```markdown
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
@@ -3893,6 +3897,10 @@
 ## ![Fossil SCM](https://img.shields.io/static/v1?style=for-the-badge&message=Fossil+SCM&color=548294&logo=Fossil+SCM&logoColor=FFFFFF&label=)
 ```markdown
 ![Fossil SCM](https://img.shields.io/static/v1?style=for-the-badge&message=Fossil+SCM&color=548294&logo=Fossil+SCM&logoColor=FFFFFF&label=)
+```
+## ![Foundry Virtual Tabletop](https://img.shields.io/static/v1?style=for-the-badge&message=Foundry+Virtual+Tabletop&color=FE6A1F&logo=Foundry+Virtual+Tabletop&logoColor=FFFFFF&label=)
+```markdown
+![Foundry Virtual Tabletop](https://img.shields.io/static/v1?style=for-the-badge&message=Foundry+Virtual+Tabletop&color=FE6A1F&logo=Foundry+Virtual+Tabletop&logoColor=FFFFFF&label=)
 ```
 ## ![Foursquare](https://img.shields.io/static/v1?style=for-the-badge&message=Foursquare&color=3333FF&logo=Foursquare&logoColor=FFFFFF&label=)
 ```markdown
@@ -12513,6 +12521,10 @@
 ## ![Zigbee](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee&color=EB0443&logo=Zigbee&logoColor=FFFFFF&label=)
 ```markdown
 ![Zigbee](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee&color=EB0443&logo=Zigbee&logoColor=FFFFFF&label=)
+```
+## ![Zigbee2MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee2MQTT&color=222222&logo=Zigbee2MQTT&logoColor=FFC135&label=)
+```markdown
+![Zigbee2MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=Zigbee2MQTT&color=222222&logo=Zigbee2MQTT&logoColor=FFC135&label=)
 ```
 ## ![Ziggo](https://img.shields.io/static/v1?style=for-the-badge&message=Ziggo&color=222222&logo=Ziggo&logoColor=F48C00&label=)
 ```markdown
