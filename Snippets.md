@@ -4946,6 +4946,10 @@
 ```markdown
 ![Homebridge](https://img.shields.io/static/v1?style=for-the-badge&message=Homebridge&color=491F59&logo=Homebridge&logoColor=FFFFFF&label=)
 ```
+## ![Homepage](https://img.shields.io/static/v1?style=for-the-badge&message=Homepage&color=009BD5&logo=Homepage&logoColor=FFFFFF&label=)
+```markdown
+![Homepage](https://img.shields.io/static/v1?style=for-the-badge&message=Homepage&color=009BD5&logo=Homepage&logoColor=FFFFFF&label=)
+```
 ## ![homify](https://img.shields.io/static/v1?style=for-the-badge&message=homify&color=222222&logo=homify&logoColor=7DCDA3&label=)
 ```markdown
 ![homify](https://img.shields.io/static/v1?style=for-the-badge&message=homify&color=222222&logo=homify&logoColor=7DCDA3&label=)
@@ -8458,6 +8462,10 @@
 ```markdown
 ![PortSwigger](https://img.shields.io/static/v1?style=for-the-badge&message=PortSwigger&color=FF6633&logo=PortSwigger&logoColor=FFFFFF&label=)
 ```
+## ![Posit](https://img.shields.io/static/v1?style=for-the-badge&message=Posit&color=447099&logo=Posit&logoColor=FFFFFF&label=)
+```markdown
+![Posit](https://img.shields.io/static/v1?style=for-the-badge&message=Posit&color=447099&logo=Posit&logoColor=FFFFFF&label=)
+```
 ## ![PostCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=PostCSS&logoColor=FFFFFF&label=)
 ```markdown
 ![PostCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=PostCSS&logoColor=FFFFFF&label=)
@@ -9022,6 +9030,10 @@
 ```markdown
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ```
+## ![React Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=React+Bootstrap&color=222222&logo=React+Bootstrap&logoColor=41E0FD&label=)
+```markdown
+![React Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=React+Bootstrap&color=222222&logo=React+Bootstrap&logoColor=41E0FD&label=)
+```
 ## ![React Hook Form](https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
 ```markdown
 ![React Hook Form](https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
@@ -9410,9 +9422,9 @@
 ```markdown
 ![RSS](https://img.shields.io/static/v1?style=for-the-badge&message=RSS&color=222222&logo=RSS&logoColor=FFA500&label=)
 ```
-## ![RStudio](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label=)
+## ![RStudio IDE](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio+IDE&color=222222&logo=RStudio+IDE&logoColor=75AADB&label=)
 ```markdown
-![RStudio](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label=)
+![RStudio IDE](https://img.shields.io/static/v1?style=for-the-badge&message=RStudio+IDE&color=222222&logo=RStudio+IDE&logoColor=75AADB&label=)
 ```
 ## ![RTÉ](https://img.shields.io/static/v1?style=for-the-badge&message=RT%C3%89&color=00A7B3&logo=RT%C3%89&logoColor=FFFFFF&label=)
 ```markdown
