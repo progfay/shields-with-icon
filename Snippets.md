@@ -5854,6 +5854,10 @@
 ```markdown
 ![KNIME](https://img.shields.io/static/v1?style=for-the-badge&message=KNIME&color=222222&logo=KNIME&logoColor=FDD800&label=)
 ```
+## ![Knip](https://img.shields.io/static/v1?style=for-the-badge&message=Knip&color=F56E0F&logo=Knip&logoColor=FFFFFF&label=)
+```markdown
+![Knip](https://img.shields.io/static/v1?style=for-the-badge&message=Knip&color=F56E0F&logo=Knip&logoColor=FFFFFF&label=)
+```
 ## ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=9146FF&logo=KnowledgeBase&logoColor=FFFFFF&label=)
 ```markdown
 ![KnowledgeBase](https://img.shields.io/static/v1?style=for-the-badge&message=KnowledgeBase&color=9146FF&logo=KnowledgeBase&logoColor=FFFFFF&label=)
@@ -9026,6 +9030,10 @@
 ```markdown
 ![Razorpay](https://img.shields.io/static/v1?style=for-the-badge&message=Razorpay&color=0C2451&logo=Razorpay&logoColor=FFFFFF&label=)
 ```
+## ![Rclone](https://img.shields.io/static/v1?style=for-the-badge&message=Rclone&color=3F79AD&logo=Rclone&logoColor=FFFFFF&label=)
+```markdown
+![Rclone](https://img.shields.io/static/v1?style=for-the-badge&message=Rclone&color=3F79AD&logo=Rclone&logoColor=FFFFFF&label=)
+```
 ## ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ```markdown
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
@@ -9118,9 +9126,9 @@
 ```markdown
 ![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)
 ```
-## ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+## ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF&label=)
 ```markdown
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF&label=)
 ```
 ## ![Redmine](https://img.shields.io/static/v1?style=for-the-badge&message=Redmine&color=B32024&logo=Redmine&logoColor=FFFFFF&label=)
 ```markdown
@@ -12093,6 +12101,10 @@
 ## ![WezTerm](https://img.shields.io/static/v1?style=for-the-badge&message=WezTerm&color=4E49EE&logo=WezTerm&logoColor=FFFFFF&label=)
 ```markdown
 ![WezTerm](https://img.shields.io/static/v1?style=for-the-badge&message=WezTerm&color=4E49EE&logo=WezTerm&logoColor=FFFFFF&label=)
+```
+## ![wgpu](https://img.shields.io/static/v1?style=for-the-badge&message=wgpu&color=222222&logo=wgpu&logoColor=40E0D0&label=)
+```markdown
+![wgpu](https://img.shields.io/static/v1?style=for-the-badge&message=wgpu&color=222222&logo=wgpu&logoColor=40E0D0&label=)
 ```
 ## ![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=)
 ```markdown
