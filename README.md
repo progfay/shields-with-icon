@@ -2552,7 +2552,7 @@
 ![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=222222&logo=Sony&logoColor=FFFFFF&label=)
 ![Soriana](https://img.shields.io/static/v1?style=for-the-badge&message=Soriana&color=D52B1E&logo=Soriana&logoColor=FFFFFF&label=)
 ![Soundcharts](https://img.shields.io/static/v1?style=for-the-badge&message=Soundcharts&color=0C1528&logo=Soundcharts&logoColor=FFFFFF&label=)
-![SoundCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)
+![SoundCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SoundCloud&color=FF5500&logo=SoundCloud&logoColor=FFFFFF&label=)
 ![Source Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Source+Engine&color=222222&logo=Source+Engine&logoColor=F79A10&label=)
 ![SourceForge](https://img.shields.io/static/v1?style=for-the-badge&message=SourceForge&color=FF6600&logo=SourceForge&logoColor=FFFFFF&label=)
 ![SourceHut](https://img.shields.io/static/v1?style=for-the-badge&message=SourceHut&color=000000&logo=SourceHut&logoColor=FFFFFF&label=)
