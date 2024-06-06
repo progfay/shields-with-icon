@@ -14,9 +14,17 @@
 ```markdown
 ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
 ```
+## ![1Panel](https://img.shields.io/static/v1?style=for-the-badge&message=1Panel&color=0854C1&logo=1Panel&logoColor=FFFFFF&label=)
+```markdown
+![1Panel](https://img.shields.io/static/v1?style=for-the-badge&message=1Panel&color=0854C1&logo=1Panel&logoColor=FFFFFF&label=)
+```
 ## ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=3B66BC&logo=1Password&logoColor=FFFFFF&label=)
 ```markdown
 ![1Password](https://img.shields.io/static/v1?style=for-the-badge&message=1Password&color=3B66BC&logo=1Password&logoColor=FFFFFF&label=)
+```
+## ![2FAS](https://img.shields.io/static/v1?style=for-the-badge&message=2FAS&color=EC1C24&logo=2FAS&logoColor=FFFFFF&label=)
+```markdown
+![2FAS](https://img.shields.io/static/v1?style=for-the-badge&message=2FAS&color=EC1C24&logo=2FAS&logoColor=FFFFFF&label=)
 ```
 ## ![2K](https://img.shields.io/static/v1?style=for-the-badge&message=2K&color=DD0700&logo=2K&logoColor=FFFFFF&label=)
 ```markdown
