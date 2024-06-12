@@ -1034,6 +1034,10 @@
 ```markdown
 ![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=00665E&logo=Aston+Martin&logoColor=FFFFFF&label=)
 ```
+## ![Astra](https://img.shields.io/static/v1?style=for-the-badge&message=Astra&color=5C2EDE&logo=Astra&logoColor=FFFFFF&label=)
+```markdown
+![Astra](https://img.shields.io/static/v1?style=for-the-badge&message=Astra&color=5C2EDE&logo=Astra&logoColor=FFFFFF&label=)
+```
 ## ![Astral](https://img.shields.io/static/v1?style=for-the-badge&message=Astral&color=261230&logo=Astral&logoColor=FFFFFF&label=)
 ```markdown
 ![Astral](https://img.shields.io/static/v1?style=for-the-badge&message=Astral&color=261230&logo=Astral&logoColor=FFFFFF&label=)
@@ -2794,6 +2798,10 @@
 ```markdown
 ![date-fns](https://img.shields.io/static/v1?style=for-the-badge&message=date-fns&color=770C56&logo=date-fns&logoColor=FFFFFF&label=)
 ```
+## ![DATEV](https://img.shields.io/static/v1?style=for-the-badge&message=DATEV&color=222222&logo=DATEV&logoColor=9BD547&label=)
+```markdown
+![DATEV](https://img.shields.io/static/v1?style=for-the-badge&message=DATEV&color=222222&logo=DATEV&logoColor=9BD547&label=)
+```
 ## ![DatoCMS](https://img.shields.io/static/v1?style=for-the-badge&message=DatoCMS&color=FF7751&logo=DatoCMS&logoColor=FFFFFF&label=)
 ```markdown
 ![DatoCMS](https://img.shields.io/static/v1?style=for-the-badge&message=DatoCMS&color=FF7751&logo=DatoCMS&logoColor=FFFFFF&label=)
@@ -3185,6 +3193,10 @@
 ## ![Duolingo](https://img.shields.io/static/v1?style=for-the-badge&message=Duolingo&color=222222&logo=Duolingo&logoColor=58CC02&label=)
 ```markdown
 ![Duolingo](https://img.shields.io/static/v1?style=for-the-badge&message=Duolingo&color=222222&logo=Duolingo&logoColor=58CC02&label=)
+```
+## ![Duplicati](https://img.shields.io/static/v1?style=for-the-badge&message=Duplicati&color=1E3A8A&logo=Duplicati&logoColor=FFFFFF&label=)
+```markdown
+![Duplicati](https://img.shields.io/static/v1?style=for-the-badge&message=Duplicati&color=1E3A8A&logo=Duplicati&logoColor=FFFFFF&label=)
 ```
 ## ![DVC](https://img.shields.io/static/v1?style=for-the-badge&message=DVC&color=13ADC7&logo=DVC&logoColor=FFFFFF&label=)
 ```markdown
@@ -12041,6 +12053,10 @@
 ## ![Wacom](https://img.shields.io/static/v1?style=for-the-badge&message=Wacom&color=000000&logo=Wacom&logoColor=FFFFFF&label=)
 ```markdown
 ![Wacom](https://img.shields.io/static/v1?style=for-the-badge&message=Wacom&color=000000&logo=Wacom&logoColor=FFFFFF&label=)
+```
+## ![Wagmi](https://img.shields.io/static/v1?style=for-the-badge&message=Wagmi&color=000000&logo=Wagmi&logoColor=FFFFFF&label=)
+```markdown
+![Wagmi](https://img.shields.io/static/v1?style=for-the-badge&message=Wagmi&color=000000&logo=Wagmi&logoColor=FFFFFF&label=)
 ```
 ## ![Wagtail](https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=)
 ```markdown
