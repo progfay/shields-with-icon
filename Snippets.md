@@ -1118,6 +1118,10 @@
 ```markdown
 ![AutoCAD](https://img.shields.io/static/v1?style=for-the-badge&message=AutoCAD&color=E51050&logo=AutoCAD&logoColor=FFFFFF&label=)
 ```
+## ![AutoCannon](https://img.shields.io/static/v1?style=for-the-badge&message=AutoCannon&color=3BA4B7&logo=AutoCannon&logoColor=FFFFFF&label=)
+```markdown
+![AutoCannon](https://img.shields.io/static/v1?style=for-the-badge&message=AutoCannon&color=3BA4B7&logo=AutoCannon&logoColor=FFFFFF&label=)
+```
 ## ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
 ```markdown
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=000000&logo=Autodesk&logoColor=FFFFFF&label=)
@@ -4786,6 +4790,10 @@
 ```markdown
 ![Gurobi](https://img.shields.io/static/v1?style=for-the-badge&message=Gurobi&color=EE3524&logo=Gurobi&logoColor=FFFFFF&label=)
 ```
+## ![Gusto](https://img.shields.io/static/v1?style=for-the-badge&message=Gusto&color=F45D48&logo=Gusto&logoColor=FFFFFF&label=)
+```markdown
+![Gusto](https://img.shields.io/static/v1?style=for-the-badge&message=Gusto&color=F45D48&logo=Gusto&logoColor=FFFFFF&label=)
+```
 ## ![Gutenberg](https://img.shields.io/static/v1?style=for-the-badge&message=Gutenberg&color=000000&logo=Gutenberg&logoColor=FFFFFF&label=)
 ```markdown
 ![Gutenberg](https://img.shields.io/static/v1?style=for-the-badge&message=Gutenberg&color=000000&logo=Gutenberg&logoColor=FFFFFF&label=)
@@ -5161,6 +5169,10 @@
 ## ![Hypothesis](https://img.shields.io/static/v1?style=for-the-badge&message=Hypothesis&color=BD1C2B&logo=Hypothesis&logoColor=FFFFFF&label=)
 ```markdown
 ![Hypothesis](https://img.shields.io/static/v1?style=for-the-badge&message=Hypothesis&color=BD1C2B&logo=Hypothesis&logoColor=FFFFFF&label=)
+```
+## ![Hyprland](https://img.shields.io/static/v1?style=for-the-badge&message=Hyprland&color=222222&logo=Hyprland&logoColor=58E1FF&label=)
+```markdown
+![Hyprland](https://img.shields.io/static/v1?style=for-the-badge&message=Hyprland&color=222222&logo=Hyprland&logoColor=58E1FF&label=)
 ```
 ## ![Hyundai](https://img.shields.io/static/v1?style=for-the-badge&message=Hyundai&color=002C5E&logo=Hyundai&logoColor=FFFFFF&label=)
 ```markdown
@@ -8701,6 +8713,14 @@
 ## ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
 ```markdown
 ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
+```
+## ![PrimeNG](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeNG&color=DD0031&logo=PrimeNG&logoColor=FFFFFF&label=)
+```markdown
+![PrimeNG](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeNG&color=DD0031&logo=PrimeNG&logoColor=FFFFFF&label=)
+```
+## ![PrimeReact](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeReact&color=222222&logo=PrimeReact&logoColor=03C4E8&label=)
+```markdown
+![PrimeReact](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeReact&color=222222&logo=PrimeReact&logoColor=03C4E8&label=)
 ```
 ## ![Printables](https://img.shields.io/static/v1?style=for-the-badge&message=Printables&color=FA6831&logo=Printables&logoColor=FFFFFF&label=)
 ```markdown
@@ -12441,6 +12461,10 @@
 ## ![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)
 ```markdown
 ![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)
+```
+## ![Wykop](https://img.shields.io/static/v1?style=for-the-badge&message=Wykop&color=367DA9&logo=Wykop&logoColor=FFFFFF&label=)
+```markdown
+![Wykop](https://img.shields.io/static/v1?style=for-the-badge&message=Wykop&color=367DA9&logo=Wykop&logoColor=FFFFFF&label=)
 ```
 ## ![Wyze](https://img.shields.io/static/v1?style=for-the-badge&message=Wyze&color=222222&logo=Wyze&logoColor=1DF0BB&label=)
 ```markdown
