@@ -4250,6 +4250,10 @@
 ```markdown
 ![Git Extensions](https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=)
 ```
+## ![Git for Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Git+for+Windows&color=222222&logo=Git+for+Windows&logoColor=80B3FF&label=)
+```markdown
+![Git for Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Git+for+Windows&color=222222&logo=Git+for+Windows&logoColor=80B3FF&label=)
+```
 ## ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
 ```markdown
 ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
