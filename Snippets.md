@@ -10,6 +10,10 @@
 ```markdown
 ![/e/](https://img.shields.io/static/v1?style=for-the-badge&message=%2Fe%2F&color=000000&logo=%2Fe%2F&logoColor=FFFFFF&label=)
 ```
+## ![1.1.1.1](https://img.shields.io/static/v1?style=for-the-badge&message=1.1.1.1&color=221E68&logo=1.1.1.1&logoColor=FFFFFF&label=)
+```markdown
+![1.1.1.1](https://img.shields.io/static/v1?style=for-the-badge&message=1.1.1.1&color=221E68&logo=1.1.1.1&logoColor=FFFFFF&label=)
+```
 ## ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
 ```markdown
 ![1001Tracklists](https://img.shields.io/static/v1?style=for-the-badge&message=1001Tracklists&color=222222&logo=1001Tracklists&logoColor=40AEF0&label=)
@@ -11453,6 +11457,10 @@
 ## ![Tripadvisor](https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor&color=222222&logo=Tripadvisor&logoColor=34E0A1&label=)
 ```markdown
 ![Tripadvisor](https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor&color=222222&logo=Tripadvisor&logoColor=34E0A1&label=)
+```
+## ![trivago](https://img.shields.io/static/v1?style=for-the-badge&message=trivago&color=E32851&logo=trivago&logoColor=FFFFFF&label=)
+```markdown
+![trivago](https://img.shields.io/static/v1?style=for-the-badge&message=trivago&color=E32851&logo=trivago&logoColor=FFFFFF&label=)
 ```
 ## ![Trivy](https://img.shields.io/static/v1?style=for-the-badge&message=Trivy&color=1904DA&logo=Trivy&logoColor=FFFFFF&label=)
 ```markdown
