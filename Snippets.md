@@ -2938,10 +2938,6 @@
 ```markdown
 ![Der Spiegel](https://img.shields.io/static/v1?style=for-the-badge&message=Der+Spiegel&color=E64415&logo=Der+Spiegel&logoColor=FFFFFF&label=)
 ```
-## ![Designer News](https://img.shields.io/static/v1?style=for-the-badge&message=Designer+News&color=2D72D9&logo=Designer+News&logoColor=FFFFFF&label=)
-```markdown
-![Designer News](https://img.shields.io/static/v1?style=for-the-badge&message=Designer+News&color=2D72D9&logo=Designer+News&logoColor=FFFFFF&label=)
-```
 ## ![Deutsche Bahn](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bahn&color=F01414&logo=Deutsche+Bahn&logoColor=FFFFFF&label=)
 ```markdown
 ![Deutsche Bahn](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bahn&color=F01414&logo=Deutsche+Bahn&logoColor=FFFFFF&label=)
@@ -3089,10 +3085,6 @@
 ## ![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=222222&logo=Docusaurus&logoColor=3ECC5F&label=)
 ```markdown
 ![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=222222&logo=Docusaurus&logoColor=3ECC5F&label=)
-```
-## ![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)
-```markdown
-![DocuSign](https://img.shields.io/static/v1?style=for-the-badge&message=DocuSign&color=222222&logo=DocuSign&logoColor=FFCC22&label=)
 ```
 ## ![Dogecoin](https://img.shields.io/static/v1?style=for-the-badge&message=Dogecoin&color=222222&logo=Dogecoin&logoColor=C2A633&label=)
 ```markdown
@@ -5209,18 +5201,6 @@
 ## ![Iberia](https://img.shields.io/static/v1?style=for-the-badge&message=Iberia&color=D7192D&logo=Iberia&logoColor=FFFFFF&label=)
 ```markdown
 ![Iberia](https://img.shields.io/static/v1?style=for-the-badge&message=Iberia&color=D7192D&logo=Iberia&logoColor=FFFFFF&label=)
-```
-## ![IBM](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=)
-```markdown
-![IBM](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=)
-```
-## ![IBM Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Cloud&color=1261FE&logo=IBM+Cloud&logoColor=FFFFFF&label=)
-```markdown
-![IBM Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Cloud&color=1261FE&logo=IBM+Cloud&logoColor=FFFFFF&label=)
-```
-## ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
-```markdown
-![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
 ```
 ## ![Iced](https://img.shields.io/static/v1?style=for-the-badge&message=Iced&color=3645FF&logo=Iced&logoColor=FFFFFF&label=)
 ```markdown
@@ -9362,9 +9342,9 @@
 ```markdown
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=Render&logoColor=FFFFFF&label=)
 ```
-## ![RenovateBot](https://img.shields.io/static/v1?style=for-the-badge&message=RenovateBot&color=1A1F6C&logo=RenovateBot&logoColor=FFFFFF&label=)
+## ![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=1A1F6C&logo=Renovate&logoColor=FFFFFF&label=)
 ```markdown
-![RenovateBot](https://img.shields.io/static/v1?style=for-the-badge&message=RenovateBot&color=1A1F6C&logo=RenovateBot&logoColor=FFFFFF&label=)
+![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=1A1F6C&logo=Renovate&logoColor=FFFFFF&label=)
 ```
 ## ![Renren](https://img.shields.io/static/v1?style=for-the-badge&message=Renren&color=217DC6&logo=Renren&logoColor=FFFFFF&label=)
 ```markdown
