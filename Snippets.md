@@ -1214,26 +1214,6 @@
 ```markdown
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ```
-## ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
-```markdown
-![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
-```
-## ![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)
-```markdown
-![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)
-```
-## ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
-```markdown
-![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
-```
-## ![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
-```markdown
-![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
-```
-## ![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
-```markdown
-![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
-```
 ## ![B&R Automation](https://img.shields.io/static/v1?style=for-the-badge&message=B%26R+Automation&color=222222&logo=B%26R+Automation&logoColor=FF8800&label=)
 ```markdown
 ![B&R Automation](https://img.shields.io/static/v1?style=for-the-badge&message=B%26R+Automation&color=222222&logo=B%26R+Automation&logoColor=FF8800&label=)
@@ -1801,10 +1781,6 @@
 ## ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ```markdown
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-```
-## ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=)
-```markdown
-![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=)
 ```
 ## ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ```markdown
@@ -2738,10 +2714,6 @@
 ```markdown
 ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0A0A0A&logo=Dailymotion&logoColor=FFFFFF&label=)
 ```
-## ![Daimler](https://img.shields.io/static/v1?style=for-the-badge&message=Daimler&color=222222&logo=Daimler&logoColor=E6E6E6&label=)
-```markdown
-![Daimler](https://img.shields.io/static/v1?style=for-the-badge&message=Daimler&color=222222&logo=Daimler&logoColor=E6E6E6&label=)
-```
 ## ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
 ```markdown
 ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
@@ -2809,10 +2781,6 @@
 ## ![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=000000&logo=DataStax&logoColor=FFFFFF&label=)
 ```markdown
 ![DataStax](https://img.shields.io/static/v1?style=for-the-badge&message=DataStax&color=000000&logo=DataStax&logoColor=FFFFFF&label=)
-```
-## ![Dataverse](https://img.shields.io/static/v1?style=for-the-badge&message=Dataverse&color=088142&logo=Dataverse&logoColor=FFFFFF&label=)
-```markdown
-![Dataverse](https://img.shields.io/static/v1?style=for-the-badge&message=Dataverse&color=088142&logo=Dataverse&logoColor=FFFFFF&label=)
 ```
 ## ![date-fns](https://img.shields.io/static/v1?style=for-the-badge&message=date-fns&color=770C56&logo=date-fns&logoColor=FFFFFF&label=)
 ```markdown
@@ -3217,10 +3185,6 @@
 ## ![dwm](https://img.shields.io/static/v1?style=for-the-badge&message=dwm&color=1177AA&logo=dwm&logoColor=FFFFFF&label=)
 ```markdown
 ![dwm](https://img.shields.io/static/v1?style=for-the-badge&message=dwm&color=1177AA&logo=dwm&logoColor=FFFFFF&label=)
-```
-## ![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=0B53CE&logo=Dynamics+365&logoColor=FFFFFF&label=)
-```markdown
-![Dynamics 365](https://img.shields.io/static/v1?style=for-the-badge&message=Dynamics+365&color=0B53CE&logo=Dynamics+365&logoColor=FFFFFF&label=)
 ```
 ## ![Dynatrace](https://img.shields.io/static/v1?style=for-the-badge&message=Dynatrace&color=1496FF&logo=Dynatrace&logoColor=FFFFFF&label=)
 ```markdown
@@ -5458,10 +5422,6 @@
 ```markdown
 ![Internet Computer](https://img.shields.io/static/v1?style=for-the-badge&message=Internet+Computer&color=3B00B9&logo=Internet+Computer&logoColor=FFFFFF&label=)
 ```
-## ![Internet Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Internet+Explorer&color=0076D6&logo=Internet+Explorer&logoColor=FFFFFF&label=)
-```markdown
-![Internet Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Internet+Explorer&color=0076D6&logo=Internet+Explorer&logoColor=FFFFFF&label=)
-```
 ## ![Intigriti](https://img.shields.io/static/v1?style=for-the-badge&message=Intigriti&color=161A36&logo=Intigriti&logoColor=FFFFFF&label=)
 ```markdown
 ![Intigriti](https://img.shields.io/static/v1?style=for-the-badge&message=Intigriti&color=161A36&logo=Intigriti&logoColor=FFFFFF&label=)
@@ -6886,82 +6846,6 @@
 ```markdown
 ![MicroPython](https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=2B2728&logo=MicroPython&logoColor=FFFFFF&label=)
 ```
-## ![Microsoft](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft&color=5E5E5E&logo=Microsoft&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft&color=5E5E5E&logo=Microsoft&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Academic](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Academic&color=2D9FD9&logo=Microsoft+Academic&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Academic](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Academic&color=2D9FD9&logo=Microsoft+Academic&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Bing](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Bing&color=258FFA&logo=Microsoft+Bing&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Bing](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Bing&color=258FFA&logo=Microsoft+Bing&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Edge](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Edge&color=0078D7&logo=Microsoft+Edge&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Edge](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Edge&color=0078D7&logo=Microsoft+Edge&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Exchange](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Exchange&color=0078D4&logo=Microsoft+Exchange&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Exchange](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Exchange&color=0078D4&logo=Microsoft+Exchange&logoColor=FFFFFF&label=)
-```
-## ![Microsoft OneDrive](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneDrive&color=0078D4&logo=Microsoft+OneDrive&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft OneDrive](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneDrive&color=0078D4&logo=Microsoft+OneDrive&logoColor=FFFFFF&label=)
-```
-## ![Microsoft OneNote](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneNote&color=7719AA&logo=Microsoft+OneNote&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft OneNote](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneNote&color=7719AA&logo=Microsoft+OneNote&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)
-```
-## ![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
-```
-## ![Microsoft SharePoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft SharePoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=)
-```
-## ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Store](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Store&color=005FB8&logo=Microsoft+Store&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Store](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Store&color=005FB8&logo=Microsoft+Store&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Translator](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Translator&color=057B00&logo=Microsoft+Translator&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Translator](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Translator&color=057B00&logo=Microsoft+Translator&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
-```
-## ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
-```markdown
-![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
-```
 ## ![Microstation](https://img.shields.io/static/v1?style=for-the-badge&message=Microstation&color=222222&logo=Microstation&logoColor=62BB47&label=)
 ```markdown
 ![Microstation](https://img.shields.io/static/v1?style=for-the-badge&message=Microstation&color=222222&logo=Microstation&logoColor=62BB47&label=)
@@ -6993,10 +6877,6 @@
 ## ![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=)
 ```markdown
 ![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=)
-```
-## ![Minecraft](https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=3C8527&logo=Minecraft&logoColor=FFFFFF&label=)
-```markdown
-![Minecraft](https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=3C8527&logo=Minecraft&logoColor=FFFFFF&label=)
 ```
 ## ![Minetest](https://img.shields.io/static/v1?style=for-the-badge&message=Minetest&color=53AC56&logo=Minetest&logoColor=FFFFFF&label=)
 ```markdown
@@ -7085,10 +6965,6 @@
 ## ![MODX](https://img.shields.io/static/v1?style=for-the-badge&message=MODX&color=102C53&logo=MODX&logoColor=FFFFFF&label=)
 ```markdown
 ![MODX](https://img.shields.io/static/v1?style=for-the-badge&message=MODX&color=102C53&logo=MODX&logoColor=FFFFFF&label=)
-```
-## ![Mojang Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Mojang+Studios&color=EF323D&logo=Mojang+Studios&logoColor=FFFFFF&label=)
-```markdown
-![Mojang Studios](https://img.shields.io/static/v1?style=for-the-badge&message=Mojang+Studios&color=EF323D&logo=Mojang+Studios&logoColor=FFFFFF&label=)
 ```
 ## ![Moleculer](https://img.shields.io/static/v1?style=for-the-badge&message=Moleculer&color=3CAFCE&logo=Moleculer&logoColor=FFFFFF&label=)
 ```markdown
@@ -8470,10 +8346,6 @@
 ```markdown
 ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
 ```
-## ![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
-```markdown
-![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
-```
 ## ![Pleroma](https://img.shields.io/static/v1?style=for-the-badge&message=Pleroma&color=222222&logo=Pleroma&logoColor=FBA457&label=)
 ```markdown
 ![Pleroma](https://img.shields.io/static/v1?style=for-the-badge&message=Pleroma&color=222222&logo=Pleroma&logoColor=FBA457&label=)
@@ -8630,37 +8502,9 @@
 ```markdown
 ![Postmates](https://img.shields.io/static/v1?style=for-the-badge&message=Postmates&color=222222&logo=Postmates&logoColor=FFDF18&label=)
 ```
-## ![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
-```markdown
-![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
-```
-## ![Power Automate](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Automate&color=0066FF&logo=Power+Automate&logoColor=FFFFFF&label=)
-```markdown
-![Power Automate](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Automate&color=0066FF&logo=Power+Automate&logoColor=FFFFFF&label=)
-```
-## ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
-```markdown
-![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
-```
-## ![Power Fx](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Fx&color=7F2157&logo=Power+Fx&logoColor=FFFFFF&label=)
-```markdown
-![Power Fx](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Fx&color=7F2157&logo=Power+Fx&logoColor=FFFFFF&label=)
-```
-## ![Power Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Pages&color=A493E7&logo=Power+Pages&logoColor=FFFFFF&label=)
-```markdown
-![Power Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Pages&color=A493E7&logo=Power+Pages&logoColor=FFFFFF&label=)
-```
-## ![Power Virtual Agents](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Virtual+Agents&color=0B556A&logo=Power+Virtual+Agents&logoColor=FFFFFF&label=)
-```markdown
-![Power Virtual Agents](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Virtual+Agents&color=0B556A&logo=Power+Virtual+Agents&logoColor=FFFFFF&label=)
-```
 ## ![POWERS](https://img.shields.io/static/v1?style=for-the-badge&message=POWERS&color=E74536&logo=POWERS&logoColor=FFFFFF&label=)
 ```markdown
 ![POWERS](https://img.shields.io/static/v1?style=for-the-badge&message=POWERS&color=E74536&logo=POWERS&logoColor=FFFFFF&label=)
-```
-## ![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
-```markdown
-![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
 ```
 ## ![pr.co](https://img.shields.io/static/v1?style=for-the-badge&message=pr.co&color=0080FF&logo=pr.co&logoColor=FFFFFF&label=)
 ```markdown
@@ -10149,14 +9993,6 @@
 ## ![Skypack](https://img.shields.io/static/v1?style=for-the-badge&message=Skypack&color=3167FF&logo=Skypack&logoColor=FFFFFF&label=)
 ```markdown
 ![Skypack](https://img.shields.io/static/v1?style=for-the-badge&message=Skypack&color=3167FF&logo=Skypack&logoColor=FFFFFF&label=)
-```
-## ![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=)
-```markdown
-![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=)
-```
-## ![Skype for Business](https://img.shields.io/static/v1?style=for-the-badge&message=Skype+for+Business&color=00AFF0&logo=Skype+for+Business&logoColor=FFFFFF&label=)
-```markdown
-![Skype for Business](https://img.shields.io/static/v1?style=for-the-badge&message=Skype+for+Business&color=00AFF0&logo=Skype+for+Business&logoColor=FFFFFF&label=)
 ```
 ## ![Skyrock](https://img.shields.io/static/v1?style=for-the-badge&message=Skyrock&color=009AFF&logo=Skyrock&logoColor=FFFFFF&label=)
 ```markdown
@@ -11954,22 +11790,6 @@
 ```markdown
 ![Visa](https://img.shields.io/static/v1?style=for-the-badge&message=Visa&color=1A1F71&logo=Visa&logoColor=FFFFFF&label=)
 ```
-## ![Visual Basic](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Basic&color=512BD4&logo=Visual+Basic&logoColor=FFFFFF&label=)
-```markdown
-![Visual Basic](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Basic&color=512BD4&logo=Visual+Basic&logoColor=FFFFFF&label=)
-```
-## ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
-```markdown
-![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
-```
-## ![Visual Studio App Center](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+App+Center&color=CB2E6D&logo=Visual+Studio+App+Center&logoColor=FFFFFF&label=)
-```markdown
-![Visual Studio App Center](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+App+Center&color=CB2E6D&logo=Visual+Studio+App+Center&logoColor=FFFFFF&label=)
-```
-## ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-```markdown
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-```
 ## ![visx](https://img.shields.io/static/v1?style=for-the-badge&message=visx&color=FF1231&logo=visx&logoColor=FFFFFF&label=)
 ```markdown
 ![visx](https://img.shields.io/static/v1?style=for-the-badge&message=visx&color=FF1231&logo=visx&logoColor=FFFFFF&label=)
@@ -12350,30 +12170,6 @@
 ```markdown
 ![Winamp](https://img.shields.io/static/v1?style=for-the-badge&message=Winamp&color=F93821&logo=Winamp&logoColor=FFFFFF&label=)
 ```
-## ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=)
-```markdown
-![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=)
-```
-## ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=)
-```markdown
-![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=)
-```
-## ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
-```markdown
-![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
-```
-## ![Windows 95](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+95&color=008080&logo=Windows+95&logoColor=FFFFFF&label=)
-```markdown
-![Windows 95](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+95&color=008080&logo=Windows+95&logoColor=FFFFFF&label=)
-```
-## ![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
-```markdown
-![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
-```
-## ![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
-```markdown
-![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
-```
 ## ![Wipro](https://img.shields.io/static/v1?style=for-the-badge&message=Wipro&color=341C53&logo=Wipro&logoColor=FFFFFF&label=)
 ```markdown
 ![Wipro](https://img.shields.io/static/v1?style=for-the-badge&message=Wipro&color=341C53&logo=Wipro&logoColor=FFFFFF&label=)
@@ -12490,21 +12286,9 @@
 ```markdown
 ![X.Org](https://img.shields.io/static/v1?style=for-the-badge&message=X.Org&color=F28834&logo=X.Org&logoColor=FFFFFF&label=)
 ```
-## ![Xamarin](https://img.shields.io/static/v1?style=for-the-badge&message=Xamarin&color=3498DB&logo=Xamarin&logoColor=FFFFFF&label=)
-```markdown
-![Xamarin](https://img.shields.io/static/v1?style=for-the-badge&message=Xamarin&color=3498DB&logo=Xamarin&logoColor=FFFFFF&label=)
-```
-## ![XAML](https://img.shields.io/static/v1?style=for-the-badge&message=XAML&color=0C54C2&logo=XAML&logoColor=FFFFFF&label=)
-```markdown
-![XAML](https://img.shields.io/static/v1?style=for-the-badge&message=XAML&color=0C54C2&logo=XAML&logoColor=FFFFFF&label=)
-```
 ## ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
 ```markdown
 ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
-```
-## ![Xbox](https://img.shields.io/static/v1?style=for-the-badge&message=Xbox&color=107C10&logo=Xbox&logoColor=FFFFFF&label=)
-```markdown
-![Xbox](https://img.shields.io/static/v1?style=for-the-badge&message=Xbox&color=107C10&logo=Xbox&logoColor=FFFFFF&label=)
 ```
 ## ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
 ```markdown
@@ -12581,10 +12365,6 @@
 ## ![YAML](https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=CB171E&logo=YAML&logoColor=FFFFFF&label=)
 ```markdown
 ![YAML](https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=CB171E&logo=YAML&logoColor=FFFFFF&label=)
-```
-## ![Yammer](https://img.shields.io/static/v1?style=for-the-badge&message=Yammer&color=106EBE&logo=Yammer&logoColor=FFFFFF&label=)
-```markdown
-![Yammer](https://img.shields.io/static/v1?style=for-the-badge&message=Yammer&color=106EBE&logo=Yammer&logoColor=FFFFFF&label=)
 ```
 ## ![Yandex Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Yandex+Cloud&color=5282FF&logo=Yandex+Cloud&logoColor=FFFFFF&label=)
 ```markdown
