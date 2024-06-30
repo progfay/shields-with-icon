@@ -4490,10 +4490,6 @@
 ```markdown
 ![Google Docs](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Docs&color=4285F4&logo=Google+Docs&logoColor=FFFFFF&label=)
 ```
-## ![Google Domains](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Domains&color=4285F4&logo=Google+Domains&logoColor=FFFFFF&label=)
-```markdown
-![Google Domains](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Domains&color=4285F4&logo=Google+Domains&logoColor=FFFFFF&label=)
-```
 ## ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
@@ -4521,10 +4517,6 @@
 ## ![Google Gemini](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Gemini&color=8E75B2&logo=Google+Gemini&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Gemini](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Gemini&color=8E75B2&logo=Google+Gemini&logoColor=FFFFFF&label=)
-```
-## ![Google Hangouts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Hangouts&color=0C9D58&logo=Google+Hangouts&logoColor=FFFFFF&label=)
-```markdown
-![Google Hangouts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Hangouts&color=0C9D58&logo=Google+Hangouts&logoColor=FFFFFF&label=)
 ```
 ## ![Google Home](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Home&color=4285F4&logo=Google+Home&logoColor=FFFFFF&label=)
 ```markdown
@@ -4554,10 +4546,6 @@
 ```markdown
 ![Google Messages](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Messages&color=1A73E8&logo=Google+Messages&logoColor=FFFFFF&label=)
 ```
-## ![Google My Business](https://img.shields.io/static/v1?style=for-the-badge&message=Google+My+Business&color=4285F4&logo=Google+My+Business&logoColor=FFFFFF&label=)
-```markdown
-![Google My Business](https://img.shields.io/static/v1?style=for-the-badge&message=Google+My+Business&color=4285F4&logo=Google+My+Business&logoColor=FFFFFF&label=)
-```
 ## ![Google Nearby](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Nearby&color=4285F4&logo=Google+Nearby&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Nearby](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Nearby&color=4285F4&logo=Google+Nearby&logoColor=FFFFFF&label=)
@@ -4565,10 +4553,6 @@
 ## ![Google News](https://img.shields.io/static/v1?style=for-the-badge&message=Google+News&color=174EA6&logo=Google+News&logoColor=FFFFFF&label=)
 ```markdown
 ![Google News](https://img.shields.io/static/v1?style=for-the-badge&message=Google+News&color=174EA6&logo=Google+News&logoColor=FFFFFF&label=)
-```
-## ![Google Optimize](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Optimize&color=B366F6&logo=Google+Optimize&logoColor=FFFFFF&label=)
-```markdown
-![Google Optimize](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Optimize&color=B366F6&logo=Google+Optimize&logoColor=FFFFFF&label=)
 ```
 ## ![Google Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Pay&color=4285F4&logo=Google+Pay&logoColor=FFFFFF&label=)
 ```markdown
@@ -4581,10 +4565,6 @@
 ## ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
 ```markdown
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
-```
-## ![Google Podcasts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Podcasts&color=4285F4&logo=Google+Podcasts&logoColor=FFFFFF&label=)
-```markdown
-![Google Podcasts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Podcasts&color=4285F4&logo=Google+Podcasts&logoColor=FFFFFF&label=)
 ```
 ## ![Google Pub/Sub](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Pub%2FSub&color=222222&logo=Google+Pub%2FSub&logoColor=AECBFA&label=)
 ```markdown
@@ -7034,6 +7014,10 @@
 ```markdown
 ![Moonrepo](https://img.shields.io/static/v1?style=for-the-badge&message=Moonrepo&color=6F53F3&logo=Moonrepo&logoColor=FFFFFF&label=)
 ```
+## ![Moq](https://img.shields.io/static/v1?style=for-the-badge&message=Moq&color=222222&logo=Moq&logoColor=F4BE00&label=)
+```markdown
+![Moq](https://img.shields.io/static/v1?style=for-the-badge&message=Moq&color=222222&logo=Moq&logoColor=F4BE00&label=)
+```
 ## ![Moqups](https://img.shields.io/static/v1?style=for-the-badge&message=Moqups&color=006BE5&logo=Moqups&logoColor=FFFFFF&label=)
 ```markdown
 ![Moqups](https://img.shields.io/static/v1?style=for-the-badge&message=Moqups&color=006BE5&logo=Moqups&logoColor=FFFFFF&label=)
@@ -7837,6 +7821,10 @@
 ## ![Org](https://img.shields.io/static/v1?style=for-the-badge&message=Org&color=77AA99&logo=Org&logoColor=FFFFFF&label=)
 ```markdown
 ![Org](https://img.shields.io/static/v1?style=for-the-badge&message=Org&color=77AA99&logo=Org&logoColor=FFFFFF&label=)
+```
+## ![Organic Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Organic+Maps&color=006C35&logo=Organic+Maps&logoColor=FFFFFF&label=)
+```markdown
+![Organic Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Organic+Maps&color=006C35&logo=Organic+Maps&logoColor=FFFFFF&label=)
 ```
 ## ![Origin](https://img.shields.io/static/v1?style=for-the-badge&message=Origin&color=F56C2D&logo=Origin&logoColor=FFFFFF&label=)
 ```markdown
@@ -9130,6 +9118,10 @@
 ```markdown
 ![Redox](https://img.shields.io/static/v1?style=for-the-badge&message=Redox&color=000000&logo=Redox&logoColor=FFFFFF&label=)
 ```
+## ![Redsys](https://img.shields.io/static/v1?style=for-the-badge&message=Redsys&color=DC7C26&logo=Redsys&logoColor=FFFFFF&label=)
+```markdown
+![Redsys](https://img.shields.io/static/v1?style=for-the-badge&message=Redsys&color=DC7C26&logo=Redsys&logoColor=FFFFFF&label=)
+```
 ## ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
 ```markdown
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
@@ -10377,10 +10369,6 @@
 ## ![StackShare](https://img.shields.io/static/v1?style=for-the-badge&message=StackShare&color=0690FA&logo=StackShare&logoColor=FFFFFF&label=)
 ```markdown
 ![StackShare](https://img.shields.io/static/v1?style=for-the-badge&message=StackShare&color=0690FA&logo=StackShare&logoColor=FFFFFF&label=)
-```
-## ![Stadia](https://img.shields.io/static/v1?style=for-the-badge&message=Stadia&color=CD2640&logo=Stadia&logoColor=FFFFFF&label=)
-```markdown
-![Stadia](https://img.shields.io/static/v1?style=for-the-badge&message=Stadia&color=CD2640&logo=Stadia&logoColor=FFFFFF&label=)
 ```
 ## ![Staffbase](https://img.shields.io/static/v1?style=for-the-badge&message=Staffbase&color=00A4FD&logo=Staffbase&logoColor=FFFFFF&label=)
 ```markdown
