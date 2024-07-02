@@ -11542,6 +11542,10 @@
 ```markdown
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
 ```
+## ![UnJS](https://img.shields.io/static/v1?style=for-the-badge&message=UnJS&color=222222&logo=UnJS&logoColor=ECDC5A&label=)
+```markdown
+![UnJS](https://img.shields.io/static/v1?style=for-the-badge&message=UnJS&color=222222&logo=UnJS&logoColor=ECDC5A&label=)
+```
 ## ![Unlicense](https://img.shields.io/static/v1?style=for-the-badge&message=Unlicense&color=808080&logo=Unlicense&logoColor=FFFFFF&label=)
 ```markdown
 ![Unlicense](https://img.shields.io/static/v1?style=for-the-badge&message=Unlicense&color=808080&logo=Unlicense&logoColor=FFFFFF&label=)
@@ -11902,9 +11906,9 @@
 ```markdown
 ![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=)
 ```
-## ![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=AC162C&logo=Vulkan&logoColor=FFFFFF&label=)
+## ![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=A41E22&logo=Vulkan&logoColor=FFFFFF&label=)
 ```markdown
-![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=AC162C&logo=Vulkan&logoColor=FFFFFF&label=)
+![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=A41E22&logo=Vulkan&logoColor=FFFFFF&label=)
 ```
 ## ![Vultr](https://img.shields.io/static/v1?style=for-the-badge&message=Vultr&color=007BFC&logo=Vultr&logoColor=FFFFFF&label=)
 ```markdown
