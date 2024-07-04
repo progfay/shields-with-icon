@@ -8338,6 +8338,10 @@
 ```markdown
 ![PlayStation 5](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+5&color=003791&logo=PlayStation+5&logoColor=FFFFFF&label=)
 ```
+## ![PlayStation Portable](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Portable&color=003791&logo=PlayStation+Portable&logoColor=FFFFFF&label=)
+```markdown
+![PlayStation Portable](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Portable&color=003791&logo=PlayStation+Portable&logoColor=FFFFFF&label=)
+```
 ## ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
 ```markdown
 ![PlayStation Vita](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+Vita&color=003791&logo=PlayStation+Vita&logoColor=FFFFFF&label=)
