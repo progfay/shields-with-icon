@@ -12050,6 +12050,10 @@
 ```markdown
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label=)
 ```
+## ![WebGPU](https://img.shields.io/static/v1?style=for-the-badge&message=WebGPU&color=005A9C&logo=WebGPU&logoColor=FFFFFF&label=)
+```markdown
+![WebGPU](https://img.shields.io/static/v1?style=for-the-badge&message=WebGPU&color=005A9C&logo=WebGPU&logoColor=FFFFFF&label=)
+```
 ## ![Weblate](https://img.shields.io/static/v1?style=for-the-badge&message=Weblate&color=222222&logo=Weblate&logoColor=2ECCAA&label=)
 ```markdown
 ![Weblate](https://img.shields.io/static/v1?style=for-the-badge&message=Weblate&color=222222&logo=Weblate&logoColor=2ECCAA&label=)

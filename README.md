@@ -3011,6 +3011,7 @@
 ![Webex](https://img.shields.io/static/v1?style=for-the-badge&message=Webex&color=000000&logo=Webex&logoColor=FFFFFF&label=)
 ![Webflow](https://img.shields.io/static/v1?style=for-the-badge&message=Webflow&color=146EF5&logo=Webflow&logoColor=FFFFFF&label=)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label=)
+![WebGPU](https://img.shields.io/static/v1?style=for-the-badge&message=WebGPU&color=005A9C&logo=WebGPU&logoColor=FFFFFF&label=)
 ![Weblate](https://img.shields.io/static/v1?style=for-the-badge&message=Weblate&color=222222&logo=Weblate&logoColor=2ECCAA&label=)
 ![Webmin](https://img.shields.io/static/v1?style=for-the-badge&message=Webmin&color=7DA0D0&logo=Webmin&logoColor=FFFFFF&label=)
 ![WebMoney](https://img.shields.io/static/v1?style=for-the-badge&message=WebMoney&color=036CB5&logo=WebMoney&logoColor=FFFFFF&label=)
