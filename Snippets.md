@@ -7866,6 +7866,10 @@
 ```markdown
 ![Otto](https://img.shields.io/static/v1?style=for-the-badge&message=Otto&color=D4021D&logo=Otto&logoColor=FFFFFF&label=)
 ```
+## ![Outline](https://img.shields.io/static/v1?style=for-the-badge&message=Outline&color=000000&logo=Outline&logoColor=FFFFFF&label=)
+```markdown
+![Outline](https://img.shields.io/static/v1?style=for-the-badge&message=Outline&color=000000&logo=Outline&logoColor=FFFFFF&label=)
+```
 ## ![Overcast](https://img.shields.io/static/v1?style=for-the-badge&message=Overcast&color=FC7E0F&logo=Overcast&logoColor=FFFFFF&label=)
 ```markdown
 ![Overcast](https://img.shields.io/static/v1?style=for-the-badge&message=Overcast&color=FC7E0F&logo=Overcast&logoColor=FFFFFF&label=)

@@ -1965,6 +1965,7 @@
 ![OSMC](https://img.shields.io/static/v1?style=for-the-badge&message=OSMC&color=17394A&logo=OSMC&logoColor=FFFFFF&label=)
 ![osu!](https://img.shields.io/static/v1?style=for-the-badge&message=osu%21&color=FF66AA&logo=osu%21&logoColor=FFFFFF&label=)
 ![Otto](https://img.shields.io/static/v1?style=for-the-badge&message=Otto&color=D4021D&logo=Otto&logoColor=FFFFFF&label=)
+![Outline](https://img.shields.io/static/v1?style=for-the-badge&message=Outline&color=000000&logo=Outline&logoColor=FFFFFF&label=)
 ![Overcast](https://img.shields.io/static/v1?style=for-the-badge&message=Overcast&color=FC7E0F&logo=Overcast&logoColor=FFFFFF&label=)
 ![Overleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Overleaf&color=47A141&logo=Overleaf&logoColor=FFFFFF&label=)
 ![OVH](https://img.shields.io/static/v1?style=for-the-badge&message=OVH&color=123F6D&logo=OVH&logoColor=FFFFFF&label=)
