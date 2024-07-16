@@ -4302,6 +4302,10 @@
 ```markdown
 ![Glovo](https://img.shields.io/static/v1?style=for-the-badge&message=Glovo&color=222222&logo=Glovo&logoColor=F2CC38&label=)
 ```
+## ![glTF](https://img.shields.io/static/v1?style=for-the-badge&message=glTF&color=222222&logo=glTF&logoColor=87C540&label=)
+```markdown
+![glTF](https://img.shields.io/static/v1?style=for-the-badge&message=glTF&color=222222&logo=glTF&logoColor=87C540&label=)
+```
 ## ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
 ```markdown
 ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
@@ -6325,6 +6329,10 @@
 ## ![Litecoin](https://img.shields.io/static/v1?style=for-the-badge&message=Litecoin&color=222222&logo=Litecoin&logoColor=A6A9AA&label=)
 ```markdown
 ![Litecoin](https://img.shields.io/static/v1?style=for-the-badge&message=Litecoin&color=222222&logo=Litecoin&logoColor=A6A9AA&label=)
+```
+## ![Literal](https://img.shields.io/static/v1?style=for-the-badge&message=Literal&color=000000&logo=Literal&logoColor=FFFFFF&label=)
+```markdown
+![Literal](https://img.shields.io/static/v1?style=for-the-badge&message=Literal&color=000000&logo=Literal&logoColor=FFFFFF&label=)
 ```
 ## ![LITIENGINE](https://img.shields.io/static/v1?style=for-the-badge&message=LITIENGINE&color=00A5BC&logo=LITIENGINE&logoColor=FFFFFF&label=)
 ```markdown
