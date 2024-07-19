@@ -6358,6 +6358,10 @@
 ```markdown
 ![LMMS](https://img.shields.io/static/v1?style=for-the-badge&message=LMMS&color=10B146&logo=LMMS&logoColor=FFFFFF&label=)
 ```
+## ![Lobsters](https://img.shields.io/static/v1?style=for-the-badge&message=Lobsters&color=AC130D&logo=Lobsters&logoColor=FFFFFF&label=)
+```markdown
+![Lobsters](https://img.shields.io/static/v1?style=for-the-badge&message=Lobsters&color=AC130D&logo=Lobsters&logoColor=FFFFFF&label=)
+```
 ## ![Local](https://img.shields.io/static/v1?style=for-the-badge&message=Local&color=222222&logo=Local&logoColor=51BB7B&label=)
 ```markdown
 ![Local](https://img.shields.io/static/v1?style=for-the-badge&message=Local&color=222222&logo=Local&logoColor=51BB7B&label=)
