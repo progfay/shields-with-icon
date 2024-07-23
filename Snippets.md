@@ -6298,9 +6298,9 @@
 ```markdown
 ![Linux Foundation](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Foundation&color=003778&logo=Linux+Foundation&logoColor=FFFFFF&label=)
 ```
-## ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
+## ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=86BE43&label=)
 ```markdown
-![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
+![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=86BE43&label=)
 ```
 ## ![Linux Professional Institute](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Professional+Institute&color=222222&logo=Linux+Professional+Institute&logoColor=FDC300&label=)
 ```markdown
