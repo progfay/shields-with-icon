@@ -12542,6 +12542,10 @@
 ```markdown
 ![Zerodha](https://img.shields.io/static/v1?style=for-the-badge&message=Zerodha&color=387ED1&logo=Zerodha&logoColor=FFFFFF&label=)
 ```
+## ![ZeroTier](https://img.shields.io/static/v1?style=for-the-badge&message=ZeroTier&color=222222&logo=ZeroTier&logoColor=FFB441&label=)
+```markdown
+![ZeroTier](https://img.shields.io/static/v1?style=for-the-badge&message=ZeroTier&color=222222&logo=ZeroTier&logoColor=FFB441&label=)
+```
 ## ![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=7BBB6E&label=)
 ```markdown
 ![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=7BBB6E&label=)

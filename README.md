@@ -3134,6 +3134,7 @@
 ![Zenodo](https://img.shields.io/static/v1?style=for-the-badge&message=Zenodo&color=1682D4&logo=Zenodo&logoColor=FFFFFF&label=)
 ![Zensar](https://img.shields.io/static/v1?style=for-the-badge&message=Zensar&color=000000&logo=Zensar&logoColor=FFFFFF&label=)
 ![Zerodha](https://img.shields.io/static/v1?style=for-the-badge&message=Zerodha&color=387ED1&logo=Zerodha&logoColor=FFFFFF&label=)
+![ZeroTier](https://img.shields.io/static/v1?style=for-the-badge&message=ZeroTier&color=222222&logo=ZeroTier&logoColor=FFB441&label=)
 ![Zerply](https://img.shields.io/static/v1?style=for-the-badge&message=Zerply&color=222222&logo=Zerply&logoColor=7BBB6E&label=)
 ![Zettlr](https://img.shields.io/static/v1?style=for-the-badge&message=Zettlr&color=1CB27E&logo=Zettlr&logoColor=FFFFFF&label=)
 ![Zhihu](https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label=)
