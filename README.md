@@ -1719,6 +1719,7 @@
 ![Milvus](https://img.shields.io/static/v1?style=for-the-badge&message=Milvus&color=00A1EA&logo=Milvus&logoColor=FFFFFF&label=)
 ![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=)
 ![Minetest](https://img.shields.io/static/v1?style=for-the-badge&message=Minetest&color=53AC56&logo=Minetest&logoColor=FFFFFF&label=)
+![MinGW-w64](https://img.shields.io/static/v1?style=for-the-badge&message=MinGW-w64&color=000000&logo=MinGW-w64&logoColor=FFFFFF&label=)
 ![Mini](https://img.shields.io/static/v1?style=for-the-badge&message=Mini&color=000000&logo=Mini&logoColor=FFFFFF&label=)
 ![MinIO](https://img.shields.io/static/v1?style=for-the-badge&message=MinIO&color=C72E49&logo=MinIO&logoColor=FFFFFF&label=)
 ![Mintlify](https://img.shields.io/static/v1?style=for-the-badge&message=Mintlify&color=222222&logo=Mintlify&logoColor=18E299&label=)

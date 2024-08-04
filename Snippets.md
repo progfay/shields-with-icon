@@ -6882,6 +6882,10 @@
 ```markdown
 ![Minetest](https://img.shields.io/static/v1?style=for-the-badge&message=Minetest&color=53AC56&logo=Minetest&logoColor=FFFFFF&label=)
 ```
+## ![MinGW-w64](https://img.shields.io/static/v1?style=for-the-badge&message=MinGW-w64&color=000000&logo=MinGW-w64&logoColor=FFFFFF&label=)
+```markdown
+![MinGW-w64](https://img.shields.io/static/v1?style=for-the-badge&message=MinGW-w64&color=000000&logo=MinGW-w64&logoColor=FFFFFF&label=)
+```
 ## ![Mini](https://img.shields.io/static/v1?style=for-the-badge&message=Mini&color=000000&logo=Mini&logoColor=FFFFFF&label=)
 ```markdown
 ![Mini](https://img.shields.io/static/v1?style=for-the-badge&message=Mini&color=000000&logo=Mini&logoColor=FFFFFF&label=)
