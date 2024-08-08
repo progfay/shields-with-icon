@@ -6038,6 +6038,10 @@
 ```markdown
 ![LangChain](https://img.shields.io/static/v1?style=for-the-badge&message=LangChain&color=1C3C3C&logo=LangChain&logoColor=FFFFFF&label=)
 ```
+## ![LanguageTool](https://img.shields.io/static/v1?style=for-the-badge&message=LanguageTool&color=45A1FC&logo=LanguageTool&logoColor=FFFFFF&label=)
+```markdown
+![LanguageTool](https://img.shields.io/static/v1?style=for-the-badge&message=LanguageTool&color=45A1FC&logo=LanguageTool&logoColor=FFFFFF&label=)
+```
 ## ![Lapce](https://img.shields.io/static/v1?style=for-the-badge&message=Lapce&color=3B82F6&logo=Lapce&logoColor=FFFFFF&label=)
 ```markdown
 ![Lapce](https://img.shields.io/static/v1?style=for-the-badge&message=Lapce&color=3B82F6&logo=Lapce&logoColor=FFFFFF&label=)
@@ -7625,6 +7629,10 @@
 ## ![Okta](https://img.shields.io/static/v1?style=for-the-badge&message=Okta&color=007DC1&logo=Okta&logoColor=FFFFFF&label=)
 ```markdown
 ![Okta](https://img.shields.io/static/v1?style=for-the-badge&message=Okta&color=007DC1&logo=Okta&logoColor=FFFFFF&label=)
+```
+## ![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=Ollama&logoColor=FFFFFF&label=)
+```markdown
+![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=Ollama&logoColor=FFFFFF&label=)
 ```
 ## ![OnePlus](https://img.shields.io/static/v1?style=for-the-badge&message=OnePlus&color=F5010C&logo=OnePlus&logoColor=FFFFFF&label=)
 ```markdown
