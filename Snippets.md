@@ -12426,6 +12426,10 @@
 ```markdown
 ![Yeti](https://img.shields.io/static/v1?style=for-the-badge&message=Yeti&color=00263C&logo=Yeti&logoColor=FFFFFF&label=)
 ```
+## ![Yii](https://img.shields.io/static/v1?style=for-the-badge&message=Yii&color=222222&logo=Yii&logoColor=40B3D8&label=)
+```markdown
+![Yii](https://img.shields.io/static/v1?style=for-the-badge&message=Yii&color=222222&logo=Yii&logoColor=40B3D8&label=)
+```
 ## ![Yoast](https://img.shields.io/static/v1?style=for-the-badge&message=Yoast&color=A61E69&logo=Yoast&logoColor=FFFFFF&label=)
 ```markdown
 ![Yoast](https://img.shields.io/static/v1?style=for-the-badge&message=Yoast&color=A61E69&logo=Yoast&logoColor=FFFFFF&label=)

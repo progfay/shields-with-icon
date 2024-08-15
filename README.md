@@ -3105,6 +3105,7 @@
 ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)
 ![Yelp](https://img.shields.io/static/v1?style=for-the-badge&message=Yelp&color=FF1A1A&logo=Yelp&logoColor=FFFFFF&label=)
 ![Yeti](https://img.shields.io/static/v1?style=for-the-badge&message=Yeti&color=00263C&logo=Yeti&logoColor=FFFFFF&label=)
+![Yii](https://img.shields.io/static/v1?style=for-the-badge&message=Yii&color=222222&logo=Yii&logoColor=40B3D8&label=)
 ![Yoast](https://img.shields.io/static/v1?style=for-the-badge&message=Yoast&color=A61E69&logo=Yoast&logoColor=FFFFFF&label=)
 ![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)
 ![YouTube Gaming](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Gaming&color=FF0000&logo=YouTube+Gaming&logoColor=FFFFFF&label=)
