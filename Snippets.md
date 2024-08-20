@@ -1298,6 +1298,10 @@
 ```markdown
 ![Basecamp](https://img.shields.io/static/v1?style=for-the-badge&message=Basecamp&color=1D2D35&logo=Basecamp&logoColor=FFFFFF&label=)
 ```
+## ![Baserow](https://img.shields.io/static/v1?style=for-the-badge&message=Baserow&color=5190EF&logo=Baserow&logoColor=FFFFFF&label=)
+```markdown
+![Baserow](https://img.shields.io/static/v1?style=for-the-badge&message=Baserow&color=5190EF&logo=Baserow&logoColor=FFFFFF&label=)
+```
 ## ![Basic Attention Token](https://img.shields.io/static/v1?style=for-the-badge&message=Basic+Attention+Token&color=80247B&logo=Basic+Attention+Token&logoColor=FFFFFF&label=)
 ```markdown
 ![Basic Attention Token](https://img.shields.io/static/v1?style=for-the-badge&message=Basic+Attention+Token&color=80247B&logo=Basic+Attention+Token&logoColor=FFFFFF&label=)
@@ -5105,6 +5109,10 @@
 ## ![Humble Bundle](https://img.shields.io/static/v1?style=for-the-badge&message=Humble+Bundle&color=CC2929&logo=Humble+Bundle&logoColor=FFFFFF&label=)
 ```markdown
 ![Humble Bundle](https://img.shields.io/static/v1?style=for-the-badge&message=Humble+Bundle&color=CC2929&logo=Humble+Bundle&logoColor=FFFFFF&label=)
+```
+## ![HumHub](https://img.shields.io/static/v1?style=for-the-badge&message=HumHub&color=1B8291&logo=HumHub&logoColor=FFFFFF&label=)
+```markdown
+![HumHub](https://img.shields.io/static/v1?style=for-the-badge&message=HumHub&color=1B8291&logo=HumHub&logoColor=FFFFFF&label=)
 ```
 ## ![Hungry Jack's](https://img.shields.io/static/v1?style=for-the-badge&message=Hungry+Jack%27s&color=D0021B&logo=Hungry+Jack%27s&logoColor=FFFFFF&label=)
 ```markdown
