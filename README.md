@@ -2744,6 +2744,7 @@
 ![Textpattern](https://img.shields.io/static/v1?style=for-the-badge&message=Textpattern&color=222222&logo=Textpattern&logoColor=FFDA44&label=)
 ![TGA](https://img.shields.io/static/v1?style=for-the-badge&message=TGA&color=0014FF&logo=TGA&logoColor=FFFFFF&label=)
 ![Thangs](https://img.shields.io/static/v1?style=for-the-badge&message=Thangs&color=222222&logo=Thangs&logoColor=FFBC00&label=)
+![Thanos](https://img.shields.io/static/v1?style=for-the-badge&message=Thanos&color=6D41FF&logo=Thanos&logoColor=FFFFFF&label=)
 ![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
 ![The Boring Company](https://img.shields.io/static/v1?style=for-the-badge&message=The+Boring+Company&color=000000&logo=The+Boring+Company&logoColor=FFFFFF&label=)
 ![The Conversation](https://img.shields.io/static/v1?style=for-the-badge&message=The+Conversation&color=D8352A&logo=The+Conversation&logoColor=FFFFFF&label=)

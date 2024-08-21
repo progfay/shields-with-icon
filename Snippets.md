@@ -10982,6 +10982,10 @@
 ```markdown
 ![Thangs](https://img.shields.io/static/v1?style=for-the-badge&message=Thangs&color=222222&logo=Thangs&logoColor=FFBC00&label=)
 ```
+## ![Thanos](https://img.shields.io/static/v1?style=for-the-badge&message=Thanos&color=6D41FF&logo=Thanos&logoColor=FFFFFF&label=)
+```markdown
+![Thanos](https://img.shields.io/static/v1?style=for-the-badge&message=Thanos&color=6D41FF&logo=Thanos&logoColor=FFFFFF&label=)
+```
 ## ![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
 ```markdown
 ![The Algorithms](https://img.shields.io/static/v1?style=for-the-badge&message=The+Algorithms&color=222222&logo=The+Algorithms&logoColor=00BCB4&label=)
