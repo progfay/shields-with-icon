@@ -970,6 +970,7 @@
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![Flux](https://img.shields.io/static/v1?style=for-the-badge&message=Flux&color=5468FF&logo=Flux&logoColor=FFFFFF&label=)
 ![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=222222&logo=Fluxus&logoColor=FFFFFF&label=)
+![Fly.io](https://img.shields.io/static/v1?style=for-the-badge&message=Fly.io&color=24175B&logo=Fly.io&logoColor=FFFFFF&label=)
 ![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)
 ![FMOD](https://img.shields.io/static/v1?style=for-the-badge&message=FMOD&color=000000&logo=FMOD&logoColor=FFFFFF&label=)
 ![Fnac](https://img.shields.io/static/v1?style=for-the-badge&message=Fnac&color=222222&logo=Fnac&logoColor=E1A925&label=)

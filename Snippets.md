@@ -3886,6 +3886,10 @@
 ```markdown
 ![Fluxus](https://img.shields.io/static/v1?style=for-the-badge&message=Fluxus&color=222222&logo=Fluxus&logoColor=FFFFFF&label=)
 ```
+## ![Fly.io](https://img.shields.io/static/v1?style=for-the-badge&message=Fly.io&color=24175B&logo=Fly.io&logoColor=FFFFFF&label=)
+```markdown
+![Fly.io](https://img.shields.io/static/v1?style=for-the-badge&message=Fly.io&color=24175B&logo=Fly.io&logoColor=FFFFFF&label=)
+```
 ## ![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)
 ```markdown
 ![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)
