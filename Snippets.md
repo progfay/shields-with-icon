@@ -6122,6 +6122,10 @@
 ```markdown
 ![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
 ```
+## ![Lefthook](https://img.shields.io/static/v1?style=for-the-badge&message=Lefthook&color=FF1E1E&logo=Lefthook&logoColor=FFFFFF&label=)
+```markdown
+![Lefthook](https://img.shields.io/static/v1?style=for-the-badge&message=Lefthook&color=FF1E1E&logo=Lefthook&logoColor=FFFFFF&label=)
+```
 ## ![Legacy Games](https://img.shields.io/static/v1?style=for-the-badge&message=Legacy+Games&color=144B9E&logo=Legacy+Games&logoColor=FFFFFF&label=)
 ```markdown
 ![Legacy Games](https://img.shields.io/static/v1?style=for-the-badge&message=Legacy+Games&color=144B9E&logo=Legacy+Games&logoColor=FFFFFF&label=)
@@ -9169,6 +9173,10 @@
 ## ![Redox](https://img.shields.io/static/v1?style=for-the-badge&message=Redox&color=000000&logo=Redox&logoColor=FFFFFF&label=)
 ```markdown
 ![Redox](https://img.shields.io/static/v1?style=for-the-badge&message=Redox&color=000000&logo=Redox&logoColor=FFFFFF&label=)
+```
+## ![Redragon](https://img.shields.io/static/v1?style=for-the-badge&message=Redragon&color=E60012&logo=Redragon&logoColor=FFFFFF&label=)
+```markdown
+![Redragon](https://img.shields.io/static/v1?style=for-the-badge&message=Redragon&color=E60012&logo=Redragon&logoColor=FFFFFF&label=)
 ```
 ## ![Redsys](https://img.shields.io/static/v1?style=for-the-badge&message=Redsys&color=DC7C26&logo=Redsys&logoColor=FFFFFF&label=)
 ```markdown
