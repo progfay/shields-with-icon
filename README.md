@@ -1324,6 +1324,7 @@
 ![Indian Super League](https://img.shields.io/static/v1?style=for-the-badge&message=Indian+Super+League&color=ED2F21&logo=Indian+Super+League&logoColor=FFFFFF&label=)
 ![Indie Hackers](https://img.shields.io/static/v1?style=for-the-badge&message=Indie+Hackers&color=0E2439&logo=Indie+Hackers&logoColor=FFFFFF&label=)
 ![IndiGo](https://img.shields.io/static/v1?style=for-the-badge&message=IndiGo&color=09009B&logo=IndiGo&logoColor=FFFFFF&label=)
+![Inductive Automation](https://img.shields.io/static/v1?style=for-the-badge&message=Inductive+Automation&color=445C6D&logo=Inductive+Automation&logoColor=FFFFFF&label=)
 ![Inertia](https://img.shields.io/static/v1?style=for-the-badge&message=Inertia&color=9553E9&logo=Inertia&logoColor=FFFFFF&label=)
 ![INFINITI](https://img.shields.io/static/v1?style=for-the-badge&message=INFINITI&color=020B24&logo=INFINITI&logoColor=FFFFFF&label=)
 ![InfluxDB](https://img.shields.io/static/v1?style=for-the-badge&message=InfluxDB&color=22ADF6&logo=InfluxDB&logoColor=FFFFFF&label=)

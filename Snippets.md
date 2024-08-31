@@ -5302,6 +5302,10 @@
 ```markdown
 ![IndiGo](https://img.shields.io/static/v1?style=for-the-badge&message=IndiGo&color=09009B&logo=IndiGo&logoColor=FFFFFF&label=)
 ```
+## ![Inductive Automation](https://img.shields.io/static/v1?style=for-the-badge&message=Inductive+Automation&color=445C6D&logo=Inductive+Automation&logoColor=FFFFFF&label=)
+```markdown
+![Inductive Automation](https://img.shields.io/static/v1?style=for-the-badge&message=Inductive+Automation&color=445C6D&logo=Inductive+Automation&logoColor=FFFFFF&label=)
+```
 ## ![Inertia](https://img.shields.io/static/v1?style=for-the-badge&message=Inertia&color=9553E9&logo=Inertia&logoColor=FFFFFF&label=)
 ```markdown
 ![Inertia](https://img.shields.io/static/v1?style=for-the-badge&message=Inertia&color=9553E9&logo=Inertia&logoColor=FFFFFF&label=)
