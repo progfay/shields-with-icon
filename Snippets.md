@@ -1726,6 +1726,10 @@
 ```markdown
 ![Buildkite](https://img.shields.io/static/v1?style=for-the-badge&message=Buildkite&color=222222&logo=Buildkite&logoColor=14CC80&label=)
 ```
+## ![BuiltByBit](https://img.shields.io/static/v1?style=for-the-badge&message=BuiltByBit&color=2D87C3&logo=BuiltByBit&logoColor=FFFFFF&label=)
+```markdown
+![BuiltByBit](https://img.shields.io/static/v1?style=for-the-badge&message=BuiltByBit&color=2D87C3&logo=BuiltByBit&logoColor=FFFFFF&label=)
+```
 ## ![Bukalapak](https://img.shields.io/static/v1?style=for-the-badge&message=Bukalapak&color=E31E52&logo=Bukalapak&logoColor=FFFFFF&label=)
 ```markdown
 ![Bukalapak](https://img.shields.io/static/v1?style=for-the-badge&message=Bukalapak&color=E31E52&logo=Bukalapak&logoColor=FFFFFF&label=)
@@ -6533,6 +6537,10 @@
 ## ![Mail.Ru](https://img.shields.io/static/v1?style=for-the-badge&message=Mail.Ru&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=)
 ```markdown
 ![Mail.Ru](https://img.shields.io/static/v1?style=for-the-badge&message=Mail.Ru&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=)
+```
+## ![mailbox.org](https://img.shields.io/static/v1?style=for-the-badge&message=mailbox.org&color=222222&logo=mailbox.org&logoColor=76BB21&label=)
+```markdown
+![mailbox.org](https://img.shields.io/static/v1?style=for-the-badge&message=mailbox.org&color=222222&logo=mailbox.org&logoColor=76BB21&label=)
 ```
 ## ![MailChimp](https://img.shields.io/static/v1?style=for-the-badge&message=MailChimp&color=222222&logo=MailChimp&logoColor=FFE01B&label=)
 ```markdown
