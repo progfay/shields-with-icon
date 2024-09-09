@@ -3102,6 +3102,10 @@
 ```markdown
 ![Dovetail](https://img.shields.io/static/v1?style=for-the-badge&message=Dovetail&color=190041&logo=Dovetail&logoColor=FFFFFF&label=)
 ```
+## ![Downdetector](https://img.shields.io/static/v1?style=for-the-badge&message=Downdetector&color=FF160A&logo=Downdetector&logoColor=FFFFFF&label=)
+```markdown
+![Downdetector](https://img.shields.io/static/v1?style=for-the-badge&message=Downdetector&color=FF160A&logo=Downdetector&logoColor=FFFFFF&label=)
+```
 ## ![Doxygen](https://img.shields.io/static/v1?style=for-the-badge&message=Doxygen&color=2C4AA8&logo=Doxygen&logoColor=FFFFFF&label=)
 ```markdown
 ![Doxygen](https://img.shields.io/static/v1?style=for-the-badge&message=Doxygen&color=2C4AA8&logo=Doxygen&logoColor=FFFFFF&label=)
@@ -6742,6 +6746,10 @@
 ```markdown
 ![MediaMarkt](https://img.shields.io/static/v1?style=for-the-badge&message=MediaMarkt&color=DF0000&logo=MediaMarkt&logoColor=FFFFFF&label=)
 ```
+## ![MediaPipe](https://img.shields.io/static/v1?style=for-the-badge&message=MediaPipe&color=0097A7&logo=MediaPipe&logoColor=FFFFFF&label=)
+```markdown
+![MediaPipe](https://img.shields.io/static/v1?style=for-the-badge&message=MediaPipe&color=0097A7&logo=MediaPipe&logoColor=FFFFFF&label=)
+```
 ## ![MediaTek](https://img.shields.io/static/v1?style=for-the-badge&message=MediaTek&color=222222&logo=MediaTek&logoColor=EC9430&label=)
 ```markdown
 ![MediaTek](https://img.shields.io/static/v1?style=for-the-badge&message=MediaTek&color=222222&logo=MediaTek&logoColor=EC9430&label=)
@@ -9154,6 +9162,10 @@
 ```markdown
 ![Red Bull](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Bull&color=DB0A40&logo=Red+Bull&logoColor=FFFFFF&label=)
 ```
+## ![Red Candle Games](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Candle+Games&color=D23735&logo=Red+Candle+Games&logoColor=FFFFFF&label=)
+```markdown
+![Red Candle Games](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Candle+Games&color=D23735&logo=Red+Candle+Games&logoColor=FFFFFF&label=)
+```
 ## ![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
 ```markdown
 ![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
@@ -9401,6 +9413,10 @@
 ## ![Roblox Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox+Studio&color=00A2FF&logo=Roblox+Studio&logoColor=FFFFFF&label=)
 ```markdown
 ![Roblox Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox+Studio&color=00A2FF&logo=Roblox+Studio&logoColor=FFFFFF&label=)
+```
+## ![Roboflow](https://img.shields.io/static/v1?style=for-the-badge&message=Roboflow&color=6706CE&logo=Roboflow&logoColor=FFFFFF&label=)
+```markdown
+![Roboflow](https://img.shields.io/static/v1?style=for-the-badge&message=Roboflow&color=6706CE&logo=Roboflow&logoColor=FFFFFF&label=)
 ```
 ## ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
 ```markdown
@@ -10862,6 +10878,10 @@
 ```markdown
 ![Target](https://img.shields.io/static/v1?style=for-the-badge&message=Target&color=CC0000&logo=Target&logoColor=FFFFFF&label=)
 ```
+## ![TAROM](https://img.shields.io/static/v1?style=for-the-badge&message=TAROM&color=003366&logo=TAROM&logoColor=FFFFFF&label=)
+```markdown
+![TAROM](https://img.shields.io/static/v1?style=for-the-badge&message=TAROM&color=003366&logo=TAROM&logoColor=FFFFFF&label=)
+```
 ## ![Task](https://img.shields.io/static/v1?style=for-the-badge&message=Task&color=222222&logo=Task&logoColor=29BEB0&label=)
 ```markdown
 ![Task](https://img.shields.io/static/v1?style=for-the-badge&message=Task&color=222222&logo=Task&logoColor=29BEB0&label=)
@@ -11025,6 +11045,10 @@
 ## ![THE FINALS](https://img.shields.io/static/v1?style=for-the-badge&message=THE+FINALS&color=D31F3C&logo=THE+FINALS&logoColor=FFFFFF&label=)
 ```markdown
 ![THE FINALS](https://img.shields.io/static/v1?style=for-the-badge&message=THE+FINALS&color=D31F3C&logo=THE+FINALS&logoColor=FFFFFF&label=)
+```
+## ![The Guardian](https://img.shields.io/static/v1?style=for-the-badge&message=The+Guardian&color=052962&logo=The+Guardian&logoColor=FFFFFF&label=)
+```markdown
+![The Guardian](https://img.shields.io/static/v1?style=for-the-badge&message=The+Guardian&color=052962&logo=The+Guardian&logoColor=FFFFFF&label=)
 ```
 ## ![The Irish Times](https://img.shields.io/static/v1?style=for-the-badge&message=The+Irish+Times&color=000000&logo=The+Irish+Times&logoColor=FFFFFF&label=)
 ```markdown
