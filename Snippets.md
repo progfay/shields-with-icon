@@ -2470,6 +2470,10 @@
 ```markdown
 ![Consul](https://img.shields.io/static/v1?style=for-the-badge&message=Consul&color=F24C53&logo=Consul&logoColor=FFFFFF&label=)
 ```
+## ![Contabo](https://img.shields.io/static/v1?style=for-the-badge&message=Contabo&color=00AAEB&logo=Contabo&logoColor=FFFFFF&label=)
+```markdown
+![Contabo](https://img.shields.io/static/v1?style=for-the-badge&message=Contabo&color=00AAEB&logo=Contabo&logoColor=FFFFFF&label=)
+```
 ## ![Contactless Payment](https://img.shields.io/static/v1?style=for-the-badge&message=Contactless+Payment&color=000000&logo=Contactless+Payment&logoColor=FFFFFF&label=)
 ```markdown
 ![Contactless Payment](https://img.shields.io/static/v1?style=for-the-badge&message=Contactless+Payment&color=000000&logo=Contactless+Payment&logoColor=FFFFFF&label=)
@@ -2637,6 +2641,10 @@
 ## ![Crystal](https://img.shields.io/static/v1?style=for-the-badge&message=Crystal&color=000000&logo=Crystal&logoColor=FFFFFF&label=)
 ```markdown
 ![Crystal](https://img.shields.io/static/v1?style=for-the-badge&message=Crystal&color=000000&logo=Crystal&logoColor=FFFFFF&label=)
+```
+## ![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=FC5531&logo=CSDN&logoColor=FFFFFF&label=)
+```markdown
+![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=FC5531&logo=CSDN&logoColor=FFFFFF&label=)
 ```
 ## ![CSS Design Awards](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Design+Awards&color=280FEE&logo=CSS+Design+Awards&logoColor=FFFFFF&label=)
 ```markdown
@@ -5814,6 +5822,10 @@
 ```markdown
 ![KeePassXC](https://img.shields.io/static/v1?style=for-the-badge&message=KeePassXC&color=6CAC4D&logo=KeePassXC&logoColor=FFFFFF&label=)
 ```
+## ![KeeWeb](https://img.shields.io/static/v1?style=for-the-badge&message=KeeWeb&color=528BFF&logo=KeeWeb&logoColor=FFFFFF&label=)
+```markdown
+![KeeWeb](https://img.shields.io/static/v1?style=for-the-badge&message=KeeWeb&color=528BFF&logo=KeeWeb&logoColor=FFFFFF&label=)
+```
 ## ![Kentico](https://img.shields.io/static/v1?style=for-the-badge&message=Kentico&color=F05A22&logo=Kentico&logoColor=FFFFFF&label=)
 ```markdown
 ![Kentico](https://img.shields.io/static/v1?style=for-the-badge&message=Kentico&color=F05A22&logo=Kentico&logoColor=FFFFFF&label=)
@@ -6469,6 +6481,10 @@
 ## ![Lucid](https://img.shields.io/static/v1?style=for-the-badge&message=Lucid&color=282C33&logo=Lucid&logoColor=FFFFFF&label=)
 ```markdown
 ![Lucid](https://img.shields.io/static/v1?style=for-the-badge&message=Lucid&color=282C33&logo=Lucid&logoColor=FFFFFF&label=)
+```
+## ![Lucide](https://img.shields.io/static/v1?style=for-the-badge&message=Lucide&color=F56565&logo=Lucide&logoColor=FFFFFF&label=)
+```markdown
+![Lucide](https://img.shields.io/static/v1?style=for-the-badge&message=Lucide&color=F56565&logo=Lucide&logoColor=FFFFFF&label=)
 ```
 ## ![Ludwig](https://img.shields.io/static/v1?style=for-the-badge&message=Ludwig&color=222222&logo=Ludwig&logoColor=FFFFFF&label=)
 ```markdown
@@ -8625,6 +8641,10 @@
 ## ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
 ```markdown
 ![Prime Video](https://img.shields.io/static/v1?style=for-the-badge&message=Prime+Video&color=1F2E3E&logo=Prime+Video&logoColor=FFFFFF&label=)
+```
+## ![PrimeFaces](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeFaces&color=263238&logo=PrimeFaces&logoColor=FFFFFF&label=)
+```markdown
+![PrimeFaces](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeFaces&color=263238&logo=PrimeFaces&logoColor=FFFFFF&label=)
 ```
 ## ![PrimeNG](https://img.shields.io/static/v1?style=for-the-badge&message=PrimeNG&color=DD0031&logo=PrimeNG&logoColor=FFFFFF&label=)
 ```markdown
@@ -11089,6 +11109,10 @@
 ## ![The Washington Post](https://img.shields.io/static/v1?style=for-the-badge&message=The+Washington+Post&color=231F20&logo=The+Washington+Post&logoColor=FFFFFF&label=)
 ```markdown
 ![The Washington Post](https://img.shields.io/static/v1?style=for-the-badge&message=The+Washington+Post&color=231F20&logo=The+Washington+Post&logoColor=FFFFFF&label=)
+```
+## ![The Weather Channel](https://img.shields.io/static/v1?style=for-the-badge&message=The+Weather+Channel&color=003399&logo=The+Weather+Channel&logoColor=FFFFFF&label=)
+```markdown
+![The Weather Channel](https://img.shields.io/static/v1?style=for-the-badge&message=The+Weather+Channel&color=003399&logo=The+Weather+Channel&logoColor=FFFFFF&label=)
 ```
 ## ![Thingiverse](https://img.shields.io/static/v1?style=for-the-badge&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=)
 ```markdown
