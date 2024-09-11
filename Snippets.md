@@ -1866,6 +1866,10 @@
 ```markdown
 ![Capacitor](https://img.shields.io/static/v1?style=for-the-badge&message=Capacitor&color=119EFF&logo=Capacitor&logoColor=FFFFFF&label=)
 ```
+## ![CapRover](https://img.shields.io/static/v1?style=for-the-badge&message=CapRover&color=ED5B26&logo=CapRover&logoColor=FFFFFF&label=)
+```markdown
+![CapRover](https://img.shields.io/static/v1?style=for-the-badge&message=CapRover&color=ED5B26&logo=CapRover&logoColor=FFFFFF&label=)
+```
 ## ![Car Throttle](https://img.shields.io/static/v1?style=for-the-badge&message=Car+Throttle&color=222222&logo=Car+Throttle&logoColor=FF9C42&label=)
 ```markdown
 ![Car Throttle](https://img.shields.io/static/v1?style=for-the-badge&message=Car+Throttle&color=222222&logo=Car+Throttle&logoColor=FF9C42&label=)
@@ -2561,6 +2565,10 @@
 ## ![Coveralls](https://img.shields.io/static/v1?style=for-the-badge&message=Coveralls&color=3F5767&logo=Coveralls&logoColor=FFFFFF&label=)
 ```markdown
 ![Coveralls](https://img.shields.io/static/v1?style=for-the-badge&message=Coveralls&color=3F5767&logo=Coveralls&logoColor=FFFFFF&label=)
+```
+## ![Coze](https://img.shields.io/static/v1?style=for-the-badge&message=Coze&color=4D53E8&logo=Coze&logoColor=FFFFFF&label=)
+```markdown
+![Coze](https://img.shields.io/static/v1?style=for-the-badge&message=Coze&color=4D53E8&logo=Coze&logoColor=FFFFFF&label=)
 ```
 ## ![cPanel](https://img.shields.io/static/v1?style=for-the-badge&message=cPanel&color=FF6C2C&logo=cPanel&logoColor=FFFFFF&label=)
 ```markdown
@@ -12001,6 +12009,10 @@
 ## ![VOX](https://img.shields.io/static/v1?style=for-the-badge&message=VOX&color=DA074A&logo=VOX&logoColor=FFFFFF&label=)
 ```markdown
 ![VOX](https://img.shields.io/static/v1?style=for-the-badge&message=VOX&color=DA074A&logo=VOX&logoColor=FFFFFF&label=)
+```
+## ![VRChat](https://img.shields.io/static/v1?style=for-the-badge&message=VRChat&color=000000&logo=VRChat&logoColor=FFFFFF&label=)
+```markdown
+![VRChat](https://img.shields.io/static/v1?style=for-the-badge&message=VRChat&color=000000&logo=VRChat&logoColor=FFFFFF&label=)
 ```
 ## ![VSCO](https://img.shields.io/static/v1?style=for-the-badge&message=VSCO&color=000000&logo=VSCO&logoColor=FFFFFF&label=)
 ```markdown
