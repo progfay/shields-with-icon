@@ -798,6 +798,10 @@
 ```markdown
 ![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1B6AC6&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)
 ```
+## ![Apache NiFi](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NiFi&color=728E9B&logo=Apache+NiFi&logoColor=FFFFFF&label=)
+```markdown
+![Apache NiFi](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NiFi&color=728E9B&logo=Apache+NiFi&logoColor=FFFFFF&label=)
+```
 ## ![Apache OpenOffice](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+OpenOffice&color=0E85CD&logo=Apache+OpenOffice&logoColor=FFFFFF&label=)
 ```markdown
 ![Apache OpenOffice](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+OpenOffice&color=0E85CD&logo=Apache+OpenOffice&logoColor=FFFFFF&label=)
@@ -4758,6 +4762,10 @@
 ```markdown
 ![Guilded](https://img.shields.io/static/v1?style=for-the-badge&message=Guilded&color=222222&logo=Guilded&logoColor=F5C400&label=)
 ```
+## ![Guitar Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Guitar+Pro&color=569FFF&logo=Guitar+Pro&logoColor=FFFFFF&label=)
+```markdown
+![Guitar Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Guitar+Pro&color=569FFF&logo=Guitar+Pro&logoColor=FFFFFF&label=)
+```
 ## ![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
 ```markdown
 ![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
@@ -6265,6 +6273,14 @@
 ## ![LibreOffice Writer](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Writer&color=083FA6&logo=LibreOffice+Writer&logoColor=FFFFFF&label=)
 ```markdown
 ![LibreOffice Writer](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice+Writer&color=083FA6&logo=LibreOffice+Writer&logoColor=FFFFFF&label=)
+```
+## ![LibreTranslate](https://img.shields.io/static/v1?style=for-the-badge&message=LibreTranslate&color=1565C0&logo=LibreTranslate&logoColor=FFFFFF&label=)
+```markdown
+![LibreTranslate](https://img.shields.io/static/v1?style=for-the-badge&message=LibreTranslate&color=1565C0&logo=LibreTranslate&logoColor=FFFFFF&label=)
+```
+## ![LibreTube](https://img.shields.io/static/v1?style=for-the-badge&message=LibreTube&color=222222&logo=LibreTube&logoColor=FF9699&label=)
+```markdown
+![LibreTube](https://img.shields.io/static/v1?style=for-the-badge&message=LibreTube&color=222222&logo=LibreTube&logoColor=FF9699&label=)
 ```
 ## ![LibreWolf](https://img.shields.io/static/v1?style=for-the-badge&message=LibreWolf&color=00ACFF&logo=LibreWolf&logoColor=FFFFFF&label=)
 ```markdown
@@ -10762,6 +10778,10 @@
 ```markdown
 ![SVGO](https://img.shields.io/static/v1?style=for-the-badge&message=SVGO&color=3E7FC1&logo=SVGO&logoColor=FFFFFF&label=)
 ```
+## ![SvgTrace](https://img.shields.io/static/v1?style=for-the-badge&message=SvgTrace&color=F453C4&logo=SvgTrace&logoColor=FFFFFF&label=)
+```markdown
+![SvgTrace](https://img.shields.io/static/v1?style=for-the-badge&message=SvgTrace&color=F453C4&logo=SvgTrace&logoColor=FFFFFF&label=)
+```
 ## ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 ```markdown
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
@@ -10769,6 +10789,10 @@
 ## ![Swarm](https://img.shields.io/static/v1?style=for-the-badge&message=Swarm&color=222222&logo=Swarm&logoColor=FFA633&label=)
 ```markdown
 ![Swarm](https://img.shields.io/static/v1?style=for-the-badge&message=Swarm&color=222222&logo=Swarm&logoColor=FFA633&label=)
+```
+## ![Sway](https://img.shields.io/static/v1?style=for-the-badge&message=Sway&color=68751C&logo=Sway&logoColor=FFFFFF&label=)
+```markdown
+![Sway](https://img.shields.io/static/v1?style=for-the-badge&message=Sway&color=68751C&logo=Sway&logoColor=FFFFFF&label=)
 ```
 ## ![SWC](https://img.shields.io/static/v1?style=for-the-badge&message=SWC&color=222222&logo=SWC&logoColor=F8C457&label=)
 ```markdown
