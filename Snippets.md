@@ -6950,6 +6950,10 @@
 ```markdown
 ![Migadu](https://img.shields.io/static/v1?style=for-the-badge&message=Migadu&color=0043CE&logo=Migadu&logoColor=FFFFFF&label=)
 ```
+## ![miHoYo](https://img.shields.io/static/v1?style=for-the-badge&message=miHoYo&color=4EA4DD&logo=miHoYo&logoColor=FFFFFF&label=)
+```markdown
+![miHoYo](https://img.shields.io/static/v1?style=for-the-badge&message=miHoYo&color=4EA4DD&logo=miHoYo&logoColor=FFFFFF&label=)
+```
 ## ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
 ```markdown
 ![Mikrotik](https://img.shields.io/static/v1?style=for-the-badge&message=Mikrotik&color=293239&logo=Mikrotik&logoColor=FFFFFF&label=)
@@ -7269,6 +7273,10 @@
 ## ![Nano](https://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=4A90E2&logo=Nano&logoColor=FFFFFF&label=)
 ```markdown
 ![Nano](https://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=4A90E2&logo=Nano&logoColor=FFFFFF&label=)
+```
+## ![Nano Stores](https://img.shields.io/static/v1?style=for-the-badge&message=Nano+Stores&color=000000&logo=Nano+Stores&logoColor=FFFFFF&label=)
+```markdown
+![Nano Stores](https://img.shields.io/static/v1?style=for-the-badge&message=Nano+Stores&color=000000&logo=Nano+Stores&logoColor=FFFFFF&label=)
 ```
 ## ![NASA](https://img.shields.io/static/v1?style=for-the-badge&message=NASA&color=E03C31&logo=NASA&logoColor=FFFFFF&label=)
 ```markdown
@@ -8430,9 +8438,9 @@
 ```markdown
 ![Player.me](https://img.shields.io/static/v1?style=for-the-badge&message=Player.me&color=C0379A&logo=Player.me&logoColor=FFFFFF&label=)
 ```
-## ![PlayStation](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation&color=003791&logo=PlayStation&logoColor=FFFFFF&label=)
+## ![PlayStation](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation&color=0070D1&logo=PlayStation&logoColor=FFFFFF&label=)
 ```markdown
-![PlayStation](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation&color=003791&logo=PlayStation&logoColor=FFFFFF&label=)
+![PlayStation](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation&color=0070D1&logo=PlayStation&logoColor=FFFFFF&label=)
 ```
 ## ![PlayStation 2](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+2&color=003791&logo=PlayStation+2&logoColor=FFFFFF&label=)
 ```markdown
