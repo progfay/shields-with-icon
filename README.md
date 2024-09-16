@@ -1850,6 +1850,7 @@
 ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=222222&logo=New+Relic&logoColor=1CE783&label=)
 ![New York Times](https://img.shields.io/static/v1?style=for-the-badge&message=New+York+Times&color=000000&logo=New+York+Times&logoColor=FFFFFF&label=)
 ![Newegg](https://img.shields.io/static/v1?style=for-the-badge&message=Newegg&color=E05E00&logo=Newegg&logoColor=FFFFFF&label=)
+![Nexon](https://img.shields.io/static/v1?style=for-the-badge&message=Nexon&color=000000&logo=Nexon&logoColor=FFFFFF&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![NextBillion.ai](https://img.shields.io/static/v1?style=for-the-badge&message=NextBillion.ai&color=8D5A9E&logo=NextBillion.ai&logoColor=FFFFFF&label=)
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)

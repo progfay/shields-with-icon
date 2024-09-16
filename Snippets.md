@@ -7406,6 +7406,10 @@
 ```markdown
 ![Newegg](https://img.shields.io/static/v1?style=for-the-badge&message=Newegg&color=E05E00&logo=Newegg&logoColor=FFFFFF&label=)
 ```
+## ![Nexon](https://img.shields.io/static/v1?style=for-the-badge&message=Nexon&color=000000&logo=Nexon&logoColor=FFFFFF&label=)
+```markdown
+![Nexon](https://img.shields.io/static/v1?style=for-the-badge&message=Nexon&color=000000&logo=Nexon&logoColor=FFFFFF&label=)
+```
 ## ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ```markdown
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
