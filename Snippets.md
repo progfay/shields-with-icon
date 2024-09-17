@@ -2306,6 +2306,10 @@
 ```markdown
 ![Codecov](https://img.shields.io/static/v1?style=for-the-badge&message=Codecov&color=F01F7A&logo=Codecov&logoColor=FFFFFF&label=)
 ```
+## ![CodeCrafters](https://img.shields.io/static/v1?style=for-the-badge&message=CodeCrafters&color=171920&logo=CodeCrafters&logoColor=FFFFFF&label=)
+```markdown
+![CodeCrafters](https://img.shields.io/static/v1?style=for-the-badge&message=CodeCrafters&color=171920&logo=CodeCrafters&logoColor=FFFFFF&label=)
+```
 ## ![CodeFactor](https://img.shields.io/static/v1?style=for-the-badge&message=CodeFactor&color=F44A6A&logo=CodeFactor&logoColor=FFFFFF&label=)
 ```markdown
 ![CodeFactor](https://img.shields.io/static/v1?style=for-the-badge&message=CodeFactor&color=F44A6A&logo=CodeFactor&logoColor=FFFFFF&label=)
@@ -4082,6 +4086,10 @@
 ```markdown
 ![Freepik](https://img.shields.io/static/v1?style=for-the-badge&message=Freepik&color=1273EB&logo=Freepik&logoColor=FFFFFF&label=)
 ```
+## ![Fresh](https://img.shields.io/static/v1?style=for-the-badge&message=Fresh&color=222222&logo=Fresh&logoColor=FFDB1E&label=)
+```markdown
+![Fresh](https://img.shields.io/static/v1?style=for-the-badge&message=Fresh&color=222222&logo=Fresh&logoColor=FFDB1E&label=)
+```
 ## ![Frontend Mentor](https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=)
 ```markdown
 ![Frontend Mentor](https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=)
@@ -4941,6 +4949,10 @@
 ## ![Helium](https://img.shields.io/static/v1?style=for-the-badge&message=Helium&color=222222&logo=Helium&logoColor=0ACF83&label=)
 ```markdown
 ![Helium](https://img.shields.io/static/v1?style=for-the-badge&message=Helium&color=222222&logo=Helium&logoColor=0ACF83&label=)
+```
+## ![Helix](https://img.shields.io/static/v1?style=for-the-badge&message=Helix&color=281733&logo=Helix&logoColor=FFFFFF&label=)
+```markdown
+![Helix](https://img.shields.io/static/v1?style=for-the-badge&message=Helix&color=281733&logo=Helix&logoColor=FFFFFF&label=)
 ```
 ## ![HelloFresh](https://img.shields.io/static/v1?style=for-the-badge&message=HelloFresh&color=222222&logo=HelloFresh&logoColor=99CC33&label=)
 ```markdown
@@ -11901,6 +11913,10 @@
 ## ![Vespa](https://img.shields.io/static/v1?style=for-the-badge&message=Vespa&color=222222&logo=Vespa&logoColor=85B09A&label=)
 ```markdown
 ![Vespa](https://img.shields.io/static/v1?style=for-the-badge&message=Vespa&color=222222&logo=Vespa&logoColor=85B09A&label=)
+```
+## ![Vestel](https://img.shields.io/static/v1?style=for-the-badge&message=Vestel&color=DD052B&logo=Vestel&logoColor=FFFFFF&label=)
+```markdown
+![Vestel](https://img.shields.io/static/v1?style=for-the-badge&message=Vestel&color=DD052B&logo=Vestel&logoColor=FFFFFF&label=)
 ```
 ## ![VEXXHOST](https://img.shields.io/static/v1?style=for-the-badge&message=VEXXHOST&color=2A1659&logo=VEXXHOST&logoColor=FFFFFF&label=)
 ```markdown
