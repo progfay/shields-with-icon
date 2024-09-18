@@ -5838,6 +5838,10 @@
 ```markdown
 ![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
 ```
+## ![KDE Plasma](https://img.shields.io/static/v1?style=for-the-badge&message=KDE+Plasma&color=1D99F3&logo=KDE+Plasma&logoColor=FFFFFF&label=)
+```markdown
+![KDE Plasma](https://img.shields.io/static/v1?style=for-the-badge&message=KDE+Plasma&color=1D99F3&logo=KDE+Plasma&logoColor=FFFFFF&label=)
+```
 ## ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
 ```markdown
 ![Kdenlive](https://img.shields.io/static/v1?style=for-the-badge&message=Kdenlive&color=527EB2&logo=Kdenlive&logoColor=FFFFFF&label=)
