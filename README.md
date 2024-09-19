@@ -739,6 +739,7 @@
 ![Deutsche Bahn](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bahn&color=F01414&logo=Deutsche+Bahn&logoColor=FFFFFF&label=)
 ![Deutsche Bank](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Bank&color=0018A8&logo=Deutsche+Bank&logoColor=FFFFFF&label=)
 ![Deutsche Post](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Post&color=222222&logo=Deutsche+Post&logoColor=FFCC00&label=)
+![Deutsche Welle](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Welle&color=222222&logo=Deutsche+Welle&logoColor=05B2FC&label=)
 ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
 ![DevExpress](https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label=)
 ![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=)

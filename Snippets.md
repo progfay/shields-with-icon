@@ -2962,6 +2962,10 @@
 ```markdown
 ![Deutsche Post](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Post&color=222222&logo=Deutsche+Post&logoColor=FFCC00&label=)
 ```
+## ![Deutsche Welle](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Welle&color=222222&logo=Deutsche+Welle&logoColor=05B2FC&label=)
+```markdown
+![Deutsche Welle](https://img.shields.io/static/v1?style=for-the-badge&message=Deutsche+Welle&color=222222&logo=Deutsche+Welle&logoColor=05B2FC&label=)
+```
 ## ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
 ```markdown
 ![dev.to](https://img.shields.io/static/v1?style=for-the-badge&message=dev.to&color=0A0A0A&logo=dev.to&logoColor=FFFFFF&label=)
