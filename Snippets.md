@@ -7678,6 +7678,10 @@
 ```markdown
 ![O'Reilly](https://img.shields.io/static/v1?style=for-the-badge&message=O%27Reilly&color=D3002D&logo=O%27Reilly&logoColor=FFFFFF&label=)
 ```
+## ![O2](https://img.shields.io/static/v1?style=for-the-badge&message=O2&color=0050FF&logo=O2&logoColor=FFFFFF&label=)
+```markdown
+![O2](https://img.shields.io/static/v1?style=for-the-badge&message=O2&color=0050FF&logo=O2&logoColor=FFFFFF&label=)
+```
 ## ![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
 ```markdown
 ![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
