@@ -138,6 +138,10 @@
 ```markdown
 ![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
 ```
+## ![Actual Budget](https://img.shields.io/static/v1?style=for-the-badge&message=Actual+Budget&color=6B46C1&logo=Actual+Budget&logoColor=FFFFFF&label=)
+```markdown
+![Actual Budget](https://img.shields.io/static/v1?style=for-the-badge&message=Actual+Budget&color=6B46C1&logo=Actual+Budget&logoColor=FFFFFF&label=)
+```
 ## ![Acura](https://img.shields.io/static/v1?style=for-the-badge&message=Acura&color=000000&logo=Acura&logoColor=FFFFFF&label=)
 ```markdown
 ![Acura](https://img.shields.io/static/v1?style=for-the-badge&message=Acura&color=000000&logo=Acura&logoColor=FFFFFF&label=)

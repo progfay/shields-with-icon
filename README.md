@@ -33,6 +33,7 @@
 ![Activision](https://img.shields.io/static/v1?style=for-the-badge&message=Activision&color=000000&logo=Activision&logoColor=FFFFFF&label=)
 ![ActivityPub](https://img.shields.io/static/v1?style=for-the-badge&message=ActivityPub&color=F1007E&logo=ActivityPub&logoColor=FFFFFF&label=)
 ![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
+![Actual Budget](https://img.shields.io/static/v1?style=for-the-badge&message=Actual+Budget&color=6B46C1&logo=Actual+Budget&logoColor=FFFFFF&label=)
 ![Acura](https://img.shields.io/static/v1?style=for-the-badge&message=Acura&color=000000&logo=Acura&logoColor=FFFFFF&label=)
 ![Adafruit](https://img.shields.io/static/v1?style=for-the-badge&message=Adafruit&color=000000&logo=Adafruit&logoColor=FFFFFF&label=)
 ![AdBlock](https://img.shields.io/static/v1?style=for-the-badge&message=AdBlock&color=F40D12&logo=AdBlock&logoColor=FFFFFF&label=)
