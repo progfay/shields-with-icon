@@ -7346,6 +7346,10 @@
 ```markdown
 ![NEAR](https://img.shields.io/static/v1?style=for-the-badge&message=NEAR&color=000000&logo=NEAR&logoColor=FFFFFF&label=)
 ```
+## ![Nebula](https://img.shields.io/static/v1?style=for-the-badge&message=Nebula&color=222222&logo=Nebula&logoColor=2CADFE&label=)
+```markdown
+![Nebula](https://img.shields.io/static/v1?style=for-the-badge&message=Nebula&color=222222&logo=Nebula&logoColor=2CADFE&label=)
+```
 ## ![NEC](https://img.shields.io/static/v1?style=for-the-badge&message=NEC&color=1414A0&logo=NEC&logoColor=FFFFFF&label=)
 ```markdown
 ![NEC](https://img.shields.io/static/v1?style=for-the-badge&message=NEC&color=1414A0&logo=NEC&logoColor=FFFFFF&label=)
@@ -12541,6 +12545,10 @@
 ## ![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)
 ```markdown
 ![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)
+```
+## ![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=005FAD&logo=XML&logoColor=FFFFFF&label=)
+```markdown
+![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=005FAD&logo=XML&logoColor=FFFFFF&label=)
 ```
 ## ![XMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XMPP&color=002B5C&logo=XMPP&logoColor=FFFFFF&label=)
 ```markdown
