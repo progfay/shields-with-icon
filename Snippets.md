@@ -3302,6 +3302,10 @@
 ```markdown
 ![Eclipse Vert.x](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Vert.x&color=782A90&logo=Eclipse+Vert.x&logoColor=FFFFFF&label=)
 ```
+## ![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=222222&logo=Ecosia&logoColor=5DD25E&label=)
+```markdown
+![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=222222&logo=Ecosia&logoColor=5DD25E&label=)
+```
 ## ![Ecovacs](https://img.shields.io/static/v1?style=for-the-badge&message=Ecovacs&color=1E384B&logo=Ecovacs&logoColor=FFFFFF&label=)
 ```markdown
 ![Ecovacs](https://img.shields.io/static/v1?style=for-the-badge&message=Ecovacs&color=1E384B&logo=Ecovacs&logoColor=FFFFFF&label=)
@@ -4989,6 +4993,10 @@
 ## ![HERE](https://img.shields.io/static/v1?style=for-the-badge&message=HERE&color=00AFAA&logo=HERE&logoColor=FFFFFF&label=)
 ```markdown
 ![HERE](https://img.shields.io/static/v1?style=for-the-badge&message=HERE&color=00AFAA&logo=HERE&logoColor=FFFFFF&label=)
+```
+## ![Hermes](https://img.shields.io/static/v1?style=for-the-badge&message=Hermes&color=0091CD&logo=Hermes&logoColor=FFFFFF&label=)
+```markdown
+![Hermes](https://img.shields.io/static/v1?style=for-the-badge&message=Hermes&color=0091CD&logo=Hermes&logoColor=FFFFFF&label=)
 ```
 ## ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 ```markdown
