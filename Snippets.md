@@ -6234,9 +6234,9 @@
 ```markdown
 ![Leptos](https://img.shields.io/static/v1?style=for-the-badge&message=Leptos&color=EF3939&logo=Leptos&logoColor=FFFFFF&label=)
 ```
-## ![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=9333EA&logo=Lerna&logoColor=FFFFFF&label=)
+## ![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=334155&logo=Lerna&logoColor=FFFFFF&label=)
 ```markdown
-![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=9333EA&logo=Lerna&logoColor=FFFFFF&label=)
+![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=334155&logo=Lerna&logoColor=FFFFFF&label=)
 ```
 ## ![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
 ```markdown
@@ -8850,9 +8850,9 @@
 ```markdown
 ![Pterodactyl](https://img.shields.io/static/v1?style=for-the-badge&message=Pterodactyl&color=10539F&logo=Pterodactyl&logoColor=FFFFFF&label=)
 ```
-## ![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=FEAB02&label=)
+## ![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=F4B942&label=)
 ```markdown
-![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=FEAB02&label=)
+![PUBG](https://img.shields.io/static/v1?style=for-the-badge&message=PUBG&color=222222&logo=PUBG&logoColor=F4B942&label=)
 ```
 ## ![Publons](https://img.shields.io/static/v1?style=for-the-badge&message=Publons&color=336699&logo=Publons&logoColor=FFFFFF&label=)
 ```markdown
