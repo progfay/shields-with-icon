@@ -2090,6 +2090,10 @@
 ```markdown
 ![Cinema 4D](https://img.shields.io/static/v1?style=for-the-badge&message=Cinema+4D&color=011A6A&logo=Cinema+4D&logoColor=FFFFFF&label=)
 ```
+## ![Cinnamon](https://img.shields.io/static/v1?style=for-the-badge&message=Cinnamon&color=DC682E&logo=Cinnamon&logoColor=FFFFFF&label=)
+```markdown
+![Cinnamon](https://img.shields.io/static/v1?style=for-the-badge&message=Cinnamon&color=DC682E&logo=Cinnamon&logoColor=FFFFFF&label=)
+```
 ## ![Circle](https://img.shields.io/static/v1?style=for-the-badge&message=Circle&color=8669AE&logo=Circle&logoColor=FFFFFF&label=)
 ```markdown
 ![Circle](https://img.shields.io/static/v1?style=for-the-badge&message=Circle&color=8669AE&logo=Circle&logoColor=FFFFFF&label=)

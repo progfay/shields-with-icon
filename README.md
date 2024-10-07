@@ -521,6 +521,7 @@
 ![Chupa Chups](https://img.shields.io/static/v1?style=for-the-badge&message=Chupa+Chups&color=CF103E&logo=Chupa+Chups&logoColor=FFFFFF&label=)
 ![Cilium](https://img.shields.io/static/v1?style=for-the-badge&message=Cilium&color=222222&logo=Cilium&logoColor=F8C517&label=)
 ![Cinema 4D](https://img.shields.io/static/v1?style=for-the-badge&message=Cinema+4D&color=011A6A&logo=Cinema+4D&logoColor=FFFFFF&label=)
+![Cinnamon](https://img.shields.io/static/v1?style=for-the-badge&message=Cinnamon&color=DC682E&logo=Cinnamon&logoColor=FFFFFF&label=)
 ![Circle](https://img.shields.io/static/v1?style=for-the-badge&message=Circle&color=8669AE&logo=Circle&logoColor=FFFFFF&label=)
 ![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
 ![CircuitVerse](https://img.shields.io/static/v1?style=for-the-badge&message=CircuitVerse&color=222222&logo=CircuitVerse&logoColor=42B883&label=)
