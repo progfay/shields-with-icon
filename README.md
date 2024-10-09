@@ -1399,6 +1399,7 @@
 ![Jamboard](https://img.shields.io/static/v1?style=for-the-badge&message=Jamboard&color=F37C20&logo=Jamboard&logoColor=FFFFFF&label=)
 ![Jameson](https://img.shields.io/static/v1?style=for-the-badge&message=Jameson&color=004027&logo=Jameson&logoColor=FFFFFF&label=)
 ![Jamstack](https://img.shields.io/static/v1?style=for-the-badge&message=Jamstack&color=F0047F&logo=Jamstack&logoColor=FFFFFF&label=)
+![Japan Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Japan+Airlines&color=C00000&logo=Japan+Airlines&logoColor=FFFFFF&label=)
 ![Jasmine](https://img.shields.io/static/v1?style=for-the-badge&message=Jasmine&color=8A4182&logo=Jasmine&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![JBL](https://img.shields.io/static/v1?style=for-the-badge&message=JBL&color=FF3300&logo=JBL&logoColor=FFFFFF&label=)

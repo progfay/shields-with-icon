@@ -5602,6 +5602,10 @@
 ```markdown
 ![Jamstack](https://img.shields.io/static/v1?style=for-the-badge&message=Jamstack&color=F0047F&logo=Jamstack&logoColor=FFFFFF&label=)
 ```
+## ![Japan Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Japan+Airlines&color=C00000&logo=Japan+Airlines&logoColor=FFFFFF&label=)
+```markdown
+![Japan Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Japan+Airlines&color=C00000&logo=Japan+Airlines&logoColor=FFFFFF&label=)
+```
 ## ![Jasmine](https://img.shields.io/static/v1?style=for-the-badge&message=Jasmine&color=8A4182&logo=Jasmine&logoColor=FFFFFF&label=)
 ```markdown
 ![Jasmine](https://img.shields.io/static/v1?style=for-the-badge&message=Jasmine&color=8A4182&logo=Jasmine&logoColor=FFFFFF&label=)
