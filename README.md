@@ -2491,6 +2491,7 @@
 ![Semrush](https://img.shields.io/static/v1?style=for-the-badge&message=Semrush&color=FF642D&logo=Semrush&logoColor=FFFFFF&label=)
 ![SemVer](https://img.shields.io/static/v1?style=for-the-badge&message=SemVer&color=3F4551&logo=SemVer&logoColor=FFFFFF&label=)
 ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
+![SendGrid](https://img.shields.io/static/v1?style=for-the-badge&message=SendGrid&color=51A9E3&logo=SendGrid&logoColor=FFFFFF&label=)
 ![Sennheiser](https://img.shields.io/static/v1?style=for-the-badge&message=Sennheiser&color=000000&logo=Sennheiser&logoColor=FFFFFF&label=)
 ![Sensu](https://img.shields.io/static/v1?style=for-the-badge&message=Sensu&color=222222&logo=Sensu&logoColor=89C967&label=)
 ![Sentry](https://img.shields.io/static/v1?style=for-the-badge&message=Sentry&color=362D59&logo=Sentry&logoColor=FFFFFF&label=)

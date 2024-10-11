@@ -9970,6 +9970,10 @@
 ```markdown
 ![Sencha](https://img.shields.io/static/v1?style=for-the-badge&message=Sencha&color=222222&logo=Sencha&logoColor=86BC40&label=)
 ```
+## ![SendGrid](https://img.shields.io/static/v1?style=for-the-badge&message=SendGrid&color=51A9E3&logo=SendGrid&logoColor=FFFFFF&label=)
+```markdown
+![SendGrid](https://img.shields.io/static/v1?style=for-the-badge&message=SendGrid&color=51A9E3&logo=SendGrid&logoColor=FFFFFF&label=)
+```
 ## ![Sennheiser](https://img.shields.io/static/v1?style=for-the-badge&message=Sennheiser&color=000000&logo=Sennheiser&logoColor=FFFFFF&label=)
 ```markdown
 ![Sennheiser](https://img.shields.io/static/v1?style=for-the-badge&message=Sennheiser&color=000000&logo=Sennheiser&logoColor=FFFFFF&label=)
