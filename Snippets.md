@@ -482,6 +482,10 @@
 ```markdown
 ![Alpine.js](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
 ```
+## ![AlternativeTo](https://img.shields.io/static/v1?style=for-the-badge&message=AlternativeTo&color=0289D5&logo=AlternativeTo&logoColor=FFFFFF&label=)
+```markdown
+![AlternativeTo](https://img.shields.io/static/v1?style=for-the-badge&message=AlternativeTo&color=0289D5&logo=AlternativeTo&logoColor=FFFFFF&label=)
+```
 ## ![Alteryx](https://img.shields.io/static/v1?style=for-the-badge&message=Alteryx&color=0078C0&logo=Alteryx&logoColor=FFFFFF&label=)
 ```markdown
 ![Alteryx](https://img.shields.io/static/v1?style=for-the-badge&message=Alteryx&color=0078C0&logo=Alteryx&logoColor=FFFFFF&label=)
@@ -1077,6 +1081,10 @@
 ## ![Atari](https://img.shields.io/static/v1?style=for-the-badge&message=Atari&color=E4202E&logo=Atari&logoColor=FFFFFF&label=)
 ```markdown
 ![Atari](https://img.shields.io/static/v1?style=for-the-badge&message=Atari&color=E4202E&logo=Atari&logoColor=FFFFFF&label=)
+```
+## ![AtlasOS](https://img.shields.io/static/v1?style=for-the-badge&message=AtlasOS&color=1A91FF&logo=AtlasOS&logoColor=FFFFFF&label=)
+```markdown
+![AtlasOS](https://img.shields.io/static/v1?style=for-the-badge&message=AtlasOS&color=1A91FF&logo=AtlasOS&logoColor=FFFFFF&label=)
 ```
 ## ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ```markdown
@@ -2938,9 +2946,9 @@
 ```markdown
 ![Deluge](https://img.shields.io/static/v1?style=for-the-badge&message=Deluge&color=094491&logo=Deluge&logoColor=FFFFFF&label=)
 ```
-## ![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=000000&logo=Deno&logoColor=FFFFFF&label=)
+## ![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=222222&logo=Deno&logoColor=70FFAF&label=)
 ```markdown
-![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=000000&logo=Deno&logoColor=FFFFFF&label=)
+![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=222222&logo=Deno&logoColor=70FFAF&label=)
 ```
 ## ![Denon](https://img.shields.io/static/v1?style=for-the-badge&message=Denon&color=0B131A&logo=Denon&logoColor=FFFFFF&label=)
 ```markdown
@@ -3306,9 +3314,9 @@
 ```markdown
 ![Eclipse Vert.x](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Vert.x&color=782A90&logo=Eclipse+Vert.x&logoColor=FFFFFF&label=)
 ```
-## ![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=222222&logo=Ecosia&logoColor=5DD25E&label=)
+## ![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=008009&logo=Ecosia&logoColor=FFFFFF&label=)
 ```markdown
-![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=222222&logo=Ecosia&logoColor=5DD25E&label=)
+![Ecosia](https://img.shields.io/static/v1?style=for-the-badge&message=Ecosia&color=008009&logo=Ecosia&logoColor=FFFFFF&label=)
 ```
 ## ![Ecovacs](https://img.shields.io/static/v1?style=for-the-badge&message=Ecovacs&color=1E384B&logo=Ecovacs&logoColor=FFFFFF&label=)
 ```markdown
