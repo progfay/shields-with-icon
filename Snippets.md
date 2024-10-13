@@ -9526,9 +9526,9 @@
 ```markdown
 ![Roam Research](https://img.shields.io/static/v1?style=for-the-badge&message=Roam+Research&color=343A40&logo=Roam+Research&logoColor=FFFFFF&label=)
 ```
-## ![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=00C805&label=)
+## ![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=CCFF00&label=)
 ```markdown
-![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=00C805&label=)
+![Robinhood](https://img.shields.io/static/v1?style=for-the-badge&message=Robinhood&color=222222&logo=Robinhood&logoColor=CCFF00&label=)
 ```
 ## ![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
 ```markdown
