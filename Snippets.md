@@ -2774,9 +2774,9 @@
 ```markdown
 ![Dailymotion](https://img.shields.io/static/v1?style=for-the-badge&message=Dailymotion&color=0A0A0A&logo=Dailymotion&logoColor=FFFFFF&label=)
 ```
-## ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
+## ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=222222&logo=DaisyUI&logoColor=1AD1A5&label=)
 ```markdown
-![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
+![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=222222&logo=DaisyUI&logoColor=1AD1A5&label=)
 ```
 ## ![Dapr](https://img.shields.io/static/v1?style=for-the-badge&message=Dapr&color=0D2192&logo=Dapr&logoColor=FFFFFF&label=)
 ```markdown
@@ -3482,9 +3482,9 @@
 ```markdown
 ![EnterpriseDB](https://img.shields.io/static/v1?style=for-the-badge&message=EnterpriseDB&color=FF3E00&logo=EnterpriseDB&logoColor=FFFFFF&label=)
 ```
-## ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
+## ![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=87E64B&label=)
 ```markdown
-![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=81B441&label=)
+![Envato](https://img.shields.io/static/v1?style=for-the-badge&message=Envato&color=222222&logo=Envato&logoColor=87E64B&label=)
 ```
 ## ![Envoy Proxy](https://img.shields.io/static/v1?style=for-the-badge&message=Envoy+Proxy&color=AC6199&logo=Envoy+Proxy&logoColor=FFFFFF&label=)
 ```markdown
