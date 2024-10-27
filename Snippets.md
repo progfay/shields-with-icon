@@ -9098,9 +9098,9 @@
 ```markdown
 ![Quora](https://img.shields.io/static/v1?style=for-the-badge&message=Quora&color=B92B27&logo=Quora&logoColor=FFFFFF&label=)
 ```
-## ![Qwant](https://img.shields.io/static/v1?style=for-the-badge&message=Qwant&color=5C97FF&logo=Qwant&logoColor=FFFFFF&label=)
+## ![Qwant](https://img.shields.io/static/v1?style=for-the-badge&message=Qwant&color=282B2F&logo=Qwant&logoColor=FFFFFF&label=)
 ```markdown
-![Qwant](https://img.shields.io/static/v1?style=for-the-badge&message=Qwant&color=5C97FF&logo=Qwant&logoColor=FFFFFF&label=)
+![Qwant](https://img.shields.io/static/v1?style=for-the-badge&message=Qwant&color=282B2F&logo=Qwant&logoColor=FFFFFF&label=)
 ```
 ## ![Qwik](https://img.shields.io/static/v1?style=for-the-badge&message=Qwik&color=AC7EF4&logo=Qwik&logoColor=FFFFFF&label=)
 ```markdown
@@ -10801,6 +10801,10 @@
 ## ![suckless](https://img.shields.io/static/v1?style=for-the-badge&message=suckless&color=1177AA&logo=suckless&logoColor=FFFFFF&label=)
 ```markdown
 ![suckless](https://img.shields.io/static/v1?style=for-the-badge&message=suckless&color=1177AA&logo=suckless&logoColor=FFFFFF&label=)
+```
+## ![Sui](https://img.shields.io/static/v1?style=for-the-badge&message=Sui&color=4DA2FF&logo=Sui&logoColor=FFFFFF&label=)
+```markdown
+![Sui](https://img.shields.io/static/v1?style=for-the-badge&message=Sui&color=4DA2FF&logo=Sui&logoColor=FFFFFF&label=)
 ```
 ## ![Sumo Logic](https://img.shields.io/static/v1?style=for-the-badge&message=Sumo+Logic&color=000099&logo=Sumo+Logic&logoColor=FFFFFF&label=)
 ```markdown
