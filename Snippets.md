@@ -2894,6 +2894,10 @@
 ```markdown
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 ```
+## ![Debrid-Link](https://img.shields.io/static/v1?style=for-the-badge&message=Debrid-Link&color=264E70&logo=Debrid-Link&logoColor=FFFFFF&label=)
+```markdown
+![Debrid-Link](https://img.shields.io/static/v1?style=for-the-badge&message=Debrid-Link&color=264E70&logo=Debrid-Link&logoColor=FFFFFF&label=)
+```
 ## ![Decap CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Decap+CMS&color=FF0082&logo=Decap+CMS&logoColor=FFFFFF&label=)
 ```markdown
 ![Decap CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Decap+CMS&color=FF0082&logo=Decap+CMS&logoColor=FFFFFF&label=)
@@ -5213,6 +5217,10 @@
 ## ![Hyperskill](https://img.shields.io/static/v1?style=for-the-badge&message=Hyperskill&color=8C5AFF&logo=Hyperskill&logoColor=FFFFFF&label=)
 ```markdown
 ![Hyperskill](https://img.shields.io/static/v1?style=for-the-badge&message=Hyperskill&color=8C5AFF&logo=Hyperskill&logoColor=FFFFFF&label=)
+```
+## ![HyperX](https://img.shields.io/static/v1?style=for-the-badge&message=HyperX&color=E21836&logo=HyperX&logoColor=FFFFFF&label=)
+```markdown
+![HyperX](https://img.shields.io/static/v1?style=for-the-badge&message=HyperX&color=E21836&logo=HyperX&logoColor=FFFFFF&label=)
 ```
 ## ![Hypothesis](https://img.shields.io/static/v1?style=for-the-badge&message=Hypothesis&color=BD1C2B&logo=Hypothesis&logoColor=FFFFFF&label=)
 ```markdown
@@ -7781,6 +7789,10 @@
 ## ![Okta](https://img.shields.io/static/v1?style=for-the-badge&message=Okta&color=007DC1&logo=Okta&logoColor=FFFFFF&label=)
 ```markdown
 ![Okta](https://img.shields.io/static/v1?style=for-the-badge&message=Okta&color=007DC1&logo=Okta&logoColor=FFFFFF&label=)
+```
+## ![OKX](https://img.shields.io/static/v1?style=for-the-badge&message=OKX&color=000000&logo=OKX&logoColor=FFFFFF&label=)
+```markdown
+![OKX](https://img.shields.io/static/v1?style=for-the-badge&message=OKX&color=000000&logo=OKX&logoColor=FFFFFF&label=)
 ```
 ## ![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=Ollama&logoColor=FFFFFF&label=)
 ```markdown
@@ -11853,6 +11865,10 @@
 ## ![uTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=uTorrent&color=222222&logo=uTorrent&logoColor=76B83F&label=)
 ```markdown
 ![uTorrent](https://img.shields.io/static/v1?style=for-the-badge&message=uTorrent&color=222222&logo=uTorrent&logoColor=76B83F&label=)
+```
+## ![uv](https://img.shields.io/static/v1?style=for-the-badge&message=uv&color=DE5FE9&logo=uv&logoColor=FFFFFF&label=)
+```markdown
+![uv](https://img.shields.io/static/v1?style=for-the-badge&message=uv&color=DE5FE9&logo=uv&logoColor=FFFFFF&label=)
 ```
 ## ![V](https://img.shields.io/static/v1?style=for-the-badge&message=V&color=5D87BF&logo=V&logoColor=FFFFFF&label=)
 ```markdown
