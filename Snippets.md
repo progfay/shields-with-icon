@@ -10130,9 +10130,9 @@
 ```markdown
 ![SiFive](https://img.shields.io/static/v1?style=for-the-badge&message=SiFive&color=252323&logo=SiFive&logoColor=FFFFFF&label=)
 ```
-## ![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3A76F0&logo=Signal&logoColor=FFFFFF&label=)
+## ![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3B45FD&logo=Signal&logoColor=FFFFFF&label=)
 ```markdown
-![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3A76F0&logo=Signal&logoColor=FFFFFF&label=)
+![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3B45FD&logo=Signal&logoColor=FFFFFF&label=)
 ```
 ## ![Similarweb](https://img.shields.io/static/v1?style=for-the-badge&message=Similarweb&color=092540&logo=Similarweb&logoColor=FFFFFF&label=)
 ```markdown

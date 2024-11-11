@@ -2531,7 +2531,7 @@
 ![SideQuest](https://img.shields.io/static/v1?style=for-the-badge&message=SideQuest&color=101227&logo=SideQuest&logoColor=FFFFFF&label=)
 ![Siemens](https://img.shields.io/static/v1?style=for-the-badge&message=Siemens&color=009999&logo=Siemens&logoColor=FFFFFF&label=)
 ![SiFive](https://img.shields.io/static/v1?style=for-the-badge&message=SiFive&color=252323&logo=SiFive&logoColor=FFFFFF&label=)
-![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3A76F0&logo=Signal&logoColor=FFFFFF&label=)
+![Signal](https://img.shields.io/static/v1?style=for-the-badge&message=Signal&color=3B45FD&logo=Signal&logoColor=FFFFFF&label=)
 ![Similarweb](https://img.shields.io/static/v1?style=for-the-badge&message=Similarweb&color=092540&logo=Similarweb&logoColor=FFFFFF&label=)
 ![Simkl](https://img.shields.io/static/v1?style=for-the-badge&message=Simkl&color=000000&logo=Simkl&logoColor=FFFFFF&label=)
 ![Simple Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Simple+Analytics&color=FF4F64&logo=Simple+Analytics&logoColor=FFFFFF&label=)
