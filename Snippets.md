@@ -1954,6 +1954,10 @@
 ```markdown
 ![CD Projekt](https://img.shields.io/static/v1?style=for-the-badge&message=CD+Projekt&color=DC0D15&logo=CD+Projekt&logoColor=FFFFFF&label=)
 ```
+## ![CE](https://img.shields.io/static/v1?style=for-the-badge&message=CE&color=000000&logo=CE&logoColor=FFFFFF&label=)
+```markdown
+![CE](https://img.shields.io/static/v1?style=for-the-badge&message=CE&color=000000&logo=CE&logoColor=FFFFFF&label=)
+```
 ## ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
 ```markdown
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
@@ -3417,6 +3421,10 @@
 ## ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
 ```markdown
 ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
+```
+## ![ElevenLabs](https://img.shields.io/static/v1?style=for-the-badge&message=ElevenLabs&color=000000&logo=ElevenLabs&logoColor=FFFFFF&label=)
+```markdown
+![ElevenLabs](https://img.shields.io/static/v1?style=for-the-badge&message=ElevenLabs&color=000000&logo=ElevenLabs&logoColor=FFFFFF&label=)
 ```
 ## ![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=222222&logo=Eleventy&logoColor=FFFFFF&label=)
 ```markdown
@@ -10277,6 +10285,10 @@
 ## ![Snapcraft](https://img.shields.io/static/v1?style=for-the-badge&message=Snapcraft&color=222222&logo=Snapcraft&logoColor=82BEA0&label=)
 ```markdown
 ![Snapcraft](https://img.shields.io/static/v1?style=for-the-badge&message=Snapcraft&color=222222&logo=Snapcraft&logoColor=82BEA0&label=)
+```
+## ![Snapdragon](https://img.shields.io/static/v1?style=for-the-badge&message=Snapdragon&color=C33139&logo=Snapdragon&logoColor=FFFFFF&label=)
+```markdown
+![Snapdragon](https://img.shields.io/static/v1?style=for-the-badge&message=Snapdragon&color=C33139&logo=Snapdragon&logoColor=FFFFFF&label=)
 ```
 ## ![SNCF](https://img.shields.io/static/v1?style=for-the-badge&message=SNCF&color=CA0939&logo=SNCF&logoColor=FFFFFF&label=)
 ```markdown
