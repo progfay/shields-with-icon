@@ -3758,6 +3758,10 @@
 ```markdown
 ![Favro](https://img.shields.io/static/v1?style=for-the-badge&message=Favro&color=512DA8&logo=Favro&logoColor=FFFFFF&label=)
 ```
+## ![FCC](https://img.shields.io/static/v1?style=for-the-badge&message=FCC&color=1C3664&logo=FCC&logoColor=FFFFFF&label=)
+```markdown
+![FCC](https://img.shields.io/static/v1?style=for-the-badge&message=FCC&color=1C3664&logo=FCC&logoColor=FFFFFF&label=)
+```
 ## ![FeatHub](https://img.shields.io/static/v1?style=for-the-badge&message=FeatHub&color=9B9B9B&logo=FeatHub&logoColor=FFFFFF&label=)
 ```markdown
 ![FeatHub](https://img.shields.io/static/v1?style=for-the-badge&message=FeatHub&color=9B9B9B&logo=FeatHub&logoColor=FFFFFF&label=)

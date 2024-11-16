@@ -938,6 +938,7 @@
 ![Fathom](https://img.shields.io/static/v1?style=for-the-badge&message=Fathom&color=9187FF&logo=Fathom&logoColor=FFFFFF&label=)
 ![Fauna](https://img.shields.io/static/v1?style=for-the-badge&message=Fauna&color=3A1AB6&logo=Fauna&logoColor=FFFFFF&label=)
 ![Favro](https://img.shields.io/static/v1?style=for-the-badge&message=Favro&color=512DA8&logo=Favro&logoColor=FFFFFF&label=)
+![FCC](https://img.shields.io/static/v1?style=for-the-badge&message=FCC&color=1C3664&logo=FCC&logoColor=FFFFFF&label=)
 ![FeatHub](https://img.shields.io/static/v1?style=for-the-badge&message=FeatHub&color=9B9B9B&logo=FeatHub&logoColor=FFFFFF&label=)
 ![FedEx](https://img.shields.io/static/v1?style=for-the-badge&message=FedEx&color=4D148C&logo=FedEx&logoColor=FFFFFF&label=)
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)
