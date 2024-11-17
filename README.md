@@ -1566,7 +1566,7 @@
 ![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)
 ![Lens](https://img.shields.io/static/v1?style=for-the-badge&message=Lens&color=3D90CE&logo=Lens&logoColor=FFFFFF&label=)
 ![Leptos](https://img.shields.io/static/v1?style=for-the-badge&message=Leptos&color=EF3939&logo=Leptos&logoColor=FFFFFF&label=)
-![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=334155&logo=Lerna&logoColor=FFFFFF&label=)
+![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=C084FC&logo=Lerna&logoColor=FFFFFF&label=)
 ![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
 ![Les libraires](https://img.shields.io/static/v1?style=for-the-badge&message=Les+libraires&color=CF4A0C&logo=Les+libraires&logoColor=FFFFFF&label=)
 ![Less](https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=1D365D&logo=Less&logoColor=FFFFFF&label=)

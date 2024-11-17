@@ -6270,9 +6270,9 @@
 ```markdown
 ![Leptos](https://img.shields.io/static/v1?style=for-the-badge&message=Leptos&color=EF3939&logo=Leptos&logoColor=FFFFFF&label=)
 ```
-## ![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=334155&logo=Lerna&logoColor=FFFFFF&label=)
+## ![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=C084FC&logo=Lerna&logoColor=FFFFFF&label=)
 ```markdown
-![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=334155&logo=Lerna&logoColor=FFFFFF&label=)
+![Lerna](https://img.shields.io/static/v1?style=for-the-badge&message=Lerna&color=C084FC&logo=Lerna&logoColor=FFFFFF&label=)
 ```
 ## ![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
 ```markdown
