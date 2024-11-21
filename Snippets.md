@@ -7778,6 +7778,10 @@
 ```markdown
 ![Oculus](https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=)
 ```
+## ![Odin](https://img.shields.io/static/v1?style=for-the-badge&message=Odin&color=3882D2&logo=Odin&logoColor=FFFFFF&label=)
+```markdown
+![Odin](https://img.shields.io/static/v1?style=for-the-badge&message=Odin&color=3882D2&logo=Odin&logoColor=FFFFFF&label=)
+```
 ## ![Odnoklassniki](https://img.shields.io/static/v1?style=for-the-badge&message=Odnoklassniki&color=EE8208&logo=Odnoklassniki&logoColor=FFFFFF&label=)
 ```markdown
 ![Odnoklassniki](https://img.shields.io/static/v1?style=for-the-badge&message=Odnoklassniki&color=EE8208&logo=Odnoklassniki&logoColor=FFFFFF&label=)

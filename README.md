@@ -1943,6 +1943,7 @@
 ![OctoPrint](https://img.shields.io/static/v1?style=for-the-badge&message=OctoPrint&color=222222&logo=OctoPrint&logoColor=13C100&label=)
 ![Octopus Deploy](https://img.shields.io/static/v1?style=for-the-badge&message=Octopus+Deploy&color=2F93E0&logo=Octopus+Deploy&logoColor=FFFFFF&label=)
 ![Oculus](https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=)
+![Odin](https://img.shields.io/static/v1?style=for-the-badge&message=Odin&color=3882D2&logo=Odin&logoColor=FFFFFF&label=)
 ![Odnoklassniki](https://img.shields.io/static/v1?style=for-the-badge&message=Odnoklassniki&color=EE8208&logo=Odnoklassniki&logoColor=FFFFFF&label=)
 ![Odoo](https://img.shields.io/static/v1?style=for-the-badge&message=Odoo&color=714B67&logo=Odoo&logoColor=FFFFFF&label=)
 ![Odysee](https://img.shields.io/static/v1?style=for-the-badge&message=Odysee&color=EF1970&logo=Odysee&logoColor=FFFFFF&label=)
