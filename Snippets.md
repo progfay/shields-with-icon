@@ -806,6 +806,10 @@
 ```markdown
 ![Apache Kylin](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kylin&color=222222&logo=Apache+Kylin&logoColor=F09D13&label=)
 ```
+## ![Apache Lucene](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Lucene&color=019B8F&logo=Apache+Lucene&logoColor=FFFFFF&label=)
+```markdown
+![Apache Lucene](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Lucene&color=019B8F&logo=Apache+Lucene&logoColor=FFFFFF&label=)
+```
 ## ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ```markdown
 ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)

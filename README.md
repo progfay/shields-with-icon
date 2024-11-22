@@ -200,6 +200,7 @@
 ![Apache JMeter](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+JMeter&color=D22128&logo=Apache+JMeter&logoColor=FFFFFF&label=)
 ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 ![Apache Kylin](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kylin&color=222222&logo=Apache+Kylin&logoColor=F09D13&label=)
+![Apache Lucene](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Lucene&color=019B8F&logo=Apache+Lucene&logoColor=FFFFFF&label=)
 ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1B6AC6&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)
 ![Apache NiFi](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NiFi&color=728E9B&logo=Apache+NiFi&logoColor=FFFFFF&label=)
