@@ -2174,6 +2174,10 @@
 ```markdown
 ![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=222222&logo=Clarivate&logoColor=93FF9E&label=)
 ```
+## ![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=Claude&logoColor=FFFFFF&label=)
+```markdown
+![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=Claude&logoColor=FFFFFF&label=)
+```
 ## ![Clerk](https://img.shields.io/static/v1?style=for-the-badge&message=Clerk&color=6C47FF&logo=Clerk&logoColor=FFFFFF&label=)
 ```markdown
 ![Clerk](https://img.shields.io/static/v1?style=for-the-badge&message=Clerk&color=6C47FF&logo=Clerk&logoColor=FFFFFF&label=)

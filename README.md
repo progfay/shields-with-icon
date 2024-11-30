@@ -542,6 +542,7 @@
 ![Clarifai](https://img.shields.io/static/v1?style=for-the-badge&message=Clarifai&color=1955FF&logo=Clarifai&logoColor=FFFFFF&label=)
 ![Claris](https://img.shields.io/static/v1?style=for-the-badge&message=Claris&color=000000&logo=Claris&logoColor=FFFFFF&label=)
 ![Clarivate](https://img.shields.io/static/v1?style=for-the-badge&message=Clarivate&color=222222&logo=Clarivate&logoColor=93FF9E&label=)
+![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=Claude&logoColor=FFFFFF&label=)
 ![Clerk](https://img.shields.io/static/v1?style=for-the-badge&message=Clerk&color=6C47FF&logo=Clerk&logoColor=FFFFFF&label=)
 ![Clever Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Clever+Cloud&color=171C36&logo=Clever+Cloud&logoColor=FFFFFF&label=)
 ![ClickHouse](https://img.shields.io/static/v1?style=for-the-badge&message=ClickHouse&color=222222&logo=ClickHouse&logoColor=FFCC01&label=)
