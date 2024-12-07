@@ -734,6 +734,10 @@
 ```markdown
 ![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF&label=)
 ```
+## ![AntV](https://img.shields.io/static/v1?style=for-the-badge&message=AntV&color=8B5DFF&logo=AntV&logoColor=FFFFFF&label=)
+```markdown
+![AntV](https://img.shields.io/static/v1?style=for-the-badge&message=AntV&color=8B5DFF&logo=AntV&logoColor=FFFFFF&label=)
+```
 ## ![Anycubic](https://img.shields.io/static/v1?style=for-the-badge&message=Anycubic&color=476695&logo=Anycubic&logoColor=FFFFFF&label=)
 ```markdown
 ![Anycubic](https://img.shields.io/static/v1?style=for-the-badge&message=Anycubic&color=476695&logo=Anycubic&logoColor=FFFFFF&label=)
@@ -9566,9 +9570,9 @@
 ```markdown
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=Render&logoColor=FFFFFF&label=)
 ```
-## ![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=1A1F6C&logo=Renovate&logoColor=FFFFFF&label=)
+## ![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=308BE3&logo=Renovate&logoColor=FFFFFF&label=)
 ```markdown
-![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=1A1F6C&logo=Renovate&logoColor=FFFFFF&label=)
+![Renovate](https://img.shields.io/static/v1?style=for-the-badge&message=Renovate&color=308BE3&logo=Renovate&logoColor=FFFFFF&label=)
 ```
 ## ![Renren](https://img.shields.io/static/v1?style=for-the-badge&message=Renren&color=217DC6&logo=Renren&logoColor=FFFFFF&label=)
 ```markdown
@@ -12477,6 +12481,10 @@
 ## ![Weasyl](https://img.shields.io/static/v1?style=for-the-badge&message=Weasyl&color=990000&logo=Weasyl&logoColor=FFFFFF&label=)
 ```markdown
 ![Weasyl](https://img.shields.io/static/v1?style=for-the-badge&message=Weasyl&color=990000&logo=Weasyl&logoColor=FFFFFF&label=)
+```
+## ![WEB.DE](https://img.shields.io/static/v1?style=for-the-badge&message=WEB.DE&color=222222&logo=WEB.DE&logoColor=FFD800&label=)
+```markdown
+![WEB.DE](https://img.shields.io/static/v1?style=for-the-badge&message=WEB.DE&color=222222&logo=WEB.DE&logoColor=FFD800&label=)
 ```
 ## ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
 ```markdown
