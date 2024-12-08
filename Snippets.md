@@ -10490,6 +10490,10 @@
 ```markdown
 ![Society6](https://img.shields.io/static/v1?style=for-the-badge&message=Society6&color=000000&logo=Society6&logoColor=FFFFFF&label=)
 ```
+## ![Socket](https://img.shields.io/static/v1?style=for-the-badge&message=Socket&color=C93CD7&logo=Socket&logoColor=FFFFFF&label=)
+```markdown
+![Socket](https://img.shields.io/static/v1?style=for-the-badge&message=Socket&color=C93CD7&logo=Socket&logoColor=FFFFFF&label=)
+```
 ## ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 ```markdown
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)

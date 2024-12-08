@@ -2621,6 +2621,7 @@
 ![Snyk](https://img.shields.io/static/v1?style=for-the-badge&message=Snyk&color=4C4A73&logo=Snyk&logoColor=FFFFFF&label=)
 ![Social Blade](https://img.shields.io/static/v1?style=for-the-badge&message=Social+Blade&color=B3382C&logo=Social+Blade&logoColor=FFFFFF&label=)
 ![Society6](https://img.shields.io/static/v1?style=for-the-badge&message=Society6&color=000000&logo=Society6&logoColor=FFFFFF&label=)
+![Socket](https://img.shields.io/static/v1?style=for-the-badge&message=Socket&color=C93CD7&logo=Socket&logoColor=FFFFFF&label=)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 ![Softpedia](https://img.shields.io/static/v1?style=for-the-badge&message=Softpedia&color=002873&logo=Softpedia&logoColor=FFFFFF&label=)
 ![Sogou](https://img.shields.io/static/v1?style=for-the-badge&message=Sogou&color=FB6022&logo=Sogou&logoColor=FFFFFF&label=)
