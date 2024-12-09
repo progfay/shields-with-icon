@@ -10498,6 +10498,10 @@
 ```markdown
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 ```
+## ![Softcatalà](https://img.shields.io/static/v1?style=for-the-badge&message=Softcatal%C3%A0&color=BA2626&logo=Softcatal%C3%A0&logoColor=FFFFFF&label=)
+```markdown
+![Softcatalà](https://img.shields.io/static/v1?style=for-the-badge&message=Softcatal%C3%A0&color=BA2626&logo=Softcatal%C3%A0&logoColor=FFFFFF&label=)
+```
 ## ![Softpedia](https://img.shields.io/static/v1?style=for-the-badge&message=Softpedia&color=002873&logo=Softpedia&logoColor=FFFFFF&label=)
 ```markdown
 ![Softpedia](https://img.shields.io/static/v1?style=for-the-badge&message=Softpedia&color=002873&logo=Softpedia&logoColor=FFFFFF&label=)
@@ -11041,6 +11045,10 @@
 ## ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
 ```markdown
 ![Supermicro](https://img.shields.io/static/v1?style=for-the-badge&message=Supermicro&color=151F6D&logo=Supermicro&logoColor=FFFFFF&label=)
+```
+## ![Surfshark](https://img.shields.io/static/v1?style=for-the-badge&message=Surfshark&color=222222&logo=Surfshark&logoColor=1EBFBF&label=)
+```markdown
+![Surfshark](https://img.shields.io/static/v1?style=for-the-badge&message=Surfshark&color=222222&logo=Surfshark&logoColor=1EBFBF&label=)
 ```
 ## ![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
 ```markdown
