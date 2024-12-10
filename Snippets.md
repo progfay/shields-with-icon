@@ -8518,6 +8518,10 @@
 ```markdown
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ```
+## ![phpBB](https://img.shields.io/static/v1?style=for-the-badge&message=phpBB&color=009BDF&logo=phpBB&logoColor=FFFFFF&label=)
+```markdown
+![phpBB](https://img.shields.io/static/v1?style=for-the-badge&message=phpBB&color=009BDF&logo=phpBB&logoColor=FFFFFF&label=)
+```
 ## ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ```markdown
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
@@ -9577,6 +9581,10 @@
 ## ![Renren](https://img.shields.io/static/v1?style=for-the-badge&message=Renren&color=217DC6&logo=Renren&logoColor=FFFFFF&label=)
 ```markdown
 ![Renren](https://img.shields.io/static/v1?style=for-the-badge&message=Renren&color=217DC6&logo=Renren&logoColor=FFFFFF&label=)
+```
+## ![Replicate](https://img.shields.io/static/v1?style=for-the-badge&message=Replicate&color=000000&logo=Replicate&logoColor=FFFFFF&label=)
+```markdown
+![Replicate](https://img.shields.io/static/v1?style=for-the-badge&message=Replicate&color=000000&logo=Replicate&logoColor=FFFFFF&label=)
 ```
 ## ![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=F26207&logo=Replit&logoColor=FFFFFF&label=)
 ```markdown
