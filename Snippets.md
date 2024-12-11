@@ -3698,6 +3698,10 @@
 ```markdown
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ```
+## ![Express.com](https://img.shields.io/static/v1?style=for-the-badge&message=Express.com&color=000000&logo=Express.com&logoColor=FFFFFF&label=)
+```markdown
+![Express.com](https://img.shields.io/static/v1?style=for-the-badge&message=Express.com&color=000000&logo=Express.com&logoColor=FFFFFF&label=)
+```
 ## ![ExpressVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ExpressVPN&color=DA3940&logo=ExpressVPN&logoColor=FFFFFF&label=)
 ```markdown
 ![ExpressVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ExpressVPN&color=DA3940&logo=ExpressVPN&logoColor=FFFFFF&label=)
@@ -5797,6 +5801,10 @@
 ## ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
 ```markdown
 ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
+```
+## ![Jio](https://img.shields.io/static/v1?style=for-the-badge&message=Jio&color=0A2885&logo=Jio&logoColor=FFFFFF&label=)
+```markdown
+![Jio](https://img.shields.io/static/v1?style=for-the-badge&message=Jio&color=0A2885&logo=Jio&logoColor=FFFFFF&label=)
 ```
 ## ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ```markdown
@@ -7961,6 +7969,10 @@
 ## ![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=Ollama&logoColor=FFFFFF&label=)
 ```markdown
 ![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=Ollama&logoColor=FFFFFF&label=)
+```
+## ![Omada Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Omada+Cloud&color=222222&logo=Omada+Cloud&logoColor=10C1D0&label=)
+```markdown
+![Omada Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Omada+Cloud&color=222222&logo=Omada+Cloud&logoColor=10C1D0&label=)
 ```
 ## ![OnePlus](https://img.shields.io/static/v1?style=for-the-badge&message=OnePlus&color=F5010C&logo=OnePlus&logoColor=FFFFFF&label=)
 ```markdown
@@ -11313,6 +11325,10 @@
 ## ![Télé-Québec](https://img.shields.io/static/v1?style=for-the-badge&message=T%C3%A9l%C3%A9-Qu%C3%A9bec&color=1343FB&logo=T%C3%A9l%C3%A9-Qu%C3%A9bec&logoColor=FFFFFF&label=)
 ```markdown
 ![Télé-Québec](https://img.shields.io/static/v1?style=for-the-badge&message=T%C3%A9l%C3%A9-Qu%C3%A9bec&color=1343FB&logo=T%C3%A9l%C3%A9-Qu%C3%A9bec&logoColor=FFFFFF&label=)
+```
+## ![Telefónica](https://img.shields.io/static/v1?style=for-the-badge&message=Telef%C3%B3nica&color=0066FF&logo=Telef%C3%B3nica&logoColor=FFFFFF&label=)
+```markdown
+![Telefónica](https://img.shields.io/static/v1?style=for-the-badge&message=Telef%C3%B3nica&color=0066FF&logo=Telef%C3%B3nica&logoColor=FFFFFF&label=)
 ```
 ## ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
 ```markdown
