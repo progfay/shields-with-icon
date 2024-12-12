@@ -1890,6 +1890,10 @@
 ```markdown
 ![Cairo Metro](https://img.shields.io/static/v1?style=for-the-badge&message=Cairo+Metro&color=C10C0C&logo=Cairo+Metro&logoColor=FFFFFF&label=)
 ```
+## ![CaixaBank](https://img.shields.io/static/v1?style=for-the-badge&message=CaixaBank&color=007EAE&logo=CaixaBank&logoColor=FFFFFF&label=)
+```markdown
+![CaixaBank](https://img.shields.io/static/v1?style=for-the-badge&message=CaixaBank&color=007EAE&logo=CaixaBank&logoColor=FFFFFF&label=)
+```
 ## ![CakePHP](https://img.shields.io/static/v1?style=for-the-badge&message=CakePHP&color=D33C43&logo=CakePHP&logoColor=FFFFFF&label=)
 ```markdown
 ![CakePHP](https://img.shields.io/static/v1?style=for-the-badge&message=CakePHP&color=D33C43&logo=CakePHP&logoColor=FFFFFF&label=)
@@ -6150,9 +6154,9 @@
 ```markdown
 ![Known](https://img.shields.io/static/v1?style=for-the-badge&message=Known&color=333333&logo=Known&logoColor=FFFFFF&label=)
 ```
-## ![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF5E5B&logo=Ko-fi&logoColor=FFFFFF&label=)
+## ![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF6433&logo=Ko-fi&logoColor=FFFFFF&label=)
 ```markdown
-![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF5E5B&logo=Ko-fi&logoColor=FFFFFF&label=)
+![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF6433&logo=Ko-fi&logoColor=FFFFFF&label=)
 ```
 ## ![Koa](https://img.shields.io/static/v1?style=for-the-badge&message=Koa&color=33333D&logo=Koa&logoColor=FFFFFF&label=)
 ```markdown
@@ -7905,6 +7909,10 @@
 ## ![OCaml](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
 ```markdown
 ![OCaml](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
+```
+## ![OCLC](https://img.shields.io/static/v1?style=for-the-badge&message=OCLC&color=007DBA&logo=OCLC&logoColor=FFFFFF&label=)
+```markdown
+![OCLC](https://img.shields.io/static/v1?style=for-the-badge&message=OCLC&color=007DBA&logo=OCLC&logoColor=FFFFFF&label=)
 ```
 ## ![oclif](https://img.shields.io/static/v1?style=for-the-badge&message=oclif&color=000000&logo=oclif&logoColor=FFFFFF&label=)
 ```markdown
@@ -10970,9 +10978,9 @@
 ```markdown
 ![Stremio](https://img.shields.io/static/v1?style=for-the-badge&message=Stremio&color=685CEE&logo=Stremio&logoColor=FFFFFF&label=)
 ```
-## ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
+## ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=635BFF&logo=Stripe&logoColor=FFFFFF&label=)
 ```markdown
-![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
+![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=635BFF&logo=Stripe&logoColor=FFFFFF&label=)
 ```
 ## ![strongSwan](https://img.shields.io/static/v1?style=for-the-badge&message=strongSwan&color=E00033&logo=strongSwan&logoColor=FFFFFF&label=)
 ```markdown
@@ -11294,9 +11302,9 @@
 ```markdown
 ![TeamSpeak](https://img.shields.io/static/v1?style=for-the-badge&message=TeamSpeak&color=4B69B6&logo=TeamSpeak&logoColor=FFFFFF&label=)
 ```
-## ![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
+## ![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=050A52&logo=TeamViewer&logoColor=FFFFFF&label=)
 ```markdown
-![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
+![TeamViewer](https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=050A52&logo=TeamViewer&logoColor=FFFFFF&label=)
 ```
 ## ![TechCrunch](https://img.shields.io/static/v1?style=for-the-badge&message=TechCrunch&color=029F00&logo=TechCrunch&logoColor=FFFFFF&label=)
 ```markdown
@@ -12650,9 +12658,9 @@
 ```markdown
 ![Wii](https://img.shields.io/static/v1?style=for-the-badge&message=Wii&color=8B8B8B&logo=Wii&logoColor=FFFFFF&label=)
 ```
-## ![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=8B8B8B&logo=Wii+U&logoColor=FFFFFF&label=)
+## ![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=0096C8&logo=Wii+U&logoColor=FFFFFF&label=)
 ```markdown
-![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=8B8B8B&logo=Wii+U&logoColor=FFFFFF&label=)
+![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=0096C8&logo=Wii+U&logoColor=FFFFFF&label=)
 ```
 ## ![wiki.gg](https://img.shields.io/static/v1?style=for-the-badge&message=wiki.gg&color=FF1985&logo=wiki.gg&logoColor=FFFFFF&label=)
 ```markdown
