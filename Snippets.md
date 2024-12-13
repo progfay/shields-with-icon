@@ -3654,6 +3654,10 @@
 ```markdown
 ![Etsy](https://img.shields.io/static/v1?style=for-the-badge&message=Etsy&color=F16521&logo=Etsy&logoColor=FFFFFF&label=)
 ```
+## ![European Union](https://img.shields.io/static/v1?style=for-the-badge&message=European+Union&color=003399&logo=European+Union&logoColor=FFFFFF&label=)
+```markdown
+![European Union](https://img.shields.io/static/v1?style=for-the-badge&message=European+Union&color=003399&logo=European+Union&logoColor=FFFFFF&label=)
+```
 ## ![Event Store](https://img.shields.io/static/v1?style=for-the-badge&message=Event+Store&color=5AB552&logo=Event+Store&logoColor=FFFFFF&label=)
 ```markdown
 ![Event Store](https://img.shields.io/static/v1?style=for-the-badge&message=Event+Store&color=5AB552&logo=Event+Store&logoColor=FFFFFF&label=)
@@ -10045,6 +10049,10 @@
 ## ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)
 ```markdown
 ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)
+```
+## ![Scalar](https://img.shields.io/static/v1?style=for-the-badge&message=Scalar&color=1A1A1A&logo=Scalar&logoColor=FFFFFF&label=)
+```markdown
+![Scalar](https://img.shields.io/static/v1?style=for-the-badge&message=Scalar&color=1A1A1A&logo=Scalar&logoColor=FFFFFF&label=)
 ```
 ## ![Scaleway](https://img.shields.io/static/v1?style=for-the-badge&message=Scaleway&color=4F0599&logo=Scaleway&logoColor=FFFFFF&label=)
 ```markdown
