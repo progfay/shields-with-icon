@@ -10726,9 +10726,9 @@
 ```markdown
 ![Spond](https://img.shields.io/static/v1?style=for-the-badge&message=Spond&color=EE4353&logo=Spond&logoColor=FFFFFF&label=)
 ```
-## ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+## ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760&label=)
 ```markdown
-![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760&label=)
 ```
 ## ![Spotlight](https://img.shields.io/static/v1?style=for-the-badge&message=Spotlight&color=352A71&logo=Spotlight&logoColor=FFFFFF&label=)
 ```markdown

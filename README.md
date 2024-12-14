@@ -2680,7 +2680,7 @@
 ![Spinrilla](https://img.shields.io/static/v1?style=for-the-badge&message=Spinrilla&color=460856&logo=Spinrilla&logoColor=FFFFFF&label=)
 ![Splunk](https://img.shields.io/static/v1?style=for-the-badge&message=Splunk&color=000000&logo=Splunk&logoColor=FFFFFF&label=)
 ![Spond](https://img.shields.io/static/v1?style=for-the-badge&message=Spond&color=EE4353&logo=Spond&logoColor=FFFFFF&label=)
-![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760&label=)
 ![Spotlight](https://img.shields.io/static/v1?style=for-the-badge&message=Spotlight&color=352A71&logo=Spotlight&logoColor=FFFFFF&label=)
 ![Spreadshirt](https://img.shields.io/static/v1?style=for-the-badge&message=Spreadshirt&color=00B2A5&logo=Spreadshirt&logoColor=FFFFFF&label=)
 ![Spreaker](https://img.shields.io/static/v1?style=for-the-badge&message=Spreaker&color=222222&logo=Spreaker&logoColor=F5C300&label=)
