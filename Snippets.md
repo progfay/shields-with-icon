@@ -2498,6 +2498,10 @@
 ```markdown
 ![CoinMarketCap](https://img.shields.io/static/v1?style=for-the-badge&message=CoinMarketCap&color=17181B&logo=CoinMarketCap&logoColor=FFFFFF&label=)
 ```
+## ![Collabora Online](https://img.shields.io/static/v1?style=for-the-badge&message=Collabora+Online&color=5C2983&logo=Collabora+Online&logoColor=FFFFFF&label=)
+```markdown
+![Collabora Online](https://img.shields.io/static/v1?style=for-the-badge&message=Collabora+Online&color=5C2983&logo=Collabora+Online&logoColor=FFFFFF&label=)
+```
 ## ![ComicFury](https://img.shields.io/static/v1?style=for-the-badge&message=ComicFury&color=222222&logo=ComicFury&logoColor=79BD42&label=)
 ```markdown
 ![ComicFury](https://img.shields.io/static/v1?style=for-the-badge&message=ComicFury&color=222222&logo=ComicFury&logoColor=79BD42&label=)
@@ -2737,6 +2741,10 @@
 ## ![CRYENGINE](https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label=)
 ```markdown
 ![CRYENGINE](https://img.shields.io/static/v1?style=for-the-badge&message=CRYENGINE&color=000000&logo=CRYENGINE&logoColor=FFFFFF&label=)
+```
+## ![Cryptomator](https://img.shields.io/static/v1?style=for-the-badge&message=Cryptomator&color=49B04A&logo=Cryptomator&logoColor=FFFFFF&label=)
+```markdown
+![Cryptomator](https://img.shields.io/static/v1?style=for-the-badge&message=Cryptomator&color=49B04A&logo=Cryptomator&logoColor=FFFFFF&label=)
 ```
 ## ![CryptPad](https://img.shields.io/static/v1?style=for-the-badge&message=CryptPad&color=0087FF&logo=CryptPad&logoColor=FFFFFF&label=)
 ```markdown
@@ -7662,6 +7670,10 @@
 ```markdown
 ![Nextdoor](https://img.shields.io/static/v1?style=for-the-badge&message=Nextdoor&color=222222&logo=Nextdoor&logoColor=8ED500&label=)
 ```
+## ![Nextflow](https://img.shields.io/static/v1?style=for-the-badge&message=Nextflow&color=222222&logo=Nextflow&logoColor=0DC09D&label=)
+```markdown
+![Nextflow](https://img.shields.io/static/v1?style=for-the-badge&message=Nextflow&color=222222&logo=Nextflow&logoColor=0DC09D&label=)
+```
 ## ![Nextra](https://img.shields.io/static/v1?style=for-the-badge&message=Nextra&color=000000&logo=Nextra&logoColor=FFFFFF&label=)
 ```markdown
 ![Nextra](https://img.shields.io/static/v1?style=for-the-badge&message=Nextra&color=000000&logo=Nextra&logoColor=FFFFFF&label=)
@@ -7725,6 +7737,10 @@
 ## ![Nintendo 3DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+3DS&color=D12228&logo=Nintendo+3DS&logoColor=FFFFFF&label=)
 ```markdown
 ![Nintendo 3DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+3DS&color=D12228&logo=Nintendo+3DS&logoColor=FFFFFF&label=)
+```
+## ![Nintendo DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+DS&color=929497&logo=Nintendo+DS&logoColor=FFFFFF&label=)
+```markdown
+![Nintendo DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+DS&color=929497&logo=Nintendo+DS&logoColor=FFFFFF&label=)
 ```
 ## ![Nintendo GameCube](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+GameCube&color=6A5FBB&logo=Nintendo+GameCube&logoColor=FFFFFF&label=)
 ```markdown
@@ -8361,6 +8377,10 @@
 ## ![Paperspace](https://img.shields.io/static/v1?style=for-the-badge&message=Paperspace&color=000000&logo=Paperspace&logoColor=FFFFFF&label=)
 ```markdown
 ![Paperspace](https://img.shields.io/static/v1?style=for-the-badge&message=Paperspace&color=000000&logo=Paperspace&logoColor=FFFFFF&label=)
+```
+## ![Paradox Interactive](https://img.shields.io/static/v1?style=for-the-badge&message=Paradox+Interactive&color=101010&logo=Paradox+Interactive&logoColor=FFFFFF&label=)
+```markdown
+![Paradox Interactive](https://img.shields.io/static/v1?style=for-the-badge&message=Paradox+Interactive&color=101010&logo=Paradox+Interactive&logoColor=FFFFFF&label=)
 ```
 ## ![Paramount+](https://img.shields.io/static/v1?style=for-the-badge&message=Paramount%2B&color=0064FF&logo=Paramount%2B&logoColor=FFFFFF&label=)
 ```markdown
@@ -11645,6 +11665,10 @@
 ## ![Tomorrowland](https://img.shields.io/static/v1?style=for-the-badge&message=Tomorrowland&color=000000&logo=Tomorrowland&logoColor=FFFFFF&label=)
 ```markdown
 ![Tomorrowland](https://img.shields.io/static/v1?style=for-the-badge&message=Tomorrowland&color=000000&logo=Tomorrowland&logoColor=FFFFFF&label=)
+```
+## ![TomTom](https://img.shields.io/static/v1?style=for-the-badge&message=TomTom&color=DF1B12&logo=TomTom&logoColor=FFFFFF&label=)
+```markdown
+![TomTom](https://img.shields.io/static/v1?style=for-the-badge&message=TomTom&color=DF1B12&logo=TomTom&logoColor=FFFFFF&label=)
 ```
 ## ![TON](https://img.shields.io/static/v1?style=for-the-badge&message=TON&color=0098EA&logo=TON&logoColor=FFFFFF&label=)
 ```markdown
