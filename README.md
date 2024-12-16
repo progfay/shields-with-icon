@@ -579,7 +579,7 @@
 ![CNET](https://img.shields.io/static/v1?style=for-the-badge&message=CNET&color=E71D1D&logo=CNET&logoColor=FFFFFF&label=)
 ![CNN](https://img.shields.io/static/v1?style=for-the-badge&message=CNN&color=CC0000&logo=CNN&logoColor=FFFFFF&label=)
 ![Co-op](https://img.shields.io/static/v1?style=for-the-badge&message=Co-op&color=222222&logo=Co-op&logoColor=00B1E7&label=)
-![Coca Cola](https://img.shields.io/static/v1?style=for-the-badge&message=Coca+Cola&color=D00013&logo=Coca+Cola&logoColor=FFFFFF&label=)
+![Coca-Cola](https://img.shields.io/static/v1?style=for-the-badge&message=Coca-Cola&color=D00013&logo=Coca-Cola&logoColor=FFFFFF&label=)
 ![Cockpit](https://img.shields.io/static/v1?style=for-the-badge&message=Cockpit&color=0066CC&logo=Cockpit&logoColor=FFFFFF&label=)
 ![Cockroach Labs](https://img.shields.io/static/v1?style=for-the-badge&message=Cockroach+Labs&color=6933FF&logo=Cockroach+Labs&logoColor=FFFFFF&label=)
 ![CocoaPods](https://img.shields.io/static/v1?style=for-the-badge&message=CocoaPods&color=EE3322&logo=CocoaPods&logoColor=FFFFFF&label=)
