@@ -226,6 +226,10 @@
 ```markdown
 ![AEW](https://img.shields.io/static/v1?style=for-the-badge&message=AEW&color=000000&logo=AEW&logoColor=FFFFFF&label=)
 ```
+## ![AFDIAN](https://img.shields.io/static/v1?style=for-the-badge&message=AFDIAN&color=946CE6&logo=AFDIAN&logoColor=FFFFFF&label=)
+```markdown
+![AFDIAN](https://img.shields.io/static/v1?style=for-the-badge&message=AFDIAN&color=946CE6&logo=AFDIAN&logoColor=FFFFFF&label=)
+```
 ## ![AFFiNE](https://img.shields.io/static/v1?style=for-the-badge&message=AFFiNE&color=1E96EB&logo=AFFiNE&logoColor=FFFFFF&label=)
 ```markdown
 ![AFFiNE](https://img.shields.io/static/v1?style=for-the-badge&message=AFFiNE&color=1E96EB&logo=AFFiNE&logoColor=FFFFFF&label=)
@@ -4186,10 +4190,6 @@
 ```markdown
 ![Galaxus](https://img.shields.io/static/v1?style=for-the-badge&message=Galaxus&color=000000&logo=Galaxus&logoColor=FFFFFF&label=)
 ```
-## ![Game & Watch](https://img.shields.io/static/v1?style=for-the-badge&message=Game+%26+Watch&color=000000&logo=Game+%26+Watch&logoColor=FFFFFF&label=)
-```markdown
-![Game & Watch](https://img.shields.io/static/v1?style=for-the-badge&message=Game+%26+Watch&color=000000&logo=Game+%26+Watch&logoColor=FFFFFF&label=)
-```
 ## ![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
 ```markdown
 ![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
@@ -7610,26 +7610,6 @@
 ```markdown
 ![Nim](https://img.shields.io/static/v1?style=for-the-badge&message=Nim&color=222222&logo=Nim&logoColor=FFE953&label=)
 ```
-## ![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=E60012&logo=Nintendo&logoColor=FFFFFF&label=)
-```markdown
-![Nintendo](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo&color=E60012&logo=Nintendo&logoColor=FFFFFF&label=)
-```
-## ![Nintendo 3DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+3DS&color=D12228&logo=Nintendo+3DS&logoColor=FFFFFF&label=)
-```markdown
-![Nintendo 3DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+3DS&color=D12228&logo=Nintendo+3DS&logoColor=FFFFFF&label=)
-```
-## ![Nintendo DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+DS&color=929497&logo=Nintendo+DS&logoColor=FFFFFF&label=)
-```markdown
-![Nintendo DS](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+DS&color=929497&logo=Nintendo+DS&logoColor=FFFFFF&label=)
-```
-## ![Nintendo GameCube](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+GameCube&color=6A5FBB&logo=Nintendo+GameCube&logoColor=FFFFFF&label=)
-```markdown
-![Nintendo GameCube](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+GameCube&color=6A5FBB&logo=Nintendo+GameCube&logoColor=FFFFFF&label=)
-```
-## ![Nintendo Switch](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+Switch&color=E60012&logo=Nintendo+Switch&logoColor=FFFFFF&label=)
-```markdown
-![Nintendo Switch](https://img.shields.io/static/v1?style=for-the-badge&message=Nintendo+Switch&color=E60012&logo=Nintendo+Switch&logoColor=FFFFFF&label=)
-```
 ## ![Nissan](https://img.shields.io/static/v1?style=for-the-badge&message=Nissan&color=C3002F&logo=Nissan&logoColor=FFFFFF&label=)
 ```markdown
 ![Nissan](https://img.shields.io/static/v1?style=for-the-badge&message=Nissan&color=C3002F&logo=Nissan&logoColor=FFFFFF&label=)
@@ -8709,10 +8689,6 @@
 ## ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
 ```markdown
 ![Pointy](https://img.shields.io/static/v1?style=for-the-badge&message=Pointy&color=009DE0&logo=Pointy&logoColor=FFFFFF&label=)
-```
-## ![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
-```markdown
-![Pokémon](https://img.shields.io/static/v1?style=for-the-badge&message=Pok%C3%A9mon&color=222222&logo=Pok%C3%A9mon&logoColor=FFCB05&label=)
 ```
 ## ![Polars](https://img.shields.io/static/v1?style=for-the-badge&message=Polars&color=CD792C&logo=Polars&logoColor=FFFFFF&label=)
 ```markdown
@@ -12521,14 +12497,6 @@
 ## ![When I Work](https://img.shields.io/static/v1?style=for-the-badge&message=When+I+Work&color=51A33D&logo=When+I+Work&logoColor=FFFFFF&label=)
 ```markdown
 ![When I Work](https://img.shields.io/static/v1?style=for-the-badge&message=When+I+Work&color=51A33D&logo=When+I+Work&logoColor=FFFFFF&label=)
-```
-## ![Wii](https://img.shields.io/static/v1?style=for-the-badge&message=Wii&color=8B8B8B&logo=Wii&logoColor=FFFFFF&label=)
-```markdown
-![Wii](https://img.shields.io/static/v1?style=for-the-badge&message=Wii&color=8B8B8B&logo=Wii&logoColor=FFFFFF&label=)
-```
-## ![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=0096C8&logo=Wii+U&logoColor=FFFFFF&label=)
-```markdown
-![Wii U](https://img.shields.io/static/v1?style=for-the-badge&message=Wii+U&color=0096C8&logo=Wii+U&logoColor=FFFFFF&label=)
 ```
 ## ![wiki.gg](https://img.shields.io/static/v1?style=for-the-badge&message=wiki.gg&color=FF1985&logo=wiki.gg&logoColor=FFFFFF&label=)
 ```markdown
