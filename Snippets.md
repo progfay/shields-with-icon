@@ -1026,10 +1026,6 @@
 ```markdown
 ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
 ```
-## ![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
-```markdown
-![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
-```
 ## ![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)
 ```markdown
 ![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)

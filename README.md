@@ -255,7 +255,6 @@
 ![asciinema](https://img.shields.io/static/v1?style=for-the-badge&message=asciinema&color=D40000&logo=asciinema&logoColor=FFFFFF&label=)
 ![ASDA](https://img.shields.io/static/v1?style=for-the-badge&message=ASDA&color=68A51C&logo=ASDA&logoColor=FFFFFF&label=)
 ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
-![ASKfm](https://img.shields.io/static/v1?style=for-the-badge&message=ASKfm&color=DB3552&logo=ASKfm&logoColor=FFFFFF&label=)
 ![AssemblyScript](https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=)
 ![Asterisk](https://img.shields.io/static/v1?style=for-the-badge&message=Asterisk&color=222222&logo=Asterisk&logoColor=F68F1E&label=)
 ![Aston Martin](https://img.shields.io/static/v1?style=for-the-badge&message=Aston+Martin&color=00665E&logo=Aston+Martin&logoColor=FFFFFF&label=)
