@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shields with icon</title>
+    <style>
+      *:where(:not(iframe, canvas, img, svg, video):not(svg *)) {
+        all: unset;
+        display: revert;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      input,
+      textarea,
+      select {
+        all: revert;
+      }
+
+      html,
+      body {
+        background-color: #222222;
+        display: grid;
+        place-items: center;
+      }
+
+      h1 {
+        color: white;
+        margin-top: 42px;
+        font-size: 84px;
+        cursor: pointer;
+
+        img {
+          height: 100px;
+        }
+      }
+
+      .label {
+        margin-top: 28px;
+        color: white;
+        font-size: 28px;
+        display: flex;
+        align-items: center;
+
+        > input {
+          margin-left: 14px;
+          padding: 7px;
+          font-size: 28px;
+          background-color: #444444;
+          color: white;
+          border: none;
+          border-radius: 8px;
+        }
+      }
+
+      #result {
+        list-style: none;
+        margin-top: 28px;
+        width: 80dvw;
+        max-width: 1280px;
+
+        > li {
+          border-bottom: solid 1px #444444;
+          list-style: none;
+          height: 56px;
+          display: grid;
+          grid-template-columns: 400px 1fr;
+          align-items: center;
+
+          > div {
+            display: flex;
+            gap: 10px;
+            > input {
+              padding: 2px;
+              font-size: 14px;
+              background-color: #dddddd;
+              color: #222222;
+              border: none;
+              flex: auto;
+            }
+
+            > button {
+              background: none;
+              > svg {
+                fill: #dddddd;
+              }
+            }
+          }
+        }
+      }
+
+      @media screen and (max-width: 720px) {
+        h1 img {
+          height: 48px;
+        }
+
+        .label {
+          margin-top: 14px;
+          font-size: 20px;
+          > input {
+            margin-left: 10px;
+            padding: 5px;
+            font-size: 20px;
+            border-radius: 4px;
+          }
+        }
+
+        #result {
+          width: 100dvw;
+          display: grid;
+          padding: 10px;
+          gap: 20px;
+
+          > li {
+            border-bottom: none;
+            display: grid;
+            gap: 5px;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto;
+          }
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      <a href="https://github.com/progfay/shields-with-icon">
+        <img
+          src="https://img.shields.io/static/v1?style=for-the-badge&message=Shields%20with%20icon&color=222222&label=%F0%9F%9B%A1"
+          alt="Shields with icon"
+        />
+      </a>
+    </h1>
+    <label class="label">
+      Search:
+      <input id="search" name="query" />
+    </label>
+    <ul id="result"></ul>
+  </body>
+  <script type="module">
+    const bigrams = (str) => {
+      const s = str.toLowerCase();
+      const set = new Set();
+      for (let i = 0; i < s.length - 1; i++) {
+        set.add(s.slice(i, i + 2));
+      }
+      return set;
+    };
+
+    const diceCoefficient = (setA, setB) => {
+      const intersection = new Set([...setA].filter((x) => setB.has(x)));
+      return (2 * intersection.size) / (setA.size + setB.size);
+    };
+
+    const data = fetch("data.json")
+      .then((res) => res.json())
+      .then((shields) =>
+        shields.map((shield) => ({
+          ...shield,
+          normalized: shield.title.toLowerCase(),
+          bigrams: bigrams(shield.title),
+        }))
+      );
+
+    const search = async (query) => {
+      if (query.length === 1) {
+        const char = query.toLowerCase();
+        return (await data)
+          .map((shield) => ({
+            ...shield,
+            indexOf: shield.title.indexOf(char),
+          }))
+          .filter((shield) => shield.indexOf !== -1)
+          .sort((a, b) => a.indexOf - b.indexOf)
+          .slice(0, 20);
+      }
+
+      const queryBigrams = bigrams(query);
+      return (await data)
+        .map((shield) => ({
+          ...shield,
+          coefficient: diceCoefficient(queryBigrams, shield.bigrams),
+        }))
+        .sort((a, b) => b.coefficient - a.coefficient)
+        .slice(0, 20);
+    };
+
+    const searchEl = document.getElementById("search");
+    searchEl.addEventListener("input", async (e) => {
+      const result = await search(e.target.value);
+      const ul = document.getElementById("result");
+      ul.innerHTML = "";
+      result.forEach((shield) => {
+        const img = document.createElement("img");
+        img.height = "28";
+        img.src = shield.src;
+        img.alt = shield.title;
+
+        const input = document.createElement("input");
+        input.type = "text";
+        input.readOnly = true;
+        input.value = shield.src;
+
+        const button = document.createElement("button");
+        button.type = "button";
+        button.innerHTML =
+          '<svg xmlns="http://www.w3.org/2000/svg" height="20" width="17.5" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M384 336l-192 0c-8.8 0-16-7.2-16-16l0-256c0-8.8 7.2-16 16-16l140.1 0L400 115.9 400 320c0 8.8-7.2 16-16 16zM192 384l192 0c35.3 0 64-28.7 64-64l0-204.1c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1L192 0c-35.3 0-64 28.7-64 64l0 256c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64L0 448c0 35.3 28.7 64 64 64l192 0c35.3 0 64-28.7 64-64l0-32-48 0 0 32c0 8.8-7.2 16-16 16L64 464c-8.8 0-16-7.2-16-16l0-256c0-8.8 7.2-16 16-16l32 0 0-48-32 0z"/></svg>';
+        button.addEventListener("click", () => {
+          input.select();
+          document.execCommand("copy");
+        });
+
+        const div = document.createElement("div");
+        div.appendChild(input);
+        div.appendChild(button);
+
+        const li = document.createElement("li");
+        li.appendChild(img);
+        li.appendChild(div);
+        ul.appendChild(li);
+      });
+    });
+  </script>
+</html>
