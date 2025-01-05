@@ -20,7 +20,12 @@ jobs:
       - name: Build
         run: go build -o=generator ./*.go
       - name: Generate outputs
+        id: generate
         run: ./generator > README.md 2> Snippets.md
+        continue-on-error: true
+      - name: Log stderr
+        if: steps.generate.outcome == 'failure'
+        run: cat Snippets.md && exit 1
       - name: Check difference
         id: diff
         run: git diff --name-only --exit-code README.md Snippets.md
