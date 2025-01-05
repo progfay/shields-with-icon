@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"net/http"
 )
 
@@ -63,7 +62,7 @@ func getIcons() ([]Icon, error) {
 		return nil, err
 	}
 	defer res.Body.Close()
-	defer io.Copy(ioutil.Discard, res.Body)
+	defer io.Copy(io.Discard, res.Body)
 
 	return decodeIcons(res.Body)
 }
