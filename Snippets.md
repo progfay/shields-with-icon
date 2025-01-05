@@ -2450,6 +2450,10 @@
 ```markdown
 ![Commodore](https://img.shields.io/static/v1?style=for-the-badge&message=Commodore&color=1E2A4E&logo=Commodore&logoColor=FFFFFF&label=)
 ```
+## ![Common Lisp](https://img.shields.io/static/v1?style=for-the-badge&message=Common+Lisp&color=000000&logo=Common+Lisp&logoColor=FFFFFF&label=)
+```markdown
+![Common Lisp](https://img.shields.io/static/v1?style=for-the-badge&message=Common+Lisp&color=000000&logo=Common+Lisp&logoColor=FFFFFF&label=)
+```
 ## ![Common Workflow Language](https://img.shields.io/static/v1?style=for-the-badge&message=Common+Workflow+Language&color=B5314C&logo=Common+Workflow+Language&logoColor=FFFFFF&label=)
 ```markdown
 ![Common Workflow Language](https://img.shields.io/static/v1?style=for-the-badge&message=Common+Workflow+Language&color=B5314C&logo=Common+Workflow+Language&logoColor=FFFFFF&label=)
@@ -2685,6 +2689,10 @@
 ## ![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=FC5531&logo=CSDN&logoColor=FFFFFF&label=)
 ```markdown
 ![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=FC5531&logo=CSDN&logoColor=FFFFFF&label=)
+```
+## ![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=663399&logo=CSS&logoColor=FFFFFF&label=)
+```markdown
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=663399&logo=CSS&logoColor=FFFFFF&label=)
 ```
 ## ![CSS Design Awards](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Design+Awards&color=280FEE&logo=CSS+Design+Awards&logoColor=FFFFFF&label=)
 ```markdown
@@ -7561,6 +7569,10 @@
 ## ![Nexus Mods](https://img.shields.io/static/v1?style=for-the-badge&message=Nexus+Mods&color=E6832B&logo=Nexus+Mods&logoColor=FFFFFF&label=)
 ```markdown
 ![Nexus Mods](https://img.shields.io/static/v1?style=for-the-badge&message=Nexus+Mods&color=E6832B&logo=Nexus+Mods&logoColor=FFFFFF&label=)
+```
+## ![nf-core](https://img.shields.io/static/v1?style=for-the-badge&message=nf-core&color=24B064&logo=nf-core&logoColor=FFFFFF&label=)
+```markdown
+![nf-core](https://img.shields.io/static/v1?style=for-the-badge&message=nf-core&color=24B064&logo=nf-core&logoColor=FFFFFF&label=)
 ```
 ## ![NFC](https://img.shields.io/static/v1?style=for-the-badge&message=NFC&color=002E5F&logo=NFC&logoColor=FFFFFF&label=)
 ```markdown
