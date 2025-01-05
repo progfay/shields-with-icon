@@ -15,20 +15,11 @@ jobs:
           go-version: "1.21.4"
       - name: Install dependencies
         run: go get .
-      - name: Cleanup outputs
-        run: rm README.md Snippets.md
-      - name: Build
-        run: go build -o=generator ./*.go
       - name: Generate outputs
-        id: generate
-        run: ./generator > README.md 2> Snippets.md
-        continue-on-error: true
-      - name: Log stderr
-        if: steps.generate.outcome == 'failure'
-        run: cat Snippets.md && exit 1
+        run: make
       - name: Check difference
         id: diff
-        run: git diff --name-only --exit-code README.md Snippets.md
+        run: git diff --name-only --exit-code README.md Snippets.md docs/data.json
         continue-on-error: true
       - name: Commit outputs
         if: steps.diff.outcome == 'failure'
@@ -37,6 +28,6 @@ jobs:
           git config user.name "progfay"
           git config user.email "19568747+github-actions@users.noreply.github.com"
           git remote set-url origin https://progfay:${{ secrets.GITHUB_TOKEN }}@github.com/progfay/shields-with-icon
-          git add README.md Snippets.md
-          git commit -m 'doc: update README.md, Snippets.md (auto-generated)'
+          git add README.md Snippets.md docs/data.json
+          git commit -m 'doc: update fixtures (auto-generated)'
           git push origin master

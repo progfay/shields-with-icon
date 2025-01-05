@@ -1,14 +1,11 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"image/color"
 	"log"
-	"net/url"
 	"os"
-	"strings"
-
-	"github.com/progfay/colorcontrast"
 )
 
 var (
@@ -16,29 +13,14 @@ var (
 	black = color.Gray{Y: 34}
 )
 
-func formatShield(icon Icon) (string, error) {
-	color, err := hexToColor(icon.Hex)
+func generateDataJson(shields []Shield) error {
+	data, err := os.OpenFile("docs/data.json", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0644)
 	if err != nil {
-		return "", err
+		return err
 	}
+	defer data.Close()
 
-	var foreground, background string
-
-	if colorcontrast.CalcContrastRatio(white, *color) >= 2.5 {
-		foreground = colorToHex(white)
-		background = colorToHex(*color)
-	} else {
-		foreground = colorToHex(*color)
-		background = colorToHex(black)
-	}
-
-	return fmt.Sprintf("![%v](https://img.shields.io/static/v1?style=for-the-badge&message=%s&color=%v&logo=%s&logoColor=%s&label=)",
-		strings.ReplaceAll(strings.ReplaceAll(icon.Title, "[", "\\["), "]", "\\]"),
-		url.QueryEscape(icon.Title),
-		url.QueryEscape(background),
-		url.QueryEscape(icon.Title),
-		url.QueryEscape(foreground),
-	), nil
+	return json.NewEncoder(data).Encode(shields)
 }
 
 func main() {
@@ -47,12 +29,31 @@ func main() {
 		log.Panicln(err)
 	}
 
-	for _, icon := range icons {
-		shield, err := formatShield(icon)
+	shields := make([]Shield, len(icons))
+	for i, icons := range icons {
+		shield, err := IconToShield(icons)
 		if err != nil {
 			log.Panicln(err)
 		}
-		fmt.Fprintln(os.Stdout, shield)
-		fmt.Fprintf(os.Stderr, "## %[1]s\n```markdown\n%[1]s\n```\n", shield)
+		shields[i] = *shield
+	}
+
+	generateDataJson(shields)
+
+	readme, err := os.OpenFile("README.md", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0644)
+	if err != nil {
+		log.Panicln(err)
+	}
+	defer readme.Close()
+
+	snippets, err := os.OpenFile("Snippets.md", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0644)
+	if err != nil {
+		log.Panicln(err)
+	}
+	defer snippets.Close()
+
+	for _, shield := range shields {
+		fmt.Fprintln(readme, shield)
+		fmt.Fprintf(snippets, "## %[1]s\n```markdown\n%[1]s\n```\n", shield)
 	}
 }
