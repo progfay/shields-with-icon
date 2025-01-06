@@ -11974,6 +11974,10 @@
 ```markdown
 ![V](https://img.shields.io/static/v1?style=for-the-badge&message=V&color=5D87BF&logo=V&logoColor=FFFFFF&label=)
 ```
+## ![v0](https://img.shields.io/static/v1?style=for-the-badge&message=v0&color=000000&logo=v0&logoColor=FFFFFF&label=)
+```markdown
+![v0](https://img.shields.io/static/v1?style=for-the-badge&message=v0&color=000000&logo=v0&logoColor=FFFFFF&label=)
+```
 ## ![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=V2EX&color=1F1F1F&logo=V2EX&logoColor=FFFFFF&label=)
 ```markdown
 ![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=V2EX&color=1F1F1F&logo=V2EX&logoColor=FFFFFF&label=)
