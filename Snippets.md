@@ -12658,6 +12658,10 @@
 ```markdown
 ![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)
 ```
+## ![WXT](https://img.shields.io/static/v1?style=for-the-badge&message=WXT&color=222222&logo=WXT&logoColor=67D55E&label=)
+```markdown
+![WXT](https://img.shields.io/static/v1?style=for-the-badge&message=WXT&color=222222&logo=WXT&logoColor=67D55E&label=)
+```
 ## ![Wykop](https://img.shields.io/static/v1?style=for-the-badge&message=Wykop&color=367DA9&logo=Wykop&logoColor=FFFFFF&label=)
 ```markdown
 ![Wykop](https://img.shields.io/static/v1?style=for-the-badge&message=Wykop&color=367DA9&logo=Wykop&logoColor=FFFFFF&label=)

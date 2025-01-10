@@ -3163,6 +3163,7 @@
 ![Write.as](https://img.shields.io/static/v1?style=for-the-badge&message=Write.as&color=222222&logo=Write.as&logoColor=5AC4EE&label=)
 ![WWE](https://img.shields.io/static/v1?style=for-the-badge&message=WWE&color=000000&logo=WWE&logoColor=FFFFFF&label=)
 ![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)
+![WXT](https://img.shields.io/static/v1?style=for-the-badge&message=WXT&color=222222&logo=WXT&logoColor=67D55E&label=)
 ![Wykop](https://img.shields.io/static/v1?style=for-the-badge&message=Wykop&color=367DA9&logo=Wykop&logoColor=FFFFFF&label=)
 ![Wyze](https://img.shields.io/static/v1?style=for-the-badge&message=Wyze&color=222222&logo=Wyze&logoColor=1DF0BB&label=)
 ![X](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)
