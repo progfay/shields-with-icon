@@ -4178,6 +4178,10 @@
 ```markdown
 ![FutureLearn](https://img.shields.io/static/v1?style=for-the-badge&message=FutureLearn&color=DE00A5&logo=FutureLearn&logoColor=FFFFFF&label=)
 ```
+## ![Fyle](https://img.shields.io/static/v1?style=for-the-badge&message=Fyle&color=FF2E63&logo=Fyle&logoColor=FFFFFF&label=)
+```markdown
+![Fyle](https://img.shields.io/static/v1?style=for-the-badge&message=Fyle&color=FF2E63&logo=Fyle&logoColor=FFFFFF&label=)
+```
 ## ![G2](https://img.shields.io/static/v1?style=for-the-badge&message=G2&color=FF492C&logo=G2&logoColor=FFFFFF&label=)
 ```markdown
 ![G2](https://img.shields.io/static/v1?style=for-the-badge&message=G2&color=FF492C&logo=G2&logoColor=FFFFFF&label=)
@@ -4709,6 +4713,10 @@
 ## ![Grab](https://img.shields.io/static/v1?style=for-the-badge&message=Grab&color=00B14F&logo=Grab&logoColor=FFFFFF&label=)
 ```markdown
 ![Grab](https://img.shields.io/static/v1?style=for-the-badge&message=Grab&color=00B14F&logo=Grab&logoColor=FFFFFF&label=)
+```
+## ![Gradio](https://img.shields.io/static/v1?style=for-the-badge&message=Gradio&color=F97316&logo=Gradio&logoColor=FFFFFF&label=)
+```markdown
+![Gradio](https://img.shields.io/static/v1?style=for-the-badge&message=Gradio&color=F97316&logo=Gradio&logoColor=FFFFFF&label=)
 ```
 ## ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ```markdown
