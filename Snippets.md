@@ -1394,6 +1394,10 @@
 ```markdown
 ![Better Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Better+Stack&color=000000&logo=Better+Stack&logoColor=FFFFFF&label=)
 ```
+## ![BetterDiscord](https://img.shields.io/static/v1?style=for-the-badge&message=BetterDiscord&color=3E82E5&logo=BetterDiscord&logoColor=FFFFFF&label=)
+```markdown
+![BetterDiscord](https://img.shields.io/static/v1?style=for-the-badge&message=BetterDiscord&color=3E82E5&logo=BetterDiscord&logoColor=FFFFFF&label=)
+```
 ## ![Bevy](https://img.shields.io/static/v1?style=for-the-badge&message=Bevy&color=232326&logo=Bevy&logoColor=FFFFFF&label=)
 ```markdown
 ![Bevy](https://img.shields.io/static/v1?style=for-the-badge&message=Bevy&color=232326&logo=Bevy&logoColor=FFFFFF&label=)
@@ -7538,9 +7542,9 @@
 ```markdown
 ![Newegg](https://img.shields.io/static/v1?style=for-the-badge&message=Newegg&color=E05E00&logo=Newegg&logoColor=FFFFFF&label=)
 ```
-## ![Nexon](https://img.shields.io/static/v1?style=for-the-badge&message=Nexon&color=000000&logo=Nexon&logoColor=FFFFFF&label=)
+## ![NEXON](https://img.shields.io/static/v1?style=for-the-badge&message=NEXON&color=000000&logo=NEXON&logoColor=FFFFFF&label=)
 ```markdown
-![Nexon](https://img.shields.io/static/v1?style=for-the-badge&message=Nexon&color=000000&logo=Nexon&logoColor=FFFFFF&label=)
+![NEXON](https://img.shields.io/static/v1?style=for-the-badge&message=NEXON&color=000000&logo=NEXON&logoColor=FFFFFF&label=)
 ```
 ## ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ```markdown
@@ -9685,6 +9689,10 @@
 ## ![rollup.js](https://img.shields.io/static/v1?style=for-the-badge&message=rollup.js&color=EC4A3F&logo=rollup.js&logoColor=FFFFFF&label=)
 ```markdown
 ![rollup.js](https://img.shields.io/static/v1?style=for-the-badge&message=rollup.js&color=EC4A3F&logo=rollup.js&logoColor=FFFFFF&label=)
+```
+## ![Rook](https://img.shields.io/static/v1?style=for-the-badge&message=Rook&color=222222&logo=Rook&logoColor=2AC6EA&label=)
+```markdown
+![Rook](https://img.shields.io/static/v1?style=for-the-badge&message=Rook&color=222222&logo=Rook&logoColor=2AC6EA&label=)
 ```
 ## ![Roon](https://img.shields.io/static/v1?style=for-the-badge&message=Roon&color=2039F3&logo=Roon&logoColor=FFFFFF&label=)
 ```markdown
