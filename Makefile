@@ -1,9 +1,9 @@
 all: clean generator run
 
 clean:
-	rm README.md Snippets.md
+	rm -f README.md Snippets.md
 
-generator: main.go color.go icon.go
+generator: *.go
 	go build -o=generator ./*.go
 
 run: main.go
