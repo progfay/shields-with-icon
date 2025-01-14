@@ -33,9 +33,9 @@ func generateShieldSrc(icon Icon) (string, error) {
 		background = colorToHex(black)
 	}
 
-	return fmt.Sprintf("https://img.shields.io/static/v1?style=for-the-badge&message=%s&color=%v&logo=%s&logoColor=%s&label=",
-		url.QueryEscape(icon.Title),
-		url.QueryEscape(background),
+	return fmt.Sprintf("https://img.shields.io/badge/%s-%s?style=for-the-badge&logo=%s&logoColor=%s",
+		url.PathEscape(icon.Title),
+		url.PathEscape(background),
 		url.QueryEscape(icon.Title),
 		url.QueryEscape(foreground),
 	), nil
