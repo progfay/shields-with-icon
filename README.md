@@ -2961,6 +2961,7 @@
 ![UIkit](https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=FFFFFF)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=FFFFFF)
 ![UKCA](https://img.shields.io/badge/UKCA-000000?style=for-the-badge&logo=UKCA&logoColor=FFFFFF)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=Ultralytics&logoColor=FFFFFF)
 ![Ulule](https://img.shields.io/badge/Ulule-18A5D6?style=for-the-badge&logo=Ulule&logoColor=FFFFFF)
 ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=Umami&logoColor=FFFFFF)
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=Umbraco&logoColor=FFFFFF)

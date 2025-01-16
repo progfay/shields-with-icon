@@ -11850,6 +11850,10 @@
 ```markdown
 ![UKCA](https://img.shields.io/badge/UKCA-000000?style=for-the-badge&logo=UKCA&logoColor=FFFFFF)
 ```
+## ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=Ultralytics&logoColor=FFFFFF)
+```markdown
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=Ultralytics&logoColor=FFFFFF)
+```
 ## ![Ulule](https://img.shields.io/badge/Ulule-18A5D6?style=for-the-badge&logo=Ulule&logoColor=FFFFFF)
 ```markdown
 ![Ulule](https://img.shields.io/badge/Ulule-18A5D6?style=for-the-badge&logo=Ulule&logoColor=FFFFFF)
