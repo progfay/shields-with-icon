@@ -1551,6 +1551,7 @@
 ![Lamborghini](https://img.shields.io/badge/Lamborghini-222222?style=for-the-badge&logo=Lamborghini&logoColor=B6A272)
 ![Land Rover](https://img.shields.io/badge/Land%20Rover-005A2B?style=for-the-badge&logo=Land+Rover&logoColor=FFFFFF)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
 ![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FC?style=for-the-badge&logo=LanguageTool&logoColor=FFFFFF)
 ![Lapce](https://img.shields.io/badge/Lapce-3B82F6?style=for-the-badge&logo=Lapce&logoColor=FFFFFF)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=FFFFFF)

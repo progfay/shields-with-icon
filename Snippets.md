@@ -6210,6 +6210,10 @@
 ```markdown
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
 ```
+## ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
+```markdown
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
+```
 ## ![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FC?style=for-the-badge&logo=LanguageTool&logoColor=FFFFFF)
 ```markdown
 ![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FC?style=for-the-badge&logo=LanguageTool&logoColor=FFFFFF)
