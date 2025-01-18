@@ -1767,7 +1767,7 @@
 ![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge&logo=MIDI&logoColor=FFFFFF)
 ![Migadu](https://img.shields.io/badge/Migadu-0043CE?style=for-the-badge&logo=Migadu&logoColor=FFFFFF)
 ![miHoYo](https://img.shields.io/badge/miHoYo-4EA4DD?style=for-the-badge&logo=miHoYo&logoColor=FFFFFF)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=Mikrotik&logoColor=FFFFFF)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=MikroTik&logoColor=FFFFFF)
 ![Milanote](https://img.shields.io/badge/Milanote-31303A?style=for-the-badge&logo=Milanote&logoColor=FFFFFF)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=Milvus&logoColor=FFFFFF)
 ![Minds](https://img.shields.io/badge/Minds-222222?style=for-the-badge&logo=Minds&logoColor=FED12F)

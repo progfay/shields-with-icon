@@ -7074,9 +7074,9 @@
 ```markdown
 ![miHoYo](https://img.shields.io/badge/miHoYo-4EA4DD?style=for-the-badge&logo=miHoYo&logoColor=FFFFFF)
 ```
-## ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=Mikrotik&logoColor=FFFFFF)
+## ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=MikroTik&logoColor=FFFFFF)
 ```markdown
-![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=Mikrotik&logoColor=FFFFFF)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=MikroTik&logoColor=FFFFFF)
 ```
 ## ![Milanote](https://img.shields.io/badge/Milanote-31303A?style=for-the-badge&logo=Milanote&logoColor=FFFFFF)
 ```markdown
