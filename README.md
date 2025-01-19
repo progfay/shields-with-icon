@@ -662,6 +662,7 @@
 ![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=Credly&logoColor=FFFFFF)
 ![Crehana](https://img.shields.io/badge/Crehana-4B22F4?style=for-the-badge&logo=Crehana&logoColor=FFFFFF)
 ![Crew United](https://img.shields.io/badge/Crew%20United-000000?style=for-the-badge&logo=Crew+United&logoColor=FFFFFF)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=CrewAI&logoColor=FFFFFF)
 ![Critical Role](https://img.shields.io/badge/Critical%20Role-000000?style=for-the-badge&logo=Critical+Role&logoColor=FFFFFF)
 ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=Crowdin&logoColor=FFFFFF)
 ![Crowdsource](https://img.shields.io/badge/Crowdsource-4285F4?style=for-the-badge&logo=Crowdsource&logoColor=FFFFFF)
