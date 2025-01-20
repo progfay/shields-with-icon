@@ -6214,6 +6214,10 @@
 ```markdown
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
 ```
+## ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
+```markdown
+![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
+```
 ## ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
 ```markdown
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
@@ -12817,6 +12821,10 @@
 ## ![Yoast](https://img.shields.io/badge/Yoast-A61E69?style=for-the-badge&logo=Yoast&logoColor=FFFFFF)
 ```markdown
 ![Yoast](https://img.shields.io/badge/Yoast-A61E69?style=for-the-badge&logo=Yoast&logoColor=FFFFFF)
+```
+## ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=YOLO&logoColor=FFFFFF)
+```markdown
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=YOLO&logoColor=FFFFFF)
 ```
 ## ![YouHodler](https://img.shields.io/badge/YouHodler-546DF9?style=for-the-badge&logo=YouHodler&logoColor=FFFFFF)
 ```markdown
