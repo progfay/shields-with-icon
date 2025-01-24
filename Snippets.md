@@ -6618,6 +6618,10 @@
 ```markdown
 ![LOT Polish Airlines](https://img.shields.io/badge/LOT%20Polish%20Airlines-11397E?style=for-the-badge&logo=LOT+Polish+Airlines&logoColor=FFFFFF)
 ```
+## ![LottieFiles](https://img.shields.io/badge/LottieFiles-222222?style=for-the-badge&logo=LottieFiles&logoColor=00DDB3)
+```markdown
+![LottieFiles](https://img.shields.io/badge/LottieFiles-222222?style=for-the-badge&logo=LottieFiles&logoColor=00DDB3)
+```
 ## ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=LTspice&logoColor=FFFFFF)
 ```markdown
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=LTspice&logoColor=FFFFFF)

@@ -1653,6 +1653,7 @@
 ![Loot Crate](https://img.shields.io/badge/Loot%20Crate-1E1E1E?style=for-the-badge&logo=Loot+Crate&logoColor=FFFFFF)
 ![Lospec](https://img.shields.io/badge/Lospec-222222?style=for-the-badge&logo=Lospec&logoColor=EAEAEA)
 ![LOT Polish Airlines](https://img.shields.io/badge/LOT%20Polish%20Airlines-11397E?style=for-the-badge&logo=LOT+Polish+Airlines&logoColor=FFFFFF)
+![LottieFiles](https://img.shields.io/badge/LottieFiles-222222?style=for-the-badge&logo=LottieFiles&logoColor=00DDB3)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=LTspice&logoColor=FFFFFF)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
 ![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=Lubuntu&logoColor=FFFFFF)
