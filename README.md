@@ -909,7 +909,7 @@
 ![Expedia](https://img.shields.io/badge/Expedia-191E3B?style=for-the-badge&logo=Expedia&logoColor=FFFFFF)
 ![Expensify](https://img.shields.io/badge/Expensify-0185FF?style=for-the-badge&logo=Expensify&logoColor=FFFFFF)
 ![Experts Exchange](https://img.shields.io/badge/Experts%20Exchange-00AAE7?style=for-the-badge&logo=Experts+Exchange&logoColor=FFFFFF)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 ![Express.com](https://img.shields.io/badge/Express.com-000000?style=for-the-badge&logo=Express.com&logoColor=FFFFFF)
 ![ExpressVPN](https://img.shields.io/badge/ExpressVPN-DA3940?style=for-the-badge&logo=ExpressVPN&logoColor=FFFFFF)

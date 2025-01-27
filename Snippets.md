@@ -3642,9 +3642,9 @@
 ```markdown
 ![Experts Exchange](https://img.shields.io/badge/Experts%20Exchange-00AAE7?style=for-the-badge&logo=Experts+Exchange&logoColor=FFFFFF)
 ```
-## ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
+## ![Expo](https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
 ```markdown
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=Expo&logoColor=FFFFFF)
 ```
 ## ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 ```markdown
