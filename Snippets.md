@@ -3846,6 +3846,10 @@
 ```markdown
 ![File.io](https://img.shields.io/badge/File.io-3D3C9D?style=for-the-badge&logo=File.io&logoColor=FFFFFF)
 ```
+## ![Filen](https://img.shields.io/badge/Filen-000000?style=for-the-badge&logo=Filen&logoColor=FFFFFF)
+```markdown
+![Filen](https://img.shields.io/badge/Filen-000000?style=for-the-badge&logo=Filen&logoColor=FFFFFF)
+```
 ## ![Files](https://img.shields.io/badge/Files-4285F4?style=for-the-badge&logo=Files&logoColor=FFFFFF)
 ```markdown
 ![Files](https://img.shields.io/badge/Files-4285F4?style=for-the-badge&logo=Files&logoColor=FFFFFF)
@@ -11549,6 +11553,10 @@
 ## ![Tor Project](https://img.shields.io/badge/Tor%20Project-7D4698?style=for-the-badge&logo=Tor+Project&logoColor=FFFFFF)
 ```markdown
 ![Tor Project](https://img.shields.io/badge/Tor%20Project-7D4698?style=for-the-badge&logo=Tor+Project&logoColor=FFFFFF)
+```
+## ![Torizon](https://img.shields.io/badge/Torizon-222222?style=for-the-badge&logo=Torizon&logoColor=FAAF00)
+```markdown
+![Torizon](https://img.shields.io/badge/Torizon-222222?style=for-the-badge&logo=Torizon&logoColor=FAAF00)
 ```
 ## ![Toshiba](https://img.shields.io/badge/Toshiba-FF0000?style=for-the-badge&logo=Toshiba&logoColor=FFFFFF)
 ```markdown
