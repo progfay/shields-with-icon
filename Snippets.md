@@ -3006,6 +3006,10 @@
 ```markdown
 ![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)
 ```
+## ![Devbox](https://img.shields.io/badge/Devbox-280459?style=for-the-badge&logo=Devbox&logoColor=FFFFFF)
+```markdown
+![Devbox](https://img.shields.io/badge/Devbox-280459?style=for-the-badge&logo=Devbox&logoColor=FFFFFF)
+```
 ## ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=DevExpress&logoColor=FFFFFF)
 ```markdown
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=DevExpress&logoColor=FFFFFF)
@@ -4385,6 +4389,10 @@
 ## ![Gitter](https://img.shields.io/badge/Gitter-ED1965?style=for-the-badge&logo=Gitter&logoColor=FFFFFF)
 ```markdown
 ![Gitter](https://img.shields.io/badge/Gitter-ED1965?style=for-the-badge&logo=Gitter&logoColor=FFFFFF)
+```
+## ![GL.iNet](https://img.shields.io/badge/GL.iNet-636363?style=for-the-badge&logo=GL.iNet&logoColor=FFFFFF)
+```markdown
+![GL.iNet](https://img.shields.io/badge/GL.iNet-636363?style=for-the-badge&logo=GL.iNet&logoColor=FFFFFF)
 ```
 ## ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
 ```markdown
