@@ -7966,6 +7966,10 @@
 ```markdown
 ![Open Source Initiative](https://img.shields.io/badge/Open%20Source%20Initiative-3DA639?style=for-the-badge&logo=Open+Source+Initiative&logoColor=FFFFFF)
 ```
+## ![Open3D](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=Open3D&logoColor=FFFFFF)
+```markdown
+![Open3D](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=Open3D&logoColor=FFFFFF)
+```
 ## ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=FFFFFF)
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=FFFFFF)
@@ -12109,6 +12113,10 @@
 ## ![VEGAS](https://img.shields.io/badge/VEGAS-1A1A1A?style=for-the-badge&logo=VEGAS&logoColor=FFFFFF)
 ```markdown
 ![VEGAS](https://img.shields.io/badge/VEGAS-1A1A1A?style=for-the-badge&logo=VEGAS&logoColor=FFFFFF)
+```
+## ![Velocity](https://img.shields.io/badge/Velocity-222222?style=for-the-badge&logo=Velocity&logoColor=1BBAE0)
+```markdown
+![Velocity](https://img.shields.io/badge/Velocity-222222?style=for-the-badge&logo=Velocity&logoColor=1BBAE0)
 ```
 ## ![Velog](https://img.shields.io/badge/Velog-222222?style=for-the-badge&logo=Velog&logoColor=20C997)
 ```markdown
