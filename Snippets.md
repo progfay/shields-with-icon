@@ -2246,6 +2246,10 @@
 ```markdown
 ![CNCF](https://img.shields.io/badge/CNCF-231F20?style=for-the-badge&logo=CNCF&logoColor=FFFFFF)
 ```
+## ![CNES](https://img.shields.io/badge/CNES-204F8C?style=for-the-badge&logo=CNES&logoColor=FFFFFF)
+```markdown
+![CNES](https://img.shields.io/badge/CNES-204F8C?style=for-the-badge&logo=CNES&logoColor=FFFFFF)
+```
 ## ![CNET](https://img.shields.io/badge/CNET-E71D1D?style=for-the-badge&logo=CNET&logoColor=FFFFFF)
 ```markdown
 ![CNET](https://img.shields.io/badge/CNET-E71D1D?style=for-the-badge&logo=CNET&logoColor=FFFFFF)
@@ -6933,6 +6937,10 @@
 ## ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=MDX&logoColor=FFFFFF)
 ```markdown
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=MDX&logoColor=FFFFFF)
+```
+## ![Mealie](https://img.shields.io/badge/Mealie-E58325?style=for-the-badge&logo=Mealie&logoColor=FFFFFF)
+```markdown
+![Mealie](https://img.shields.io/badge/Mealie-E58325?style=for-the-badge&logo=Mealie&logoColor=FFFFFF)
 ```
 ## ![MediaFire](https://img.shields.io/badge/MediaFire-1299F3?style=for-the-badge&logo=MediaFire&logoColor=FFFFFF)
 ```markdown
