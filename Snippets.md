@@ -4978,9 +4978,9 @@
 ```markdown
 ![Hatena Bookmark](https://img.shields.io/badge/Hatena%20Bookmark-00A4DE?style=for-the-badge&logo=Hatena+Bookmark&logoColor=FFFFFF)
 ```
-## ![haveibeenpwned](https://img.shields.io/badge/haveibeenpwned-2A6379?style=for-the-badge&logo=haveibeenpwned&logoColor=FFFFFF)
+## ![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
 ```markdown
-![haveibeenpwned](https://img.shields.io/badge/haveibeenpwned-2A6379?style=for-the-badge&logo=haveibeenpwned&logoColor=FFFFFF)
+![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
 ```
 ## ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=Haxe&logoColor=FFFFFF)
 ```markdown

@@ -1243,7 +1243,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=FFFFFF)
 ![Hasura](https://img.shields.io/badge/Hasura-222222?style=for-the-badge&logo=Hasura&logoColor=1EB4D4)
 ![Hatena Bookmark](https://img.shields.io/badge/Hatena%20Bookmark-00A4DE?style=for-the-badge&logo=Hatena+Bookmark&logoColor=FFFFFF)
-![haveibeenpwned](https://img.shields.io/badge/haveibeenpwned-2A6379?style=for-the-badge&logo=haveibeenpwned&logoColor=FFFFFF)
+![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=Haxe&logoColor=FFFFFF)
 ![HBO](https://img.shields.io/badge/HBO-000000?style=for-the-badge&logo=HBO&logoColor=FFFFFF)
 ![HCL](https://img.shields.io/badge/HCL-006BB6?style=for-the-badge&logo=HCL&logoColor=FFFFFF)
