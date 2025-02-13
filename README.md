@@ -3201,6 +3201,7 @@
 ![XSplit](https://img.shields.io/badge/XSplit-0095DE?style=for-the-badge&logo=XSplit&logoColor=FFFFFF)
 ![XState](https://img.shields.io/badge/XState-2C3E50?style=for-the-badge&logo=XState&logoColor=FFFFFF)
 ![Xubuntu](https://img.shields.io/badge/Xubuntu-0044AA?style=for-the-badge&logo=Xubuntu&logoColor=FFFFFF)
+![xyflow](https://img.shields.io/badge/xyflow-1A192B?style=for-the-badge&logo=xyflow&logoColor=FFFFFF)
 ![Y Combinator](https://img.shields.io/badge/Y%20Combinator-F0652F?style=for-the-badge&logo=Y+Combinator&logoColor=FFFFFF)
 ![yabai](https://img.shields.io/badge/yabai-00364B?style=for-the-badge&logo=yabai&logoColor=FFFFFF)
 ![Yale](https://img.shields.io/badge/Yale-222222?style=for-the-badge&logo=Yale&logoColor=FFD900)
