@@ -1513,6 +1513,7 @@
 ![Kirby](https://img.shields.io/badge/Kirby-000000?style=for-the-badge&logo=Kirby&logoColor=FFFFFF)
 ![Kit](https://img.shields.io/badge/Kit-000000?style=for-the-badge&logo=Kit&logoColor=FFFFFF)
 ![Kitsu](https://img.shields.io/badge/Kitsu-FD755C?style=for-the-badge&logo=Kitsu&logoColor=FFFFFF)
+![Kiwix](https://img.shields.io/badge/Kiwix-000000?style=for-the-badge&logo=Kiwix&logoColor=FFFFFF)
 ![Klarna](https://img.shields.io/badge/Klarna-222222?style=for-the-badge&logo=Klarna&logoColor=FFB3C7)
 ![Kleinanzeigen](https://img.shields.io/badge/Kleinanzeigen-1D4B00?style=for-the-badge&logo=Kleinanzeigen&logoColor=FFFFFF)
 ![KLM](https://img.shields.io/badge/KLM-00A1DE?style=for-the-badge&logo=KLM&logoColor=FFFFFF)

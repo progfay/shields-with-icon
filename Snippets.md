@@ -6058,6 +6058,10 @@
 ```markdown
 ![Kitsu](https://img.shields.io/badge/Kitsu-FD755C?style=for-the-badge&logo=Kitsu&logoColor=FFFFFF)
 ```
+## ![Kiwix](https://img.shields.io/badge/Kiwix-000000?style=for-the-badge&logo=Kiwix&logoColor=FFFFFF)
+```markdown
+![Kiwix](https://img.shields.io/badge/Kiwix-000000?style=for-the-badge&logo=Kiwix&logoColor=FFFFFF)
+```
 ## ![Klarna](https://img.shields.io/badge/Klarna-222222?style=for-the-badge&logo=Klarna&logoColor=FFB3C7)
 ```markdown
 ![Klarna](https://img.shields.io/badge/Klarna-222222?style=for-the-badge&logo=Klarna&logoColor=FFB3C7)
