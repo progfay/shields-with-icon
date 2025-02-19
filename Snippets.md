@@ -4118,9 +4118,9 @@
 ```markdown
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=FreeBSD&logoColor=FFFFFF)
 ```
-## ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=FreeCAD&logoColor=FFFFFF)
+## ![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=FreeCAD&logoColor=FFFFFF)
 ```markdown
-![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=FreeCAD&logoColor=FFFFFF)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=FreeCAD&logoColor=FFFFFF)
 ```
 ## ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=FFFFFF)
 ```markdown
@@ -9893,6 +9893,10 @@
 ## ![Sage](https://img.shields.io/badge/Sage-222222?style=for-the-badge&logo=Sage&logoColor=00D639)
 ```markdown
 ![Sage](https://img.shields.io/badge/Sage-222222?style=for-the-badge&logo=Sage&logoColor=00D639)
+```
+## ![SageMath](https://img.shields.io/badge/SageMath-3333FF?style=for-the-badge&logo=SageMath&logoColor=FFFFFF)
+```markdown
+![SageMath](https://img.shields.io/badge/SageMath-3333FF?style=for-the-badge&logo=SageMath&logoColor=FFFFFF)
 ```
 ## ![Sahibinden](https://img.shields.io/badge/Sahibinden-222222?style=for-the-badge&logo=Sahibinden&logoColor=FFE800)
 ```markdown
