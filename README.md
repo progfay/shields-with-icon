@@ -1325,7 +1325,7 @@
 ![Hyundai](https://img.shields.io/badge/Hyundai-002C5E?style=for-the-badge&logo=Hyundai&logoColor=FFFFFF)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=FFFFFF)
 ![i3](https://img.shields.io/badge/i3-222222?style=for-the-badge&logo=i3&logoColor=52C0FF)
-![Iata](https://img.shields.io/badge/Iata-004E81?style=for-the-badge&logo=Iata&logoColor=FFFFFF)
+![IATA](https://img.shields.io/badge/IATA-004E81?style=for-the-badge&logo=IATA&logoColor=FFFFFF)
 ![iBeacon](https://img.shields.io/badge/iBeacon-3D7EBB?style=for-the-badge&logo=iBeacon&logoColor=FFFFFF)
 ![Iberia](https://img.shields.io/badge/Iberia-D7192D?style=for-the-badge&logo=Iberia&logoColor=FFFFFF)
 ![Iced](https://img.shields.io/badge/Iced-3645FF?style=for-the-badge&logo=Iced&logoColor=FFFFFF)
