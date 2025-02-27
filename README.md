@@ -3052,6 +3052,7 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=FFFFFF)
 ![Vimeo](https://img.shields.io/badge/Vimeo-222222?style=for-the-badge&logo=Vimeo&logoColor=1AB7EA)
 ![Vimeo Livestream](https://img.shields.io/badge/Vimeo%20Livestream-0A0A20?style=for-the-badge&logo=Vimeo+Livestream&logoColor=FFFFFF)
+![Vinted](https://img.shields.io/badge/Vinted-007782?style=for-the-badge&logo=Vinted&logoColor=FFFFFF)
 ![Virgin](https://img.shields.io/badge/Virgin-E10A0A?style=for-the-badge&logo=Virgin&logoColor=FFFFFF)
 ![Virgin Atlantic](https://img.shields.io/badge/Virgin%20Atlantic-DA0530?style=for-the-badge&logo=Virgin+Atlantic&logoColor=FFFFFF)
 ![Virgin Media](https://img.shields.io/badge/Virgin%20Media-ED1A37?style=for-the-badge&logo=Virgin+Media&logoColor=FFFFFF)

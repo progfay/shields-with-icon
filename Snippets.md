@@ -12214,6 +12214,10 @@
 ```markdown
 ![Vimeo Livestream](https://img.shields.io/badge/Vimeo%20Livestream-0A0A20?style=for-the-badge&logo=Vimeo+Livestream&logoColor=FFFFFF)
 ```
+## ![Vinted](https://img.shields.io/badge/Vinted-007782?style=for-the-badge&logo=Vinted&logoColor=FFFFFF)
+```markdown
+![Vinted](https://img.shields.io/badge/Vinted-007782?style=for-the-badge&logo=Vinted&logoColor=FFFFFF)
+```
 ## ![Virgin](https://img.shields.io/badge/Virgin-E10A0A?style=for-the-badge&logo=Virgin&logoColor=FFFFFF)
 ```markdown
 ![Virgin](https://img.shields.io/badge/Virgin-E10A0A?style=for-the-badge&logo=Virgin&logoColor=FFFFFF)
