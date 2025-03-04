@@ -622,9 +622,9 @@
 ```markdown
 ![Andela](https://img.shields.io/badge/Andela-173B3F?style=for-the-badge&logo=Andela&logoColor=FFFFFF)
 ```
-## ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=FFFFFF)
+## ![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=Android&logoColor=3DDC84)
 ```markdown
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=Android&logoColor=3DDC84)
 ```
 ## ![Android Auto](https://img.shields.io/badge/Android%20Auto-222222?style=for-the-badge&logo=Android+Auto&logoColor=3DDC84)
 ```markdown

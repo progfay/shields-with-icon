@@ -154,7 +154,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)
 ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=FFFFFF)
 ![Andela](https://img.shields.io/badge/Andela-173B3F?style=for-the-badge&logo=Andela&logoColor=FFFFFF)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=Android&logoColor=3DDC84)
 ![Android Auto](https://img.shields.io/badge/Android%20Auto-222222?style=for-the-badge&logo=Android+Auto&logoColor=3DDC84)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-222222?style=for-the-badge&logo=Android+Studio&logoColor=3DDC84)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
