@@ -11918,6 +11918,10 @@
 ```markdown
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=Umbraco&logoColor=FFFFFF)
 ```
+## ![Umbrel](https://img.shields.io/badge/Umbrel-5351FB?style=for-the-badge&logo=Umbrel&logoColor=FFFFFF)
+```markdown
+![Umbrel](https://img.shields.io/badge/Umbrel-5351FB?style=for-the-badge&logo=Umbrel&logoColor=FFFFFF)
+```
 ## ![UML](https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=UML&logoColor=FABD14)
 ```markdown
 ![UML](https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=UML&logoColor=FABD14)

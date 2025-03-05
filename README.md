@@ -2978,6 +2978,7 @@
 ![Ulule](https://img.shields.io/badge/Ulule-18A5D6?style=for-the-badge&logo=Ulule&logoColor=FFFFFF)
 ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=Umami&logoColor=FFFFFF)
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=Umbraco&logoColor=FFFFFF)
+![Umbrel](https://img.shields.io/badge/Umbrel-5351FB?style=for-the-badge&logo=Umbrel&logoColor=FFFFFF)
 ![UML](https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=UML&logoColor=FABD14)
 ![Unacademy](https://img.shields.io/badge/Unacademy-222222?style=for-the-badge&logo=Unacademy&logoColor=08BD80)
 ![Under Armour](https://img.shields.io/badge/Under%20Armour-1D1D1D?style=for-the-badge&logo=Under+Armour&logoColor=FFFFFF)
