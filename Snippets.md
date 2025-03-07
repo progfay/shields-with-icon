@@ -6178,6 +6178,10 @@
 ```markdown
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
 ```
+## ![Kubespray](https://img.shields.io/badge/Kubespray-3D647F?style=for-the-badge&logo=Kubespray&logoColor=FFFFFF)
+```markdown
+![Kubespray](https://img.shields.io/badge/Kubespray-3D647F?style=for-the-badge&logo=Kubespray&logoColor=FFFFFF)
+```
 ## ![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=Kubuntu&logoColor=FFFFFF)
 ```markdown
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=Kubuntu&logoColor=FFFFFF)

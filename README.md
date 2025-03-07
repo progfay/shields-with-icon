@@ -1543,6 +1543,7 @@
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=Ktor&logoColor=FFFFFF)
 ![Kuaishou](https://img.shields.io/badge/Kuaishou-FF4906?style=for-the-badge&logo=Kuaishou&logoColor=FFFFFF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
+![Kubespray](https://img.shields.io/badge/Kubespray-3D647F?style=for-the-badge&logo=Kubespray&logoColor=FFFFFF)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=Kubuntu&logoColor=FFFFFF)
 ![KuCoin](https://img.shields.io/badge/KuCoin-222222?style=for-the-badge&logo=KuCoin&logoColor=01BC8D)
 ![Kueski](https://img.shields.io/badge/Kueski-0075FF?style=for-the-badge&logo=Kueski&logoColor=FFFFFF)
