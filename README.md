@@ -1013,6 +1013,7 @@
 ![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=for-the-badge&logo=Formspree&logoColor=FFFFFF)
 ![Formstack](https://img.shields.io/badge/Formstack-21B573?style=for-the-badge&logo=Formstack&logoColor=FFFFFF)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=Fortinet&logoColor=FFFFFF)
+![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=Fortnite&logoColor=FFFFFF)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=FFFFFF)
 ![Fossa](https://img.shields.io/badge/Fossa-289E6D?style=for-the-badge&logo=Fossa&logoColor=FFFFFF)
 ![Fossil SCM](https://img.shields.io/badge/Fossil%20SCM-548294?style=for-the-badge&logo=Fossil+SCM&logoColor=FFFFFF)

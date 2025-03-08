@@ -4058,6 +4058,10 @@
 ```markdown
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=Fortinet&logoColor=FFFFFF)
 ```
+## ![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=Fortnite&logoColor=FFFFFF)
+```markdown
+![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=Fortnite&logoColor=FFFFFF)
+```
 ## ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=FFFFFF)
 ```markdown
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=FFFFFF)
