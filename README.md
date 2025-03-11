@@ -1100,6 +1100,7 @@
 ![Gitter](https://img.shields.io/badge/Gitter-ED1965?style=for-the-badge&logo=Gitter&logoColor=FFFFFF)
 ![GL.iNet](https://img.shields.io/badge/GL.iNet-636363?style=for-the-badge&logo=GL.iNet&logoColor=FFFFFF)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
+![Gleam](https://img.shields.io/badge/Gleam-222222?style=for-the-badge&logo=Gleam&logoColor=FFAFF3)
 ![Glide](https://img.shields.io/badge/Glide-222222?style=for-the-badge&logo=Glide&logoColor=18BED4)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=Glitch&logoColor=FFFFFF)
 ![Globus](https://img.shields.io/badge/Globus-CA6201?style=for-the-badge&logo=Globus&logoColor=FFFFFF)

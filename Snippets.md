@@ -4406,6 +4406,10 @@
 ```markdown
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
 ```
+## ![Gleam](https://img.shields.io/badge/Gleam-222222?style=for-the-badge&logo=Gleam&logoColor=FFAFF3)
+```markdown
+![Gleam](https://img.shields.io/badge/Gleam-222222?style=for-the-badge&logo=Gleam&logoColor=FFAFF3)
+```
 ## ![Glide](https://img.shields.io/badge/Glide-222222?style=for-the-badge&logo=Glide&logoColor=18BED4)
 ```markdown
 ![Glide](https://img.shields.io/badge/Glide-222222?style=for-the-badge&logo=Glide&logoColor=18BED4)
