@@ -7034,9 +7034,9 @@
 ```markdown
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=Mermaid&logoColor=FFFFFF)
 ```
-## ![Messenger](https://img.shields.io/badge/Messenger-222222?style=for-the-badge&logo=Messenger&logoColor=00B2FF)
+## ![Messenger](https://img.shields.io/badge/Messenger-0866FF?style=for-the-badge&logo=Messenger&logoColor=FFFFFF)
 ```markdown
-![Messenger](https://img.shields.io/badge/Messenger-222222?style=for-the-badge&logo=Messenger&logoColor=00B2FF)
+![Messenger](https://img.shields.io/badge/Messenger-0866FF?style=for-the-badge&logo=Messenger&logoColor=FFFFFF)
 ```
 ## ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
 ```markdown
@@ -8809,6 +8809,10 @@
 ## ![Porsche](https://img.shields.io/badge/Porsche-B12B28?style=for-the-badge&logo=Porsche&logoColor=FFFFFF)
 ```markdown
 ![Porsche](https://img.shields.io/badge/Porsche-B12B28?style=for-the-badge&logo=Porsche&logoColor=FFFFFF)
+```
+## ![PortableApps.com](https://img.shields.io/badge/PortableApps.com-818F95?style=for-the-badge&logo=PortableApps.com&logoColor=FFFFFF)
+```markdown
+![PortableApps.com](https://img.shields.io/badge/PortableApps.com-818F95?style=for-the-badge&logo=PortableApps.com&logoColor=FFFFFF)
 ```
 ## ![Portainer](https://img.shields.io/badge/Portainer-222222?style=for-the-badge&logo=Portainer&logoColor=13BEF9)
 ```markdown
