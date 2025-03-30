@@ -4246,6 +4246,10 @@
 ```markdown
 ![Gamemaker](https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=Gamemaker&logoColor=FFFFFF)
 ```
+## ![Gandi](https://img.shields.io/badge/Gandi-6640FE?style=for-the-badge&logo=Gandi&logoColor=FFFFFF)
+```markdown
+![Gandi](https://img.shields.io/badge/Gandi-6640FE?style=for-the-badge&logo=Gandi&logoColor=FFFFFF)
+```
 ## ![Garmin](https://img.shields.io/badge/Garmin-000000?style=for-the-badge&logo=Garmin&logoColor=FFFFFF)
 ```markdown
 ![Garmin](https://img.shields.io/badge/Garmin-000000?style=for-the-badge&logo=Garmin&logoColor=FFFFFF)
@@ -4897,6 +4901,10 @@
 ## ![H&M](https://img.shields.io/badge/H&M-E50010?style=for-the-badge&logo=H%26M&logoColor=FFFFFF)
 ```markdown
 ![H&M](https://img.shields.io/badge/H&M-E50010?style=for-the-badge&logo=H%26M&logoColor=FFFFFF)
+```
+## ![H2 Database](https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=H2+Database&logoColor=FFFFFF)
+```markdown
+![H2 Database](https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=H2+Database&logoColor=FFFFFF)
 ```
 ## ![H3](https://img.shields.io/badge/H3-1E54B7?style=for-the-badge&logo=H3&logoColor=FFFFFF)
 ```markdown
@@ -8181,6 +8189,10 @@
 ## ![Oshkosh](https://img.shields.io/badge/Oshkosh-E6830F?style=for-the-badge&logo=Oshkosh&logoColor=FFFFFF)
 ```markdown
 ![Oshkosh](https://img.shields.io/badge/Oshkosh-E6830F?style=for-the-badge&logo=Oshkosh&logoColor=FFFFFF)
+```
+## ![OsmAnd](https://img.shields.io/badge/OsmAnd-222222?style=for-the-badge&logo=OsmAnd&logoColor=FF8800)
+```markdown
+![OsmAnd](https://img.shields.io/badge/OsmAnd-222222?style=for-the-badge&logo=OsmAnd&logoColor=FF8800)
 ```
 ## ![OSMC](https://img.shields.io/badge/OSMC-17394A?style=for-the-badge&logo=OSMC&logoColor=FFFFFF)
 ```markdown
@@ -11654,9 +11666,9 @@
 ```markdown
 ![TrainerRoad](https://img.shields.io/badge/TrainerRoad-DA291C?style=for-the-badge&logo=TrainerRoad&logoColor=FFFFFF)
 ```
-## ![Trakt](https://img.shields.io/badge/Trakt-ED1C24?style=for-the-badge&logo=Trakt&logoColor=FFFFFF)
+## ![Trakt](https://img.shields.io/badge/Trakt-9F42C6?style=for-the-badge&logo=Trakt&logoColor=FFFFFF)
 ```markdown
-![Trakt](https://img.shields.io/badge/Trakt-ED1C24?style=for-the-badge&logo=Trakt&logoColor=FFFFFF)
+![Trakt](https://img.shields.io/badge/Trakt-9F42C6?style=for-the-badge&logo=Trakt&logoColor=FFFFFF)
 ```
 ## ![Transifex](https://img.shields.io/badge/Transifex-0064AB?style=for-the-badge&logo=Transifex&logoColor=FFFFFF)
 ```markdown
@@ -13001,6 +13013,10 @@
 ## ![Zelle](https://img.shields.io/badge/Zelle-6D1ED4?style=for-the-badge&logo=Zelle&logoColor=FFFFFF)
 ```markdown
 ![Zelle](https://img.shields.io/badge/Zelle-6D1ED4?style=for-the-badge&logo=Zelle&logoColor=FFFFFF)
+```
+## ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?style=for-the-badge&logo=Zen+Browser&logoColor=FFFFFF)
+```markdown
+![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?style=for-the-badge&logo=Zen+Browser&logoColor=FFFFFF)
 ```
 ## ![Zend](https://img.shields.io/badge/Zend-0679EA?style=for-the-badge&logo=Zend&logoColor=FFFFFF)
 ```markdown
