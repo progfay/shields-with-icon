@@ -2742,9 +2742,9 @@
 ```markdown
 ![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=CurseForge&logoColor=FFFFFF)
 ```
-## ![Custom Ink](https://img.shields.io/badge/Custom%20Ink-4051B5?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
+## ![Custom Ink](https://img.shields.io/badge/Custom%20Ink-FA3C00?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
 ```markdown
-![Custom Ink](https://img.shields.io/badge/Custom%20Ink-4051B5?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
+![Custom Ink](https://img.shields.io/badge/Custom%20Ink-FA3C00?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
 ```
 ## ![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA?style=for-the-badge&logo=CyberDefenders&logoColor=FFFFFF)
 ```markdown
@@ -7334,9 +7334,9 @@
 ```markdown
 ![Movistar](https://img.shields.io/badge/Movistar-019DF4?style=for-the-badge&logo=Movistar&logoColor=FFFFFF)
 ```
-## ![Mozilla](https://img.shields.io/badge/Mozilla-000000?style=for-the-badge&logo=Mozilla&logoColor=FFFFFF)
+## ![Mozilla](https://img.shields.io/badge/Mozilla-161616?style=for-the-badge&logo=Mozilla&logoColor=FFFFFF)
 ```markdown
-![Mozilla](https://img.shields.io/badge/Mozilla-000000?style=for-the-badge&logo=Mozilla&logoColor=FFFFFF)
+![Mozilla](https://img.shields.io/badge/Mozilla-161616?style=for-the-badge&logo=Mozilla&logoColor=FFFFFF)
 ```
 ## ![mpv](https://img.shields.io/badge/mpv-691F69?style=for-the-badge&logo=mpv&logoColor=FFFFFF)
 ```markdown
