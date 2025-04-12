@@ -922,9 +922,9 @@
 ```markdown
 ![ARAL](https://img.shields.io/badge/ARAL-0063CB?style=for-the-badge&logo=ARAL&logoColor=FFFFFF)
 ```
-## ![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDE072)
+## ![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDDF72)
 ```markdown
-![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDE072)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDDF72)
 ```
 ## ![Arc](https://img.shields.io/badge/Arc-222222?style=for-the-badge&logo=Arc&logoColor=FCBFBD)
 ```markdown

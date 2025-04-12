@@ -229,7 +229,7 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=Appwrite&logoColor=FFFFFF)
 ![Aqua](https://img.shields.io/badge/Aqua-1904DA?style=for-the-badge&logo=Aqua&logoColor=FFFFFF)
 ![ARAL](https://img.shields.io/badge/ARAL-0063CB?style=for-the-badge&logo=ARAL&logoColor=FFFFFF)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDE072)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-222222?style=for-the-badge&logo=ArangoDB&logoColor=DDDF72)
 ![Arc](https://img.shields.io/badge/Arc-222222?style=for-the-badge&logo=Arc&logoColor=FCBFBD)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=FFFFFF)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF)
