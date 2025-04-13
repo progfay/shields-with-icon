@@ -6814,9 +6814,9 @@
 ```markdown
 ![ManageIQ](https://img.shields.io/badge/ManageIQ-EF2929?style=for-the-badge&logo=ManageIQ&logoColor=FFFFFF)
 ```
-## ![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BF5C)
+## ![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BFA4)
 ```markdown
-![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BF5C)
+![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BFA4)
 ```
 ## ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=Mantine&logoColor=FFFFFF)
 ```markdown

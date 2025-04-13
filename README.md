@@ -1702,7 +1702,7 @@
 ![MAMP](https://img.shields.io/badge/MAMP-02749C?style=for-the-badge&logo=MAMP&logoColor=FFFFFF)
 ![MAN](https://img.shields.io/badge/MAN-E40045?style=for-the-badge&logo=MAN&logoColor=FFFFFF)
 ![ManageIQ](https://img.shields.io/badge/ManageIQ-EF2929?style=for-the-badge&logo=ManageIQ&logoColor=FFFFFF)
-![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BF5C)
+![Manjaro](https://img.shields.io/badge/Manjaro-222222?style=for-the-badge&logo=Manjaro&logoColor=35BFA4)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=Mantine&logoColor=FFFFFF)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=Mapbox&logoColor=FFFFFF)
 ![Mapillary](https://img.shields.io/badge/Mapillary-00AF66?style=for-the-badge&logo=Mapillary&logoColor=FFFFFF)
