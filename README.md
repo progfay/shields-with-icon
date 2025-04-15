@@ -791,7 +791,7 @@
 ![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=FFFFFF)
 ![Dota 2](https://img.shields.io/badge/Dota%202-BF2E1A?style=for-the-badge&logo=Dota+2&logoColor=FFFFFF)
 ![Douban](https://img.shields.io/badge/Douban-2D963D?style=for-the-badge&logo=Douban&logoColor=FFFFFF)
-![Douban Read](https://img.shields.io/badge/Douban%20Read-389EAC?style=for-the-badge&logo=Douban+Read&logoColor=FFFFFF)
+![Douban Read](https://img.shields.io/badge/Douban%20Read-222222?style=for-the-badge&logo=Douban+Read&logoColor=24D2C8)
 ![Dovecot](https://img.shields.io/badge/Dovecot-222222?style=for-the-badge&logo=Dovecot&logoColor=54BCAB)
 ![Dovetail](https://img.shields.io/badge/Dovetail-190041?style=for-the-badge&logo=Dovetail&logoColor=FFFFFF)
 ![Downdetector](https://img.shields.io/badge/Downdetector-FF160A?style=for-the-badge&logo=Downdetector&logoColor=FFFFFF)
