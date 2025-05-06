@@ -7126,6 +7126,10 @@
 ```markdown
 ![Migadu](https://img.shields.io/badge/Migadu-0043CE?style=for-the-badge&logo=Migadu&logoColor=FFFFFF)
 ```
+## ![Mihon](https://img.shields.io/badge/Mihon-0058A0?style=for-the-badge&logo=Mihon&logoColor=FFFFFF)
+```markdown
+![Mihon](https://img.shields.io/badge/Mihon-0058A0?style=for-the-badge&logo=Mihon&logoColor=FFFFFF)
+```
 ## ![miHoYo](https://img.shields.io/badge/miHoYo-4EA4DD?style=for-the-badge&logo=miHoYo&logoColor=FFFFFF)
 ```markdown
 ![miHoYo](https://img.shields.io/badge/miHoYo-4EA4DD?style=for-the-badge&logo=miHoYo&logoColor=FFFFFF)
