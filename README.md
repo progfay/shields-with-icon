@@ -2334,6 +2334,7 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=Railway&logoColor=FFFFFF)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=Rainmeter&logoColor=FFFFFF)
 ![Rakuten](https://img.shields.io/badge/Rakuten-BF0000?style=for-the-badge&logo=Rakuten&logoColor=FFFFFF)
+![Rakuten Kobo](https://img.shields.io/badge/Rakuten%20Kobo-BF0000?style=for-the-badge&logo=Rakuten+Kobo&logoColor=FFFFFF)
 ![Ram](https://img.shields.io/badge/Ram-000000?style=for-the-badge&logo=Ram&logoColor=FFFFFF)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=Rancher&logoColor=FFFFFF)
 ![Rapid](https://img.shields.io/badge/Rapid-0055DA?style=for-the-badge&logo=Rapid&logoColor=FFFFFF)

@@ -9342,6 +9342,10 @@
 ```markdown
 ![Rakuten](https://img.shields.io/badge/Rakuten-BF0000?style=for-the-badge&logo=Rakuten&logoColor=FFFFFF)
 ```
+## ![Rakuten Kobo](https://img.shields.io/badge/Rakuten%20Kobo-BF0000?style=for-the-badge&logo=Rakuten+Kobo&logoColor=FFFFFF)
+```markdown
+![Rakuten Kobo](https://img.shields.io/badge/Rakuten%20Kobo-BF0000?style=for-the-badge&logo=Rakuten+Kobo&logoColor=FFFFFF)
+```
 ## ![Ram](https://img.shields.io/badge/Ram-000000?style=for-the-badge&logo=Ram&logoColor=FFFFFF)
 ```markdown
 ![Ram](https://img.shields.io/badge/Ram-000000?style=for-the-badge&logo=Ram&logoColor=FFFFFF)
