@@ -6922,6 +6922,10 @@
 ```markdown
 ![Max](https://img.shields.io/badge/Max-525252?style=for-the-badge&logo=Max&logoColor=FFFFFF)
 ```
+## ![Max](https://img.shields.io/badge/Max-000000?style=for-the-badge&logo=Max&logoColor=FFFFFF)
+```markdown
+![Max](https://img.shields.io/badge/Max-000000?style=for-the-badge&logo=Max&logoColor=FFFFFF)
+```
 ## ![Max-Planck-Gesellschaft](https://img.shields.io/badge/Max-Planck-Gesellschaft-006C66?style=for-the-badge&logo=Max-Planck-Gesellschaft&logoColor=FFFFFF)
 ```markdown
 ![Max-Planck-Gesellschaft](https://img.shields.io/badge/Max-Planck-Gesellschaft-006C66?style=for-the-badge&logo=Max-Planck-Gesellschaft&logoColor=FFFFFF)
@@ -7570,6 +7574,10 @@
 ```markdown
 ![NETGEAR](https://img.shields.io/badge/NETGEAR-2C262D?style=for-the-badge&logo=NETGEAR&logoColor=FFFFFF)
 ```
+## ![Netim](https://img.shields.io/badge/Netim-222222?style=for-the-badge&logo=Netim&logoColor=FE8427)
+```markdown
+![Netim](https://img.shields.io/badge/Netim-222222?style=for-the-badge&logo=Netim&logoColor=FE8427)
+```
 ## ![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
 ```markdown
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
@@ -7605,6 +7613,10 @@
 ## ![Newegg](https://img.shields.io/badge/Newegg-E05E00?style=for-the-badge&logo=Newegg&logoColor=FFFFFF)
 ```markdown
 ![Newegg](https://img.shields.io/badge/Newegg-E05E00?style=for-the-badge&logo=Newegg&logoColor=FFFFFF)
+```
+## ![NewPipe](https://img.shields.io/badge/NewPipe-CD201F?style=for-the-badge&logo=NewPipe&logoColor=FFFFFF)
+```markdown
+![NewPipe](https://img.shields.io/badge/NewPipe-CD201F?style=for-the-badge&logo=NewPipe&logoColor=FFFFFF)
 ```
 ## ![NEXON](https://img.shields.io/badge/NEXON-000000?style=for-the-badge&logo=NEXON&logoColor=FFFFFF)
 ```markdown
@@ -8021,6 +8033,10 @@
 ## ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
 ```markdown
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
+```
+## ![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
+```markdown
+![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
 ```
 ## ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF)
 ```markdown
@@ -9325,6 +9341,10 @@
 ## ![radarr](https://img.shields.io/badge/radarr-222222?style=for-the-badge&logo=radarr&logoColor=FFCB3D)
 ```markdown
 ![radarr](https://img.shields.io/badge/radarr-222222?style=for-the-badge&logo=radarr&logoColor=FFCB3D)
+```
+## ![Radio France](https://img.shields.io/badge/Radio%20France-2B00E7?style=for-the-badge&logo=Radio+France&logoColor=FFFFFF)
+```markdown
+![Radio France](https://img.shields.io/badge/Radio%20France-2B00E7?style=for-the-badge&logo=Radio+France&logoColor=FFFFFF)
 ```
 ## ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix+UI&logoColor=FFFFFF)
 ```markdown
