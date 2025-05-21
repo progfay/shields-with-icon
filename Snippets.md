@@ -130,9 +130,9 @@
 ```markdown
 ![ACM](https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)
 ```
-## ![ActiGraph](https://img.shields.io/badge/ActiGraph-0B2C4A?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
+## ![ActiGraph](https://img.shields.io/badge/ActiGraph-3A4259?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
 ```markdown
-![ActiGraph](https://img.shields.io/badge/ActiGraph-0B2C4A?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
+![ActiGraph](https://img.shields.io/badge/ActiGraph-3A4259?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
 ```
 ## ![Activision](https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=FFFFFF)
 ```markdown
@@ -2682,9 +2682,9 @@
 ```markdown
 ![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=Crunchbase&logoColor=FFFFFF)
 ```
-## ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=Crunchyroll&logoColor=FFFFFF)
+## ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-FF5E00?style=for-the-badge&logo=Crunchyroll&logoColor=FFFFFF)
 ```markdown
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=Crunchyroll&logoColor=FFFFFF)
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-FF5E00?style=for-the-badge&logo=Crunchyroll&logoColor=FFFFFF)
 ```
 ## ![CRYENGINE](https://img.shields.io/badge/CRYENGINE-000000?style=for-the-badge&logo=CRYENGINE&logoColor=FFFFFF)
 ```markdown
@@ -3626,6 +3626,10 @@
 ```markdown
 ![Evernote](https://img.shields.io/badge/Evernote-00A82D?style=for-the-badge&logo=Evernote&logoColor=FFFFFF)
 ```
+## ![Every.org](https://img.shields.io/badge/Every.org-222222?style=for-the-badge&logo=Every.org&logoColor=2BD7B0)
+```markdown
+![Every.org](https://img.shields.io/badge/Every.org-222222?style=for-the-badge&logo=Every.org&logoColor=2BD7B0)
+```
 ## ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=Excalidraw&logoColor=FFFFFF)
 ```markdown
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=Excalidraw&logoColor=FFFFFF)
@@ -4166,6 +4170,10 @@
 ```markdown
 ![Fresh](https://img.shields.io/badge/Fresh-222222?style=for-the-badge&logo=Fresh&logoColor=FFDB1E)
 ```
+## ![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=Frigate&logoColor=FFFFFF)
+```markdown
+![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=Frigate&logoColor=FFFFFF)
+```
 ## ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=Frontend+Mentor&logoColor=FFFFFF)
 ```markdown
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=Frontend+Mentor&logoColor=FFFFFF)
@@ -4326,9 +4334,9 @@
 ```markdown
 ![Ghostery](https://img.shields.io/badge/Ghostery-00AEF0?style=for-the-badge&logo=Ghostery&logoColor=FFFFFF)
 ```
-## ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
+## ![GIMP](https://img.shields.io/badge/GIMP-8C8073?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
 ```markdown
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
+![GIMP](https://img.shields.io/badge/GIMP-8C8073?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
 ```
 ## ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=Gin&logoColor=FFFFFF)
 ```markdown
@@ -7777,6 +7785,10 @@
 ## ![Norwegian](https://img.shields.io/badge/Norwegian-D81939?style=for-the-badge&logo=Norwegian&logoColor=FFFFFF)
 ```markdown
 ![Norwegian](https://img.shields.io/badge/Norwegian-D81939?style=for-the-badge&logo=Norwegian&logoColor=FFFFFF)
+```
+## ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=NotebookLM&logoColor=FFFFFF)
+```markdown
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=NotebookLM&logoColor=FFFFFF)
 ```
 ## ![Notepad++](https://img.shields.io/badge/Notepad++-222222?style=for-the-badge&logo=Notepad%2B%2B&logoColor=90E59A)
 ```markdown
@@ -11534,9 +11546,9 @@
 ```markdown
 ![TickTick](https://img.shields.io/badge/TickTick-4772FA?style=for-the-badge&logo=TickTick&logoColor=FFFFFF)
 ```
-## ![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=FFFFFF)
+## ![TIDAL](https://img.shields.io/badge/TIDAL-000000?style=for-the-badge&logo=TIDAL&logoColor=FFFFFF)
 ```markdown
-![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=FFFFFF)
+![TIDAL](https://img.shields.io/badge/TIDAL-000000?style=for-the-badge&logo=TIDAL&logoColor=FFFFFF)
 ```
 ## ![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-111111?style=for-the-badge&logo=TiddlyWiki&logoColor=FFFFFF)
 ```markdown
