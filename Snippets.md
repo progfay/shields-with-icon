@@ -1654,6 +1654,10 @@
 ```markdown
 ![Braintree](https://img.shields.io/badge/Braintree-000000?style=for-the-badge&logo=Braintree&logoColor=FFFFFF)
 ```
+## ![Brandfetch](https://img.shields.io/badge/Brandfetch-0084FF?style=for-the-badge&logo=Brandfetch&logoColor=FFFFFF)
+```markdown
+![Brandfetch](https://img.shields.io/badge/Brandfetch-0084FF?style=for-the-badge&logo=Brandfetch&logoColor=FFFFFF)
+```
 ## ![Brandfolder](https://img.shields.io/badge/Brandfolder-222222?style=for-the-badge&logo=Brandfolder&logoColor=40D1F5)
 ```markdown
 ![Brandfolder](https://img.shields.io/badge/Brandfolder-222222?style=for-the-badge&logo=Brandfolder&logoColor=40D1F5)
@@ -5745,6 +5749,10 @@
 ## ![JCB](https://img.shields.io/badge/JCB-0B4EA2?style=for-the-badge&logo=JCB&logoColor=FFFFFF)
 ```markdown
 ![JCB](https://img.shields.io/badge/JCB-0B4EA2?style=for-the-badge&logo=JCB&logoColor=FFFFFF)
+```
+## ![JDoodle](https://img.shields.io/badge/JDoodle-FD5200?style=for-the-badge&logo=JDoodle&logoColor=FFFFFF)
+```markdown
+![JDoodle](https://img.shields.io/badge/JDoodle-FD5200?style=for-the-badge&logo=JDoodle&logoColor=FFFFFF)
 ```
 ## ![Jeep](https://img.shields.io/badge/Jeep-000000?style=for-the-badge&logo=Jeep&logoColor=FFFFFF)
 ```markdown
