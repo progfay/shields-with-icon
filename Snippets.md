@@ -678,6 +678,10 @@
 ```markdown
 ![Antena 3](https://img.shields.io/badge/Antena%203-FF7328?style=for-the-badge&logo=Antena+3&logoColor=FFFFFF)
 ```
+## ![AntennaPod](https://img.shields.io/badge/AntennaPod-364FF3?style=for-the-badge&logo=AntennaPod&logoColor=FFFFFF)
+```markdown
+![AntennaPod](https://img.shields.io/badge/AntennaPod-364FF3?style=for-the-badge&logo=AntennaPod&logoColor=FFFFFF)
+```
 ## ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=Anthropic&logoColor=FFFFFF)
 ```markdown
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=Anthropic&logoColor=FFFFFF)
@@ -3134,6 +3138,10 @@
 ```markdown
 ![dm](https://img.shields.io/badge/dm-002878?style=for-the-badge&logo=dm&logoColor=FFFFFF)
 ```
+## ![DMM](https://img.shields.io/badge/DMM-000000?style=for-the-badge&logo=DMM&logoColor=FFFFFF)
+```markdown
+![DMM](https://img.shields.io/badge/DMM-000000?style=for-the-badge&logo=DMM&logoColor=FFFFFF)
+```
 ## ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 ```markdown
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
@@ -4053,6 +4061,10 @@
 ## ![Forgejo](https://img.shields.io/badge/Forgejo-222222?style=for-the-badge&logo=Forgejo&logoColor=FB923C)
 ```markdown
 ![Forgejo](https://img.shields.io/badge/Forgejo-222222?style=for-the-badge&logo=Forgejo&logoColor=FB923C)
+```
+## ![Formbricks](https://img.shields.io/badge/Formbricks-222222?style=for-the-badge&logo=Formbricks&logoColor=00C4B8)
+```markdown
+![Formbricks](https://img.shields.io/badge/Formbricks-222222?style=for-the-badge&logo=Formbricks&logoColor=00C4B8)
 ```
 ## ![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge&logo=Formik&logoColor=FFFFFF)
 ```markdown
@@ -5022,9 +5034,9 @@
 ```markdown
 ![Hatena Bookmark](https://img.shields.io/badge/Hatena%20Bookmark-00A4DE?style=for-the-badge&logo=Hatena+Bookmark&logoColor=FFFFFF)
 ```
-## ![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
+## ![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-030304?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
 ```markdown
-![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
+![Have I Been Pwned](https://img.shields.io/badge/Have%20I%20Been%20Pwned-030304?style=for-the-badge&logo=Have+I+Been+Pwned&logoColor=FFFFFF)
 ```
 ## ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=Haxe&logoColor=FFFFFF)
 ```markdown
@@ -11170,6 +11182,10 @@
 ```markdown
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF)
 ```
+## ![Swisscows](https://img.shields.io/badge/Swisscows-000000?style=for-the-badge&logo=Swisscows&logoColor=FFFFFF)
+```markdown
+![Swisscows](https://img.shields.io/badge/Swisscows-000000?style=for-the-badge&logo=Swisscows&logoColor=FFFFFF)
+```
 ## ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=FFFFFF)
 ```markdown
 ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=FFFFFF)
@@ -12737,6 +12753,10 @@
 ## ![Winamp](https://img.shields.io/badge/Winamp-F93821?style=for-the-badge&logo=Winamp&logoColor=FFFFFF)
 ```markdown
 ![Winamp](https://img.shields.io/badge/Winamp-F93821?style=for-the-badge&logo=Winamp&logoColor=FFFFFF)
+```
+## ![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=Windsurf&logoColor=FFFFFF)
+```markdown
+![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=Windsurf&logoColor=FFFFFF)
 ```
 ## ![Wine](https://img.shields.io/badge/Wine-800000?style=for-the-badge&logo=Wine&logoColor=FFFFFF)
 ```markdown
