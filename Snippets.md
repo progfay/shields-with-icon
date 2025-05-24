@@ -7734,6 +7734,10 @@
 ```markdown
 ![NHL](https://img.shields.io/badge/NHL-000000?style=for-the-badge&logo=NHL&logoColor=FFFFFF)
 ```
+## ![Nhost](https://img.shields.io/badge/Nhost-0052CD?style=for-the-badge&logo=Nhost&logoColor=FFFFFF)
+```markdown
+![Nhost](https://img.shields.io/badge/Nhost-0052CD?style=for-the-badge&logo=Nhost&logoColor=FFFFFF)
+```
 ## ![NiceHash](https://img.shields.io/badge/NiceHash-222222?style=for-the-badge&logo=NiceHash&logoColor=FBC342)
 ```markdown
 ![NiceHash](https://img.shields.io/badge/NiceHash-222222?style=for-the-badge&logo=NiceHash&logoColor=FBC342)
@@ -10413,6 +10417,10 @@
 ## ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-111111?style=for-the-badge&logo=Simple+Icons&logoColor=FFFFFF)
 ```markdown
 ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-111111?style=for-the-badge&logo=Simple+Icons&logoColor=FFFFFF)
+```
+## ![SimpleLocalize](https://img.shields.io/badge/SimpleLocalize-222B33?style=for-the-badge&logo=SimpleLocalize&logoColor=FFFFFF)
+```markdown
+![SimpleLocalize](https://img.shields.io/badge/SimpleLocalize-222B33?style=for-the-badge&logo=SimpleLocalize&logoColor=FFFFFF)
 ```
 ## ![SimpleLogin](https://img.shields.io/badge/SimpleLogin-EA319F?style=for-the-badge&logo=SimpleLogin&logoColor=FFFFFF)
 ```markdown
