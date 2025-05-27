@@ -12158,6 +12158,10 @@
 ```markdown
 ![Upwork](https://img.shields.io/badge/Upwork-222222?style=for-the-badge&logo=Upwork&logoColor=6FDA44)
 ```
+## ![UserVoice](https://img.shields.io/badge/UserVoice-FF6720?style=for-the-badge&logo=UserVoice&logoColor=FFFFFF)
+```markdown
+![UserVoice](https://img.shields.io/badge/UserVoice-FF6720?style=for-the-badge&logo=UserVoice&logoColor=FFFFFF)
+```
 ## ![USPS](https://img.shields.io/badge/USPS-333366?style=for-the-badge&logo=USPS&logoColor=FFFFFF)
 ```markdown
 ![USPS](https://img.shields.io/badge/USPS-333366?style=for-the-badge&logo=USPS&logoColor=FFFFFF)
@@ -12749,6 +12753,10 @@
 ## ![Wikiquote](https://img.shields.io/badge/Wikiquote-006699?style=for-the-badge&logo=Wikiquote&logoColor=FFFFFF)
 ```markdown
 ![Wikiquote](https://img.shields.io/badge/Wikiquote-006699?style=for-the-badge&logo=Wikiquote&logoColor=FFFFFF)
+```
+## ![Wikisource](https://img.shields.io/badge/Wikisource-006699?style=for-the-badge&logo=Wikisource&logoColor=FFFFFF)
+```markdown
+![Wikisource](https://img.shields.io/badge/Wikisource-006699?style=for-the-badge&logo=Wikisource&logoColor=FFFFFF)
 ```
 ## ![Wikiversity](https://img.shields.io/badge/Wikiversity-00649A?style=for-the-badge&logo=Wikiversity&logoColor=FFFFFF)
 ```markdown
