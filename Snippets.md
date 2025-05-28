@@ -82,9 +82,9 @@
 ```markdown
 ![A-Frame](https://img.shields.io/badge/A-Frame-EF2D5E?style=for-the-badge&logo=A-Frame&logoColor=FFFFFF)
 ```
-## ![ABB RobotStudio](https://img.shields.io/badge/ABB%20RobotStudio-222222?style=for-the-badge&logo=ABB+RobotStudio&logoColor=FF9E0F)
+## ![ABB](https://img.shields.io/badge/ABB-FF000F?style=for-the-badge&logo=ABB&logoColor=FFFFFF)
 ```markdown
-![ABB RobotStudio](https://img.shields.io/badge/ABB%20RobotStudio-222222?style=for-the-badge&logo=ABB+RobotStudio&logoColor=FF9E0F)
+![ABB](https://img.shields.io/badge/ABB-FF000F?style=for-the-badge&logo=ABB&logoColor=FFFFFF)
 ```
 ## ![Abbott](https://img.shields.io/badge/Abbott-008FC7?style=for-the-badge&logo=Abbott&logoColor=FFFFFF)
 ```markdown
@@ -474,110 +474,6 @@
 ```markdown
 ![ALX](https://img.shields.io/badge/ALX-002B56?style=for-the-badge&logo=ALX&logoColor=FFFFFF)
 ```
-## ![Amazon](https://img.shields.io/badge/Amazon-222222?style=for-the-badge&logo=Amazon&logoColor=FF9900)
-```markdown
-![Amazon](https://img.shields.io/badge/Amazon-222222?style=for-the-badge&logo=Amazon&logoColor=FF9900)
-```
-## ![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-222222?style=for-the-badge&logo=Amazon+Alexa&logoColor=00CAFF)
-```markdown
-![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-222222?style=for-the-badge&logo=Amazon+Alexa&logoColor=00CAFF)
-```
-## ![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=Amazon+API+Gateway&logoColor=FFFFFF)
-```markdown
-![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=Amazon+API+Gateway&logoColor=FFFFFF)
-```
-## ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon+CloudWatch&logoColor=FFFFFF)
-```markdown
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon+CloudWatch&logoColor=FFFFFF)
-```
-## ![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=Amazon+Cognito&logoColor=FFFFFF)
-```markdown
-![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=Amazon+Cognito&logoColor=FFFFFF)
-```
-## ![Amazon DocumentDB](https://img.shields.io/badge/Amazon%20DocumentDB-C925D1?style=for-the-badge&logo=Amazon+DocumentDB&logoColor=FFFFFF)
-```markdown
-![Amazon DocumentDB](https://img.shields.io/badge/Amazon%20DocumentDB-C925D1?style=for-the-badge&logo=Amazon+DocumentDB&logoColor=FFFFFF)
-```
-## ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon+DynamoDB&logoColor=FFFFFF)
-```markdown
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon+DynamoDB&logoColor=FFFFFF)
-```
-## ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-222222?style=for-the-badge&logo=Amazon+EC2&logoColor=FF9900)
-```markdown
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-222222?style=for-the-badge&logo=Amazon+EC2&logoColor=FF9900)
-```
-## ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-222222?style=for-the-badge&logo=Amazon+ECS&logoColor=FF9900)
-```markdown
-![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-222222?style=for-the-badge&logo=Amazon+ECS&logoColor=FF9900)
-```
-## ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-222222?style=for-the-badge&logo=Amazon+EKS&logoColor=FF9900)
-```markdown
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-222222?style=for-the-badge&logo=Amazon+EKS&logoColor=FF9900)
-```
-## ![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-C925D1?style=for-the-badge&logo=Amazon+ElastiCache&logoColor=FFFFFF)
-```markdown
-![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-C925D1?style=for-the-badge&logo=Amazon+ElastiCache&logoColor=FFFFFF)
-```
-## ![Amazon Fire TV](https://img.shields.io/badge/Amazon%20Fire%20TV-FC4C02?style=for-the-badge&logo=Amazon+Fire+TV&logoColor=FFFFFF)
-```markdown
-![Amazon Fire TV](https://img.shields.io/badge/Amazon%20Fire%20TV-FC4C02?style=for-the-badge&logo=Amazon+Fire+TV&logoColor=FFFFFF)
-```
-## ![Amazon Games](https://img.shields.io/badge/Amazon%20Games-222222?style=for-the-badge&logo=Amazon+Games&logoColor=FF9900)
-```markdown
-![Amazon Games](https://img.shields.io/badge/Amazon%20Games-222222?style=for-the-badge&logo=Amazon+Games&logoColor=FF9900)
-```
-## ![Amazon Identity Access Management](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?style=for-the-badge&logo=Amazon+Identity+Access+Management&logoColor=FFFFFF)
-```markdown
-![Amazon Identity Access Management](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?style=for-the-badge&logo=Amazon+Identity+Access+Management&logoColor=FFFFFF)
-```
-## ![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?style=for-the-badge&logo=Amazon+Lumberyard&logoColor=FFFFFF)
-```markdown
-![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?style=for-the-badge&logo=Amazon+Lumberyard&logoColor=FFFFFF)
-```
-## ![Amazon Luna](https://img.shields.io/badge/Amazon%20Luna-9146FF?style=for-the-badge&logo=Amazon+Luna&logoColor=FFFFFF)
-```markdown
-![Amazon Luna](https://img.shields.io/badge/Amazon%20Luna-9146FF?style=for-the-badge&logo=Amazon+Luna&logoColor=FFFFFF)
-```
-## ![Amazon Music](https://img.shields.io/badge/Amazon%20Music-222222?style=for-the-badge&logo=Amazon+Music&logoColor=46C3D0)
-```markdown
-![Amazon Music](https://img.shields.io/badge/Amazon%20Music-222222?style=for-the-badge&logo=Amazon+Music&logoColor=46C3D0)
-```
-## ![Amazon Pay](https://img.shields.io/badge/Amazon%20Pay-222222?style=for-the-badge&logo=Amazon+Pay&logoColor=FF9900)
-```markdown
-![Amazon Pay](https://img.shields.io/badge/Amazon%20Pay-222222?style=for-the-badge&logo=Amazon+Pay&logoColor=FF9900)
-```
-## ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon+Prime&logoColor=FFFFFF)
-```markdown
-![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon+Prime&logoColor=FFFFFF)
-```
-## ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon+RDS&logoColor=FFFFFF)
-```markdown
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon+RDS&logoColor=FFFFFF)
-```
-## ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon+Redshift&logoColor=FFFFFF)
-```markdown
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon+Redshift&logoColor=FFFFFF)
-```
-## ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=Amazon+Route+53&logoColor=FFFFFF)
-```markdown
-![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=Amazon+Route+53&logoColor=FFFFFF)
-```
-## ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon+S3&logoColor=FFFFFF)
-```markdown
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon+S3&logoColor=FFFFFF)
-```
-## ![Amazon Simple Email Service](https://img.shields.io/badge/Amazon%20Simple%20Email%20Service-DD344C?style=for-the-badge&logo=Amazon+Simple+Email+Service&logoColor=FFFFFF)
-```markdown
-![Amazon Simple Email Service](https://img.shields.io/badge/Amazon%20Simple%20Email%20Service-DD344C?style=for-the-badge&logo=Amazon+Simple+Email+Service&logoColor=FFFFFF)
-```
-## ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=Amazon+SQS&logoColor=FFFFFF)
-```markdown
-![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=Amazon+SQS&logoColor=FFFFFF)
-```
-## ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon+Web+Services&logoColor=FFFFFF)
-```markdown
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon+Web+Services&logoColor=FFFFFF)
-```
 ## ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=AMD&logoColor=FFFFFF)
 ```markdown
 ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=AMD&logoColor=FFFFFF)
@@ -701,10 +597,6 @@
 ## ![Anytype](https://img.shields.io/badge/Anytype-FF6A7B?style=for-the-badge&logo=Anytype&logoColor=FFFFFF)
 ```markdown
 ![Anytype](https://img.shields.io/badge/Anytype-FF6A7B?style=for-the-badge&logo=Anytype&logoColor=FFFFFF)
-```
-## ![AOL](https://img.shields.io/badge/AOL-3399FF?style=for-the-badge&logo=AOL&logoColor=FFFFFF)
-```markdown
-![AOL](https://img.shields.io/badge/AOL-3399FF?style=for-the-badge&logo=AOL&logoColor=FFFFFF)
 ```
 ## ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=FFFFFF)
 ```markdown
@@ -1190,30 +1082,6 @@
 ```markdown
 ![awesomeWM](https://img.shields.io/badge/awesomeWM-535D6C?style=for-the-badge&logo=awesomeWM&logoColor=FFFFFF)
 ```
-## ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-222222?style=for-the-badge&logo=AWS+Amplify&logoColor=FF9900)
-```markdown
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-222222?style=for-the-badge&logo=AWS+Amplify&logoColor=FF9900)
-```
-## ![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?style=for-the-badge&logo=AWS+Elastic+Load+Balancing&logoColor=FFFFFF)
-```markdown
-![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?style=for-the-badge&logo=AWS+Elastic+Load+Balancing&logoColor=FFFFFF)
-```
-## ![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-222222?style=for-the-badge&logo=AWS+Fargate&logoColor=FF9900)
-```markdown
-![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-222222?style=for-the-badge&logo=AWS+Fargate&logoColor=FF9900)
-```
-## ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-222222?style=for-the-badge&logo=AWS+Lambda&logoColor=FF9900)
-```markdown
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-222222?style=for-the-badge&logo=AWS+Lambda&logoColor=FF9900)
-```
-## ![AWS Organizations](https://img.shields.io/badge/AWS%20Organizations-E7157B?style=for-the-badge&logo=AWS+Organizations&logoColor=FFFFFF)
-```markdown
-![AWS Organizations](https://img.shields.io/badge/AWS%20Organizations-E7157B?style=for-the-badge&logo=AWS+Organizations&logoColor=FFFFFF)
-```
-## ![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=AWS+Secrets+Manager&logoColor=FFFFFF)
-```markdown
-![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=AWS+Secrets+Manager&logoColor=FFFFFF)
-```
 ## ![Awwwards](https://img.shields.io/badge/Awwwards-222222?style=for-the-badge&logo=Awwwards&logoColor=FFFFFF)
 ```markdown
 ![Awwwards](https://img.shields.io/badge/Awwwards-222222?style=for-the-badge&logo=Awwwards&logoColor=FFFFFF)
@@ -1582,6 +1450,10 @@
 ```markdown
 ![Boeing](https://img.shields.io/badge/Boeing-1D439C?style=for-the-badge&logo=Boeing&logoColor=FFFFFF)
 ```
+## ![Bohemia Interactive](https://img.shields.io/badge/Bohemia%20Interactive-6BA539?style=for-the-badge&logo=Bohemia+Interactive&logoColor=FFFFFF)
+```markdown
+![Bohemia Interactive](https://img.shields.io/badge/Bohemia%20Interactive-6BA539?style=for-the-badge&logo=Bohemia+Interactive&logoColor=FFFFFF)
+```
 ## ![Bombardier](https://img.shields.io/badge/Bombardier-000000?style=for-the-badge&logo=Bombardier&logoColor=FFFFFF)
 ```markdown
 ![Bombardier](https://img.shields.io/badge/Bombardier-000000?style=for-the-badge&logo=Bombardier&logoColor=FFFFFF)
@@ -1737,10 +1609,6 @@
 ## ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=Bugcrowd&logoColor=FFFFFF)
 ```markdown
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=Bugcrowd&logoColor=FFFFFF)
-```
-## ![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=Bugsnag&logoColor=FFFFFF)
-```markdown
-![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=Bugsnag&logoColor=FFFFFF)
 ```
 ## ![Buhl](https://img.shields.io/badge/Buhl-023E84?style=for-the-badge&logo=Buhl&logoColor=FFFFFF)
 ```markdown
@@ -2086,10 +1954,6 @@
 ```markdown
 ![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=Chrome+Web+Store&logoColor=FFFFFF)
 ```
-## ![Chromecast](https://img.shields.io/badge/Chromecast-999999?style=for-the-badge&logo=Chromecast&logoColor=FFFFFF)
-```markdown
-![Chromecast](https://img.shields.io/badge/Chromecast-999999?style=for-the-badge&logo=Chromecast&logoColor=FFFFFF)
-```
 ## ![Chrysler](https://img.shields.io/badge/Chrysler-000000?style=for-the-badge&logo=Chrysler&logoColor=FFFFFF)
 ```markdown
 ![Chrysler](https://img.shields.io/badge/Chrysler-000000?style=for-the-badge&logo=Chrysler&logoColor=FFFFFF)
@@ -2434,10 +2298,6 @@
 ```markdown
 ![Cognizant](https://img.shields.io/badge/Cognizant-1A4CA1?style=for-the-badge&logo=Cognizant&logoColor=FFFFFF)
 ```
-## ![cohost](https://img.shields.io/badge/cohost-83254F?style=for-the-badge&logo=cohost&logoColor=FFFFFF)
-```markdown
-![cohost](https://img.shields.io/badge/cohost-83254F?style=for-the-badge&logo=cohost&logoColor=FFFFFF)
-```
 ## ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=FFFFFF)
 ```markdown
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=FFFFFF)
@@ -2729,10 +2589,6 @@
 ## ![CSS Wizardry](https://img.shields.io/badge/CSS%20Wizardry-F43059?style=for-the-badge&logo=CSS+Wizardry&logoColor=FFFFFF)
 ```markdown
 ![CSS Wizardry](https://img.shields.io/badge/CSS%20Wizardry-F43059?style=for-the-badge&logo=CSS+Wizardry&logoColor=FFFFFF)
-```
-## ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-```markdown
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ```
 ## ![CTS](https://img.shields.io/badge/CTS-E53236?style=for-the-badge&logo=CTS&logoColor=FFFFFF)
 ```markdown
@@ -3506,17 +3362,9 @@
 ```markdown
 ![Emlakjet](https://img.shields.io/badge/Emlakjet-222222?style=for-the-badge&logo=Emlakjet&logoColor=0AE524)
 ```
-## ![Empire Kred](https://img.shields.io/badge/Empire%20Kred-222222?style=for-the-badge&logo=Empire+Kred&logoColor=72BE50)
-```markdown
-![Empire Kred](https://img.shields.io/badge/Empire%20Kred-222222?style=for-the-badge&logo=Empire+Kred&logoColor=72BE50)
-```
 ## ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=EndeavourOS&logoColor=FFFFFF)
 ```markdown
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=EndeavourOS&logoColor=FFFFFF)
-```
-## ![Engadget](https://img.shields.io/badge/Engadget-000000?style=for-the-badge&logo=Engadget&logoColor=FFFFFF)
-```markdown
-![Engadget](https://img.shields.io/badge/Engadget-000000?style=for-the-badge&logo=Engadget&logoColor=FFFFFF)
 ```
 ## ![Enpass](https://img.shields.io/badge/Enpass-0D47A1?style=for-the-badge&logo=Enpass&logoColor=FFFFFF)
 ```markdown
@@ -4538,10 +4386,6 @@
 ```markdown
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=FFFFFF)
 ```
-## ![GoldenLine](https://img.shields.io/badge/GoldenLine-222222?style=for-the-badge&logo=GoldenLine&logoColor=FFE005)
-```markdown
-![GoldenLine](https://img.shields.io/badge/GoldenLine-222222?style=for-the-badge&logo=GoldenLine&logoColor=FFE005)
-```
 ## ![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-7399C6?style=for-the-badge&logo=Goldman+Sachs&logoColor=FFFFFF)
 ```markdown
 ![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-7399C6?style=for-the-badge&logo=Goldman+Sachs&logoColor=FFFFFF)
@@ -4602,6 +4446,10 @@
 ```markdown
 ![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-FF7143?style=for-the-badge&logo=Google+Cardboard&logoColor=FFFFFF)
 ```
+## ![Google Cast](https://img.shields.io/badge/Google%20Cast-4285F4?style=for-the-badge&logo=Google+Cast&logoColor=FFFFFF)
+```markdown
+![Google Cast](https://img.shields.io/badge/Google%20Cast-4285F4?style=for-the-badge&logo=Google+Cast&logoColor=FFFFFF)
+```
 ## ![Google Chat](https://img.shields.io/badge/Google%20Chat-34A853?style=for-the-badge&logo=Google+Chat&logoColor=FFFFFF)
 ```markdown
 ![Google Chat](https://img.shields.io/badge/Google%20Chat-34A853?style=for-the-badge&logo=Google+Chat&logoColor=FFFFFF)
@@ -4641,10 +4489,6 @@
 ## ![Google Container Optimized OS](https://img.shields.io/badge/Google%20Container%20Optimized%20OS-4285F4?style=for-the-badge&logo=Google+Container+Optimized+OS&logoColor=FFFFFF)
 ```markdown
 ![Google Container Optimized OS](https://img.shields.io/badge/Google%20Container%20Optimized%20OS-4285F4?style=for-the-badge&logo=Google+Container+Optimized+OS&logoColor=FFFFFF)
-```
-## ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6?style=for-the-badge&logo=Google+Data+Studio&logoColor=FFFFFF)
-```markdown
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6?style=for-the-badge&logo=Google+Data+Studio&logoColor=FFFFFF)
 ```
 ## ![Google Dataflow](https://img.shields.io/badge/Google%20Dataflow-222222?style=for-the-badge&logo=Google+Dataflow&logoColor=AECBFA)
 ```markdown
@@ -5125,6 +4969,10 @@
 ## ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 ```markdown
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+```
+## ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=HeroUI&logoColor=FFFFFF)
+```markdown
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=HeroUI&logoColor=FFFFFF)
 ```
 ## ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=Hetzner&logoColor=FFFFFF)
 ```markdown
@@ -5730,10 +5578,6 @@
 ```markdown
 ![Jaguar](https://img.shields.io/badge/Jaguar-222222?style=for-the-badge&logo=Jaguar&logoColor=FFFFFF)
 ```
-## ![Jamboard](https://img.shields.io/badge/Jamboard-F37C20?style=for-the-badge&logo=Jamboard&logoColor=FFFFFF)
-```markdown
-![Jamboard](https://img.shields.io/badge/Jamboard-F37C20?style=for-the-badge&logo=Jamboard&logoColor=FFFFFF)
-```
 ## ![Jameson](https://img.shields.io/badge/Jameson-004027?style=for-the-badge&logo=Jameson&logoColor=FFFFFF)
 ```markdown
 ![Jameson](https://img.shields.io/badge/Jameson-004027?style=for-the-badge&logo=Jameson&logoColor=FFFFFF)
@@ -6225,6 +6069,10 @@
 ## ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=Koyeb&logoColor=FFFFFF)
 ```markdown
 ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=Koyeb&logoColor=FFFFFF)
+```
+## ![Kred](https://img.shields.io/badge/Kred-222222?style=for-the-badge&logo=Kred&logoColor=72BE50)
+```markdown
+![Kred](https://img.shields.io/badge/Kred-222222?style=for-the-badge&logo=Kred&logoColor=72BE50)
 ```
 ## ![Krita](https://img.shields.io/badge/Krita-222222?style=for-the-badge&logo=Krita&logoColor=3BABFF)
 ```markdown
@@ -7078,10 +6926,6 @@
 ```markdown
 ![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-222222?style=for-the-badge&logo=Mercado+Pago&logoColor=00B1EA)
 ```
-## ![Mercedes](https://img.shields.io/badge/Mercedes-242424?style=for-the-badge&logo=Mercedes&logoColor=FFFFFF)
-```markdown
-![Mercedes](https://img.shields.io/badge/Mercedes-242424?style=for-the-badge&logo=Mercedes&logoColor=FFFFFF)
-```
 ## ![Merck](https://img.shields.io/badge/Merck-007A73?style=for-the-badge&logo=Merck&logoColor=FFFFFF)
 ```markdown
 ![Merck](https://img.shields.io/badge/Merck-007A73?style=for-the-badge&logo=Merck&logoColor=FFFFFF)
@@ -7578,6 +7422,10 @@
 ```markdown
 ![NEC](https://img.shields.io/badge/NEC-1414A0?style=for-the-badge&logo=NEC&logoColor=FFFFFF)
 ```
+## ![Nederlandse Spoorwegen](https://img.shields.io/badge/Nederlandse%20Spoorwegen-003082?style=for-the-badge&logo=Nederlandse+Spoorwegen&logoColor=FFFFFF)
+```markdown
+![Nederlandse Spoorwegen](https://img.shields.io/badge/Nederlandse%20Spoorwegen-003082?style=for-the-badge&logo=Nederlandse+Spoorwegen&logoColor=FFFFFF)
+```
 ## ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=FFFFFF)
 ```markdown
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=FFFFFF)
@@ -7698,10 +7546,6 @@
 ```markdown
 ![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=Nextra&logoColor=FFFFFF)
 ```
-## ![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=NextUI&logoColor=FFFFFF)
-```markdown
-![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=NextUI&logoColor=FFFFFF)
-```
 ## ![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-E6832B?style=for-the-badge&logo=Nexus+Mods&logoColor=FFFFFF)
 ```markdown
 ![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-E6832B?style=for-the-badge&logo=Nexus+Mods&logoColor=FFFFFF)
@@ -7765,6 +7609,10 @@
 ## ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=FFFFFF)
 ```markdown
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=FFFFFF)
+```
+## ![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000000?style=for-the-badge&logo=Nobara+Linux&logoColor=FFFFFF)
+```markdown
+![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000000?style=for-the-badge&logo=Nobara+Linux&logoColor=FFFFFF)
 ```
 ## ![Node-RED](https://img.shields.io/badge/Node-RED-8F0000?style=for-the-badge&logo=Node-RED&logoColor=FFFFFF)
 ```markdown
@@ -8850,10 +8698,6 @@
 ```markdown
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)
 ```
-## ![Pointy](https://img.shields.io/badge/Pointy-009DE0?style=for-the-badge&logo=Pointy&logoColor=FFFFFF)
-```markdown
-![Pointy](https://img.shields.io/badge/Pointy-009DE0?style=for-the-badge&logo=Pointy&logoColor=FFFFFF)
-```
 ## ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=Polars&logoColor=FFFFFF)
 ```markdown
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=Polars&logoColor=FFFFFF)
@@ -8989,14 +8833,6 @@
 ## ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=Prezi&logoColor=FFFFFF)
 ```markdown
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=Prezi&logoColor=FFFFFF)
-```
-## ![Prime](https://img.shields.io/badge/Prime-00A8E1?style=for-the-badge&logo=Prime&logoColor=FFFFFF)
-```markdown
-![Prime](https://img.shields.io/badge/Prime-00A8E1?style=for-the-badge&logo=Prime&logoColor=FFFFFF)
-```
-## ![Prime Video](https://img.shields.io/badge/Prime%20Video-1F2E3E?style=for-the-badge&logo=Prime+Video&logoColor=FFFFFF)
-```markdown
-![Prime Video](https://img.shields.io/badge/Prime%20Video-1F2E3E?style=for-the-badge&logo=Prime+Video&logoColor=FFFFFF)
 ```
 ## ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-263238?style=for-the-badge&logo=PrimeFaces&logoColor=FFFFFF)
 ```markdown
@@ -10622,17 +10458,17 @@
 ```markdown
 ![Sonar](https://img.shields.io/badge/Sonar-FD3456?style=for-the-badge&logo=Sonar&logoColor=FFFFFF)
 ```
-## ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=SonarCloud&logoColor=FFFFFF)
-```markdown
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=SonarCloud&logoColor=FFFFFF)
-```
-## ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SonarLint&logoColor=FFFFFF)
-```markdown
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SonarLint&logoColor=FFFFFF)
-```
 ## ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=FFFFFF)
 ```markdown
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=FFFFFF)
+```
+## ![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=SonarQube+Cloud&logoColor=FFFFFF)
+```markdown
+![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=SonarQube+Cloud&logoColor=FFFFFF)
+```
+## ![SonarQube for IDE](https://img.shields.io/badge/SonarQube%20for%20IDE-126ED3?style=for-the-badge&logo=SonarQube+for+IDE&logoColor=FFFFFF)
+```markdown
+![SonarQube for IDE](https://img.shields.io/badge/SonarQube%20for%20IDE-126ED3?style=for-the-badge&logo=SonarQube+for+IDE&logoColor=FFFFFF)
 ```
 ## ![sonarr](https://img.shields.io/badge/sonarr-2596BE?style=for-the-badge&logo=sonarr&logoColor=FFFFFF)
 ```markdown
@@ -11390,6 +11226,10 @@
 ```markdown
 ![Telegraph](https://img.shields.io/badge/Telegraph-222222?style=for-the-badge&logo=Telegraph&logoColor=FAFAFA)
 ```
+## ![Telenor](https://img.shields.io/badge/Telenor-222222?style=for-the-badge&logo=Telenor&logoColor=00C8FF)
+```markdown
+![Telenor](https://img.shields.io/badge/Telenor-222222?style=for-the-badge&logo=Telenor&logoColor=00C8FF)
+```
 ## ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=Temporal&logoColor=FFFFFF)
 ```markdown
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=Temporal&logoColor=FFFFFF)
@@ -11797,6 +11637,10 @@
 ## ![Trend Micro](https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logo=Trend+Micro&logoColor=FFFFFF)
 ```markdown
 ![Trend Micro](https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logo=Trend+Micro&logoColor=FFFFFF)
+```
+## ![Tresorit](https://img.shields.io/badge/Tresorit-00A9E2?style=for-the-badge&logo=Tresorit&logoColor=FFFFFF)
+```markdown
+![Tresorit](https://img.shields.io/badge/Tresorit-00A9E2?style=for-the-badge&logo=Tresorit&logoColor=FFFFFF)
 ```
 ## ![Treyarch](https://img.shields.io/badge/Treyarch-000000?style=for-the-badge&logo=Treyarch&logoColor=FFFFFF)
 ```markdown
