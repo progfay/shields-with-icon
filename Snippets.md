@@ -426,6 +426,10 @@
 ```markdown
 ![Alipay](https://img.shields.io/badge/Alipay-1677FF?style=for-the-badge&logo=Alipay&logoColor=FFFFFF)
 ```
+## ![AList](https://img.shields.io/badge/AList-222222?style=for-the-badge&logo=AList&logoColor=70C6BE)
+```markdown
+![AList](https://img.shields.io/badge/AList-222222?style=for-the-badge&logo=AList&logoColor=70C6BE)
+```
 ## ![Allegro](https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=Allegro&logoColor=FFFFFF)
 ```markdown
 ![Allegro](https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=Allegro&logoColor=FFFFFF)
@@ -2222,10 +2226,6 @@
 ```markdown
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF)
 ```
-## ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=FFFFFF)
-```markdown
-![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=FFFFFF)
-```
 ## ![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=FFFFFF)
 ```markdown
 ![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=FFFFFF)
@@ -3494,10 +3494,6 @@
 ```markdown
 ![Event Store](https://img.shields.io/badge/Event%20Store-5AB552?style=for-the-badge&logo=Event+Store&logoColor=FFFFFF)
 ```
-## ![Eventbrite](https://img.shields.io/badge/Eventbrite-F05537?style=for-the-badge&logo=Eventbrite&logoColor=FFFFFF)
-```markdown
-![Eventbrite](https://img.shields.io/badge/Eventbrite-F05537?style=for-the-badge&logo=Eventbrite&logoColor=FFFFFF)
-```
 ## ![Evernote](https://img.shields.io/badge/Evernote-00A82D?style=for-the-badge&logo=Evernote&logoColor=FFFFFF)
 ```markdown
 ![Evernote](https://img.shields.io/badge/Evernote-00A82D?style=for-the-badge&logo=Evernote&logoColor=FFFFFF)
@@ -3557,10 +3553,6 @@
 ## ![F-Droid](https://img.shields.io/badge/F-Droid-1976D2?style=for-the-badge&logo=F-Droid&logoColor=FFFFFF)
 ```markdown
 ![F-Droid](https://img.shields.io/badge/F-Droid-1976D2?style=for-the-badge&logo=F-Droid&logoColor=FFFFFF)
-```
-## ![F-Secure](https://img.shields.io/badge/F-Secure-222222?style=for-the-badge&logo=F-Secure&logoColor=00BAFF)
-```markdown
-![F-Secure](https://img.shields.io/badge/F-Secure-222222?style=for-the-badge&logo=F-Secure&logoColor=00BAFF)
 ```
 ## ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=F%23&logoColor=FFFFFF)
 ```markdown
@@ -5561,6 +5553,10 @@
 ## ![ISC2](https://img.shields.io/badge/ISC2-468145?style=for-the-badge&logo=ISC2&logoColor=FFFFFF)
 ```markdown
 ![ISC2](https://img.shields.io/badge/ISC2-468145?style=for-the-badge&logo=ISC2&logoColor=FFFFFF)
+```
+## ![ISRO](https://img.shields.io/badge/ISRO-F58220?style=for-the-badge&logo=ISRO&logoColor=FFFFFF)
+```markdown
+![ISRO](https://img.shields.io/badge/ISRO-F58220?style=for-the-badge&logo=ISRO&logoColor=FFFFFF)
 ```
 ## ![Issuu](https://img.shields.io/badge/Issuu-F36D5D?style=for-the-badge&logo=Issuu&logoColor=FFFFFF)
 ```markdown
