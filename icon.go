@@ -57,7 +57,7 @@ func decodeIcons(r io.Reader) ([]Icon, error) {
 }
 
 func getIcons() ([]Icon, error) {
-	res, err := http.DefaultClient.Get("https://raw.githubusercontent.com/simple-icons/simple-icons/develop/_data/simple-icons.json")
+	res, err := http.DefaultClient.Get("https://raw.githubusercontent.com/simple-icons/simple-icons/develop/data/simple-icons.json")
 	if err != nil {
 		return nil, err
 	}
