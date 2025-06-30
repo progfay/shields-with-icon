@@ -350,6 +350,7 @@
 ![BitTorrent](https://img.shields.io/badge/BitTorrent-050505?style=for-the-badge&logo=BitTorrent&logoColor=FFFFFF)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=Bitwarden&logoColor=FFFFFF)
 ![Bitwig](https://img.shields.io/badge/Bitwig-FF5A00?style=for-the-badge&logo=Bitwig&logoColor=FFFFFF)
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=Black&logoColor=FFFFFF)
 ![Blackberry](https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=Blackberry&logoColor=FFFFFF)
 ![Blackmagic Design](https://img.shields.io/badge/Blackmagic%20Design-222222?style=for-the-badge&logo=Blackmagic+Design&logoColor=FFA200)
 ![Blazemeter](https://img.shields.io/badge/Blazemeter-CA2133?style=for-the-badge&logo=Blazemeter&logoColor=FFFFFF)

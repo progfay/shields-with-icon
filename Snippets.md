@@ -1406,6 +1406,10 @@
 ```markdown
 ![Bitwig](https://img.shields.io/badge/Bitwig-FF5A00?style=for-the-badge&logo=Bitwig&logoColor=FFFFFF)
 ```
+## ![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=Black&logoColor=FFFFFF)
+```markdown
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=Black&logoColor=FFFFFF)
+```
 ## ![Blackberry](https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=Blackberry&logoColor=FFFFFF)
 ```markdown
 ![Blackberry](https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=Blackberry&logoColor=FFFFFF)
