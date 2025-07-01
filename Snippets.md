@@ -1826,6 +1826,10 @@
 ```markdown
 ![Cardano](https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=Cardano&logoColor=FFFFFF)
 ```
+## ![Cardmarket](https://img.shields.io/badge/Cardmarket-012169?style=for-the-badge&logo=Cardmarket&logoColor=FFFFFF)
+```markdown
+![Cardmarket](https://img.shields.io/badge/Cardmarket-012169?style=for-the-badge&logo=Cardmarket&logoColor=FFFFFF)
+```
 ## ![Carlsberg Group](https://img.shields.io/badge/Carlsberg%20Group-00321E?style=for-the-badge&logo=Carlsberg+Group&logoColor=FFFFFF)
 ```markdown
 ![Carlsberg Group](https://img.shields.io/badge/Carlsberg%20Group-00321E?style=for-the-badge&logo=Carlsberg+Group&logoColor=FFFFFF)
@@ -8466,6 +8470,10 @@
 ```markdown
 ![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=Patreon&logoColor=FFFFFF)
 ```
+## ![PAYBACK](https://img.shields.io/badge/PAYBACK-003EB0?style=for-the-badge&logo=PAYBACK&logoColor=FFFFFF)
+```markdown
+![PAYBACK](https://img.shields.io/badge/PAYBACK-003EB0?style=for-the-badge&logo=PAYBACK&logoColor=FFFFFF)
+```
 ## ![Paychex](https://img.shields.io/badge/Paychex-004B8D?style=for-the-badge&logo=Paychex&logoColor=FFFFFF)
 ```markdown
 ![Paychex](https://img.shields.io/badge/Paychex-004B8D?style=for-the-badge&logo=Paychex&logoColor=FFFFFF)
@@ -9873,6 +9881,10 @@
 ## ![Roll20](https://img.shields.io/badge/Roll20-E10085?style=for-the-badge&logo=Roll20&logoColor=FFFFFF)
 ```markdown
 ![Roll20](https://img.shields.io/badge/Roll20-E10085?style=for-the-badge&logo=Roll20&logoColor=FFFFFF)
+```
+## ![Rollbar](https://img.shields.io/badge/Rollbar-3569F3?style=for-the-badge&logo=Rollbar&logoColor=FFFFFF)
+```markdown
+![Rollbar](https://img.shields.io/badge/Rollbar-3569F3?style=for-the-badge&logo=Rollbar&logoColor=FFFFFF)
 ```
 ## ![Rolls-Royce](https://img.shields.io/badge/Rolls-Royce-281432?style=for-the-badge&logo=Rolls-Royce&logoColor=FFFFFF)
 ```markdown
