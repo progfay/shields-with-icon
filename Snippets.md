@@ -3970,6 +3970,10 @@
 ```markdown
 ![Folium](https://img.shields.io/badge/Folium-222222?style=for-the-badge&logo=Folium&logoColor=77B829)
 ```
+## ![Folo](https://img.shields.io/badge/Folo-FF5C00?style=for-the-badge&logo=Folo&logoColor=FFFFFF)
+```markdown
+![Folo](https://img.shields.io/badge/Folo-FF5C00?style=for-the-badge&logo=Folo&logoColor=FFFFFF)
+```
 ## ![Fonoma](https://img.shields.io/badge/Fonoma-02B78F?style=for-the-badge&logo=Fonoma&logoColor=FFFFFF)
 ```markdown
 ![Fonoma](https://img.shields.io/badge/Fonoma-02B78F?style=for-the-badge&logo=Fonoma&logoColor=FFFFFF)
@@ -11717,6 +11721,10 @@
 ## ![Toggl Track](https://img.shields.io/badge/Toggl%20Track-E57CD8?style=for-the-badge&logo=Toggl+Track&logoColor=FFFFFF)
 ```markdown
 ![Toggl Track](https://img.shields.io/badge/Toggl%20Track-E57CD8?style=for-the-badge&logo=Toggl+Track&logoColor=FFFFFF)
+```
+## ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=Tokio&logoColor=FFFFFF)
+```markdown
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=Tokio&logoColor=FFFFFF)
 ```
 ## ![Tokyo Metro](https://img.shields.io/badge/Tokyo%20Metro-149DD3?style=for-the-badge&logo=Tokyo+Metro&logoColor=FFFFFF)
 ```markdown
