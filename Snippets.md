@@ -7298,6 +7298,10 @@
 ```markdown
 ![Modal](https://img.shields.io/badge/Modal-222222?style=for-the-badge&logo=Modal&logoColor=7FEE64)
 ```
+## ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=Model+Context+Protocol&logoColor=FFFFFF)
+```markdown
+![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=Model+Context+Protocol&logoColor=FFFFFF)
+```
 ## ![Modin](https://img.shields.io/badge/Modin-001729?style=for-the-badge&logo=Modin&logoColor=FFFFFF)
 ```markdown
 ![Modin](https://img.shields.io/badge/Modin-001729?style=for-the-badge&logo=Modin&logoColor=FFFFFF)
