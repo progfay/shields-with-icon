@@ -4330,6 +4330,10 @@
 ```markdown
 ![GitBook](https://img.shields.io/badge/GitBook-222222?style=for-the-badge&logo=GitBook&logoColor=BBDDE5)
 ```
+## ![GitCode](https://img.shields.io/badge/GitCode-DA203E?style=for-the-badge&logo=GitCode&logoColor=FFFFFF)
+```markdown
+![GitCode](https://img.shields.io/badge/GitCode-DA203E?style=for-the-badge&logo=GitCode&logoColor=FFFFFF)
+```
 ## ![Gitconnected](https://img.shields.io/badge/Gitconnected-2E69AE?style=for-the-badge&logo=Gitconnected&logoColor=FFFFFF)
 ```markdown
 ![Gitconnected](https://img.shields.io/badge/Gitconnected-2E69AE?style=for-the-badge&logo=Gitconnected&logoColor=FFFFFF)

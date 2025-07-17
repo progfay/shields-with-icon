@@ -1081,6 +1081,7 @@
 ![Git for Windows](https://img.shields.io/badge/Git%20for%20Windows-222222?style=for-the-badge&logo=Git+for+Windows&logoColor=80B3FF)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-F64935?style=for-the-badge&logo=Git+LFS&logoColor=FFFFFF)
 ![GitBook](https://img.shields.io/badge/GitBook-222222?style=for-the-badge&logo=GitBook&logoColor=BBDDE5)
+![GitCode](https://img.shields.io/badge/GitCode-DA203E?style=for-the-badge&logo=GitCode&logoColor=FFFFFF)
 ![Gitconnected](https://img.shields.io/badge/Gitconnected-2E69AE?style=for-the-badge&logo=Gitconnected&logoColor=FFFFFF)
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=Gitea&logoColor=FFFFFF)
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=Gitee&logoColor=FFFFFF)
