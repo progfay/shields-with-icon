@@ -9498,6 +9498,10 @@
 ```markdown
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry+Pi&logoColor=FFFFFF)
 ```
+## ![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=for-the-badge&logo=Ratatui&logoColor=FFFFFF)
+```markdown
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=for-the-badge&logo=Ratatui&logoColor=FFFFFF)
+```
 ## ![Ravelry](https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=FFFFFF)
 ```markdown
 ![Ravelry](https://img.shields.io/badge/Ravelry-EE6E62?style=for-the-badge&logo=Ravelry&logoColor=FFFFFF)
