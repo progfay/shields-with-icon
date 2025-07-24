@@ -1086,6 +1086,10 @@
 ```markdown
 ![avajs](https://img.shields.io/badge/avajs-4B4B77?style=for-the-badge&logo=avajs&logoColor=FFFFFF)
 ```
+## ![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-165BFF?style=for-the-badge&logo=AvaloniaUI&logoColor=FFFFFF)
+```markdown
+![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-165BFF?style=for-the-badge&logo=AvaloniaUI&logoColor=FFFFFF)
+```
 ## ![Avast](https://img.shields.io/badge/Avast-FF7800?style=for-the-badge&logo=Avast&logoColor=FFFFFF)
 ```markdown
 ![Avast](https://img.shields.io/badge/Avast-FF7800?style=for-the-badge&logo=Avast&logoColor=FFFFFF)
@@ -4494,9 +4498,9 @@
 ```markdown
 ![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-7399C6?style=for-the-badge&logo=Goldman+Sachs&logoColor=FFFFFF)
 ```
-## ![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=FFFFFF)
+## ![Goodreads](https://img.shields.io/badge/Goodreads-1E1914?style=for-the-badge&logo=Goodreads&logoColor=FFFFFF)
 ```markdown
-![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=FFFFFF)
+![Goodreads](https://img.shields.io/badge/Goodreads-1E1914?style=for-the-badge&logo=Goodreads&logoColor=FFFFFF)
 ```
 ## ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 ```markdown
@@ -9085,6 +9089,10 @@
 ## ![Processing Foundation](https://img.shields.io/badge/Processing%20Foundation-006699?style=for-the-badge&logo=Processing+Foundation&logoColor=FFFFFF)
 ```markdown
 ![Processing Foundation](https://img.shields.io/badge/Processing%20Foundation-006699?style=for-the-badge&logo=Processing+Foundation&logoColor=FFFFFF)
+```
+## ![ProcessOn](https://img.shields.io/badge/ProcessOn-067BEF?style=for-the-badge&logo=ProcessOn&logoColor=FFFFFF)
+```markdown
+![ProcessOn](https://img.shields.io/badge/ProcessOn-067BEF?style=for-the-badge&logo=ProcessOn&logoColor=FFFFFF)
 ```
 ## ![ProcessWire](https://img.shields.io/badge/ProcessWire-2480E6?style=for-the-badge&logo=ProcessWire&logoColor=FFFFFF)
 ```markdown
