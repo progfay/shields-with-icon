@@ -8506,9 +8506,9 @@
 ```markdown
 ![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=Payoneer&logoColor=FFFFFF)
 ```
-## ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF)
+## ![PayPal](https://img.shields.io/badge/PayPal-002991?style=for-the-badge&logo=PayPal&logoColor=FFFFFF)
 ```markdown
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF)
+![PayPal](https://img.shields.io/badge/PayPal-002991?style=for-the-badge&logo=PayPal&logoColor=FFFFFF)
 ```
 ## ![Paysafe](https://img.shields.io/badge/Paysafe-5A28FF?style=for-the-badge&logo=Paysafe&logoColor=FFFFFF)
 ```markdown
@@ -8570,9 +8570,9 @@
 ```markdown
 ![Percy](https://img.shields.io/badge/Percy-9E66BF?style=for-the-badge&logo=Percy&logoColor=FFFFFF)
 ```
-## ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=Perforce&logoColor=FFFFFF)
+## ![Perforce](https://img.shields.io/badge/Perforce-4C00FF?style=for-the-badge&logo=Perforce&logoColor=FFFFFF)
 ```markdown
-![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=Perforce&logoColor=FFFFFF)
+![Perforce](https://img.shields.io/badge/Perforce-4C00FF?style=for-the-badge&logo=Perforce&logoColor=FFFFFF)
 ```
 ## ![Perl](https://img.shields.io/badge/Perl-0073A1?style=for-the-badge&logo=Perl&logoColor=FFFFFF)
 ```markdown
