@@ -4834,6 +4834,10 @@
 ```markdown
 ![Grunt](https://img.shields.io/badge/Grunt-222222?style=for-the-badge&logo=Grunt&logoColor=FAA918)
 ```
+## ![GSAP](https://img.shields.io/badge/GSAP-222222?style=for-the-badge&logo=GSAP&logoColor=0AE448)
+```markdown
+![GSAP](https://img.shields.io/badge/GSAP-222222?style=for-the-badge&logo=GSAP&logoColor=0AE448)
+```
 ## ![GSK](https://img.shields.io/badge/GSK-F36633?style=for-the-badge&logo=GSK&logoColor=FFFFFF)
 ```markdown
 ![GSK](https://img.shields.io/badge/GSK-F36633?style=for-the-badge&logo=GSK&logoColor=FFFFFF)

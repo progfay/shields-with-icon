@@ -1207,6 +1207,7 @@
 ![GroupMe](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=GroupMe&logoColor=FFFFFF)
 ![Groupon](https://img.shields.io/badge/Groupon-53A318?style=for-the-badge&logo=Groupon&logoColor=FFFFFF)
 ![Grunt](https://img.shields.io/badge/Grunt-222222?style=for-the-badge&logo=Grunt&logoColor=FAA918)
+![GSAP](https://img.shields.io/badge/GSAP-222222?style=for-the-badge&logo=GSAP&logoColor=0AE448)
 ![GSK](https://img.shields.io/badge/GSK-F36633?style=for-the-badge&logo=GSK&logoColor=FFFFFF)
 ![GSMA](https://img.shields.io/badge/GSMA-DC002B?style=for-the-badge&logo=GSMA&logoColor=FFFFFF)
 ![GSMArena.com](https://img.shields.io/badge/GSMArena.com-D50000?style=for-the-badge&logo=GSMArena.com&logoColor=FFFFFF)
