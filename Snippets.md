@@ -6046,6 +6046,10 @@
 ```markdown
 ![Kentico](https://img.shields.io/badge/Kentico-F05A22?style=for-the-badge&logo=Kentico&logoColor=FFFFFF)
 ```
+## ![Keploy](https://img.shields.io/badge/Keploy-222222?style=for-the-badge&logo=Keploy&logoColor=FF914D)
+```markdown
+![Keploy](https://img.shields.io/badge/Keploy-222222?style=for-the-badge&logo=Keploy&logoColor=FF914D)
+```
 ## ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=FFFFFF)
 ```markdown
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=FFFFFF)
@@ -10349,6 +10353,10 @@
 ## ![Sequelize](https://img.shields.io/badge/Sequelize-222222?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ```markdown
 ![Sequelize](https://img.shields.io/badge/Sequelize-222222?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+```
+## ![ServBay](https://img.shields.io/badge/ServBay-00103C?style=for-the-badge&logo=ServBay&logoColor=FFFFFF)
+```markdown
+![ServBay](https://img.shields.io/badge/ServBay-00103C?style=for-the-badge&logo=ServBay&logoColor=FFFFFF)
 ```
 ## ![Server Fault](https://img.shields.io/badge/Server%20Fault-E7282D?style=for-the-badge&logo=Server+Fault&logoColor=FFFFFF)
 ```markdown
