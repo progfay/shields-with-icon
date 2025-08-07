@@ -13334,6 +13334,10 @@
 ```markdown
 ![Zoiper](https://img.shields.io/badge/Zoiper-F47920?style=for-the-badge&logo=Zoiper&logoColor=FFFFFF)
 ```
+## ![Zola](https://img.shields.io/badge/Zola-222222?style=for-the-badge&logo=Zola&logoColor=EAE7D6)
+```markdown
+![Zola](https://img.shields.io/badge/Zola-222222?style=for-the-badge&logo=Zola&logoColor=EAE7D6)
+```
 ## ![Zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=Zomato&logoColor=FFFFFF)
 ```markdown
 ![Zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=Zomato&logoColor=FFFFFF)

@@ -3332,6 +3332,7 @@
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=Zod&logoColor=FFFFFF)
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=Zoho&logoColor=FFFFFF)
 ![Zoiper](https://img.shields.io/badge/Zoiper-F47920?style=for-the-badge&logo=Zoiper&logoColor=FFFFFF)
+![Zola](https://img.shields.io/badge/Zola-222222?style=for-the-badge&logo=Zola&logoColor=EAE7D6)
 ![Zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=Zomato&logoColor=FFFFFF)
 ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=FFFFFF)
 ![Zorin](https://img.shields.io/badge/Zorin-15A6F0?style=for-the-badge&logo=Zorin&logoColor=FFFFFF)
