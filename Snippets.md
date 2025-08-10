@@ -5470,6 +5470,10 @@
 ```markdown
 ![Immer](https://img.shields.io/badge/Immer-222222?style=for-the-badge&logo=Immer&logoColor=00E7C3)
 ```
+## ![Immersive Translate](https://img.shields.io/badge/Immersive%20Translate-EA4C89?style=for-the-badge&logo=Immersive+Translate&logoColor=FFFFFF)
+```markdown
+![Immersive Translate](https://img.shields.io/badge/Immersive%20Translate-EA4C89?style=for-the-badge&logo=Immersive+Translate&logoColor=FFFFFF)
+```
 ## ![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=Immich&logoColor=FFFFFF)
 ```markdown
 ![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=Immich&logoColor=FFFFFF)
