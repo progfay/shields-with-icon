@@ -2479,6 +2479,7 @@
 ![Roku](https://img.shields.io/badge/Roku-662D91?style=for-the-badge&logo=Roku&logoColor=FFFFFF)
 ![Roll20](https://img.shields.io/badge/Roll20-E10085?style=for-the-badge&logo=Roll20&logoColor=FFFFFF)
 ![Rollbar](https://img.shields.io/badge/Rollbar-3569F3?style=for-the-badge&logo=Rollbar&logoColor=FFFFFF)
+![Rolldown](https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
 ![Rolls-Royce](https://img.shields.io/badge/Rolls-Royce-281432?style=for-the-badge&logo=Rolls-Royce&logoColor=FFFFFF)
 ![rollup.js](https://img.shields.io/badge/rollup.js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=FFFFFF)
 ![Rook](https://img.shields.io/badge/Rook-222222?style=for-the-badge&logo=Rook&logoColor=2AC6EA)

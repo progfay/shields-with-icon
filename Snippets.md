@@ -9922,6 +9922,10 @@
 ```markdown
 ![Rollbar](https://img.shields.io/badge/Rollbar-3569F3?style=for-the-badge&logo=Rollbar&logoColor=FFFFFF)
 ```
+## ![Rolldown](https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
+```markdown
+![Rolldown](https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
+```
 ## ![Rolls-Royce](https://img.shields.io/badge/Rolls-Royce-281432?style=for-the-badge&logo=Rolls-Royce&logoColor=FFFFFF)
 ```markdown
 ![Rolls-Royce](https://img.shields.io/badge/Rolls-Royce-281432?style=for-the-badge&logo=Rolls-Royce&logoColor=FFFFFF)
