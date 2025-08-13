@@ -577,7 +577,7 @@
 ![CodeNewbie](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=FFFFFF)
 ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=FFFFFF)
 ![CodeProject](https://img.shields.io/badge/CodeProject-222222?style=for-the-badge&logo=CodeProject&logoColor=FF9900)
-![Coder](https://img.shields.io/badge/Coder-000000?style=for-the-badge&logo=Coder&logoColor=FFFFFF)
+![Coder](https://img.shields.io/badge/Coder-090B0B?style=for-the-badge&logo=Coder&logoColor=FFFFFF)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=CodeRabbit&logoColor=FFFFFF)
 ![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=FFFFFF)
 ![Coderwall](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=FFFFFF)
