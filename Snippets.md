@@ -6674,6 +6674,10 @@
 ```markdown
 ![Local](https://img.shields.io/badge/Local-222222?style=for-the-badge&logo=Local&logoColor=51BB7B)
 ```
+## ![LocalSend](https://img.shields.io/badge/LocalSend-008080?style=for-the-badge&logo=LocalSend&logoColor=FFFFFF)
+```markdown
+![LocalSend](https://img.shields.io/badge/LocalSend-008080?style=for-the-badge&logo=LocalSend&logoColor=FFFFFF)
+```
 ## ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=FFFFFF)
 ```markdown
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=FFFFFF)
