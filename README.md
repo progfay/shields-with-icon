@@ -2092,6 +2092,7 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=FFFFFF)
 ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP%20Dependency-Check-222222?style=for-the-badge&logo=OWASP+Dependency-Check&logoColor=F78D0A)
 ![ownCloud](https://img.shields.io/badge/ownCloud-041E42?style=for-the-badge&logo=ownCloud&logoColor=FFFFFF)
+![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=FF915C)
 ![Oxygen](https://img.shields.io/badge/Oxygen-3A209E?style=for-the-badge&logo=Oxygen&logoColor=FFFFFF)
 ![OYO](https://img.shields.io/badge/OYO-EE2E24?style=for-the-badge&logo=OYO&logoColor=FFFFFF)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)

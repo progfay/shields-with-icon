@@ -8374,6 +8374,10 @@
 ```markdown
 ![ownCloud](https://img.shields.io/badge/ownCloud-041E42?style=for-the-badge&logo=ownCloud&logoColor=FFFFFF)
 ```
+## ![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=FF915C)
+```markdown
+![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=FF915C)
+```
 ## ![Oxygen](https://img.shields.io/badge/Oxygen-3A209E?style=for-the-badge&logo=Oxygen&logoColor=FFFFFF)
 ```markdown
 ![Oxygen](https://img.shields.io/badge/Oxygen-3A209E?style=for-the-badge&logo=Oxygen&logoColor=FFFFFF)
