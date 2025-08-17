@@ -1668,6 +1668,7 @@
 ![Lobsters](https://img.shields.io/badge/Lobsters-AC130D?style=for-the-badge&logo=Lobsters&logoColor=FFFFFF)
 ![Local](https://img.shields.io/badge/Local-222222?style=for-the-badge&logo=Local&logoColor=51BB7B)
 ![LocalSend](https://img.shields.io/badge/LocalSend-008080?style=for-the-badge&logo=LocalSend&logoColor=FFFFFF)
+![LocalXpose](https://img.shields.io/badge/LocalXpose-6023C0?style=for-the-badge&logo=LocalXpose&logoColor=FFFFFF)
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=FFFFFF)
 ![Logitech](https://img.shields.io/badge/Logitech-222222?style=for-the-badge&logo=Logitech&logoColor=00B8FC)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-222222?style=for-the-badge&logo=Logitech+G&logoColor=00B8FC)
