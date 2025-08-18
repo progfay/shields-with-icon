@@ -2886,6 +2886,10 @@
 ```markdown
 ![DeepL](https://img.shields.io/badge/DeepL-0F2B46?style=for-the-badge&logo=DeepL&logoColor=FFFFFF)
 ```
+## ![DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=DeepMind&logoColor=FFFFFF)
+```markdown
+![DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=DeepMind&logoColor=FFFFFF)
+```
 ## ![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=FFFFFF)
 ```markdown
 ![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=FFFFFF)
@@ -12833,6 +12837,10 @@
 ## ![WEMO](https://img.shields.io/badge/WEMO-222222?style=for-the-badge&logo=WEMO&logoColor=72D44C)
 ```markdown
 ![WEMO](https://img.shields.io/badge/WEMO-222222?style=for-the-badge&logo=WEMO&logoColor=72D44C)
+```
+## ![WeRead](https://img.shields.io/badge/WeRead-37A7FF?style=for-the-badge&logo=WeRead&logoColor=FFFFFF)
+```markdown
+![WeRead](https://img.shields.io/badge/WeRead-37A7FF?style=for-the-badge&logo=WeRead&logoColor=FFFFFF)
 ```
 ## ![Western Digital](https://img.shields.io/badge/Western%20Digital-995DFF?style=for-the-badge&logo=Western+Digital&logoColor=FFFFFF)
 ```markdown
