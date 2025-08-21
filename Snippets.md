@@ -4138,6 +4138,10 @@
 ```markdown
 ![Fresh](https://img.shields.io/badge/Fresh-222222?style=for-the-badge&logo=Fresh&logoColor=FFDB1E)
 ```
+## ![FreshRSS](https://img.shields.io/badge/FreshRSS-0062BE?style=for-the-badge&logo=FreshRSS&logoColor=FFFFFF)
+```markdown
+![FreshRSS](https://img.shields.io/badge/FreshRSS-0062BE?style=for-the-badge&logo=FreshRSS&logoColor=FFFFFF)
+```
 ## ![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=Frigate&logoColor=FFFFFF)
 ```markdown
 ![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=Frigate&logoColor=FFFFFF)

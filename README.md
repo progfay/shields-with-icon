@@ -1033,6 +1033,7 @@
 ![Freepik](https://img.shields.io/badge/Freepik-1273EB?style=for-the-badge&logo=Freepik&logoColor=FFFFFF)
 ![FreeTube](https://img.shields.io/badge/FreeTube-F04242?style=for-the-badge&logo=FreeTube&logoColor=FFFFFF)
 ![Fresh](https://img.shields.io/badge/Fresh-222222?style=for-the-badge&logo=Fresh&logoColor=FFDB1E)
+![FreshRSS](https://img.shields.io/badge/FreshRSS-0062BE?style=for-the-badge&logo=FreshRSS&logoColor=FFFFFF)
 ![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=Frigate&logoColor=FFFFFF)
 ![FRITZ!](https://img.shields.io/badge/FRITZ%21-E2001A?style=for-the-badge&logo=FRITZ%21&logoColor=FFFFFF)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=Frontend+Mentor&logoColor=FFFFFF)
