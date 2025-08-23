@@ -7882,6 +7882,10 @@
 ```markdown
 ![Norwegian](https://img.shields.io/badge/Norwegian-D81939?style=for-the-badge&logo=Norwegian&logoColor=FFFFFF)
 ```
+## ![Note](https://img.shields.io/badge/Note-000000?style=for-the-badge&logo=Note&logoColor=FFFFFF)
+```markdown
+![Note](https://img.shields.io/badge/Note-000000?style=for-the-badge&logo=Note&logoColor=FFFFFF)
+```
 ## ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=NotebookLM&logoColor=FFFFFF)
 ```markdown
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=NotebookLM&logoColor=FFFFFF)
@@ -11202,6 +11206,10 @@
 ```markdown
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=Sui&logoColor=FFFFFF)
 ```
+## ![Suitest](https://img.shields.io/badge/Suitest-F06060?style=for-the-badge&logo=Suitest&logoColor=FFFFFF)
+```markdown
+![Suitest](https://img.shields.io/badge/Suitest-F06060?style=for-the-badge&logo=Suitest&logoColor=FFFFFF)
+```
 ## ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-000099?style=for-the-badge&logo=Sumo+Logic&logoColor=FFFFFF)
 ```markdown
 ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-000099?style=for-the-badge&logo=Sumo+Logic&logoColor=FFFFFF)
@@ -13354,9 +13362,9 @@
 ```markdown
 ![Zingat](https://img.shields.io/badge/Zingat-009CFB?style=for-the-badge&logo=Zingat&logoColor=FFFFFF)
 ```
-## ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=Zod&logoColor=FFFFFF)
+## ![Zod](https://img.shields.io/badge/Zod-408AFF?style=for-the-badge&logo=Zod&logoColor=FFFFFF)
 ```markdown
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=Zod&logoColor=FFFFFF)
+![Zod](https://img.shields.io/badge/Zod-408AFF?style=for-the-badge&logo=Zod&logoColor=FFFFFF)
 ```
 ## ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=Zoho&logoColor=FFFFFF)
 ```markdown
