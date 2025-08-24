@@ -9510,6 +9510,10 @@
 ```markdown
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=Rainmeter&logoColor=FFFFFF)
 ```
+## ![RainYun](https://img.shields.io/badge/RainYun-222222?style=for-the-badge&logo=RainYun&logoColor=DAD9D9)
+```markdown
+![RainYun](https://img.shields.io/badge/RainYun-222222?style=for-the-badge&logo=RainYun&logoColor=DAD9D9)
+```
 ## ![Rakuten](https://img.shields.io/badge/Rakuten-BF0000?style=for-the-badge&logo=Rakuten&logoColor=FFFFFF)
 ```markdown
 ![Rakuten](https://img.shields.io/badge/Rakuten-BF0000?style=for-the-badge&logo=Rakuten&logoColor=FFFFFF)
