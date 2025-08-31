@@ -12530,6 +12530,10 @@
 ```markdown
 ![Visa](https://img.shields.io/badge/Visa-1A1F71?style=for-the-badge&logo=Visa&logoColor=FFFFFF)
 ```
+## ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-CC3333?style=for-the-badge&logo=Visual+Paradigm&logoColor=FFFFFF)
+```markdown
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-CC3333?style=for-the-badge&logo=Visual+Paradigm&logoColor=FFFFFF)
+```
 ## ![visx](https://img.shields.io/badge/visx-FF1231?style=for-the-badge&logo=visx&logoColor=FFFFFF)
 ```markdown
 ![visx](https://img.shields.io/badge/visx-FF1231?style=for-the-badge&logo=visx&logoColor=FFFFFF)

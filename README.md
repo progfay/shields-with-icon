@@ -3131,6 +3131,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=FFFFFF)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=FFFFFF)
 ![Visa](https://img.shields.io/badge/Visa-1A1F71?style=for-the-badge&logo=Visa&logoColor=FFFFFF)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-CC3333?style=for-the-badge&logo=Visual+Paradigm&logoColor=FFFFFF)
 ![visx](https://img.shields.io/badge/visx-FF1231?style=for-the-badge&logo=visx&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=FFFFFF)
 ![VitePress](https://img.shields.io/badge/VitePress-5C73E7?style=for-the-badge&logo=VitePress&logoColor=FFFFFF)
