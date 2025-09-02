@@ -3161,6 +3161,7 @@
 ![VTEX](https://img.shields.io/badge/VTEX-ED125F?style=for-the-badge&logo=VTEX&logoColor=FFFFFF)
 ![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF)
+![VueUse](https://img.shields.io/badge/VueUse-222222?style=for-the-badge&logo=VueUse&logoColor=41B883)
 ![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=Vulkan&logoColor=FFFFFF)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=Vultr&logoColor=FFFFFF)
 ![Vyond](https://img.shields.io/badge/Vyond-D95E26?style=for-the-badge&logo=Vyond&logoColor=FFFFFF)

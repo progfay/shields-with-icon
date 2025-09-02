@@ -12650,6 +12650,10 @@
 ```markdown
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF)
 ```
+## ![VueUse](https://img.shields.io/badge/VueUse-222222?style=for-the-badge&logo=VueUse&logoColor=41B883)
+```markdown
+![VueUse](https://img.shields.io/badge/VueUse-222222?style=for-the-badge&logo=VueUse&logoColor=41B883)
+```
 ## ![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=Vulkan&logoColor=FFFFFF)
 ```markdown
 ![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=Vulkan&logoColor=FFFFFF)
