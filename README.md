@@ -235,7 +235,7 @@
 ![asciinema](https://img.shields.io/badge/asciinema-D40000?style=for-the-badge&logo=asciinema&logoColor=FFFFFF)
 ![ASDA](https://img.shields.io/badge/ASDA-68A51C?style=for-the-badge&logo=ASDA&logoColor=FFFFFF)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=FFFFFF)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
 ![Asterisk](https://img.shields.io/badge/Asterisk-222222?style=for-the-badge&logo=Asterisk&logoColor=F68F1E)
 ![Aston Martin](https://img.shields.io/badge/Aston%20Martin-00665E?style=for-the-badge&logo=Aston+Martin&logoColor=FFFFFF)
 ![Astra](https://img.shields.io/badge/Astra-5C2EDE?style=for-the-badge&logo=Astra&logoColor=FFFFFF)

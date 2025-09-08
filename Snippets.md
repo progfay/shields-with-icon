@@ -946,9 +946,9 @@
 ```markdown
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=FFFFFF)
 ```
-## ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
+## ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
 ```markdown
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF)
 ```
 ## ![Asterisk](https://img.shields.io/badge/Asterisk-222222?style=for-the-badge&logo=Asterisk&logoColor=F68F1E)
 ```markdown
