@@ -4818,6 +4818,10 @@
 ```markdown
 ![GreenSock](https://img.shields.io/badge/GreenSock-222222?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
 ```
+## ![GreptimeDB](https://img.shields.io/badge/GreptimeDB-8322FF?style=for-the-badge&logo=GreptimeDB&logoColor=FFFFFF)
+```markdown
+![GreptimeDB](https://img.shields.io/badge/GreptimeDB-8322FF?style=for-the-badge&logo=GreptimeDB&logoColor=FFFFFF)
+```
 ## ![Grid.ai](https://img.shields.io/badge/Grid.ai-222222?style=for-the-badge&logo=Grid.ai&logoColor=78FF96)
 ```markdown
 ![Grid.ai](https://img.shields.io/badge/Grid.ai-222222?style=for-the-badge&logo=Grid.ai&logoColor=78FF96)

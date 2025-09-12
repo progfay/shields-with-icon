@@ -1203,6 +1203,7 @@
 ![Great Learning](https://img.shields.io/badge/Great%20Learning-0E39A9?style=for-the-badge&logo=Great+Learning&logoColor=FFFFFF)
 ![Greenhouse](https://img.shields.io/badge/Greenhouse-24A47F?style=for-the-badge&logo=Greenhouse&logoColor=FFFFFF)
 ![GreenSock](https://img.shields.io/badge/GreenSock-222222?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
+![GreptimeDB](https://img.shields.io/badge/GreptimeDB-8322FF?style=for-the-badge&logo=GreptimeDB&logoColor=FFFFFF)
 ![Grid.ai](https://img.shields.io/badge/Grid.ai-222222?style=for-the-badge&logo=Grid.ai&logoColor=78FF96)
 ![Gridsome](https://img.shields.io/badge/Gridsome-00A672?style=for-the-badge&logo=Gridsome&logoColor=FFFFFF)
 ![Grocy](https://img.shields.io/badge/Grocy-337AB7?style=for-the-badge&logo=Grocy&logoColor=FFFFFF)
