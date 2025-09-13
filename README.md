@@ -2564,7 +2564,7 @@
 ![SCP Foundation](https://img.shields.io/badge/SCP%20Foundation-222222?style=for-the-badge&logo=SCP+Foundation&logoColor=FFFFFF)
 ![Scrapbox](https://img.shields.io/badge/Scrapbox-06B632?style=for-the-badge&logo=Scrapbox&logoColor=FFFFFF)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=Scrapy&logoColor=FFFFFF)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
+![Scratch](https://img.shields.io/badge/Scratch-855CD6?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
 ![Screencastify](https://img.shields.io/badge/Screencastify-222222?style=for-the-badge&logo=Screencastify&logoColor=FF8282)
 ![Scribd](https://img.shields.io/badge/Scribd-1E7B85?style=for-the-badge&logo=Scribd&logoColor=FFFFFF)
 ![Scrimba](https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=Scrimba&logoColor=FFFFFF)

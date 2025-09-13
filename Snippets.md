@@ -10262,9 +10262,9 @@
 ```markdown
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=Scrapy&logoColor=FFFFFF)
 ```
-## ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
+## ![Scratch](https://img.shields.io/badge/Scratch-855CD6?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
 ```markdown
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
+![Scratch](https://img.shields.io/badge/Scratch-855CD6?style=for-the-badge&logo=Scratch&logoColor=FFFFFF)
 ```
 ## ![Screencastify](https://img.shields.io/badge/Screencastify-222222?style=for-the-badge&logo=Screencastify&logoColor=FF8282)
 ```markdown
