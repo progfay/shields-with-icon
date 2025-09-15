@@ -562,6 +562,10 @@
 ```markdown
 ![Animal Planet](https://img.shields.io/badge/Animal%20Planet-0073FF?style=for-the-badge&logo=Animal+Planet&logoColor=FFFFFF)
 ```
+## ![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=Anime.js&logoColor=FFFFFF)
+```markdown
+![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=Anime.js&logoColor=FFFFFF)
+```
 ## ![AnkerMake](https://img.shields.io/badge/AnkerMake-222222?style=for-the-badge&logo=AnkerMake&logoColor=88F387)
 ```markdown
 ![AnkerMake](https://img.shields.io/badge/AnkerMake-222222?style=for-the-badge&logo=AnkerMake&logoColor=88F387)
@@ -4246,6 +4250,10 @@
 ```markdown
 ![Garmin](https://img.shields.io/badge/Garmin-000000?style=for-the-badge&logo=Garmin&logoColor=FFFFFF)
 ```
+## ![Garuda Linux](https://img.shields.io/badge/Garuda%20Linux-8839EF?style=for-the-badge&logo=Garuda+Linux&logoColor=FFFFFF)
+```markdown
+![Garuda Linux](https://img.shields.io/badge/Garuda%20Linux-8839EF?style=for-the-badge&logo=Garuda+Linux&logoColor=FFFFFF)
+```
 ## ![Gatling](https://img.shields.io/badge/Gatling-222222?style=for-the-badge&logo=Gatling&logoColor=FF9E2A)
 ```markdown
 ![Gatling](https://img.shields.io/badge/Gatling-222222?style=for-the-badge&logo=Gatling&logoColor=FF9E2A)
@@ -6666,6 +6674,10 @@
 ```markdown
 ![LiveJournal](https://img.shields.io/badge/LiveJournal-00B0EA?style=for-the-badge&logo=LiveJournal&logoColor=FFFFFF)
 ```
+## ![LiveKit](https://img.shields.io/badge/LiveKit-222222?style=for-the-badge&logo=LiveKit&logoColor=FFFFFF)
+```markdown
+![LiveKit](https://img.shields.io/badge/LiveKit-222222?style=for-the-badge&logo=LiveKit&logoColor=FFFFFF)
+```
 ## ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=FFFFFF)
 ```markdown
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=FFFFFF)
@@ -8314,6 +8326,10 @@
 ```markdown
 ![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=Optimism&logoColor=FFFFFF)
 ```
+## ![Optuna](https://img.shields.io/badge/Optuna-002C76?style=for-the-badge&logo=Optuna&logoColor=FFFFFF)
+```markdown
+![Optuna](https://img.shields.io/badge/Optuna-002C76?style=for-the-badge&logo=Optuna&logoColor=FFFFFF)
+```
 ## ![Orange](https://img.shields.io/badge/Orange-FF7900?style=for-the-badge&logo=Orange&logoColor=FFFFFF)
 ```markdown
 ![Orange](https://img.shields.io/badge/Orange-FF7900?style=for-the-badge&logo=Orange&logoColor=FFFFFF)
@@ -8757,6 +8773,10 @@
 ## ![Pingdom](https://img.shields.io/badge/Pingdom-222222?style=for-the-badge&logo=Pingdom&logoColor=FFF000)
 ```markdown
 ![Pingdom](https://img.shields.io/badge/Pingdom-222222?style=for-the-badge&logo=Pingdom&logoColor=FFF000)
+```
+## ![Pinia](https://img.shields.io/badge/Pinia-222222?style=for-the-badge&logo=Pinia&logoColor=FFD859)
+```markdown
+![Pinia](https://img.shields.io/badge/Pinia-222222?style=for-the-badge&logo=Pinia&logoColor=FFD859)
 ```
 ## ![pino](https://img.shields.io/badge/pino-687634?style=for-the-badge&logo=pino&logoColor=FFFFFF)
 ```markdown
@@ -10582,6 +10602,10 @@
 ```markdown
 ![Skaffold](https://img.shields.io/badge/Skaffold-2AA2D6?style=for-the-badge&logo=Skaffold&logoColor=FFFFFF)
 ```
+## ![Skeleton](https://img.shields.io/badge/Skeleton-000000?style=for-the-badge&logo=Skeleton&logoColor=FFFFFF)
+```markdown
+![Skeleton](https://img.shields.io/badge/Skeleton-000000?style=for-the-badge&logo=Skeleton&logoColor=FFFFFF)
+```
 ## ![Sketch](https://img.shields.io/badge/Sketch-222222?style=for-the-badge&logo=Sketch&logoColor=F7B500)
 ```markdown
 ![Sketch](https://img.shields.io/badge/Sketch-222222?style=for-the-badge&logo=Sketch&logoColor=F7B500)
@@ -10649,6 +10673,10 @@
 ## ![Smashing Magazine](https://img.shields.io/badge/Smashing%20Magazine-E85C33?style=for-the-badge&logo=Smashing+Magazine&logoColor=FFFFFF)
 ```markdown
 ![Smashing Magazine](https://img.shields.io/badge/Smashing%20Magazine-E85C33?style=for-the-badge&logo=Smashing+Magazine&logoColor=FFFFFF)
+```
+## ![Smoothcomp](https://img.shields.io/badge/Smoothcomp-000000?style=for-the-badge&logo=Smoothcomp&logoColor=FFFFFF)
+```markdown
+![Smoothcomp](https://img.shields.io/badge/Smoothcomp-000000?style=for-the-badge&logo=Smoothcomp&logoColor=FFFFFF)
 ```
 ## ![SMRT](https://img.shields.io/badge/SMRT-EE2E24?style=for-the-badge&logo=SMRT&logoColor=FFFFFF)
 ```markdown
@@ -12273,6 +12301,10 @@
 ## ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=FFFFFF)
 ```markdown
 ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=FFFFFF)
+```
+## ![Unstop](https://img.shields.io/badge/Unstop-1C4980?style=for-the-badge&logo=Unstop&logoColor=FFFFFF)
+```markdown
+![Unstop](https://img.shields.io/badge/Unstop-1C4980?style=for-the-badge&logo=Unstop&logoColor=FFFFFF)
 ```
 ## ![Untappd](https://img.shields.io/badge/Untappd-222222?style=for-the-badge&logo=Untappd&logoColor=FFC000)
 ```markdown
