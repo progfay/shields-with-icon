@@ -1690,7 +1690,7 @@
 ![LOT Polish Airlines](https://img.shields.io/badge/LOT%20Polish%20Airlines-11397E?style=for-the-badge&logo=LOT+Polish+Airlines&logoColor=FFFFFF)
 ![LottieFiles](https://img.shields.io/badge/LottieFiles-222222?style=for-the-badge&logo=LottieFiles&logoColor=00DDB3)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=LTspice&logoColor=FFFFFF)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=Luau&logoColor=FFFFFF)
 ![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=Lubuntu&logoColor=FFFFFF)
 ![Lucia](https://img.shields.io/badge/Lucia-5F57FF?style=for-the-badge&logo=Lucia&logoColor=FFFFFF)

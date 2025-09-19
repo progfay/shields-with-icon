@@ -6766,9 +6766,9 @@
 ```markdown
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=LTspice&logoColor=FFFFFF)
 ```
-## ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
+## ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
 ```markdown
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
 ```
 ## ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=Luau&logoColor=FFFFFF)
 ```markdown
