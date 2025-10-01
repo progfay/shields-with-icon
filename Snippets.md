@@ -1462,9 +1462,9 @@
 ```markdown
 ![Blueprint](https://img.shields.io/badge/Blueprint-137CBD?style=for-the-badge&logo=Blueprint&logoColor=FFFFFF)
 ```
-## ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=FFFFFF)
+## ![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=FFFFFF)
 ```markdown
-![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=FFFFFF)
+![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=FFFFFF)
 ```
 ## ![Bluesound](https://img.shields.io/badge/Bluesound-0F131E?style=for-the-badge&logo=Bluesound&logoColor=FFFFFF)
 ```markdown
