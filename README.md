@@ -1700,6 +1700,7 @@
 ![Lufthansa](https://img.shields.io/badge/Lufthansa-05164D?style=for-the-badge&logo=Lufthansa&logoColor=FFFFFF)
 ![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=FFFFFF)
 ![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=Lunacy&logoColor=FFFFFF)
+![Luogu](https://img.shields.io/badge/Luogu-5B9BD5?style=for-the-badge&logo=Luogu&logoColor=FFFFFF)
 ![Lutris](https://img.shields.io/badge/Lutris-222222?style=for-the-badge&logo=Lutris&logoColor=FF9900)
 ![LVGL](https://img.shields.io/badge/LVGL-343839?style=for-the-badge&logo=LVGL&logoColor=FFFFFF)
 ![Lydia](https://img.shields.io/badge/Lydia-0180FF?style=for-the-badge&logo=Lydia&logoColor=FFFFFF)

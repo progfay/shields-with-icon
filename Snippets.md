@@ -6806,6 +6806,10 @@
 ```markdown
 ![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=Lunacy&logoColor=FFFFFF)
 ```
+## ![Luogu](https://img.shields.io/badge/Luogu-5B9BD5?style=for-the-badge&logo=Luogu&logoColor=FFFFFF)
+```markdown
+![Luogu](https://img.shields.io/badge/Luogu-5B9BD5?style=for-the-badge&logo=Luogu&logoColor=FFFFFF)
+```
 ## ![Lutris](https://img.shields.io/badge/Lutris-222222?style=for-the-badge&logo=Lutris&logoColor=FF9900)
 ```markdown
 ![Lutris](https://img.shields.io/badge/Lutris-222222?style=for-the-badge&logo=Lutris&logoColor=FF9900)
