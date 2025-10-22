@@ -634,6 +634,10 @@
 ```markdown
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache+Ant&logoColor=FFFFFF)
 ```
+## ![Apache Avro](https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=Apache+Avro&logoColor=FFFFFF)
+```markdown
+![Apache Avro](https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=Apache+Avro&logoColor=FFFFFF)
+```
 ## ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=Apache+Cassandra&logoColor=FFFFFF)
 ```markdown
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=Apache+Cassandra&logoColor=FFFFFF)
@@ -3874,6 +3878,10 @@
 ```markdown
 ![FIRST](https://img.shields.io/badge/FIRST-0066B3?style=for-the-badge&logo=FIRST&logoColor=FFFFFF)
 ```
+## ![Fish Audio](https://img.shields.io/badge/Fish%20Audio-9B90E8?style=for-the-badge&logo=Fish+Audio&logoColor=FFFFFF)
+```markdown
+![Fish Audio](https://img.shields.io/badge/Fish%20Audio-9B90E8?style=for-the-badge&logo=Fish+Audio&logoColor=FFFFFF)
+```
 ## ![fish shell](https://img.shields.io/badge/fish%20shell-222222?style=for-the-badge&logo=fish+shell&logoColor=34C534)
 ```markdown
 ![fish shell](https://img.shields.io/badge/fish%20shell-222222?style=for-the-badge&logo=fish+shell&logoColor=34C534)
@@ -6645,6 +6653,10 @@
 ## ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=Liquibase&logoColor=FFFFFF)
 ```markdown
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=Liquibase&logoColor=FFFFFF)
+```
+## ![ListenHub](https://img.shields.io/badge/ListenHub-000000?style=for-the-badge&logo=ListenHub&logoColor=FFFFFF)
+```markdown
+![ListenHub](https://img.shields.io/badge/ListenHub-000000?style=for-the-badge&logo=ListenHub&logoColor=FFFFFF)
 ```
 ## ![listmonk](https://img.shields.io/badge/listmonk-0055D4?style=for-the-badge&logo=listmonk&logoColor=FFFFFF)
 ```markdown
