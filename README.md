@@ -627,6 +627,7 @@
 ![Convertio](https://img.shields.io/badge/Convertio-FF3333?style=for-the-badge&logo=Convertio&logoColor=FFFFFF)
 ![Cookiecutter](https://img.shields.io/badge/Cookiecutter-222222?style=for-the-badge&logo=Cookiecutter&logoColor=D4AA00)
 ![Cooler Master](https://img.shields.io/badge/Cooler%20Master-1E1E28?style=for-the-badge&logo=Cooler+Master&logoColor=FFFFFF)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=Coolify&logoColor=FFFFFF)
 ![Copa Airlines](https://img.shields.io/badge/Copa%20Airlines-0032A0?style=for-the-badge&logo=Copa+Airlines&logoColor=FFFFFF)
 ![Coppel](https://img.shields.io/badge/Coppel-0266AE?style=for-the-badge&logo=Coppel&logoColor=FFFFFF)
 ![Cora](https://img.shields.io/badge/Cora-E61845?style=for-the-badge&logo=Cora&logoColor=FFFFFF)

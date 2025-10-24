@@ -2514,6 +2514,10 @@
 ```markdown
 ![Cooler Master](https://img.shields.io/badge/Cooler%20Master-1E1E28?style=for-the-badge&logo=Cooler+Master&logoColor=FFFFFF)
 ```
+## ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=Coolify&logoColor=FFFFFF)
+```markdown
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=Coolify&logoColor=FFFFFF)
+```
 ## ![Copa Airlines](https://img.shields.io/badge/Copa%20Airlines-0032A0?style=for-the-badge&logo=Copa+Airlines&logoColor=FFFFFF)
 ```markdown
 ![Copa Airlines](https://img.shields.io/badge/Copa%20Airlines-0032A0?style=for-the-badge&logo=Copa+Airlines&logoColor=FFFFFF)
