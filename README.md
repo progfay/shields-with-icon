@@ -1582,6 +1582,7 @@
 ![KX](https://img.shields.io/badge/KX-101820?style=for-the-badge&logo=KX&logoColor=FFFFFF)
 ![Kyocera](https://img.shields.io/badge/Kyocera-DF0522?style=for-the-badge&logo=Kyocera&logoColor=FFFFFF)
 ![L'Équipe](https://img.shields.io/badge/L%27%C3%89quipe-E42829?style=for-the-badge&logo=L%27%C3%89quipe&logoColor=FFFFFF)
+![LabEx](https://img.shields.io/badge/LabEx-2E7EEE?style=for-the-badge&logo=LabEx&logoColor=FFFFFF)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-222222?style=for-the-badge&logo=LabVIEW&logoColor=FFDB00)
 ![LADA](https://img.shields.io/badge/LADA-ED6B21?style=for-the-badge&logo=LADA&logoColor=FFFFFF)
 ![Lamborghini](https://img.shields.io/badge/Lamborghini-222222?style=for-the-badge&logo=Lamborghini&logoColor=B6A272)

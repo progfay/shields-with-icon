@@ -6334,6 +6334,10 @@
 ```markdown
 ![L'Équipe](https://img.shields.io/badge/L%27%C3%89quipe-E42829?style=for-the-badge&logo=L%27%C3%89quipe&logoColor=FFFFFF)
 ```
+## ![LabEx](https://img.shields.io/badge/LabEx-2E7EEE?style=for-the-badge&logo=LabEx&logoColor=FFFFFF)
+```markdown
+![LabEx](https://img.shields.io/badge/LabEx-2E7EEE?style=for-the-badge&logo=LabEx&logoColor=FFFFFF)
+```
 ## ![LabVIEW](https://img.shields.io/badge/LabVIEW-222222?style=for-the-badge&logo=LabVIEW&logoColor=FFDB00)
 ```markdown
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-222222?style=for-the-badge&logo=LabVIEW&logoColor=FFDB00)
