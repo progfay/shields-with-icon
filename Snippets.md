@@ -2698,6 +2698,10 @@
 ```markdown
 ![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=CurseForge&logoColor=FFFFFF)
 ```
+## ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=FFFFFF)
+```markdown
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=FFFFFF)
+```
 ## ![Custom Ink](https://img.shields.io/badge/Custom%20Ink-FA3C00?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
 ```markdown
 ![Custom Ink](https://img.shields.io/badge/Custom%20Ink-FA3C00?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)

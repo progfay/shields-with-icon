@@ -673,6 +673,7 @@
 ![Cultura](https://img.shields.io/badge/Cultura-1D2C54?style=for-the-badge&logo=Cultura&logoColor=FFFFFF)
 ![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=FFFFFF)
 ![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=CurseForge&logoColor=FFFFFF)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=FFFFFF)
 ![Custom Ink](https://img.shields.io/badge/Custom%20Ink-FA3C00?style=for-the-badge&logo=Custom+Ink&logoColor=FFFFFF)
 ![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA?style=for-the-badge&logo=CyberDefenders&logoColor=FFFFFF)
 ![Cycling '74](https://img.shields.io/badge/Cycling%20%2774-111111?style=for-the-badge&logo=Cycling+%2774&logoColor=FFFFFF)
