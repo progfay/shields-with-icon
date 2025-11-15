@@ -7306,6 +7306,10 @@
 ```markdown
 ![Mini](https://img.shields.io/badge/Mini-000000?style=for-the-badge&logo=Mini&logoColor=FFFFFF)
 ```
+## ![MiniMax](https://img.shields.io/badge/MiniMax-E73562?style=for-the-badge&logo=MiniMax&logoColor=FFFFFF)
+```markdown
+![MiniMax](https://img.shields.io/badge/MiniMax-E73562?style=for-the-badge&logo=MiniMax&logoColor=FFFFFF)
+```
 ## ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=FFFFFF)
 ```markdown
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=FFFFFF)
