@@ -134,6 +134,10 @@
 ```markdown
 ![ACM](https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)
 ```
+## ![Acode](https://img.shields.io/badge/Acode-3499FE?style=for-the-badge&logo=Acode&logoColor=FFFFFF)
+```markdown
+![Acode](https://img.shields.io/badge/Acode-3499FE?style=for-the-badge&logo=Acode&logoColor=FFFFFF)
+```
 ## ![ActiGraph](https://img.shields.io/badge/ActiGraph-3A4259?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
 ```markdown
 ![ActiGraph](https://img.shields.io/badge/ActiGraph-3A4259?style=for-the-badge&logo=ActiGraph&logoColor=FFFFFF)
@@ -825,6 +829,10 @@
 ## ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple+TV&logoColor=FFFFFF)
 ```markdown
 ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple+TV&logoColor=FFFFFF)
+```
+## ![AppManager](https://img.shields.io/badge/AppManager-222222?style=for-the-badge&logo=AppManager&logoColor=DCAF74)
+```markdown
+![AppManager](https://img.shields.io/badge/AppManager-222222?style=for-the-badge&logo=AppManager&logoColor=DCAF74)
 ```
 ## ![AppSignal](https://img.shields.io/badge/AppSignal-21375A?style=for-the-badge&logo=AppSignal&logoColor=FFFFFF)
 ```markdown
@@ -3121,6 +3129,10 @@
 ## ![Docusaurus](https://img.shields.io/badge/Docusaurus-222222?style=for-the-badge&logo=Docusaurus&logoColor=3ECC5F)
 ```markdown
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-222222?style=for-the-badge&logo=Docusaurus&logoColor=3ECC5F)
+```
+## ![Dodo Payments](https://img.shields.io/badge/Dodo%20Payments-222222?style=for-the-badge&logo=Dodo+Payments&logoColor=C6FE1E)
+```markdown
+![Dodo Payments](https://img.shields.io/badge/Dodo%20Payments-222222?style=for-the-badge&logo=Dodo+Payments&logoColor=C6FE1E)
 ```
 ## ![Dogecoin](https://img.shields.io/badge/Dogecoin-222222?style=for-the-badge&logo=Dogecoin&logoColor=C2A633)
 ```markdown
@@ -6009,6 +6021,10 @@
 ## ![Kamailio](https://img.shields.io/badge/Kamailio-506365?style=for-the-badge&logo=Kamailio&logoColor=FFFFFF)
 ```markdown
 ![Kamailio](https://img.shields.io/badge/Kamailio-506365?style=for-the-badge&logo=Kamailio&logoColor=FFFFFF)
+```
+## ![Kando](https://img.shields.io/badge/Kando-222222?style=for-the-badge&logo=Kando&logoColor=EACFCF)
+```markdown
+![Kando](https://img.shields.io/badge/Kando-222222?style=for-the-badge&logo=Kando&logoColor=EACFCF)
 ```
 ## ![Kaniko](https://img.shields.io/badge/Kaniko-222222?style=for-the-badge&logo=Kaniko&logoColor=FFA600)
 ```markdown
@@ -10025,6 +10041,10 @@
 ## ![Roon](https://img.shields.io/badge/Roon-2039F3?style=for-the-badge&logo=Roon&logoColor=FFFFFF)
 ```markdown
 ![Roon](https://img.shields.io/badge/Roon-2039F3?style=for-the-badge&logo=Roon&logoColor=FFFFFF)
+```
+## ![ROOT](https://img.shields.io/badge/ROOT-222222?style=for-the-badge&logo=ROOT&logoColor=1ED3E4)
+```markdown
+![ROOT](https://img.shields.io/badge/ROOT-222222?style=for-the-badge&logo=ROOT&logoColor=1ED3E4)
 ```
 ## ![Root Me](https://img.shields.io/badge/Root%20Me-000000?style=for-the-badge&logo=Root+Me&logoColor=FFFFFF)
 ```markdown
