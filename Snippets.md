@@ -1042,6 +1042,10 @@
 ```markdown
 ![Aurelia](https://img.shields.io/badge/Aurelia-ED2B88?style=for-the-badge&logo=Aurelia&logoColor=FFFFFF)
 ```
+## ![Autentique](https://img.shields.io/badge/Autentique-3379F2?style=for-the-badge&logo=Autentique&logoColor=FFFFFF)
+```markdown
+![Autentique](https://img.shields.io/badge/Autentique-3379F2?style=for-the-badge&logo=Autentique&logoColor=FFFFFF)
+```
 ## ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF)
 ```markdown
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF)
@@ -5021,6 +5025,10 @@
 ## ![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=HarmonyOS&logoColor=FFFFFF)
 ```markdown
 ![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=HarmonyOS&logoColor=FFFFFF)
+```
+## ![Hashcat](https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=Hashcat&logoColor=FFFFFF)
+```markdown
+![Hashcat](https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=Hashcat&logoColor=FFFFFF)
 ```
 ## ![HashiCorp](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=FFFFFF)
 ```markdown
