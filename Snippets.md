@@ -4442,6 +4442,10 @@
 ```markdown
 ![GL.iNet](https://img.shields.io/badge/GL.iNet-636363?style=for-the-badge&logo=GL.iNet&logoColor=FFFFFF)
 ```
+## ![Glance](https://img.shields.io/badge/Glance-222222?style=for-the-badge&logo=Glance&logoColor=D9C38C)
+```markdown
+![Glance](https://img.shields.io/badge/Glance-222222?style=for-the-badge&logo=Glance&logoColor=D9C38C)
+```
 ## ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
 ```markdown
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
@@ -9877,6 +9881,10 @@
 ## ![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=Retool&logoColor=FFFFFF)
 ```markdown
 ![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=Retool&logoColor=FFFFFF)
+```
+## ![Retro Achievements](https://img.shields.io/badge/Retro%20Achievements-1065DF?style=for-the-badge&logo=Retro+Achievements&logoColor=FFFFFF)
+```markdown
+![Retro Achievements](https://img.shields.io/badge/Retro%20Achievements-1065DF?style=for-the-badge&logo=Retro+Achievements&logoColor=FFFFFF)
 ```
 ## ![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=for-the-badge&logo=RetroArch&logoColor=FFFFFF)
 ```markdown
