@@ -8298,6 +8298,10 @@
 ```markdown
 ![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=for-the-badge&logo=OpenProject&logoColor=FFFFFF)
 ```
+## ![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=OpenRouter&logoColor=FFFFFF)
+```markdown
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=OpenRouter&logoColor=FFFFFF)
+```
 ## ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-222222?style=for-the-badge&logo=OpenSCAD&logoColor=F9D72C)
 ```markdown
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-222222?style=for-the-badge&logo=OpenSCAD&logoColor=F9D72C)

@@ -2073,6 +2073,7 @@
 ![OpenMined](https://img.shields.io/badge/OpenMined-222222?style=for-the-badge&logo=OpenMined&logoColor=ED986C)
 ![OpenNebula](https://img.shields.io/badge/OpenNebula-0097C2?style=for-the-badge&logo=OpenNebula&logoColor=FFFFFF)
 ![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=for-the-badge&logo=OpenProject&logoColor=FFFFFF)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=OpenRouter&logoColor=FFFFFF)
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-222222?style=for-the-badge&logo=OpenSCAD&logoColor=F9D72C)
 ![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=OpenSea&logoColor=FFFFFF)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=OpenSearch&logoColor=FFFFFF)
