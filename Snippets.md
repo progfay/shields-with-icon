@@ -2794,6 +2794,10 @@
 ```markdown
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=Dash&logoColor=FFFFFF)
 ```
+## ![Dash0](https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=Dash0&logoColor=FFFFFF)
+```markdown
+![Dash0](https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=Dash0&logoColor=FFFFFF)
+```
 ## ![Dashlane](https://img.shields.io/badge/Dashlane-0E353D?style=for-the-badge&logo=Dashlane&logoColor=FFFFFF)
 ```markdown
 ![Dashlane](https://img.shields.io/badge/Dashlane-0E353D?style=for-the-badge&logo=Dashlane&logoColor=FFFFFF)

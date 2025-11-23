@@ -697,6 +697,7 @@
 ![Darty](https://img.shields.io/badge/Darty-EB1B23?style=for-the-badge&logo=Darty&logoColor=FFFFFF)
 ![Das Erste](https://img.shields.io/badge/Das%20Erste-001A4B?style=for-the-badge&logo=Das+Erste&logoColor=FFFFFF)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=Dash&logoColor=FFFFFF)
+![Dash0](https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=Dash0&logoColor=FFFFFF)
 ![Dashlane](https://img.shields.io/badge/Dashlane-0E353D?style=for-the-badge&logo=Dashlane&logoColor=FFFFFF)
 ![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=Dask&logoColor=FFFFFF)
 ![Dassault Systèmes](https://img.shields.io/badge/Dassault%20Syst%C3%A8mes-005386?style=for-the-badge&logo=Dassault+Syst%C3%A8mes&logoColor=FFFFFF)
