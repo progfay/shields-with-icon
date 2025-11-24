@@ -6826,6 +6826,10 @@
 ```markdown
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=FFFFFF)
 ```
+## ![Luanti](https://img.shields.io/badge/Luanti-53AC56?style=for-the-badge&logo=Luanti&logoColor=FFFFFF)
+```markdown
+![Luanti](https://img.shields.io/badge/Luanti-53AC56?style=for-the-badge&logo=Luanti&logoColor=FFFFFF)
+```
 ## ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=Luau&logoColor=FFFFFF)
 ```markdown
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=Luau&logoColor=FFFFFF)
@@ -7121,6 +7125,10 @@
 ## ![McLaren](https://img.shields.io/badge/McLaren-FF0000?style=for-the-badge&logo=McLaren&logoColor=FFFFFF)
 ```markdown
 ![McLaren](https://img.shields.io/badge/McLaren-FF0000?style=for-the-badge&logo=McLaren&logoColor=FFFFFF)
+```
+## ![MDBList](https://img.shields.io/badge/MDBList-4284CA?style=for-the-badge&logo=MDBList&logoColor=FFFFFF)
+```markdown
+![MDBList](https://img.shields.io/badge/MDBList-4284CA?style=for-the-badge&logo=MDBList&logoColor=FFFFFF)
 ```
 ## ![mdBook](https://img.shields.io/badge/mdBook-000000?style=for-the-badge&logo=mdBook&logoColor=FFFFFF)
 ```markdown
