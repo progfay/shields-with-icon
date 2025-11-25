@@ -2452,6 +2452,7 @@
 ![Reebok](https://img.shields.io/badge/Reebok-E41D1B?style=for-the-badge&logo=Reebok&logoColor=FFFFFF)
 ![Refine](https://img.shields.io/badge/Refine-14141F?style=for-the-badge&logo=Refine&logoColor=FFFFFF)
 ![Refined GitHub](https://img.shields.io/badge/Refined%20GitHub-9E95B7?style=for-the-badge&logo=Refined+GitHub&logoColor=FFFFFF)
+![Reka UI](https://img.shields.io/badge/Reka%20UI-16A353?style=for-the-badge&logo=Reka+UI&logoColor=FFFFFF)
 ![Relay](https://img.shields.io/badge/Relay-F26B00?style=for-the-badge&logo=Relay&logoColor=FFFFFF)
 ![Reliance Industries Limited](https://img.shields.io/badge/Reliance%20Industries%20Limited-222222?style=for-the-badge&logo=Reliance+Industries+Limited&logoColor=D1AB66)
 ![remark](https://img.shields.io/badge/remark-000000?style=for-the-badge&logo=remark&logoColor=FFFFFF)
