@@ -1150,6 +1150,10 @@
 ```markdown
 ![B&R Automation](https://img.shields.io/badge/B&R%20Automation-222222?style=for-the-badge&logo=B%26R+Automation&logoColor=FF8800)
 ```
+## ![B4X](https://img.shields.io/badge/B4X-14AECB?style=for-the-badge&logo=B4X&logoColor=FFFFFF)
+```markdown
+![B4X](https://img.shields.io/badge/B4X-14AECB?style=for-the-badge&logo=B4X&logoColor=FFFFFF)
+```
 ## ![Babel](https://img.shields.io/badge/Babel-222222?style=for-the-badge&logo=Babel&logoColor=F9DC3E)
 ```markdown
 ![Babel](https://img.shields.io/badge/Babel-222222?style=for-the-badge&logo=Babel&logoColor=F9DC3E)
@@ -6930,6 +6934,10 @@
 ```markdown
 ![Mail.Ru](https://img.shields.io/badge/Mail.Ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=FFFFFF)
 ```
+## ![mailbox](https://img.shields.io/badge/mailbox-222222?style=for-the-badge&logo=mailbox&logoColor=ABE659)
+```markdown
+![mailbox](https://img.shields.io/badge/mailbox-222222?style=for-the-badge&logo=mailbox&logoColor=ABE659)
+```
 ## ![mailbox.org](https://img.shields.io/badge/mailbox.org-222222?style=for-the-badge&logo=mailbox.org&logoColor=76BB21)
 ```markdown
 ![mailbox.org](https://img.shields.io/badge/mailbox.org-222222?style=for-the-badge&logo=mailbox.org&logoColor=76BB21)
@@ -7814,6 +7822,10 @@
 ```markdown
 ![Newegg](https://img.shields.io/badge/Newegg-E05E00?style=for-the-badge&logo=Newegg&logoColor=FFFFFF)
 ```
+## ![Newgrounds](https://img.shields.io/badge/Newgrounds-222222?style=for-the-badge&logo=Newgrounds&logoColor=FDA238)
+```markdown
+![Newgrounds](https://img.shields.io/badge/Newgrounds-222222?style=for-the-badge&logo=Newgrounds&logoColor=FDA238)
+```
 ## ![NewPipe](https://img.shields.io/badge/NewPipe-CD201F?style=for-the-badge&logo=NewPipe&logoColor=FFFFFF)
 ```markdown
 ![NewPipe](https://img.shields.io/badge/NewPipe-CD201F?style=for-the-badge&logo=NewPipe&logoColor=FFFFFF)
@@ -8606,6 +8618,10 @@
 ```markdown
 ![Parse.ly](https://img.shields.io/badge/Parse.ly-5BA745?style=for-the-badge&logo=Parse.ly&logoColor=FFFFFF)
 ```
+## ![Passbolt](https://img.shields.io/badge/Passbolt-D40101?style=for-the-badge&logo=Passbolt&logoColor=FFFFFF)
+```markdown
+![Passbolt](https://img.shields.io/badge/Passbolt-D40101?style=for-the-badge&logo=Passbolt&logoColor=FFFFFF)
+```
 ## ![Passport](https://img.shields.io/badge/Passport-222222?style=for-the-badge&logo=Passport&logoColor=34E27A)
 ```markdown
 ![Passport](https://img.shields.io/badge/Passport-222222?style=for-the-badge&logo=Passport&logoColor=34E27A)
@@ -9114,6 +9130,10 @@
 ```markdown
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=PostHog&logoColor=FFFFFF)
 ```
+## ![Postiz](https://img.shields.io/badge/Postiz-612BD3?style=for-the-badge&logo=Postiz&logoColor=FFFFFF)
+```markdown
+![Postiz](https://img.shields.io/badge/Postiz-612BD3?style=for-the-badge&logo=Postiz&logoColor=FFFFFF)
+```
 ## ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF)
 ```markdown
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF)
@@ -9457,6 +9477,10 @@
 ## ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=Qlik&logoColor=FFFFFF)
 ```markdown
 ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=Qlik&logoColor=FFFFFF)
+```
+## ![Qlty](https://img.shields.io/badge/Qlty-222222?style=for-the-badge&logo=Qlty&logoColor=66FAEC)
+```markdown
+![Qlty](https://img.shields.io/badge/Qlty-222222?style=for-the-badge&logo=Qlty&logoColor=66FAEC)
 ```
 ## ![QMK](https://img.shields.io/badge/QMK-333333?style=for-the-badge&logo=QMK&logoColor=FFFFFF)
 ```markdown
