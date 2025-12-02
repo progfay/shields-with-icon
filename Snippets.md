@@ -3398,6 +3398,10 @@
 ```markdown
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=FFFFFF)
 ```
+## ![Elk](https://img.shields.io/badge/Elk-222222?style=for-the-badge&logo=Elk&logoColor=EA9E44)
+```markdown
+![Elk](https://img.shields.io/badge/Elk-222222?style=for-the-badge&logo=Elk&logoColor=EA9E44)
+```
 ## ![Elm](https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=FFFFFF)
 ```markdown
 ![Elm](https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=FFFFFF)
@@ -4285,6 +4289,10 @@
 ## ![Ghostery](https://img.shields.io/badge/Ghostery-00AEF0?style=for-the-badge&logo=Ghostery&logoColor=FFFFFF)
 ```markdown
 ![Ghostery](https://img.shields.io/badge/Ghostery-00AEF0?style=for-the-badge&logo=Ghostery&logoColor=FFFFFF)
+```
+## ![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&logo=Ghostty&logoColor=FFFFFF)
+```markdown
+![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&logo=Ghostty&logoColor=FFFFFF)
 ```
 ## ![GIMP](https://img.shields.io/badge/GIMP-8C8073?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
 ```markdown
