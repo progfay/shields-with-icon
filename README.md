@@ -1956,6 +1956,7 @@
 ![Node-RED](https://img.shields.io/badge/Node-RED-8F0000?style=for-the-badge&logo=Node-RED&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
 ![NodeBB](https://img.shields.io/badge/NodeBB-1E5EBC?style=for-the-badge&logo=NodeBB&logoColor=FFFFFF)
+![NodeGui](https://img.shields.io/badge/NodeGui-000000?style=for-the-badge&logo=NodeGui&logoColor=FFFFFF)
 ![Nodemon](https://img.shields.io/badge/Nodemon-222222?style=for-the-badge&logo=Nodemon&logoColor=76D04B)
 ![Nokia](https://img.shields.io/badge/Nokia-005AFF?style=for-the-badge&logo=Nokia&logoColor=FFFFFF)
 ![Nomad](https://img.shields.io/badge/Nomad-222222?style=for-the-badge&logo=Nomad&logoColor=00CA8E)

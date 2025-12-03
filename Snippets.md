@@ -7830,6 +7830,10 @@
 ```markdown
 ![NodeBB](https://img.shields.io/badge/NodeBB-1E5EBC?style=for-the-badge&logo=NodeBB&logoColor=FFFFFF)
 ```
+## ![NodeGui](https://img.shields.io/badge/NodeGui-000000?style=for-the-badge&logo=NodeGui&logoColor=FFFFFF)
+```markdown
+![NodeGui](https://img.shields.io/badge/NodeGui-000000?style=for-the-badge&logo=NodeGui&logoColor=FFFFFF)
+```
 ## ![Nodemon](https://img.shields.io/badge/Nodemon-222222?style=for-the-badge&logo=Nodemon&logoColor=76D04B)
 ```markdown
 ![Nodemon](https://img.shields.io/badge/Nodemon-222222?style=for-the-badge&logo=Nodemon&logoColor=76D04B)
