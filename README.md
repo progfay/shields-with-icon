@@ -2602,6 +2602,7 @@
 ![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=Session&logoColor=FFFFFF)
 ![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=Sessionize&logoColor=FFFFFF)
 ![Setapp](https://img.shields.io/badge/Setapp-222222?style=for-the-badge&logo=Setapp&logoColor=E6C3A5)
+![Setuptools](https://img.shields.io/badge/Setuptools-336790?style=for-the-badge&logo=Setuptools&logoColor=FFFFFF)
 ![SFML](https://img.shields.io/badge/SFML-222222?style=for-the-badge&logo=SFML&logoColor=8CC445)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=FFFFFF)
 ![Shadow](https://img.shields.io/badge/Shadow-0A0C0D?style=for-the-badge&logo=Shadow&logoColor=FFFFFF)

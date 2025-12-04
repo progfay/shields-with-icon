@@ -10414,6 +10414,10 @@
 ```markdown
 ![Setapp](https://img.shields.io/badge/Setapp-222222?style=for-the-badge&logo=Setapp&logoColor=E6C3A5)
 ```
+## ![Setuptools](https://img.shields.io/badge/Setuptools-336790?style=for-the-badge&logo=Setuptools&logoColor=FFFFFF)
+```markdown
+![Setuptools](https://img.shields.io/badge/Setuptools-336790?style=for-the-badge&logo=Setuptools&logoColor=FFFFFF)
+```
 ## ![SFML](https://img.shields.io/badge/SFML-222222?style=for-the-badge&logo=SFML&logoColor=8CC445)
 ```markdown
 ![SFML](https://img.shields.io/badge/SFML-222222?style=for-the-badge&logo=SFML&logoColor=8CC445)
