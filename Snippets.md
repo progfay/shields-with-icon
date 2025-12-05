@@ -750,6 +750,10 @@
 ```markdown
 ![Appian](https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=FFFFFF)
 ```
+## ![AppImage](https://img.shields.io/badge/AppImage-739FB9?style=for-the-badge&logo=AppImage&logoColor=FFFFFF)
+```markdown
+![AppImage](https://img.shields.io/badge/AppImage-739FB9?style=for-the-badge&logo=AppImage&logoColor=FFFFFF)
+```
 ## ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=FFFFFF)
 ```markdown
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=FFFFFF)
@@ -6893,6 +6897,10 @@
 ## ![ManageIQ](https://img.shields.io/badge/ManageIQ-EF2929?style=for-the-badge&logo=ManageIQ&logoColor=FFFFFF)
 ```markdown
 ![ManageIQ](https://img.shields.io/badge/ManageIQ-EF2929?style=for-the-badge&logo=ManageIQ&logoColor=FFFFFF)
+```
+## ![Mangacollec](https://img.shields.io/badge/Mangacollec-DA1F05?style=for-the-badge&logo=Mangacollec&logoColor=FFFFFF)
+```markdown
+![Mangacollec](https://img.shields.io/badge/Mangacollec-DA1F05?style=for-the-badge&logo=Mangacollec&logoColor=FFFFFF)
 ```
 ## ![MangaUpdates](https://img.shields.io/badge/MangaUpdates-222222?style=for-the-badge&logo=MangaUpdates&logoColor=FF8C15)
 ```markdown
