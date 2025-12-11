@@ -1330,6 +1330,10 @@
 ```markdown
 ![Bio Link](https://img.shields.io/badge/Bio%20Link-000000?style=for-the-badge&logo=Bio+Link&logoColor=FFFFFF)
 ```
+## ![Bioconductor](https://img.shields.io/badge/Bioconductor-1A81C2?style=for-the-badge&logo=Bioconductor&logoColor=FFFFFF)
+```markdown
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1A81C2?style=for-the-badge&logo=Bioconductor&logoColor=FFFFFF)
+```
 ## ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=Biome&logoColor=FFFFFF)
 ```markdown
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=Biome&logoColor=FFFFFF)
@@ -8813,6 +8817,10 @@
 ## ![pkgsrc](https://img.shields.io/badge/pkgsrc-FF6600?style=for-the-badge&logo=pkgsrc&logoColor=FFFFFF)
 ```markdown
 ![pkgsrc](https://img.shields.io/badge/pkgsrc-FF6600?style=for-the-badge&logo=pkgsrc&logoColor=FFFFFF)
+```
+## ![Plane](https://img.shields.io/badge/Plane-121212?style=for-the-badge&logo=Plane&logoColor=FFFFFF)
+```markdown
+![Plane](https://img.shields.io/badge/Plane-121212?style=for-the-badge&logo=Plane&logoColor=FFFFFF)
 ```
 ## ![Planet](https://img.shields.io/badge/Planet-009DB1?style=for-the-badge&logo=Planet&logoColor=FFFFFF)
 ```markdown
