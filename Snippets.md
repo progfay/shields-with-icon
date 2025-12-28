@@ -3814,6 +3814,10 @@
 ```markdown
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=FFFFFF)
 ```
+## ![Fillout](https://img.shields.io/badge/Fillout-222222?style=for-the-badge&logo=Fillout&logoColor=FFC738)
+```markdown
+![Fillout](https://img.shields.io/badge/Fillout-222222?style=for-the-badge&logo=Fillout&logoColor=FFC738)
+```
 ## ![Fineco](https://img.shields.io/badge/Fineco-00549F?style=for-the-badge&logo=Fineco&logoColor=FFFFFF)
 ```markdown
 ![Fineco](https://img.shields.io/badge/Fineco-00549F?style=for-the-badge&logo=Fineco&logoColor=FFFFFF)
@@ -4646,6 +4650,10 @@
 ```markdown
 ![Google Home](https://img.shields.io/badge/Google%20Home-4285F4?style=for-the-badge&logo=Google+Home&logoColor=FFFFFF)
 ```
+## ![Google Jules](https://img.shields.io/badge/Google%20Jules-715CD7?style=for-the-badge&logo=Google+Jules&logoColor=FFFFFF)
+```markdown
+![Google Jules](https://img.shields.io/badge/Google%20Jules-715CD7?style=for-the-badge&logo=Google+Jules&logoColor=FFFFFF)
+```
 ## ![Google Keep](https://img.shields.io/badge/Google%20Keep-222222?style=for-the-badge&logo=Google+Keep&logoColor=FFBB00)
 ```markdown
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-222222?style=for-the-badge&logo=Google+Keep&logoColor=FFBB00)
@@ -4945,6 +4953,10 @@
 ## ![HackerRank](https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=HackerRank&logoColor=00EA64)
 ```markdown
 ![HackerRank](https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=HackerRank&logoColor=00EA64)
+```
+## ![HackMD](https://img.shields.io/badge/HackMD-453AFF?style=for-the-badge&logo=HackMD&logoColor=FFFFFF)
+```markdown
+![HackMD](https://img.shields.io/badge/HackMD-453AFF?style=for-the-badge&logo=HackMD&logoColor=FFFFFF)
 ```
 ## ![Hackster](https://img.shields.io/badge/Hackster-2E9FE6?style=for-the-badge&logo=Hackster&logoColor=FFFFFF)
 ```markdown
@@ -5917,6 +5929,10 @@
 ## ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)
 ```markdown
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)
+```
+## ![Just](https://img.shields.io/badge/Just-000000?style=for-the-badge&logo=Just&logoColor=FFFFFF)
+```markdown
+![Just](https://img.shields.io/badge/Just-000000?style=for-the-badge&logo=Just&logoColor=FFFFFF)
 ```
 ## ![Just Eat](https://img.shields.io/badge/Just%20Eat-FF8000?style=for-the-badge&logo=Just+Eat&logoColor=FFFFFF)
 ```markdown
@@ -8165,6 +8181,10 @@
 ## ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
 ```markdown
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
+```
+## ![OpenCage](https://img.shields.io/badge/OpenCage-1A8865?style=for-the-badge&logo=OpenCage&logoColor=FFFFFF)
+```markdown
+![OpenCage](https://img.shields.io/badge/OpenCage-1A8865?style=for-the-badge&logo=OpenCage&logoColor=FFFFFF)
 ```
 ## ![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
 ```markdown
