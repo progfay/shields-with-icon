@@ -5462,6 +5462,10 @@
 ```markdown
 ![iLovePDF](https://img.shields.io/badge/iLovePDF-E5322D?style=for-the-badge&logo=iLovePDF&logoColor=FFFFFF)
 ```
+## ![Image Toolbox](https://img.shields.io/badge/Image%20Toolbox-222222?style=for-the-badge&logo=Image+Toolbox&logoColor=60EA78)
+```markdown
+![Image Toolbox](https://img.shields.io/badge/Image%20Toolbox-222222?style=for-the-badge&logo=Image+Toolbox&logoColor=60EA78)
+```
 ## ![Image.sc](https://img.shields.io/badge/Image.sc-039CB2?style=for-the-badge&logo=Image.sc&logoColor=FFFFFF)
 ```markdown
 ![Image.sc](https://img.shields.io/badge/Image.sc-039CB2?style=for-the-badge&logo=Image.sc&logoColor=FFFFFF)

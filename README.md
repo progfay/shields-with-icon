@@ -1364,6 +1364,7 @@
 ![IKEA](https://img.shields.io/badge/IKEA-0058A3?style=for-the-badge&logo=IKEA&logoColor=FFFFFF)
 ![Île-de-France Mobilités](https://img.shields.io/badge/%C3%8Ele-de-France%20Mobilit%C3%A9s-222222?style=for-the-badge&logo=%C3%8Ele-de-France+Mobilit%C3%A9s&logoColor=67B4E7)
 ![iLovePDF](https://img.shields.io/badge/iLovePDF-E5322D?style=for-the-badge&logo=iLovePDF&logoColor=FFFFFF)
+![Image Toolbox](https://img.shields.io/badge/Image%20Toolbox-222222?style=for-the-badge&logo=Image+Toolbox&logoColor=60EA78)
 ![Image.sc](https://img.shields.io/badge/Image.sc-039CB2?style=for-the-badge&logo=Image.sc&logoColor=FFFFFF)
 ![ImageJ](https://img.shields.io/badge/ImageJ-222222?style=for-the-badge&logo=ImageJ&logoColor=00D8E0)
 ![IMDb](https://img.shields.io/badge/IMDb-222222?style=for-the-badge&logo=IMDb&logoColor=F5C518)
