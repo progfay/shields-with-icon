@@ -1839,6 +1839,7 @@
 ![Mock Service Worker](https://img.shields.io/badge/Mock%20Service%20Worker-FF6A33?style=for-the-badge&logo=Mock+Service+Worker&logoColor=FFFFFF)
 ![Modal](https://img.shields.io/badge/Modal-222222?style=for-the-badge&logo=Modal&logoColor=7FEE64)
 ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=Model+Context+Protocol&logoColor=FFFFFF)
+![ModelScope](https://img.shields.io/badge/ModelScope-624AFF?style=for-the-badge&logo=ModelScope&logoColor=FFFFFF)
 ![Modin](https://img.shields.io/badge/Modin-001729?style=for-the-badge&logo=Modin&logoColor=FFFFFF)
 ![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=Modrinth&logoColor=FFFFFF)
 ![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=MODX&logoColor=FFFFFF)
