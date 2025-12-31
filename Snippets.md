@@ -2714,9 +2714,9 @@
 ```markdown
 ![Dailymotion](https://img.shields.io/badge/Dailymotion-0A0A0A?style=for-the-badge&logo=Dailymotion&logoColor=FFFFFF)
 ```
-## ![DaisyUI](https://img.shields.io/badge/DaisyUI-222222?style=for-the-badge&logo=DaisyUI&logoColor=1AD1A5)
+## ![daisyUI](https://img.shields.io/badge/daisyUI-222222?style=for-the-badge&logo=daisyUI&logoColor=FFC63A)
 ```markdown
-![DaisyUI](https://img.shields.io/badge/DaisyUI-222222?style=for-the-badge&logo=DaisyUI&logoColor=1AD1A5)
+![daisyUI](https://img.shields.io/badge/daisyUI-222222?style=for-the-badge&logo=daisyUI&logoColor=FFC63A)
 ```
 ## ![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=for-the-badge&logo=Dapr&logoColor=FFFFFF)
 ```markdown
@@ -4785,6 +4785,10 @@
 ## ![Graphite](https://img.shields.io/badge/Graphite-000000?style=for-the-badge&logo=Graphite&logoColor=FFFFFF)
 ```markdown
 ![Graphite](https://img.shields.io/badge/Graphite-000000?style=for-the-badge&logo=Graphite&logoColor=FFFFFF)
+```
+## ![Graphite](https://img.shields.io/badge/Graphite-473A3A?style=for-the-badge&logo=Graphite&logoColor=FFFFFF)
+```markdown
+![Graphite](https://img.shields.io/badge/Graphite-473A3A?style=for-the-badge&logo=Graphite&logoColor=FFFFFF)
 ```
 ## ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF)
 ```markdown
