@@ -12814,6 +12814,10 @@
 ```markdown
 ![Weasyl](https://img.shields.io/badge/Weasyl-990000?style=for-the-badge&logo=Weasyl&logoColor=FFFFFF)
 ```
+## ![Web Awesome](https://img.shields.io/badge/Web%20Awesome-F36944?style=for-the-badge&logo=Web+Awesome&logoColor=FFFFFF)
+```markdown
+![Web Awesome](https://img.shields.io/badge/Web%20Awesome-F36944?style=for-the-badge&logo=Web+Awesome&logoColor=FFFFFF)
+```
 ## ![WEB.DE](https://img.shields.io/badge/WEB.DE-222222?style=for-the-badge&logo=WEB.DE&logoColor=FFD800)
 ```markdown
 ![WEB.DE](https://img.shields.io/badge/WEB.DE-222222?style=for-the-badge&logo=WEB.DE&logoColor=FFD800)

@@ -3202,6 +3202,7 @@
 ![WazirX](https://img.shields.io/badge/WazirX-3067F0?style=for-the-badge&logo=WazirX&logoColor=FFFFFF)
 ![Wear OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=Wear+OS&logoColor=FFFFFF)
 ![Weasyl](https://img.shields.io/badge/Weasyl-990000?style=for-the-badge&logo=Weasyl&logoColor=FFFFFF)
+![Web Awesome](https://img.shields.io/badge/Web%20Awesome-F36944?style=for-the-badge&logo=Web+Awesome&logoColor=FFFFFF)
 ![WEB.DE](https://img.shields.io/badge/WEB.DE-222222?style=for-the-badge&logo=WEB.DE&logoColor=FFD800)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=FFFFFF)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=FFFFFF)
