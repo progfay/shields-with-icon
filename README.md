@@ -343,6 +343,7 @@
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge&logo=Bitdefender&logoColor=FFFFFF)
 ![Bitly](https://img.shields.io/badge/Bitly-EE6123?style=for-the-badge&logo=Bitly&logoColor=FFFFFF)
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=Bitrise&logoColor=FFFFFF)
+![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?style=for-the-badge&logo=Bitsy&logoColor=FFFFFF)
 ![BitTorrent](https://img.shields.io/badge/BitTorrent-050505?style=for-the-badge&logo=BitTorrent&logoColor=FFFFFF)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=Bitwarden&logoColor=FFFFFF)
 ![Bitwig](https://img.shields.io/badge/Bitwig-FF5A00?style=for-the-badge&logo=Bitwig&logoColor=FFFFFF)

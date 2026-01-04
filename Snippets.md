@@ -1378,6 +1378,10 @@
 ```markdown
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=Bitrise&logoColor=FFFFFF)
 ```
+## ![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?style=for-the-badge&logo=Bitsy&logoColor=FFFFFF)
+```markdown
+![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?style=for-the-badge&logo=Bitsy&logoColor=FFFFFF)
+```
 ## ![BitTorrent](https://img.shields.io/badge/BitTorrent-050505?style=for-the-badge&logo=BitTorrent&logoColor=FFFFFF)
 ```markdown
 ![BitTorrent](https://img.shields.io/badge/BitTorrent-050505?style=for-the-badge&logo=BitTorrent&logoColor=FFFFFF)
