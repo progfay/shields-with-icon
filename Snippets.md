@@ -510,6 +510,10 @@
 ```markdown
 ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
 ```
+## ![AniChart](https://img.shields.io/badge/AniChart-222222?style=for-the-badge&logo=AniChart&logoColor=41B1EA)
+```markdown
+![AniChart](https://img.shields.io/badge/AniChart-222222?style=for-the-badge&logo=AniChart&logoColor=41B1EA)
+```
 ## ![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=FFFFFF)
 ```markdown
 ![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=FFFFFF)
@@ -8086,6 +8090,10 @@
 ```markdown
 ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=FFFFFF)
 ```
+## ![Odido](https://img.shields.io/badge/Odido-2C72FF?style=for-the-badge&logo=Odido&logoColor=FFFFFF)
+```markdown
+![Odido](https://img.shields.io/badge/Odido-2C72FF?style=for-the-badge&logo=Odido&logoColor=FFFFFF)
+```
 ## ![Odin](https://img.shields.io/badge/Odin-3882D2?style=for-the-badge&logo=Odin&logoColor=FFFFFF)
 ```markdown
 ![Odin](https://img.shields.io/badge/Odin-3882D2?style=for-the-badge&logo=Odin&logoColor=FFFFFF)
@@ -9670,9 +9678,9 @@
 ```markdown
 ![ReactOS](https://img.shields.io/badge/ReactOS-0088CC?style=for-the-badge&logo=ReactOS&logoColor=FFFFFF)
 ```
-## ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?style=for-the-badge&logo=Read+the+Docs&logoColor=FFFFFF)
+## ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-000000?style=for-the-badge&logo=Read+the+Docs&logoColor=FFFFFF)
 ```markdown
-![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?style=for-the-badge&logo=Read+the+Docs&logoColor=FFFFFF)
+![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-000000?style=for-the-badge&logo=Read+the+Docs&logoColor=FFFFFF)
 ```
 ## ![Read.cv](https://img.shields.io/badge/Read.cv-111111?style=for-the-badge&logo=Read.cv&logoColor=FFFFFF)
 ```markdown
