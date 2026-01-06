@@ -7854,6 +7854,10 @@
 ```markdown
 ![Nim](https://img.shields.io/badge/Nim-222222?style=for-the-badge&logo=Nim&logoColor=FFE953)
 ```
+## ![niri](https://img.shields.io/badge/niri-D55C44?style=for-the-badge&logo=niri&logoColor=FFFFFF)
+```markdown
+![niri](https://img.shields.io/badge/niri-D55C44?style=for-the-badge&logo=niri&logoColor=FFFFFF)
+```
 ## ![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logo=Nissan&logoColor=FFFFFF)
 ```markdown
 ![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logo=Nissan&logoColor=FFFFFF)

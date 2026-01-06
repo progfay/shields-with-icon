@@ -1962,6 +1962,7 @@
 ![Nike](https://img.shields.io/badge/Nike-111111?style=for-the-badge&logo=Nike&logoColor=FFFFFF)
 ![Nikon](https://img.shields.io/badge/Nikon-222222?style=for-the-badge&logo=Nikon&logoColor=FFE100)
 ![Nim](https://img.shields.io/badge/Nim-222222?style=for-the-badge&logo=Nim&logoColor=FFE953)
+![niri](https://img.shields.io/badge/niri-D55C44?style=for-the-badge&logo=niri&logoColor=FFFFFF)
 ![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logo=Nissan&logoColor=FFFFFF)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=FFFFFF)
 ![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000000?style=for-the-badge&logo=Nobara+Linux&logoColor=FFFFFF)
