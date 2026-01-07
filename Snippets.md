@@ -3330,6 +3330,10 @@
 ```markdown
 ![edX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)
 ```
+## ![Effect](https://img.shields.io/badge/Effect-222222?style=for-the-badge&logo=Effect&logoColor=FFFFFF)
+```markdown
+![Effect](https://img.shields.io/badge/Effect-222222?style=for-the-badge&logo=Effect&logoColor=FFFFFF)
+```
 ## ![egghead](https://img.shields.io/badge/egghead-222222?style=for-the-badge&logo=egghead&logoColor=FCFBFA)
 ```markdown
 ![egghead](https://img.shields.io/badge/egghead-222222?style=for-the-badge&logo=egghead&logoColor=FCFBFA)
@@ -8138,6 +8142,10 @@
 ```markdown
 ![Omada Cloud](https://img.shields.io/badge/Omada%20Cloud-222222?style=for-the-badge&logo=Omada+Cloud&logoColor=10C1D0)
 ```
+## ![Omarchy](https://img.shields.io/badge/Omarchy-222222?style=for-the-badge&logo=Omarchy&logoColor=9ECE6A)
+```markdown
+![Omarchy](https://img.shields.io/badge/Omarchy-222222?style=for-the-badge&logo=Omarchy&logoColor=9ECE6A)
+```
 ## ![OnePlus](https://img.shields.io/badge/OnePlus-F5010C?style=for-the-badge&logo=OnePlus&logoColor=FFFFFF)
 ```markdown
 ![OnePlus](https://img.shields.io/badge/OnePlus-F5010C?style=for-the-badge&logo=OnePlus&logoColor=FFFFFF)
@@ -9782,6 +9790,10 @@
 ```markdown
 ![Refined GitHub](https://img.shields.io/badge/Refined%20GitHub-9E95B7?style=for-the-badge&logo=Refined+GitHub&logoColor=FFFFFF)
 ```
+## ![Reflex](https://img.shields.io/badge/Reflex-6E56CF?style=for-the-badge&logo=Reflex&logoColor=FFFFFF)
+```markdown
+![Reflex](https://img.shields.io/badge/Reflex-6E56CF?style=for-the-badge&logo=Reflex&logoColor=FFFFFF)
+```
 ## ![Reka UI](https://img.shields.io/badge/Reka%20UI-16A353?style=for-the-badge&logo=Reka+UI&logoColor=FFFFFF)
 ```markdown
 ![Reka UI](https://img.shields.io/badge/Reka%20UI-16A353?style=for-the-badge&logo=Reka+UI&logoColor=FFFFFF)
@@ -10297,6 +10309,10 @@
 ## ![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=Scaleway&logoColor=FFFFFF)
 ```markdown
 ![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=Scaleway&logoColor=FFFFFF)
+```
+## ![Scan](https://img.shields.io/badge/Scan-004C97?style=for-the-badge&logo=Scan&logoColor=FFFFFF)
+```markdown
+![Scan](https://img.shields.io/badge/Scan-004C97?style=for-the-badge&logo=Scan&logoColor=FFFFFF)
 ```
 ## ![Scania](https://img.shields.io/badge/Scania-041E42?style=for-the-badge&logo=Scania&logoColor=FFFFFF)
 ```markdown
