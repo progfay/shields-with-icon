@@ -694,6 +694,10 @@
 ```markdown
 ![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-222222?style=for-the-badge&logo=Apache+Parquet&logoColor=50ABF1)
 ```
+## ![Apache PDFBox](https://img.shields.io/badge/Apache%20PDFBox-34A5DA?style=for-the-badge&logo=Apache+PDFBox&logoColor=FFFFFF)
+```markdown
+![Apache PDFBox](https://img.shields.io/badge/Apache%20PDFBox-34A5DA?style=for-the-badge&logo=Apache+PDFBox&logoColor=FFFFFF)
+```
 ## ![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=Apache+Pulsar&logoColor=FFFFFF)
 ```markdown
 ![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=Apache+Pulsar&logoColor=FFFFFF)
