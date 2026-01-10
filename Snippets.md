@@ -3942,6 +3942,10 @@
 ```markdown
 ![Floorp](https://img.shields.io/badge/Floorp-5309E8?style=for-the-badge&logo=Floorp&logoColor=FFFFFF)
 ```
+## ![Flower](https://img.shields.io/badge/Flower-222222?style=for-the-badge&logo=Flower&logoColor=F2B705)
+```markdown
+![Flower](https://img.shields.io/badge/Flower-222222?style=for-the-badge&logo=Flower&logoColor=F2B705)
+```
 ## ![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-222222?style=for-the-badge&logo=Fluent+Bit&logoColor=49BDA5)
 ```markdown
 ![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-222222?style=for-the-badge&logo=Fluent+Bit&logoColor=49BDA5)
@@ -8837,6 +8841,10 @@
 ## ![Pioneer DJ](https://img.shields.io/badge/Pioneer%20DJ-1A1928?style=for-the-badge&logo=Pioneer+DJ&logoColor=FFFFFF)
 ```markdown
 ![Pioneer DJ](https://img.shields.io/badge/Pioneer%20DJ-1A1928?style=for-the-badge&logo=Pioneer+DJ&logoColor=FFFFFF)
+```
+## ![Pipecat](https://img.shields.io/badge/Pipecat-000000?style=for-the-badge&logo=Pipecat&logoColor=FFFFFF)
+```markdown
+![Pipecat](https://img.shields.io/badge/Pipecat-000000?style=for-the-badge&logo=Pipecat&logoColor=FFFFFF)
 ```
 ## ![Piped](https://img.shields.io/badge/Piped-F84330?style=for-the-badge&logo=Piped&logoColor=FFFFFF)
 ```markdown
