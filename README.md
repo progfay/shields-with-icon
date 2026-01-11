@@ -2566,7 +2566,7 @@
 ![Samsung Pay](https://img.shields.io/badge/Samsung%20Pay-1428A0?style=for-the-badge&logo=Samsung+Pay&logoColor=FFFFFF)
 ![San Francisco Municipal Railway](https://img.shields.io/badge/San%20Francisco%20Municipal%20Railway-BA0C2F?style=for-the-badge&logo=San+Francisco+Municipal+Railway&logoColor=FFFFFF)
 ![Sanic](https://img.shields.io/badge/Sanic-FF0D68?style=for-the-badge&logo=Sanic&logoColor=FFFFFF)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
+![Sanity](https://img.shields.io/badge/Sanity-0D0E12?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
 ![São Paulo Metro](https://img.shields.io/badge/S%C3%A3o%20Paulo%20Metro-004382?style=for-the-badge&logo=S%C3%A3o+Paulo+Metro&logoColor=FFFFFF)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=FFFFFF)
 ![Sartorius](https://img.shields.io/badge/Sartorius-222222?style=for-the-badge&logo=Sartorius&logoColor=FFED00)

@@ -10270,9 +10270,9 @@
 ```markdown
 ![Sanic](https://img.shields.io/badge/Sanic-FF0D68?style=for-the-badge&logo=Sanic&logoColor=FFFFFF)
 ```
-## ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
+## ![Sanity](https://img.shields.io/badge/Sanity-0D0E12?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
 ```markdown
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
+![Sanity](https://img.shields.io/badge/Sanity-0D0E12?style=for-the-badge&logo=Sanity&logoColor=FFFFFF)
 ```
 ## ![São Paulo Metro](https://img.shields.io/badge/S%C3%A3o%20Paulo%20Metro-004382?style=for-the-badge&logo=S%C3%A3o+Paulo+Metro&logoColor=FFFFFF)
 ```markdown
