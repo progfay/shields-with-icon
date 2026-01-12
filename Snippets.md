@@ -2502,6 +2502,10 @@
 ```markdown
 ![Cora](https://img.shields.io/badge/Cora-E61845?style=for-the-badge&logo=Cora&logoColor=FFFFFF)
 ```
+## ![Coreboot](https://img.shields.io/badge/Coreboot-000000?style=for-the-badge&logo=Coreboot&logoColor=FFFFFF)
+```markdown
+![Coreboot](https://img.shields.io/badge/Coreboot-000000?style=for-the-badge&logo=Coreboot&logoColor=FFFFFF)
+```
 ## ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=CorelDRAW&logoColor=FFFFFF)
 ```markdown
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=CorelDRAW&logoColor=FFFFFF)

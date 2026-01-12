@@ -624,6 +624,7 @@
 ![Copa Airlines](https://img.shields.io/badge/Copa%20Airlines-0032A0?style=for-the-badge&logo=Copa+Airlines&logoColor=FFFFFF)
 ![Coppel](https://img.shields.io/badge/Coppel-0266AE?style=for-the-badge&logo=Coppel&logoColor=FFFFFF)
 ![Cora](https://img.shields.io/badge/Cora-E61845?style=for-the-badge&logo=Cora&logoColor=FFFFFF)
+![Coreboot](https://img.shields.io/badge/Coreboot-000000?style=for-the-badge&logo=Coreboot&logoColor=FFFFFF)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=CorelDRAW&logoColor=FFFFFF)
 ![Corona Engine](https://img.shields.io/badge/Corona%20Engine-F96F29?style=for-the-badge&logo=Corona+Engine&logoColor=FFFFFF)
 ![Corona Renderer](https://img.shields.io/badge/Corona%20Renderer-E6502A?style=for-the-badge&logo=Corona+Renderer&logoColor=FFFFFF)
