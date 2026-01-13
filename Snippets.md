@@ -11770,6 +11770,10 @@
 ```markdown
 ![Thingiverse](https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=FFFFFF)
 ```
+## ![Things](https://img.shields.io/badge/Things-2473E7?style=for-the-badge&logo=Things&logoColor=FFFFFF)
+```markdown
+![Things](https://img.shields.io/badge/Things-2473E7?style=for-the-badge&logo=Things&logoColor=FFFFFF)
+```
 ## ![ThinkPad](https://img.shields.io/badge/ThinkPad-EE2624?style=for-the-badge&logo=ThinkPad&logoColor=FFFFFF)
 ```markdown
 ![ThinkPad](https://img.shields.io/badge/ThinkPad-EE2624?style=for-the-badge&logo=ThinkPad&logoColor=FFFFFF)
@@ -13110,9 +13114,9 @@
 ```markdown
 ![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=for-the-badge&logo=Wondershare+Filmora&logoColor=FFFFFF)
 ```
-## ![Woo](https://img.shields.io/badge/Woo-96588A?style=for-the-badge&logo=Woo&logoColor=FFFFFF)
+## ![Woo](https://img.shields.io/badge/Woo-873EFF?style=for-the-badge&logo=Woo&logoColor=FFFFFF)
 ```markdown
-![Woo](https://img.shields.io/badge/Woo-96588A?style=for-the-badge&logo=Woo&logoColor=FFFFFF)
+![Woo](https://img.shields.io/badge/Woo-873EFF?style=for-the-badge&logo=Woo&logoColor=FFFFFF)
 ```
 ## ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=FFFFFF)
 ```markdown
