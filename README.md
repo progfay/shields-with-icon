@@ -497,6 +497,7 @@
 ![Chevrolet](https://img.shields.io/badge/Chevrolet-CD9834?style=for-the-badge&logo=Chevrolet&logoColor=FFFFFF)
 ![Chia Network](https://img.shields.io/badge/Chia%20Network-222222?style=for-the-badge&logo=Chia+Network&logoColor=5ECE71)
 ![China Eastern Airlines](https://img.shields.io/badge/China%20Eastern%20Airlines-1A2477?style=for-the-badge&logo=China+Eastern+Airlines&logoColor=FFFFFF)
+![China Railway](https://img.shields.io/badge/China%20Railway-FF2600?style=for-the-badge&logo=China+Railway&logoColor=FFFFFF)
 ![China Southern Airlines](https://img.shields.io/badge/China%20Southern%20Airlines-008BCB?style=for-the-badge&logo=China+Southern+Airlines&logoColor=FFFFFF)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-222222?style=for-the-badge&logo=Chocolatey&logoColor=80B5E3)
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=Chromatic&logoColor=FFFFFF)

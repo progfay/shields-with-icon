@@ -1994,6 +1994,10 @@
 ```markdown
 ![China Eastern Airlines](https://img.shields.io/badge/China%20Eastern%20Airlines-1A2477?style=for-the-badge&logo=China+Eastern+Airlines&logoColor=FFFFFF)
 ```
+## ![China Railway](https://img.shields.io/badge/China%20Railway-FF2600?style=for-the-badge&logo=China+Railway&logoColor=FFFFFF)
+```markdown
+![China Railway](https://img.shields.io/badge/China%20Railway-FF2600?style=for-the-badge&logo=China+Railway&logoColor=FFFFFF)
+```
 ## ![China Southern Airlines](https://img.shields.io/badge/China%20Southern%20Airlines-008BCB?style=for-the-badge&logo=China+Southern+Airlines&logoColor=FFFFFF)
 ```markdown
 ![China Southern Airlines](https://img.shields.io/badge/China%20Southern%20Airlines-008BCB?style=for-the-badge&logo=China+Southern+Airlines&logoColor=FFFFFF)
