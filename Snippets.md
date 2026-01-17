@@ -2958,6 +2958,10 @@
 ```markdown
 ![Devbox](https://img.shields.io/badge/Devbox-280459?style=for-the-badge&logo=Devbox&logoColor=FFFFFF)
 ```
+## ![Development Containers](https://img.shields.io/badge/Development%20Containers-2753E3?style=for-the-badge&logo=Development+Containers&logoColor=FFFFFF)
+```markdown
+![Development Containers](https://img.shields.io/badge/Development%20Containers-2753E3?style=for-the-badge&logo=Development+Containers&logoColor=FFFFFF)
+```
 ## ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=DevExpress&logoColor=FFFFFF)
 ```markdown
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=DevExpress&logoColor=FFFFFF)
