@@ -8470,9 +8470,9 @@
 ```markdown
 ![ownCloud](https://img.shields.io/badge/ownCloud-041E42?style=for-the-badge&logo=ownCloud&logoColor=FFFFFF)
 ```
-## ![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=FF915C)
+## ![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=00F7F1)
 ```markdown
-![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=FF915C)
+![Oxc](https://img.shields.io/badge/Oxc-222222?style=for-the-badge&logo=Oxc&logoColor=00F7F1)
 ```
 ## ![Oxygen](https://img.shields.io/badge/Oxygen-3A209E?style=for-the-badge&logo=Oxygen&logoColor=FFFFFF)
 ```markdown
@@ -9141,6 +9141,10 @@
 ## ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=Prefect&logoColor=FFFFFF)
 ```markdown
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=Prefect&logoColor=FFFFFF)
+```
+## ![prek](https://img.shields.io/badge/prek-F54327?style=for-the-badge&logo=prek&logoColor=FFFFFF)
+```markdown
+![prek](https://img.shields.io/badge/prek-F54327?style=for-the-badge&logo=prek&logoColor=FFFFFF)
 ```
 ## ![PreMiD](https://img.shields.io/badge/PreMiD-7289DA?style=for-the-badge&logo=PreMiD&logoColor=FFFFFF)
 ```markdown
@@ -10062,9 +10066,9 @@
 ```markdown
 ![Rollbar](https://img.shields.io/badge/Rollbar-3569F3?style=for-the-badge&logo=Rollbar&logoColor=FFFFFF)
 ```
-## ![Rolldown](https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
+## ![Rolldown](https://img.shields.io/badge/Rolldown-FF4100?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
 ```markdown
-![Rolldown](https://img.shields.io/badge/Rolldown-FF7E17?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
+![Rolldown](https://img.shields.io/badge/Rolldown-FF4100?style=for-the-badge&logo=Rolldown&logoColor=FFFFFF)
 ```
 ## ![Rolls-Royce](https://img.shields.io/badge/Rolls-Royce-281432?style=for-the-badge&logo=Rolls-Royce&logoColor=FFFFFF)
 ```markdown
@@ -12658,9 +12662,9 @@
 ```markdown
 ![visx](https://img.shields.io/badge/visx-FF1231?style=for-the-badge&logo=visx&logoColor=FFFFFF)
 ```
-## ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=FFFFFF)
+## ![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=Vite&logoColor=FFFFFF)
 ```markdown
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=Vite&logoColor=FFFFFF)
 ```
 ## ![VitePress](https://img.shields.io/badge/VitePress-5C73E7?style=for-the-badge&logo=VitePress&logoColor=FFFFFF)
 ```markdown
@@ -12670,9 +12674,9 @@
 ```markdown
 ![Vitess](https://img.shields.io/badge/Vitess-F16728?style=for-the-badge&logo=Vitess&logoColor=FFFFFF)
 ```
-## ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=FFFFFF)
+## ![Vitest](https://img.shields.io/badge/Vitest-222222?style=for-the-badge&logo=Vitest&logoColor=00FF74)
 ```markdown
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=FFFFFF)
+![Vitest](https://img.shields.io/badge/Vitest-222222?style=for-the-badge&logo=Vitest&logoColor=00FF74)
 ```
 ## ![Viva Wallet](https://img.shields.io/badge/Viva%20Wallet-1F263A?style=for-the-badge&logo=Viva+Wallet&logoColor=FFFFFF)
 ```markdown
