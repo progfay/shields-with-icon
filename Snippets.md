@@ -2978,6 +2978,10 @@
 ```markdown
 ![devRant](https://img.shields.io/badge/devRant-222222?style=for-the-badge&logo=devRant&logoColor=F99A66)
 ```
+## ![Devuan](https://img.shields.io/badge/Devuan-004489?style=for-the-badge&logo=Devuan&logoColor=FFFFFF)
+```markdown
+![Devuan](https://img.shields.io/badge/Devuan-004489?style=for-the-badge&logo=Devuan&logoColor=FFFFFF)
+```
 ## ![Dgraph](https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=Dgraph&logoColor=FFFFFF)
 ```markdown
 ![Dgraph](https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=Dgraph&logoColor=FFFFFF)
@@ -6249,6 +6253,10 @@
 ## ![Kodi](https://img.shields.io/badge/Kodi-222222?style=for-the-badge&logo=Kodi&logoColor=17B2E7)
 ```markdown
 ![Kodi](https://img.shields.io/badge/Kodi-222222?style=for-the-badge&logo=Kodi&logoColor=17B2E7)
+```
+## ![Kodular](https://img.shields.io/badge/Kodular-4527A0?style=for-the-badge&logo=Kodular&logoColor=FFFFFF)
+```markdown
+![Kodular](https://img.shields.io/badge/Kodular-4527A0?style=for-the-badge&logo=Kodular&logoColor=FFFFFF)
 ```
 ## ![Koenigsegg](https://img.shields.io/badge/Koenigsegg-000000?style=for-the-badge&logo=Koenigsegg&logoColor=FFFFFF)
 ```markdown
