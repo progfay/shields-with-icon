@@ -5598,6 +5598,10 @@
 ```markdown
 ![Infracost](https://img.shields.io/badge/Infracost-DB44B8?style=for-the-badge&logo=Infracost&logoColor=FFFFFF)
 ```
+## ![Infuse](https://img.shields.io/badge/Infuse-FF8000?style=for-the-badge&logo=Infuse&logoColor=FFFFFF)
+```markdown
+![Infuse](https://img.shields.io/badge/Infuse-FF8000?style=for-the-badge&logo=Infuse&logoColor=FFFFFF)
+```
 ## ![Ingress](https://img.shields.io/badge/Ingress-783CBD?style=for-the-badge&logo=Ingress&logoColor=FFFFFF)
 ```markdown
 ![Ingress](https://img.shields.io/badge/Ingress-783CBD?style=for-the-badge&logo=Ingress&logoColor=FFFFFF)
@@ -8417,6 +8421,10 @@
 ## ![Origin](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=Origin&logoColor=FFFFFF)
 ```markdown
 ![Origin](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=Origin&logoColor=FFFFFF)
+```
+## ![Ory](https://img.shields.io/badge/Ory-4F46E5?style=for-the-badge&logo=Ory&logoColor=FFFFFF)
+```markdown
+![Ory](https://img.shields.io/badge/Ory-4F46E5?style=for-the-badge&logo=Ory&logoColor=FFFFFF)
 ```
 ## ![Osano](https://img.shields.io/badge/Osano-7764FA?style=for-the-badge&logo=Osano&logoColor=FFFFFF)
 ```markdown
