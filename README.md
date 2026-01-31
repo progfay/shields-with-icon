@@ -619,6 +619,7 @@
 ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-5E0D73?style=for-the-badge&logo=Contributor+Covenant&logoColor=FFFFFF)
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?style=for-the-badge&logo=Conventional+Commits&logoColor=FFFFFF)
 ![Convertio](https://img.shields.io/badge/Convertio-FF3333?style=for-the-badge&logo=Convertio&logoColor=FFFFFF)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=Convex&logoColor=FFFFFF)
 ![Cookiecutter](https://img.shields.io/badge/Cookiecutter-222222?style=for-the-badge&logo=Cookiecutter&logoColor=D4AA00)
 ![Cooler Master](https://img.shields.io/badge/Cooler%20Master-1E1E28?style=for-the-badge&logo=Cooler+Master&logoColor=FFFFFF)
 ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=Coolify&logoColor=FFFFFF)
