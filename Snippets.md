@@ -2894,6 +2894,10 @@
 ```markdown
 ![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=FFFFFF)
 ```
+## ![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=for-the-badge&logo=Deezer&logoColor=FFFFFF)
+```markdown
+![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=for-the-badge&logo=Deezer&logoColor=FFFFFF)
+```
 ## ![Deliveroo](https://img.shields.io/badge/Deliveroo-222222?style=for-the-badge&logo=Deliveroo&logoColor=00CCBC)
 ```markdown
 ![Deliveroo](https://img.shields.io/badge/Deliveroo-222222?style=for-the-badge&logo=Deliveroo&logoColor=00CCBC)
@@ -2914,9 +2918,13 @@
 ```markdown
 ![Deluge](https://img.shields.io/badge/Deluge-094491?style=for-the-badge&logo=Deluge&logoColor=FFFFFF)
 ```
-## ![Deno](https://img.shields.io/badge/Deno-222222?style=for-the-badge&logo=Deno&logoColor=70FFAF)
+## ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=Deno&logoColor=FFFFFF)
 ```markdown
-![Deno](https://img.shields.io/badge/Deno-222222?style=for-the-badge&logo=Deno&logoColor=70FFAF)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=Deno&logoColor=FFFFFF)
+```
+## ![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-002633?style=for-the-badge&logo=Deno+Deploy&logoColor=FFFFFF)
+```markdown
+![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-002633?style=for-the-badge&logo=Deno+Deploy&logoColor=FFFFFF)
 ```
 ## ![Denon](https://img.shields.io/badge/Denon-0B131A?style=for-the-badge&logo=Denon&logoColor=FFFFFF)
 ```markdown
@@ -7694,6 +7702,10 @@
 ```markdown
 ![NBC](https://img.shields.io/badge/NBC-222222?style=for-the-badge&logo=NBC&logoColor=FFFFFF)
 ```
+## ![NDI](https://img.shields.io/badge/NDI-000000?style=for-the-badge&logo=NDI&logoColor=FFFFFF)
+```markdown
+![NDI](https://img.shields.io/badge/NDI-000000?style=for-the-badge&logo=NDI&logoColor=FFFFFF)
+```
 ## ![NDR](https://img.shields.io/badge/NDR-0C1754?style=for-the-badge&logo=NDR&logoColor=FFFFFF)
 ```markdown
 ![NDR](https://img.shields.io/badge/NDR-0C1754?style=for-the-badge&logo=NDR&logoColor=FFFFFF)
@@ -8569,6 +8581,10 @@
 ## ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ```markdown
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+```
+## ![Pandoc](https://img.shields.io/badge/Pandoc-4093DA?style=for-the-badge&logo=Pandoc&logoColor=FFFFFF)
+```markdown
+![Pandoc](https://img.shields.io/badge/Pandoc-4093DA?style=for-the-badge&logo=Pandoc&logoColor=FFFFFF)
 ```
 ## ![Pandora](https://img.shields.io/badge/Pandora-224099?style=for-the-badge&logo=Pandora&logoColor=FFFFFF)
 ```markdown
