@@ -11386,6 +11386,10 @@
 ```markdown
 ![Super User](https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super+User&logoColor=FFFFFF)
 ```
+## ![Supercell](https://img.shields.io/badge/Supercell-222222?style=for-the-badge&logo=Supercell&logoColor=FFFFFF)
+```markdown
+![Supercell](https://img.shields.io/badge/Supercell-222222?style=for-the-badge&logo=Supercell&logoColor=FFFFFF)
+```
 ## ![Supercrease](https://img.shields.io/badge/Supercrease-000000?style=for-the-badge&logo=Supercrease&logoColor=FFFFFF)
 ```markdown
 ![Supercrease](https://img.shields.io/badge/Supercrease-000000?style=for-the-badge&logo=Supercrease&logoColor=FFFFFF)
@@ -11585,6 +11589,10 @@
 ## ![TAROM](https://img.shields.io/badge/TAROM-003366?style=for-the-badge&logo=TAROM&logoColor=FFFFFF)
 ```markdown
 ![TAROM](https://img.shields.io/badge/TAROM-003366?style=for-the-badge&logo=TAROM&logoColor=FFFFFF)
+```
+## ![Tarteaucitron](https://img.shields.io/badge/Tarteaucitron-222222?style=for-the-badge&logo=Tarteaucitron&logoColor=F7D917)
+```markdown
+![Tarteaucitron](https://img.shields.io/badge/Tarteaucitron-222222?style=for-the-badge&logo=Tarteaucitron&logoColor=F7D917)
 ```
 ## ![Task](https://img.shields.io/badge/Task-222222?style=for-the-badge&logo=Task&logoColor=29BEB0)
 ```markdown
