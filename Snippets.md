@@ -5570,6 +5570,10 @@
 ```markdown
 ![Indie Hackers](https://img.shields.io/badge/Indie%20Hackers-0E2439?style=for-the-badge&logo=Indie+Hackers&logoColor=FFFFFF)
 ```
+## ![IndieWeb](https://img.shields.io/badge/IndieWeb-FF0000?style=for-the-badge&logo=IndieWeb&logoColor=FFFFFF)
+```markdown
+![IndieWeb](https://img.shields.io/badge/IndieWeb-FF0000?style=for-the-badge&logo=IndieWeb&logoColor=FFFFFF)
+```
 ## ![IndiGo](https://img.shields.io/badge/IndiGo-09009B?style=for-the-badge&logo=IndiGo&logoColor=FFFFFF)
 ```markdown
 ![IndiGo](https://img.shields.io/badge/IndiGo-09009B?style=for-the-badge&logo=IndiGo&logoColor=FFFFFF)
@@ -8421,6 +8425,10 @@
 ## ![Orange](https://img.shields.io/badge/Orange-FF7900?style=for-the-badge&logo=Orange&logoColor=FFFFFF)
 ```markdown
 ![Orange](https://img.shields.io/badge/Orange-FF7900?style=for-the-badge&logo=Orange&logoColor=FFFFFF)
+```
+## ![Orchard Core](https://img.shields.io/badge/Orchard%20Core-41B670?style=for-the-badge&logo=Orchard+Core&logoColor=FFFFFF)
+```markdown
+![Orchard Core](https://img.shields.io/badge/Orchard%20Core-41B670?style=for-the-badge&logo=Orchard+Core&logoColor=FFFFFF)
 ```
 ## ![ORCID](https://img.shields.io/badge/ORCID-222222?style=for-the-badge&logo=ORCID&logoColor=A6CE39)
 ```markdown
