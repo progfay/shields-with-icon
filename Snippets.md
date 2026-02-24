@@ -1198,6 +1198,10 @@
 ```markdown
 ![Barmenia](https://img.shields.io/badge/Barmenia-009FE3?style=for-the-badge&logo=Barmenia&logoColor=FFFFFF)
 ```
+## ![Base UI](https://img.shields.io/badge/Base%20UI-222222?style=for-the-badge&logo=Base+UI&logoColor=EDEDED)
+```markdown
+![Base UI](https://img.shields.io/badge/Base%20UI-222222?style=for-the-badge&logo=Base+UI&logoColor=EDEDED)
+```
 ## ![Basecamp](https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=Basecamp&logoColor=FFFFFF)
 ```markdown
 ![Basecamp](https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=Basecamp&logoColor=FFFFFF)
@@ -6802,6 +6806,10 @@
 ```markdown
 ![LoopBack](https://img.shields.io/badge/LoopBack-3F5DFF?style=for-the-badge&logo=LoopBack&logoColor=FFFFFF)
 ```
+## ![Loops](https://img.shields.io/badge/Loops-FC5200?style=for-the-badge&logo=Loops&logoColor=FFFFFF)
+```markdown
+![Loops](https://img.shields.io/badge/Loops-FC5200?style=for-the-badge&logo=Loops&logoColor=FFFFFF)
+```
 ## ![Loot Crate](https://img.shields.io/badge/Loot%20Crate-1E1E1E?style=for-the-badge&logo=Loot+Crate&logoColor=FFFFFF)
 ```markdown
 ![Loot Crate](https://img.shields.io/badge/Loot%20Crate-1E1E1E?style=for-the-badge&logo=Loot+Crate&logoColor=FFFFFF)
@@ -8597,6 +8605,10 @@
 ## ![Pandora](https://img.shields.io/badge/Pandora-224099?style=for-the-badge&logo=Pandora&logoColor=FFFFFF)
 ```markdown
 ![Pandora](https://img.shields.io/badge/Pandora-224099?style=for-the-badge&logo=Pandora&logoColor=FFFFFF)
+```
+## ![Pangolin](https://img.shields.io/badge/Pangolin-F36118?style=for-the-badge&logo=Pangolin&logoColor=FFFFFF)
+```markdown
+![Pangolin](https://img.shields.io/badge/Pangolin-F36118?style=for-the-badge&logo=Pangolin&logoColor=FFFFFF)
 ```
 ## ![Pantheon](https://img.shields.io/badge/Pantheon-222222?style=for-the-badge&logo=Pantheon&logoColor=FFDC28)
 ```markdown
@@ -11894,6 +11906,10 @@
 ```markdown
 ![TIDAL](https://img.shields.io/badge/TIDAL-000000?style=for-the-badge&logo=TIDAL&logoColor=FFFFFF)
 ```
+## ![TiDB](https://img.shields.io/badge/TiDB-DC150B?style=for-the-badge&logo=TiDB&logoColor=FFFFFF)
+```markdown
+![TiDB](https://img.shields.io/badge/TiDB-DC150B?style=for-the-badge&logo=TiDB&logoColor=FFFFFF)
+```
 ## ![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-111111?style=for-the-badge&logo=TiddlyWiki&logoColor=FFFFFF)
 ```markdown
 ![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-111111?style=for-the-badge&logo=TiddlyWiki&logoColor=FFFFFF)
@@ -13353,6 +13369,10 @@
 ## ![Yeti](https://img.shields.io/badge/Yeti-00263C?style=for-the-badge&logo=Yeti&logoColor=FFFFFF)
 ```markdown
 ![Yeti](https://img.shields.io/badge/Yeti-00263C?style=for-the-badge&logo=Yeti&logoColor=FFFFFF)
+```
+## ![Yew](https://img.shields.io/badge/Yew-009A5B?style=for-the-badge&logo=Yew&logoColor=FFFFFF)
+```markdown
+![Yew](https://img.shields.io/badge/Yew-009A5B?style=for-the-badge&logo=Yew&logoColor=FFFFFF)
 ```
 ## ![Yii](https://img.shields.io/badge/Yii-222222?style=for-the-badge&logo=Yii&logoColor=40B3D8)
 ```markdown
