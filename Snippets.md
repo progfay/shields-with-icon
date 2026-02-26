@@ -4354,6 +4354,10 @@
 ```markdown
 ![Ghostery](https://img.shields.io/badge/Ghostery-00AEF0?style=for-the-badge&logo=Ghostery&logoColor=FFFFFF)
 ```
+## ![Ghostfolio](https://img.shields.io/badge/Ghostfolio-222222?style=for-the-badge&logo=Ghostfolio&logoColor=36CFCC)
+```markdown
+![Ghostfolio](https://img.shields.io/badge/Ghostfolio-222222?style=for-the-badge&logo=Ghostfolio&logoColor=36CFCC)
+```
 ## ![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&logo=Ghostty&logoColor=FFFFFF)
 ```markdown
 ![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&logo=Ghostty&logoColor=FFFFFF)
@@ -6058,6 +6062,10 @@
 ```markdown
 ![Kaniko](https://img.shields.io/badge/Kaniko-222222?style=for-the-badge&logo=Kaniko&logoColor=FFA600)
 ```
+## ![Karakeep](https://img.shields.io/badge/Karakeep-000000?style=for-the-badge&logo=Karakeep&logoColor=FFFFFF)
+```markdown
+![Karakeep](https://img.shields.io/badge/Karakeep-000000?style=for-the-badge&logo=Karakeep&logoColor=FFFFFF)
+```
 ## ![Karlsruher Verkehrsverbund](https://img.shields.io/badge/Karlsruher%20Verkehrsverbund-9B2321?style=for-the-badge&logo=Karlsruher+Verkehrsverbund&logoColor=FFFFFF)
 ```markdown
 ![Karlsruher Verkehrsverbund](https://img.shields.io/badge/Karlsruher%20Verkehrsverbund-9B2321?style=for-the-badge&logo=Karlsruher+Verkehrsverbund&logoColor=FFFFFF)
@@ -6669,6 +6677,10 @@
 ## ![Linktree](https://img.shields.io/badge/Linktree-222222?style=for-the-badge&logo=Linktree&logoColor=43E55E)
 ```markdown
 ![Linktree](https://img.shields.io/badge/Linktree-222222?style=for-the-badge&logo=Linktree&logoColor=43E55E)
+```
+## ![Linkvertise](https://img.shields.io/badge/Linkvertise-222222?style=for-the-badge&logo=Linkvertise&logoColor=FF8114)
+```markdown
+![Linkvertise](https://img.shields.io/badge/Linkvertise-222222?style=for-the-badge&logo=Linkvertise&logoColor=FF8114)
 ```
 ## ![Linphone](https://img.shields.io/badge/Linphone-FF5E00?style=for-the-badge&logo=Linphone&logoColor=FFFFFF)
 ```markdown
@@ -10906,6 +10918,10 @@
 ```markdown
 ![Solus](https://img.shields.io/badge/Solus-5294E2?style=for-the-badge&logo=Solus&logoColor=FFFFFF)
 ```
+## ![solved.ac](https://img.shields.io/badge/solved.ac-222222?style=for-the-badge&logo=solved.ac&logoColor=17CE3A)
+```markdown
+![solved.ac](https://img.shields.io/badge/solved.ac-222222?style=for-the-badge&logo=solved.ac&logoColor=17CE3A)
+```
 ## ![Sonar](https://img.shields.io/badge/Sonar-FD3456?style=for-the-badge&logo=Sonar&logoColor=FFFFFF)
 ```markdown
 ![Sonar](https://img.shields.io/badge/Sonar-FD3456?style=for-the-badge&logo=Sonar&logoColor=FFFFFF)
@@ -12137,6 +12153,10 @@
 ## ![Treyarch](https://img.shields.io/badge/Treyarch-000000?style=for-the-badge&logo=Treyarch&logoColor=FFFFFF)
 ```markdown
 ![Treyarch](https://img.shields.io/badge/Treyarch-000000?style=for-the-badge&logo=Treyarch&logoColor=FFFFFF)
+```
+## ![Trezor](https://img.shields.io/badge/Trezor-141609?style=for-the-badge&logo=Trezor&logoColor=FFFFFF)
+```markdown
+![Trezor](https://img.shields.io/badge/Trezor-141609?style=for-the-badge&logo=Trezor&logoColor=FFFFFF)
 ```
 ## ![Tricentis](https://img.shields.io/badge/Tricentis-12438C?style=for-the-badge&logo=Tricentis&logoColor=FFFFFF)
 ```markdown
