@@ -3157,7 +3157,7 @@
 ![VEGAS](https://img.shields.io/badge/VEGAS-1A1A1A?style=for-the-badge&logo=VEGAS&logoColor=FFFFFF)
 ![Velocity](https://img.shields.io/badge/Velocity-222222?style=for-the-badge&logo=Velocity&logoColor=1BBAE0)
 ![Velog](https://img.shields.io/badge/Velog-222222?style=for-the-badge&logo=Velog&logoColor=20C997)
-![Vencord](https://img.shields.io/badge/Vencord-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
+![Vencord](https://img.shields.io/badge/Vencord-EB7396?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
 ![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=Venmo&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)
 ![Verdaccio](https://img.shields.io/badge/Verdaccio-4B5E40?style=for-the-badge&logo=Verdaccio&logoColor=FFFFFF)

@@ -12634,9 +12634,9 @@
 ```markdown
 ![Velog](https://img.shields.io/badge/Velog-222222?style=for-the-badge&logo=Velog&logoColor=20C997)
 ```
-## ![Vencord](https://img.shields.io/badge/Vencord-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
+## ![Vencord](https://img.shields.io/badge/Vencord-EB7396?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
 ```markdown
-![Vencord](https://img.shields.io/badge/Vencord-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
+![Vencord](https://img.shields.io/badge/Vencord-EB7396?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
 ```
 ## ![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=Venmo&logoColor=FFFFFF)
 ```markdown
