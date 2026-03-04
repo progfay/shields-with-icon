@@ -1699,6 +1699,7 @@
 ![LogMeIn](https://img.shields.io/badge/LogMeIn-222222?style=for-the-badge&logo=LogMeIn&logoColor=45B6F2)
 ![Logseq](https://img.shields.io/badge/Logseq-222222?style=for-the-badge&logo=Logseq&logoColor=85C8C8)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=FFFFFF)
+![Longhorn](https://img.shields.io/badge/Longhorn-5F224B?style=for-the-badge&logo=Longhorn&logoColor=FFFFFF)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
 ![Loom](https://img.shields.io/badge/Loom-625DF5?style=for-the-badge&logo=Loom&logoColor=FFFFFF)
 ![Loop](https://img.shields.io/badge/Loop-222222?style=for-the-badge&logo=Loop&logoColor=F29400)

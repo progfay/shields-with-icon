@@ -6802,6 +6802,10 @@
 ```markdown
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=FFFFFF)
 ```
+## ![Longhorn](https://img.shields.io/badge/Longhorn-5F224B?style=for-the-badge&logo=Longhorn&logoColor=FFFFFF)
+```markdown
+![Longhorn](https://img.shields.io/badge/Longhorn-5F224B?style=for-the-badge&logo=Longhorn&logoColor=FFFFFF)
+```
 ## ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
 ```markdown
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
