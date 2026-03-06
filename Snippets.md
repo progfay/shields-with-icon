@@ -2106,6 +2106,10 @@
 ```markdown
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=FFFFFF)
 ```
+## ![Cline](https://img.shields.io/badge/Cline-18181B?style=for-the-badge&logo=Cline&logoColor=FFFFFF)
+```markdown
+![Cline](https://img.shields.io/badge/Cline-18181B?style=for-the-badge&logo=Cline&logoColor=FFFFFF)
+```
 ## ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=FFFFFF)
 ```markdown
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=FFFFFF)

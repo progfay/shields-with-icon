@@ -525,6 +525,7 @@
 ![Clever Cloud](https://img.shields.io/badge/Clever%20Cloud-171C36?style=for-the-badge&logo=Clever+Cloud&logoColor=FFFFFF)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-222222?style=for-the-badge&logo=ClickHouse&logoColor=FFCC01)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=FFFFFF)
+![Cline](https://img.shields.io/badge/Cline-18181B?style=for-the-badge&logo=Cline&logoColor=FFFFFF)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=FFFFFF)
 ![Clockify](https://img.shields.io/badge/Clockify-03A9F4?style=for-the-badge&logo=Clockify&logoColor=FFFFFF)
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=Clojure&logoColor=FFFFFF)
