@@ -774,6 +774,7 @@
 ![DJI](https://img.shields.io/badge/DJI-000000?style=for-the-badge&logo=DJI&logoColor=FFFFFF)
 ![Dlib](https://img.shields.io/badge/Dlib-008000?style=for-the-badge&logo=Dlib&logoColor=FFFFFF)
 ![DLNA](https://img.shields.io/badge/DLNA-48A842?style=for-the-badge&logo=DLNA&logoColor=FFFFFF)
+![dlthub](https://img.shields.io/badge/dlthub-222222?style=for-the-badge&logo=dlthub&logoColor=59C1D5)
 ![dm](https://img.shields.io/badge/dm-002878?style=for-the-badge&logo=dm&logoColor=FFFFFF)
 ![DMM](https://img.shields.io/badge/DMM-000000?style=for-the-badge&logo=DMM&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
