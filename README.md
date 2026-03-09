@@ -615,6 +615,7 @@
 ![Contactless Payment](https://img.shields.io/badge/Contactless%20Payment-000000?style=for-the-badge&logo=Contactless+Payment&logoColor=FFFFFF)
 ![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=FFFFFF)
 ![Contao](https://img.shields.io/badge/Contao-F47C00?style=for-the-badge&logo=Contao&logoColor=FFFFFF)
+![Contensis](https://img.shields.io/badge/Contensis-222222?style=for-the-badge&logo=Contensis&logoColor=37BFA7)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=Contentful&logoColor=FFFFFF)
 ![Contentstack](https://img.shields.io/badge/Contentstack-E74C3D?style=for-the-badge&logo=Contentstack&logoColor=FFFFFF)
 ![Continente](https://img.shields.io/badge/Continente-E31E24?style=for-the-badge&logo=Continente&logoColor=FFFFFF)

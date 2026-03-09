@@ -2466,6 +2466,10 @@
 ```markdown
 ![Contao](https://img.shields.io/badge/Contao-F47C00?style=for-the-badge&logo=Contao&logoColor=FFFFFF)
 ```
+## ![Contensis](https://img.shields.io/badge/Contensis-222222?style=for-the-badge&logo=Contensis&logoColor=37BFA7)
+```markdown
+![Contensis](https://img.shields.io/badge/Contensis-222222?style=for-the-badge&logo=Contensis&logoColor=37BFA7)
+```
 ## ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=Contentful&logoColor=FFFFFF)
 ```markdown
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=Contentful&logoColor=FFFFFF)
