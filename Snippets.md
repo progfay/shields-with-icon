@@ -3026,6 +3026,10 @@
 ```markdown
 ![Diaspora](https://img.shields.io/badge/Diaspora-000000?style=for-the-badge&logo=Diaspora&logoColor=FFFFFF)
 ```
+## ![DiceBear](https://img.shields.io/badge/DiceBear-0284C7?style=for-the-badge&logo=DiceBear&logoColor=FFFFFF)
+```markdown
+![DiceBear](https://img.shields.io/badge/DiceBear-0284C7?style=for-the-badge&logo=DiceBear&logoColor=FFFFFF)
+```
 ## ![Dictionary.com](https://img.shields.io/badge/Dictionary.com-0049D7?style=for-the-badge&logo=Dictionary.com&logoColor=FFFFFF)
 ```markdown
 ![Dictionary.com](https://img.shields.io/badge/Dictionary.com-0049D7?style=for-the-badge&logo=Dictionary.com&logoColor=FFFFFF)
