@@ -8306,6 +8306,10 @@
 ```markdown
 ![OpenAPI Initiative](https://img.shields.io/badge/OpenAPI%20Initiative-6BA539?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=FFFFFF)
 ```
+## ![OpenBao](https://img.shields.io/badge/OpenBao-336D5C?style=for-the-badge&logo=OpenBao&logoColor=FFFFFF)
+```markdown
+![OpenBao](https://img.shields.io/badge/OpenBao-336D5C?style=for-the-badge&logo=OpenBao&logoColor=FFFFFF)
+```
 ## ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
 ```markdown
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)

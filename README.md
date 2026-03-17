@@ -2075,6 +2075,7 @@
 ![Open3D](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=Open3D&logoColor=FFFFFF)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=OpenAI+Gym&logoColor=FFFFFF)
 ![OpenAPI Initiative](https://img.shields.io/badge/OpenAPI%20Initiative-6BA539?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=FFFFFF)
+![OpenBao](https://img.shields.io/badge/OpenBao-336D5C?style=for-the-badge&logo=OpenBao&logoColor=FFFFFF)
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-222222?style=for-the-badge&logo=OpenBSD&logoColor=F2CA30)
 ![OpenCage](https://img.shields.io/badge/OpenCage-1A8865?style=for-the-badge&logo=OpenCage&logoColor=FFFFFF)
 ![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
