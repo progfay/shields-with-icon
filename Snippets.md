@@ -6426,9 +6426,9 @@
 ```markdown
 ![Lamborghini](https://img.shields.io/badge/Lamborghini-222222?style=for-the-badge&logo=Lamborghini&logoColor=B6A272)
 ```
-## ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
+## ![LangChain](https://img.shields.io/badge/LangChain-222222?style=for-the-badge&logo=LangChain&logoColor=7FC8FF)
 ```markdown
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-222222?style=for-the-badge&logo=LangChain&logoColor=7FC8FF)
 ```
 ## ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
 ```markdown

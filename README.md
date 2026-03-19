@@ -1605,7 +1605,7 @@
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-222222?style=for-the-badge&logo=LabVIEW&logoColor=FFDB00)
 ![LADA](https://img.shields.io/badge/LADA-ED6B21?style=for-the-badge&logo=LADA&logoColor=FFFFFF)
 ![Lamborghini](https://img.shields.io/badge/Lamborghini-222222?style=for-the-badge&logo=Lamborghini&logoColor=B6A272)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-222222?style=for-the-badge&logo=LangChain&logoColor=7FC8FF)
 ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
 ![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FC?style=for-the-badge&logo=LanguageTool&logoColor=FFFFFF)
