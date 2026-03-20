@@ -3034,6 +3034,10 @@
 ```markdown
 ![Dictionary.com](https://img.shields.io/badge/Dictionary.com-0049D7?style=for-the-badge&logo=Dictionary.com&logoColor=FFFFFF)
 ```
+## ![Dify](https://img.shields.io/badge/Dify-0033FF?style=for-the-badge&logo=Dify&logoColor=FFFFFF)
+```markdown
+![Dify](https://img.shields.io/badge/Dify-0033FF?style=for-the-badge&logo=Dify&logoColor=FFFFFF)
+```
 ## ![Digg](https://img.shields.io/badge/Digg-000000?style=for-the-badge&logo=Digg&logoColor=FFFFFF)
 ```markdown
 ![Digg](https://img.shields.io/badge/Digg-000000?style=for-the-badge&logo=Digg&logoColor=FFFFFF)

@@ -757,6 +757,7 @@
 ![Diaspora](https://img.shields.io/badge/Diaspora-000000?style=for-the-badge&logo=Diaspora&logoColor=FFFFFF)
 ![DiceBear](https://img.shields.io/badge/DiceBear-0284C7?style=for-the-badge&logo=DiceBear&logoColor=FFFFFF)
 ![Dictionary.com](https://img.shields.io/badge/Dictionary.com-0049D7?style=for-the-badge&logo=Dictionary.com&logoColor=FFFFFF)
+![Dify](https://img.shields.io/badge/Dify-0033FF?style=for-the-badge&logo=Dify&logoColor=FFFFFF)
 ![Digg](https://img.shields.io/badge/Digg-000000?style=for-the-badge&logo=Digg&logoColor=FFFFFF)
 ![Digi-Key Electronics](https://img.shields.io/badge/Digi-Key%20Electronics-CC0000?style=for-the-badge&logo=Digi-Key+Electronics&logoColor=FFFFFF)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=FFFFFF)
