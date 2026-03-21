@@ -2382,7 +2382,7 @@
 ![Qatar Airways](https://img.shields.io/badge/Qatar%20Airways-5C0D34?style=for-the-badge&logo=Qatar+Airways&logoColor=FFFFFF)
 ![qbittorrent](https://img.shields.io/badge/qbittorrent-2F67BA?style=for-the-badge&logo=qbittorrent&logoColor=FFFFFF)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=FFFFFF)
-![Qgis](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=FFFFFF)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=FFFFFF)
 ![Qi](https://img.shields.io/badge/Qi-000000?style=for-the-badge&logo=Qi&logoColor=FFFFFF)
 ![Qiita](https://img.shields.io/badge/Qiita-222222?style=for-the-badge&logo=Qiita&logoColor=55C500)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=FFFFFF)

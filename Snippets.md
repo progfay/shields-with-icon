@@ -9534,9 +9534,9 @@
 ```markdown
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=FFFFFF)
 ```
-## ![Qgis](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=FFFFFF)
+## ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=FFFFFF)
 ```markdown
-![Qgis](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=FFFFFF)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=FFFFFF)
 ```
 ## ![Qi](https://img.shields.io/badge/Qi-000000?style=for-the-badge&logo=Qi&logoColor=FFFFFF)
 ```markdown
