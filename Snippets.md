@@ -9530,6 +9530,10 @@
 ```markdown
 ![qbittorrent](https://img.shields.io/badge/qbittorrent-2F67BA?style=for-the-badge&logo=qbittorrent&logoColor=FFFFFF)
 ```
+## ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=Qdrant&logoColor=FFFFFF)
+```markdown
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=Qdrant&logoColor=FFFFFF)
+```
 ## ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=FFFFFF)
 ```markdown
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=FFFFFF)
