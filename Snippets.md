@@ -2538,9 +2538,9 @@
 ```markdown
 ![Corona Renderer](https://img.shields.io/badge/Corona%20Renderer-E6502A?style=for-the-badge&logo=Corona+Renderer&logoColor=FFFFFF)
 ```
-## ![Corsair](https://img.shields.io/badge/Corsair-000000?style=for-the-badge&logo=Corsair&logoColor=FFFFFF)
+## ![Corsair](https://img.shields.io/badge/Corsair-231F20?style=for-the-badge&logo=Corsair&logoColor=FFFFFF)
 ```markdown
-![Corsair](https://img.shields.io/badge/Corsair-000000?style=for-the-badge&logo=Corsair&logoColor=FFFFFF)
+![Corsair](https://img.shields.io/badge/Corsair-231F20?style=for-the-badge&logo=Corsair&logoColor=FFFFFF)
 ```
 ## ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=Couchbase&logoColor=FFFFFF)
 ```markdown
@@ -10322,6 +10322,10 @@
 ```markdown
 ![RustDesk](https://img.shields.io/badge/RustDesk-024EFF?style=for-the-badge&logo=RustDesk&logoColor=FFFFFF)
 ```
+## ![RustFS](https://img.shields.io/badge/RustFS-0196D0?style=for-the-badge&logo=RustFS&logoColor=FFFFFF)
+```markdown
+![RustFS](https://img.shields.io/badge/RustFS-0196D0?style=for-the-badge&logo=RustFS&logoColor=FFFFFF)
+```
 ## ![RxDB](https://img.shields.io/badge/RxDB-8D1F89?style=for-the-badge&logo=RxDB&logoColor=FFFFFF)
 ```markdown
 ![RxDB](https://img.shields.io/badge/RxDB-8D1F89?style=for-the-badge&logo=RxDB&logoColor=FFFFFF)
@@ -11097,6 +11101,10 @@
 ## ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=Sphinx&logoColor=FFFFFF)
 ```markdown
 ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=Sphinx&logoColor=FFFFFF)
+```
+## ![SpiderMonkey](https://img.shields.io/badge/SpiderMonkey-222222?style=for-the-badge&logo=SpiderMonkey&logoColor=FFD681)
+```markdown
+![SpiderMonkey](https://img.shields.io/badge/SpiderMonkey-222222?style=for-the-badge&logo=SpiderMonkey&logoColor=FFD681)
 ```
 ## ![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106?style=for-the-badge&logo=SpigotMC&logoColor=FFFFFF)
 ```markdown
@@ -12341,6 +12349,10 @@
 ## ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
 ```markdown
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
+```
+## ![ty](https://img.shields.io/badge/ty-222222?style=for-the-badge&logo=ty&logoColor=46EBE1)
+```markdown
+![ty](https://img.shields.io/badge/ty-222222?style=for-the-badge&logo=ty&logoColor=46EBE1)
 ```
 ## ![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=Typeform&logoColor=FFFFFF)
 ```markdown
