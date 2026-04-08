@@ -12246,6 +12246,10 @@
 ```markdown
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=Trivy&logoColor=FFFFFF)
 ```
+## ![TRMNL](https://img.shields.io/badge/TRMNL-F8654B?style=for-the-badge&logo=TRMNL&logoColor=FFFFFF)
+```markdown
+![TRMNL](https://img.shields.io/badge/TRMNL-F8654B?style=for-the-badge&logo=TRMNL&logoColor=FFFFFF)
+```
 ## ![Trove](https://img.shields.io/badge/Trove-2D004B?style=for-the-badge&logo=Trove&logoColor=FFFFFF)
 ```markdown
 ![Trove](https://img.shields.io/badge/Trove-2D004B?style=for-the-badge&logo=Trove&logoColor=FFFFFF)

@@ -3060,6 +3060,7 @@
 ![Tripadvisor](https://img.shields.io/badge/Tripadvisor-222222?style=for-the-badge&logo=Tripadvisor&logoColor=34E0A1)
 ![trivago](https://img.shields.io/badge/trivago-E32851?style=for-the-badge&logo=trivago&logoColor=FFFFFF)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=Trivy&logoColor=FFFFFF)
+![TRMNL](https://img.shields.io/badge/TRMNL-F8654B?style=for-the-badge&logo=TRMNL&logoColor=FFFFFF)
 ![Trove](https://img.shields.io/badge/Trove-2D004B?style=for-the-badge&logo=Trove&logoColor=FFFFFF)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=FFFFFF)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=TrueNAS&logoColor=FFFFFF)
