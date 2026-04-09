@@ -1750,6 +1750,10 @@
 ```markdown
 ![Cachet](https://img.shields.io/badge/Cachet-222222?style=for-the-badge&logo=Cachet&logoColor=7ED321)
 ```
+## ![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=CachyOS&logoColor=FFFFFF)
+```markdown
+![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=CachyOS&logoColor=FFFFFF)
+```
 ## ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=Caddy&logoColor=FFFFFF)
 ```markdown
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=Caddy&logoColor=FFFFFF)
@@ -4021,6 +4025,10 @@
 ## ![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=Flux&logoColor=FFFFFF)
 ```markdown
 ![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=Flux&logoColor=FFFFFF)
+```
+## ![Fluxer](https://img.shields.io/badge/Fluxer-4641D9?style=for-the-badge&logo=Fluxer&logoColor=FFFFFF)
+```markdown
+![Fluxer](https://img.shields.io/badge/Fluxer-4641D9?style=for-the-badge&logo=Fluxer&logoColor=FFFFFF)
 ```
 ## ![Fly.io](https://img.shields.io/badge/Fly.io-24175B?style=for-the-badge&logo=Fly.io&logoColor=FFFFFF)
 ```markdown
