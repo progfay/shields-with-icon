@@ -6818,6 +6818,10 @@
 ```markdown
 ![LocalXpose](https://img.shields.io/badge/LocalXpose-6023C0?style=for-the-badge&logo=LocalXpose&logoColor=FFFFFF)
 ```
+## ![Locust](https://img.shields.io/badge/Locust-222222?style=for-the-badge&logo=Locust&logoColor=B8EE4B)
+```markdown
+![Locust](https://img.shields.io/badge/Locust-222222?style=for-the-badge&logo=Locust&logoColor=B8EE4B)
+```
 ## ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=FFFFFF)
 ```markdown
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=FFFFFF)
@@ -12857,6 +12861,10 @@
 ## ![VLC media player](https://img.shields.io/badge/VLC%20media%20player-222222?style=for-the-badge&logo=VLC+media+player&logoColor=FF8800)
 ```markdown
 ![VLC media player](https://img.shields.io/badge/VLC%20media%20player-222222?style=for-the-badge&logo=VLC+media+player&logoColor=FF8800)
+```
+## ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vLLM&logoColor=FFFFFF)
+```markdown
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vLLM&logoColor=FFFFFF)
 ```
 ## ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=FFFFFF)
 ```markdown
