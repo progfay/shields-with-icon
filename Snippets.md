@@ -3594,9 +3594,9 @@
 ```markdown
 ![Esoteric Software](https://img.shields.io/badge/Esoteric%20Software-3FA9F5?style=for-the-badge&logo=Esoteric+Software&logoColor=FFFFFF)
 ```
-## ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=ESPHome&logoColor=FFFFFF)
+## ![ESPHome](https://img.shields.io/badge/ESPHome-222222?style=for-the-badge&logo=ESPHome&logoColor=18BCF2)
 ```markdown
-![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=ESPHome&logoColor=FFFFFF)
+![ESPHome](https://img.shields.io/badge/ESPHome-222222?style=for-the-badge&logo=ESPHome&logoColor=18BCF2)
 ```
 ## ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=FFFFFF)
 ```markdown
@@ -7793,6 +7793,10 @@
 ## ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=FFFFFF)
 ```markdown
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=FFFFFF)
+```
+## ![Neon](https://img.shields.io/badge/Neon-222222?style=for-the-badge&logo=Neon&logoColor=34D59A)
+```markdown
+![Neon](https://img.shields.io/badge/Neon-222222?style=for-the-badge&logo=Neon&logoColor=34D59A)
 ```
 ## ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=FFFFFF)
 ```markdown
