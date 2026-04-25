@@ -26,9 +26,9 @@
 ```markdown
 ![1Panel](https://img.shields.io/badge/1Panel-0854C1?style=for-the-badge&logo=1Panel&logoColor=FFFFFF)
 ```
-## ![1Password](https://img.shields.io/badge/1Password-3B66BC?style=for-the-badge&logo=1Password&logoColor=FFFFFF)
+## ![1Password](https://img.shields.io/badge/1Password-145FE4?style=for-the-badge&logo=1Password&logoColor=FFFFFF)
 ```markdown
-![1Password](https://img.shields.io/badge/1Password-3B66BC?style=for-the-badge&logo=1Password&logoColor=FFFFFF)
+![1Password](https://img.shields.io/badge/1Password-145FE4?style=for-the-badge&logo=1Password&logoColor=FFFFFF)
 ```
 ## ![2FAS](https://img.shields.io/badge/2FAS-EC1C24?style=for-the-badge&logo=2FAS&logoColor=FFFFFF)
 ```markdown
@@ -2909,6 +2909,10 @@
 ## ![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=FFFFFF)
 ```markdown
 ![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=FFFFFF)
+```
+## ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=DeepSeek&logoColor=FFFFFF)
+```markdown
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=DeepSeek&logoColor=FFFFFF)
 ```
 ## ![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=for-the-badge&logo=Deezer&logoColor=FFFFFF)
 ```markdown
@@ -7574,6 +7578,10 @@
 ```markdown
 ![Moonrepo](https://img.shields.io/badge/Moonrepo-6F53F3?style=for-the-badge&logo=Moonrepo&logoColor=FFFFFF)
 ```
+## ![Moonshot AI](https://img.shields.io/badge/Moonshot%20AI-000000?style=for-the-badge&logo=Moonshot+AI&logoColor=FFFFFF)
+```markdown
+![Moonshot AI](https://img.shields.io/badge/Moonshot%20AI-000000?style=for-the-badge&logo=Moonshot+AI&logoColor=FFFFFF)
+```
 ## ![Moq](https://img.shields.io/badge/Moq-222222?style=for-the-badge&logo=Moq&logoColor=F4BE00)
 ```markdown
 ![Moq](https://img.shields.io/badge/Moq-222222?style=for-the-badge&logo=Moq&logoColor=F4BE00)
@@ -9681,6 +9689,10 @@
 ## ![Qwant](https://img.shields.io/badge/Qwant-282B2F?style=for-the-badge&logo=Qwant&logoColor=FFFFFF)
 ```markdown
 ![Qwant](https://img.shields.io/badge/Qwant-282B2F?style=for-the-badge&logo=Qwant&logoColor=FFFFFF)
+```
+## ![QWen](https://img.shields.io/badge/QWen-6950EF?style=for-the-badge&logo=QWen&logoColor=FFFFFF)
+```markdown
+![QWen](https://img.shields.io/badge/QWen-6950EF?style=for-the-badge&logo=QWen&logoColor=FFFFFF)
 ```
 ## ![Qwik](https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=Qwik&logoColor=FFFFFF)
 ```markdown
