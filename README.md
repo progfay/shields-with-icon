@@ -1101,7 +1101,7 @@
 ![GIMP](https://img.shields.io/badge/GIMP-8C8073?style=for-the-badge&logo=GIMP&logoColor=FFFFFF)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=Gin&logoColor=FFFFFF)
 ![GIPHY](https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=GIPHY&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![Git Extensions](https://img.shields.io/badge/Git%20Extensions-212121?style=for-the-badge&logo=Git+Extensions&logoColor=FFFFFF)
 ![Git for Windows](https://img.shields.io/badge/Git%20for%20Windows-222222?style=for-the-badge&logo=Git+for+Windows&logoColor=80B3FF)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-F64935?style=for-the-badge&logo=Git+LFS&logoColor=FFFFFF)

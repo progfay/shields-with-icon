@@ -4410,9 +4410,9 @@
 ```markdown
 ![GIPHY](https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=GIPHY&logoColor=FFFFFF)
 ```
-## ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+## ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ```markdown
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ```
 ## ![Git Extensions](https://img.shields.io/badge/Git%20Extensions-212121?style=for-the-badge&logo=Git+Extensions&logoColor=FFFFFF)
 ```markdown
