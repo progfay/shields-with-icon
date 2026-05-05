@@ -2042,6 +2042,10 @@
 ```markdown
 ![Cinnamon](https://img.shields.io/badge/Cinnamon-DC682E?style=for-the-badge&logo=Cinnamon&logoColor=FFFFFF)
 ```
+## ![Cinny](https://img.shields.io/badge/Cinny-000000?style=for-the-badge&logo=Cinny&logoColor=FFFFFF)
+```markdown
+![Cinny](https://img.shields.io/badge/Cinny-000000?style=for-the-badge&logo=Cinny&logoColor=FFFFFF)
+```
 ## ![Circle](https://img.shields.io/badge/Circle-8669AE?style=for-the-badge&logo=Circle&logoColor=FFFFFF)
 ```markdown
 ![Circle](https://img.shields.io/badge/Circle-8669AE?style=for-the-badge&logo=Circle&logoColor=FFFFFF)
@@ -6450,13 +6454,17 @@
 ```markdown
 ![LangChain](https://img.shields.io/badge/LangChain-222222?style=for-the-badge&logo=LangChain&logoColor=7FC8FF)
 ```
+## ![LangChain Corporate](https://img.shields.io/badge/LangChain%20Corporate-222222?style=for-the-badge&logo=LangChain+Corporate&logoColor=7FC8FF)
+```markdown
+![LangChain Corporate](https://img.shields.io/badge/LangChain%20Corporate-222222?style=for-the-badge&logo=LangChain+Corporate&logoColor=7FC8FF)
+```
 ## ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
 ```markdown
 ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=Langflow&logoColor=FFFFFF)
 ```
-## ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
+## ![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logo=LangGraph&logoColor=7FC8FF)
 ```markdown
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=FFFFFF)
+![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logo=LangGraph&logoColor=7FC8FF)
 ```
 ## ![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FC?style=for-the-badge&logo=LanguageTool&logoColor=FFFFFF)
 ```markdown
