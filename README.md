@@ -1293,6 +1293,7 @@
 ![Hedera](https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logo=Hedera&logoColor=FFFFFF)
 ![HedgeDoc](https://img.shields.io/badge/HedgeDoc-B51F08?style=for-the-badge&logo=HedgeDoc&logoColor=FFFFFF)
 ![Helium](https://img.shields.io/badge/Helium-222222?style=for-the-badge&logo=Helium&logoColor=0ACF83)
+![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?style=for-the-badge&logo=Helium+Browser&logoColor=FFFFFF)
 ![Helix](https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=Helix&logoColor=FFFFFF)
 ![HelloFresh](https://img.shields.io/badge/HelloFresh-222222?style=for-the-badge&logo=HelloFresh&logoColor=99CC33)
 ![Helly Hansen](https://img.shields.io/badge/Helly%20Hansen-DA2128?style=for-the-badge&logo=Helly+Hansen&logoColor=FFFFFF)

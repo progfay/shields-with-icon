@@ -5178,6 +5178,10 @@
 ```markdown
 ![Helium](https://img.shields.io/badge/Helium-222222?style=for-the-badge&logo=Helium&logoColor=0ACF83)
 ```
+## ![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?style=for-the-badge&logo=Helium+Browser&logoColor=FFFFFF)
+```markdown
+![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?style=for-the-badge&logo=Helium+Browser&logoColor=FFFFFF)
+```
 ## ![Helix](https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=Helix&logoColor=FFFFFF)
 ```markdown
 ![Helix](https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=Helix&logoColor=FFFFFF)
