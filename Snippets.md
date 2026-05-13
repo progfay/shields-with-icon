@@ -11998,6 +11998,10 @@
 ```markdown
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF)
 ```
+## ![Ticket Tailor](https://img.shields.io/badge/Ticket%20Tailor-222432?style=for-the-badge&logo=Ticket+Tailor&logoColor=FFFFFF)
+```markdown
+![Ticket Tailor](https://img.shields.io/badge/Ticket%20Tailor-222432?style=for-the-badge&logo=Ticket+Tailor&logoColor=FFFFFF)
+```
 ## ![Ticketmaster](https://img.shields.io/badge/Ticketmaster-026CDF?style=for-the-badge&logo=Ticketmaster&logoColor=FFFFFF)
 ```markdown
 ![Ticketmaster](https://img.shields.io/badge/Ticketmaster-026CDF?style=for-the-badge&logo=Ticketmaster&logoColor=FFFFFF)

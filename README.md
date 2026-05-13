@@ -2998,6 +2998,7 @@
 ![Thunderstore](https://img.shields.io/badge/Thunderstore-222222?style=for-the-badge&logo=Thunderstore&logoColor=23FFB0)
 ![Thurgauer Kantonalbank](https://img.shields.io/badge/Thurgauer%20Kantonalbank-006D41?style=for-the-badge&logo=Thurgauer+Kantonalbank&logoColor=FFFFFF)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF)
+![Ticket Tailor](https://img.shields.io/badge/Ticket%20Tailor-222432?style=for-the-badge&logo=Ticket+Tailor&logoColor=FFFFFF)
 ![Ticketmaster](https://img.shields.io/badge/Ticketmaster-026CDF?style=for-the-badge&logo=Ticketmaster&logoColor=FFFFFF)
 ![TickTick](https://img.shields.io/badge/TickTick-4772FA?style=for-the-badge&logo=TickTick&logoColor=FFFFFF)
 ![TIDAL](https://img.shields.io/badge/TIDAL-000000?style=for-the-badge&logo=TIDAL&logoColor=FFFFFF)
