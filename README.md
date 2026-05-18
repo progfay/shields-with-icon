@@ -270,6 +270,7 @@
 ![avianca](https://img.shields.io/badge/avianca-FF0000?style=for-the-badge&logo=avianca&logoColor=FFFFFF)
 ![Avira](https://img.shields.io/badge/Avira-E02027?style=for-the-badge&logo=Avira&logoColor=FFFFFF)
 ![AVM](https://img.shields.io/badge/AVM-E2001A?style=for-the-badge&logo=AVM&logoColor=FFFFFF)
+![Await](https://img.shields.io/badge/Await-7858F5?style=for-the-badge&logo=Await&logoColor=FFFFFF)
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-FC60A8?style=for-the-badge&logo=Awesome+Lists&logoColor=FFFFFF)
 ![awesomeWM](https://img.shields.io/badge/awesomeWM-535D6C?style=for-the-badge&logo=awesomeWM&logoColor=FFFFFF)
 ![Awwwards](https://img.shields.io/badge/Awwwards-222222?style=for-the-badge&logo=Awwwards&logoColor=FFFFFF)

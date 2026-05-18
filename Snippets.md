@@ -1086,6 +1086,10 @@
 ```markdown
 ![AVM](https://img.shields.io/badge/AVM-E2001A?style=for-the-badge&logo=AVM&logoColor=FFFFFF)
 ```
+## ![Await](https://img.shields.io/badge/Await-7858F5?style=for-the-badge&logo=Await&logoColor=FFFFFF)
+```markdown
+![Await](https://img.shields.io/badge/Await-7858F5?style=for-the-badge&logo=Await&logoColor=FFFFFF)
+```
 ## ![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-FC60A8?style=for-the-badge&logo=Awesome+Lists&logoColor=FFFFFF)
 ```markdown
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-FC60A8?style=for-the-badge&logo=Awesome+Lists&logoColor=FFFFFF)
