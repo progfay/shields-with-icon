@@ -2114,6 +2114,7 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=OpenTelemetry&logoColor=FFFFFF)
 ![OpenText](https://img.shields.io/badge/OpenText-000000?style=for-the-badge&logo=OpenText&logoColor=FFFFFF)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-222222?style=for-the-badge&logo=OpenTofu&logoColor=FFDA18)
+![OpenTUI](https://img.shields.io/badge/OpenTUI-000000?style=for-the-badge&logo=OpenTUI&logoColor=FFFFFF)
 ![Openverse](https://img.shields.io/badge/Openverse-222222?style=for-the-badge&logo=Openverse&logoColor=FFE033)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=FFFFFF)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-222222?style=for-the-badge&logo=OpenWrt&logoColor=00B5E2)

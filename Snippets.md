@@ -8462,6 +8462,10 @@
 ```markdown
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-222222?style=for-the-badge&logo=OpenTofu&logoColor=FFDA18)
 ```
+## ![OpenTUI](https://img.shields.io/badge/OpenTUI-000000?style=for-the-badge&logo=OpenTUI&logoColor=FFFFFF)
+```markdown
+![OpenTUI](https://img.shields.io/badge/OpenTUI-000000?style=for-the-badge&logo=OpenTUI&logoColor=FFFFFF)
+```
 ## ![Openverse](https://img.shields.io/badge/Openverse-222222?style=for-the-badge&logo=Openverse&logoColor=FFE033)
 ```markdown
 ![Openverse](https://img.shields.io/badge/Openverse-222222?style=for-the-badge&logo=Openverse&logoColor=FFE033)
