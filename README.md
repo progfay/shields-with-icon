@@ -1703,6 +1703,7 @@
 ![LiveKit](https://img.shields.io/badge/LiveKit-222222?style=for-the-badge&logo=LiveKit&logoColor=FFFFFF)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=FFFFFF)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=FFFFFF)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logo=LM+Studio&logoColor=FFFFFF)
 ![LMMS](https://img.shields.io/badge/LMMS-10B146?style=for-the-badge&logo=LMMS&logoColor=FFFFFF)
 ![Lobsters](https://img.shields.io/badge/Lobsters-AC130D?style=for-the-badge&logo=Lobsters&logoColor=FFFFFF)
 ![Local](https://img.shields.io/badge/Local-222222?style=for-the-badge&logo=Local&logoColor=51BB7B)
