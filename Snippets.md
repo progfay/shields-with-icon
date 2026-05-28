@@ -594,6 +594,10 @@
 ```markdown
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache+Ant&logoColor=FFFFFF)
 ```
+## ![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-000000?style=for-the-badge&logo=Apache+Arrow&logoColor=FFFFFF)
+```markdown
+![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-000000?style=for-the-badge&logo=Apache+Arrow&logoColor=FFFFFF)
+```
 ## ![Apache Avro](https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=Apache+Avro&logoColor=FFFFFF)
 ```markdown
 ![Apache Avro](https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=Apache+Avro&logoColor=FFFFFF)

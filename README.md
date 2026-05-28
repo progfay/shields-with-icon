@@ -147,6 +147,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=FFFFFF)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache+Airflow&logoColor=FFFFFF)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache+Ant&logoColor=FFFFFF)
+![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-000000?style=for-the-badge&logo=Apache+Arrow&logoColor=FFFFFF)
 ![Apache Avro](https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=Apache+Avro&logoColor=FFFFFF)
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=Apache+Cassandra&logoColor=FFFFFF)
 ![Apache CloudStack](https://img.shields.io/badge/Apache%20CloudStack-2AA5DC?style=for-the-badge&logo=Apache+CloudStack&logoColor=FFFFFF)
