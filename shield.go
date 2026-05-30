@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"html"
 	"net/url"
 	"strings"
 
@@ -19,14 +18,21 @@ func (s Shield) Markdown() string {
 	return fmt.Sprintf("![%s](%s)", strings.ReplaceAll(strings.ReplaceAll(s.Title, "[", "\\["), "]", "\\]"), s.Src)
 }
 
-// HTML renders the shield as a <picture> wrapping an <img> with explicit
-// width/height so the README reserves space before the badge loads, avoiding
-// layout shift. The width is computed offline to match Shields.io's
-// for-the-badge renderer.
+// HTML renders the shield as a single <img> with explicit width/height so the
+// README reserves space before the badge loads, avoiding layout shift. The
+// width is computed offline to match Shields.io's for-the-badge renderer.
+//
+// The caller wraps the whole gallery in one <picture> element (see main.go) so
+// GitHub does not apply its default border-radius to each badge. We emit one
+// <picture> for the entire document — instead of one per <img> — to keep the
+// README under GitHub's 512KB front-page render limit. For the same reason src
+// is written without HTML-escaping (it is already URL-encoded by
+// generateShieldSrc, so raw "&" is valid and 1 byte instead of "&amp;") and the
+// alt attribute is omitted: the badge text is the title, so it adds bytes
+// without conveying anything new.
 func (s Shield) HTML() string {
-	return fmt.Sprintf(`<picture><img alt="%s" src="%s" width="%d" height="%d"></picture>`,
-		html.EscapeString(s.Title),
-		html.EscapeString(s.Src),
+	return fmt.Sprintf(`<img src="%s" width="%d" height="%d">`,
+		s.Src,
 		forTheBadgeWidth(s.Title),
 		badgeHeight,
 	)

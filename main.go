@@ -52,9 +52,14 @@ func main() {
 	}
 	defer snippets.Close()
 
+	// Wrap the whole gallery in a single <picture> so GitHub does not apply its
+	// default border-radius to each badge, while keeping the overhead to one tag
+	// pair (a per-<img> <picture> would push the README past GitHub's 512KB
+	// front-page render limit).
+	fmt.Fprint(readme, "<picture>")
 	for _, shield := range shields {
 		fmt.Fprint(readme, shield.HTML())
 		fmt.Fprintf(snippets, "## %[1]s\n```markdown\n%[1]s\n```\n", shield.Markdown())
 	}
-	fmt.Fprintln(readme)
+	fmt.Fprintln(readme, "</picture>")
 }
