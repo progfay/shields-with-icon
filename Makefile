@@ -4,7 +4,7 @@ clean:
 	rm -f README.md Snippets.md
 
 generator: *.go
-	go build -o=generator ./*.go
+	go build -o=generator .
 
 run: main.go
 	./generator

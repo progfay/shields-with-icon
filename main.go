@@ -53,7 +53,7 @@ func main() {
 	defer snippets.Close()
 
 	for _, shield := range shields {
-		fmt.Fprintln(readme, shield)
+		fmt.Fprintln(readme, shield.IMG())
 		fmt.Fprintf(snippets, "## %[1]s\n```markdown\n%[1]s\n```\n", shield)
 	}
 }
