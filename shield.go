@@ -14,15 +14,17 @@ type Shield struct {
 	Src   string `json:"src"`
 }
 
-func (s Shield) String() string {
+// Markdown renders the shield as a Markdown image: ![title](src).
+func (s Shield) Markdown() string {
 	return fmt.Sprintf("![%s](%s)", strings.ReplaceAll(strings.ReplaceAll(s.Title, "[", "\\["), "]", "\\]"), s.Src)
 }
 
-// IMG renders the shield as an HTML <img> tag with explicit width/height so the
-// README reserves space before the badge loads, avoiding layout shift. The
-// width is computed offline to match Shields.io's for-the-badge renderer.
-func (s Shield) IMG() string {
-	return fmt.Sprintf(`<img alt="%s" src="%s" width="%d" height="%d">`,
+// HTML renders the shield as a <picture> wrapping an <img> with explicit
+// width/height so the README reserves space before the badge loads, avoiding
+// layout shift. The width is computed offline to match Shields.io's
+// for-the-badge renderer.
+func (s Shield) HTML() string {
+	return fmt.Sprintf(`<picture><img alt="%s" src="%s" width="%d" height="%d"></picture>`,
 		html.EscapeString(s.Title),
 		html.EscapeString(s.Src),
 		forTheBadgeWidth(s.Title),
