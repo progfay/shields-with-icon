@@ -22,11 +22,17 @@ func (s Shield) Markdown() string {
 // README reserves space before the badge loads, avoiding layout shift. The
 // width is computed offline to match Shields.io's for-the-badge renderer.
 //
-// The caller wraps the whole gallery in one <picture> element (see main.go) so
-// GitHub does not apply its default border-radius to each badge. We emit one
-// <picture> for the entire document — instead of one per <img> — to keep the
-// README under GitHub's 512KB front-page render limit. For the same reason src
-// is written without HTML-escaping (it is already URL-encoded by
+// We deliberately do NOT wrap the <img> in a <picture>. A <picture> is the only
+// element that suppresses the 6px rounded corners GitHub forces onto every
+// dimensioned <img> (its js-gh-image-fallback placeholder), but GitHub renders
+// each <picture> as a client-side <themed-picture> web component, and at this
+// gallery's scale (~3400 badges) that blanks the whole README on GitHub —
+// whether wrapped per-<img> or all in one <picture>. Bare <img> is the only
+// structure that renders the full gallery, so we accept GitHub's rounded
+// corners (they are part of GitHub's own layout-shift placeholder anyway). Do
+// not reintroduce <picture> here without re-checking it renders at full scale.
+//
+// src is written without HTML-escaping (it is already URL-encoded by
 // generateShieldSrc, so raw "&" is valid and 1 byte instead of "&amp;") and the
 // alt attribute is omitted: the badge text is the title, so it adds bytes
 // without conveying anything new.
