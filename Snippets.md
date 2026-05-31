@@ -2106,6 +2106,10 @@
 ```markdown
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=Claude&logoColor=FFFFFF)
 ```
+## ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=Claude+Code&logoColor=FFFFFF)
+```markdown
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=Claude+Code&logoColor=FFFFFF)
+```
 ## ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=Clerk&logoColor=FFFFFF)
 ```markdown
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=Clerk&logoColor=FFFFFF)
