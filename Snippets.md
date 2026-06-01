@@ -250,6 +250,10 @@
 ```markdown
 ![AfterShip](https://img.shields.io/badge/AfterShip-FF6B2B?style=for-the-badge&logo=AfterShip&logoColor=FFFFFF)
 ```
+## ![Agent Skills](https://img.shields.io/badge/Agent%20Skills-000000?style=for-the-badge&logo=Agent+Skills&logoColor=FFFFFF)
+```markdown
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-000000?style=for-the-badge&logo=Agent+Skills&logoColor=FFFFFF)
+```
 ## ![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=Agora&logoColor=FFFFFF)
 ```markdown
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=Agora&logoColor=FFFFFF)
