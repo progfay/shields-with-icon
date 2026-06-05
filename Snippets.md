@@ -8382,6 +8382,10 @@
 ```markdown
 ![OpenCage](https://img.shields.io/badge/OpenCage-1A8865?style=for-the-badge&logo=OpenCage&logoColor=FFFFFF)
 ```
+## ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=OpenCode&logoColor=FFFFFF)
+```markdown
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=OpenCode&logoColor=FFFFFF)
+```
 ## ![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
 ```markdown
 ![OpenCritic](https://img.shields.io/badge/OpenCritic-FC3E04?style=for-the-badge&logo=OpenCritic&logoColor=FFFFFF)
@@ -8937,6 +8941,10 @@
 ## ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=FFFFFF)
 ```markdown
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=FFFFFF)
+```
+## ![Pi](https://img.shields.io/badge/Pi-000000?style=for-the-badge&logo=Pi&logoColor=FFFFFF)
+```markdown
+![Pi](https://img.shields.io/badge/Pi-000000?style=for-the-badge&logo=Pi&logoColor=FFFFFF)
 ```
 ## ![Pi Network](https://img.shields.io/badge/Pi%20Network-222222?style=for-the-badge&logo=Pi+Network&logoColor=F4AF47)
 ```markdown
