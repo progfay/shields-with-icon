@@ -11730,6 +11730,10 @@
 ```markdown
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=Tampermonkey&logoColor=FFFFFF)
 ```
+## ![Tangled](https://img.shields.io/badge/Tangled-000000?style=for-the-badge&logo=Tangled&logoColor=FFFFFF)
+```markdown
+![Tangled](https://img.shields.io/badge/Tangled-000000?style=for-the-badge&logo=Tangled&logoColor=FFFFFF)
+```
 ## ![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=FFFFFF)
 ```markdown
 ![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=FFFFFF)
