@@ -2242,9 +2242,9 @@
 ```markdown
 ![Coca-Cola](https://img.shields.io/badge/Coca--Cola-D00013?style=for-the-badge&logo=Coca-Cola&logoColor=FFFFFF)
 ```
-## ![Cockpit](https://img.shields.io/badge/Cockpit-0066CC?style=for-the-badge&logo=Cockpit&logoColor=FFFFFF)
+## ![Cockpit](https://img.shields.io/badge/Cockpit-2A7AE2?style=for-the-badge&logo=Cockpit&logoColor=FFFFFF)
 ```markdown
-![Cockpit](https://img.shields.io/badge/Cockpit-0066CC?style=for-the-badge&logo=Cockpit&logoColor=FFFFFF)
+![Cockpit](https://img.shields.io/badge/Cockpit-2A7AE2?style=for-the-badge&logo=Cockpit&logoColor=FFFFFF)
 ```
 ## ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach+Labs&logoColor=FFFFFF)
 ```markdown
@@ -7329,6 +7329,10 @@
 ## ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
 ```markdown
 ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
+```
+## ![Meta AI](https://img.shields.io/badge/Meta%20AI-9844FF?style=for-the-badge&logo=Meta+AI&logoColor=FFFFFF)
+```markdown
+![Meta AI](https://img.shields.io/badge/Meta%20AI-9844FF?style=for-the-badge&logo=Meta+AI&logoColor=FFFFFF)
 ```
 ## ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=Metabase&logoColor=FFFFFF)
 ```markdown
