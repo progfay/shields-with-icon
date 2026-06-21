@@ -3830,6 +3830,10 @@
 ```markdown
 ![Favro](https://img.shields.io/badge/Favro-512DA8?style=for-the-badge&logo=Favro&logoColor=FFFFFF)
 ```
+## ![Fawry](https://img.shields.io/badge/Fawry-222222?style=for-the-badge&logo=Fawry&logoColor=FFD300)
+```markdown
+![Fawry](https://img.shields.io/badge/Fawry-222222?style=for-the-badge&logo=Fawry&logoColor=FFD300)
+```
 ## ![FCC](https://img.shields.io/badge/FCC-1C3664?style=for-the-badge&logo=FCC&logoColor=FFFFFF)
 ```markdown
 ![FCC](https://img.shields.io/badge/FCC-1C3664?style=for-the-badge&logo=FCC&logoColor=FFFFFF)
