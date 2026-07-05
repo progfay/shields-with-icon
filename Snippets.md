@@ -4518,6 +4518,10 @@
 ```markdown
 ![Glance](https://img.shields.io/badge/Glance-222222?style=for-the-badge&logo=Glance&logoColor=D9C38C)
 ```
+## ![Glass](https://img.shields.io/badge/Glass-222222?style=for-the-badge&logo=Glass&logoColor=FFCC00)
+```markdown
+![Glass](https://img.shields.io/badge/Glass-222222?style=for-the-badge&logo=Glass&logoColor=FFCC00)
+```
 ## ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
 ```markdown
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=FFFFFF)
