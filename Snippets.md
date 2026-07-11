@@ -6266,6 +6266,10 @@
 ```markdown
 ![Kik](https://img.shields.io/badge/Kik-222222?style=for-the-badge&logo=Kik&logoColor=82BC23)
 ```
+## ![KIMI](https://img.shields.io/badge/KIMI-000000?style=for-the-badge&logo=KIMI&logoColor=FFFFFF)
+```markdown
+![KIMI](https://img.shields.io/badge/KIMI-000000?style=for-the-badge&logo=KIMI&logoColor=FFFFFF)
+```
 ## ![Kingston Technology](https://img.shields.io/badge/Kingston%20Technology-000000?style=for-the-badge&logo=Kingston+Technology&logoColor=FFFFFF)
 ```markdown
 ![Kingston Technology](https://img.shields.io/badge/Kingston%20Technology-000000?style=for-the-badge&logo=Kingston+Technology&logoColor=FFFFFF)
@@ -13609,6 +13613,10 @@
 ## ![YunoHost](https://img.shields.io/badge/YunoHost-000000?style=for-the-badge&logo=YunoHost&logoColor=FFFFFF)
 ```markdown
 ![YunoHost](https://img.shields.io/badge/YunoHost-000000?style=for-the-badge&logo=YunoHost&logoColor=FFFFFF)
+```
+## ![Z.ai](https://img.shields.io/badge/Z.ai-2D2D2D?style=for-the-badge&logo=Z.ai&logoColor=FFFFFF)
+```markdown
+![Z.ai](https://img.shields.io/badge/Z.ai-2D2D2D?style=for-the-badge&logo=Z.ai&logoColor=FFFFFF)
 ```
 ## ![Żabka](https://img.shields.io/badge/%C5%BBabka-006420?style=for-the-badge&logo=%C5%BBabka&logoColor=FFFFFF)
 ```markdown
