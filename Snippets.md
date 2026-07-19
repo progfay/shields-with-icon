@@ -2278,6 +2278,10 @@
 ```markdown
 ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=FFFFFF)
 ```
+## ![CodeBuddy](https://img.shields.io/badge/CodeBuddy-6C4DFF?style=for-the-badge&logo=CodeBuddy&logoColor=FFFFFF)
+```markdown
+![CodeBuddy](https://img.shields.io/badge/CodeBuddy-6C4DFF?style=for-the-badge&logo=CodeBuddy&logoColor=FFFFFF)
+```
 ## ![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=Codecademy&logoColor=FFFFFF)
 ```markdown
 ![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=Codecademy&logoColor=FFFFFF)
