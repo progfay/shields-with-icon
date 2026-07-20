@@ -6270,9 +6270,9 @@
 ```markdown
 ![Kik](https://img.shields.io/badge/Kik-222222?style=for-the-badge&logo=Kik&logoColor=82BC23)
 ```
-## ![KIMI](https://img.shields.io/badge/KIMI-000000?style=for-the-badge&logo=KIMI&logoColor=FFFFFF)
+## ![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=Kimi&logoColor=FFFFFF)
 ```markdown
-![KIMI](https://img.shields.io/badge/KIMI-000000?style=for-the-badge&logo=KIMI&logoColor=FFFFFF)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=Kimi&logoColor=FFFFFF)
 ```
 ## ![Kingston Technology](https://img.shields.io/badge/Kingston%20Technology-000000?style=for-the-badge&logo=Kingston+Technology&logoColor=FFFFFF)
 ```markdown
