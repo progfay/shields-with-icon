@@ -11758,9 +11758,9 @@
 ```markdown
 ![Tangled](https://img.shields.io/badge/Tangled-000000?style=for-the-badge&logo=Tangled&logoColor=FFFFFF)
 ```
-## ![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=FFFFFF)
+## ![TanStack](https://img.shields.io/badge/TanStack-222222?style=for-the-badge&logo=TanStack&logoColor=ECE8D1)
 ```markdown
-![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=FFFFFF)
+![TanStack](https://img.shields.io/badge/TanStack-222222?style=for-the-badge&logo=TanStack&logoColor=ECE8D1)
 ```
 ## ![Taobao](https://img.shields.io/badge/Taobao-E94F20?style=for-the-badge&logo=Taobao&logoColor=FFFFFF)
 ```markdown
@@ -12249,6 +12249,10 @@
 ## ![TradingView](https://img.shields.io/badge/TradingView-131622?style=for-the-badge&logo=TradingView&logoColor=FFFFFF)
 ```markdown
 ![TradingView](https://img.shields.io/badge/TradingView-131622?style=for-the-badge&logo=TradingView&logoColor=FFFFFF)
+```
+## ![TRAE](https://img.shields.io/badge/TRAE-222222?style=for-the-badge&logo=TRAE&logoColor=32F08C)
+```markdown
+![TRAE](https://img.shields.io/badge/TRAE-222222?style=for-the-badge&logo=TRAE&logoColor=32F08C)
 ```
 ## ![Traefik Mesh](https://img.shields.io/badge/Traefik%20Mesh-9D0FB0?style=for-the-badge&logo=Traefik+Mesh&logoColor=FFFFFF)
 ```markdown
@@ -13674,6 +13678,10 @@
 ```markdown
 ![Zebra Technologies](https://img.shields.io/badge/Zebra%20Technologies-000000?style=for-the-badge&logo=Zebra+Technologies&logoColor=FFFFFF)
 ```
+## ![ZecTrix](https://img.shields.io/badge/ZecTrix-000000?style=for-the-badge&logo=ZecTrix&logoColor=FFFFFF)
+```markdown
+![ZecTrix](https://img.shields.io/badge/ZecTrix-000000?style=for-the-badge&logo=ZecTrix&logoColor=FFFFFF)
+```
 ## ![Zed Industries](https://img.shields.io/badge/Zed%20Industries-084CCF?style=for-the-badge&logo=Zed+Industries&logoColor=FFFFFF)
 ```markdown
 ![Zed Industries](https://img.shields.io/badge/Zed%20Industries-084CCF?style=for-the-badge&logo=Zed+Industries&logoColor=FFFFFF)
@@ -13793,6 +13801,10 @@
 ## ![Zulip](https://img.shields.io/badge/Zulip-6492FE?style=for-the-badge&logo=Zulip&logoColor=FFFFFF)
 ```markdown
 ![Zulip](https://img.shields.io/badge/Zulip-6492FE?style=for-the-badge&logo=Zulip&logoColor=FFFFFF)
+```
+## ![zx](https://img.shields.io/badge/zx-F11A7B?style=for-the-badge&logo=zx&logoColor=FFFFFF)
+```markdown
+![zx](https://img.shields.io/badge/zx-F11A7B?style=for-the-badge&logo=zx&logoColor=FFFFFF)
 ```
 ## ![Zyte](https://img.shields.io/badge/Zyte-B02CCE?style=for-the-badge&logo=Zyte&logoColor=FFFFFF)
 ```markdown
