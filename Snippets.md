@@ -370,6 +370,10 @@
 ```markdown
 ![Albert Heijn](https://img.shields.io/badge/Albert%20Heijn-04ACE6?style=for-the-badge&logo=Albert+Heijn&logoColor=FFFFFF)
 ```
+## ![Album of the Year](https://img.shields.io/badge/Album%20of%20the%20Year-222222?style=for-the-badge&logo=Album+of+the+Year&logoColor=FFFFFF)
+```markdown
+![Album of the Year](https://img.shields.io/badge/Album%20of%20the%20Year-222222?style=for-the-badge&logo=Album+of+the+Year&logoColor=FFFFFF)
+```
 ## ![Alby](https://img.shields.io/badge/Alby-222222?style=for-the-badge&logo=Alby&logoColor=FFDF6F)
 ```markdown
 ![Alby](https://img.shields.io/badge/Alby-222222?style=for-the-badge&logo=Alby&logoColor=FFDF6F)
