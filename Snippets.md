@@ -10862,6 +10862,10 @@
 ```markdown
 ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-111111?style=for-the-badge&logo=Simple+Icons&logoColor=FFFFFF)
 ```
+## ![Simple Icons CDN](https://img.shields.io/badge/Simple%20Icons%20CDN-111111?style=for-the-badge&logo=Simple+Icons+CDN&logoColor=FFFFFF)
+```markdown
+![Simple Icons CDN](https://img.shields.io/badge/Simple%20Icons%20CDN-111111?style=for-the-badge&logo=Simple+Icons+CDN&logoColor=FFFFFF)
+```
 ## ![SimpleLocalize](https://img.shields.io/badge/SimpleLocalize-222B33?style=for-the-badge&logo=SimpleLocalize&logoColor=FFFFFF)
 ```markdown
 ![SimpleLocalize](https://img.shields.io/badge/SimpleLocalize-222B33?style=for-the-badge&logo=SimpleLocalize&logoColor=FFFFFF)
@@ -11873,6 +11877,10 @@
 ## ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=Temporal&logoColor=FFFFFF)
 ```markdown
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=Temporal&logoColor=FFFFFF)
+```
+## ![Tencent Hy](https://img.shields.io/badge/Tencent%20Hy-0052D9?style=for-the-badge&logo=Tencent+Hy&logoColor=FFFFFF)
+```markdown
+![Tencent Hy](https://img.shields.io/badge/Tencent%20Hy-0052D9?style=for-the-badge&logo=Tencent+Hy&logoColor=FFFFFF)
 ```
 ## ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF)
 ```markdown
