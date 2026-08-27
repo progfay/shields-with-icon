@@ -10806,9 +10806,9 @@
 ```markdown
 ![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=Shopware&logoColor=FFFFFF)
 ```
-## ![Shortcut](https://img.shields.io/badge/Shortcut-222222?style=for-the-badge&logo=Shortcut&logoColor=58B1E4)
+## ![Shortcut](https://img.shields.io/badge/Shortcut-494BCB?style=for-the-badge&logo=Shortcut&logoColor=FFFFFF)
 ```markdown
-![Shortcut](https://img.shields.io/badge/Shortcut-222222?style=for-the-badge&logo=Shortcut&logoColor=58B1E4)
+![Shortcut](https://img.shields.io/badge/Shortcut-494BCB?style=for-the-badge&logo=Shortcut&logoColor=FFFFFF)
 ```
 ## ![Showpad](https://img.shields.io/badge/Showpad-2D2E83?style=for-the-badge&logo=Showpad&logoColor=FFFFFF)
 ```markdown
@@ -12305,6 +12305,10 @@
 ## ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=Travis+CI&logoColor=FFFFFF)
 ```markdown
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=Travis+CI&logoColor=FFFFFF)
+```
+## ![Traxsource](https://img.shields.io/badge/Traxsource-40A0FF?style=for-the-badge&logo=Traxsource&logoColor=FFFFFF)
+```markdown
+![Traxsource](https://img.shields.io/badge/Traxsource-40A0FF?style=for-the-badge&logo=Traxsource&logoColor=FFFFFF)
 ```
 ## ![Treehouse](https://img.shields.io/badge/Treehouse-222222?style=for-the-badge&logo=Treehouse&logoColor=5FCF80)
 ```markdown
