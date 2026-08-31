@@ -982,6 +982,10 @@
 ```markdown
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=Atlassian&logoColor=FFFFFF)
 ```
+## ![AtomGit](https://img.shields.io/badge/AtomGit-DA203E?style=for-the-badge&logo=AtomGit&logoColor=FFFFFF)
+```markdown
+![AtomGit](https://img.shields.io/badge/AtomGit-DA203E?style=for-the-badge&logo=AtomGit&logoColor=FFFFFF)
+```
 ## ![Auchan](https://img.shields.io/badge/Auchan-D6180B?style=for-the-badge&logo=Auchan&logoColor=FFFFFF)
 ```markdown
 ![Auchan](https://img.shields.io/badge/Auchan-D6180B?style=for-the-badge&logo=Auchan&logoColor=FFFFFF)
