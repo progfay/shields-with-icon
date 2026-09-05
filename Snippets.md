@@ -8358,6 +8358,10 @@
 ```markdown
 ![OnStar](https://img.shields.io/badge/OnStar-003D7D?style=for-the-badge&logo=OnStar&logoColor=FFFFFF)
 ```
+## ![OOMOL](https://img.shields.io/badge/OOMOL-0D1117?style=for-the-badge&logo=OOMOL&logoColor=FFFFFF)
+```markdown
+![OOMOL](https://img.shields.io/badge/OOMOL-0D1117?style=for-the-badge&logo=OOMOL&logoColor=FFFFFF)
+```
 ## ![Opel](https://img.shields.io/badge/Opel-222222?style=for-the-badge&logo=Opel&logoColor=F7FF14)
 ```markdown
 ![Opel](https://img.shields.io/badge/Opel-222222?style=for-the-badge&logo=Opel&logoColor=F7FF14)
