@@ -442,6 +442,10 @@
 ```markdown
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=AlmaLinux&logoColor=FFFFFF)
 ```
+## ![alphaXiv](https://img.shields.io/badge/alphaXiv-9A2036?style=for-the-badge&logo=alphaXiv&logoColor=FFFFFF)
+```markdown
+![alphaXiv](https://img.shields.io/badge/alphaXiv-9A2036?style=for-the-badge&logo=alphaXiv&logoColor=FFFFFF)
+```
 ## ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=Alpine+Linux&logoColor=FFFFFF)
 ```markdown
 ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=Alpine+Linux&logoColor=FFFFFF)
