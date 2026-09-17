@@ -4622,6 +4622,10 @@
 ```markdown
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot+Engine&logoColor=FFFFFF)
 ```
+## ![Godox](https://img.shields.io/badge/Godox-FF6600?style=for-the-badge&logo=Godox&logoColor=FFFFFF)
+```markdown
+![Godox](https://img.shields.io/badge/Godox-FF6600?style=for-the-badge&logo=Godox&logoColor=FFFFFF)
+```
 ## ![GoFundMe](https://img.shields.io/badge/GoFundMe-00B964?style=for-the-badge&logo=GoFundMe&logoColor=FFFFFF)
 ```markdown
 ![GoFundMe](https://img.shields.io/badge/GoFundMe-00B964?style=for-the-badge&logo=GoFundMe&logoColor=FFFFFF)
