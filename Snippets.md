@@ -5490,6 +5490,10 @@
 ```markdown
 ![HyperX](https://img.shields.io/badge/HyperX-E21836?style=for-the-badge&logo=HyperX&logoColor=FFFFFF)
 ```
+## ![Hypit](https://img.shields.io/badge/Hypit-DF3C68?style=for-the-badge&logo=Hypit&logoColor=FFFFFF)
+```markdown
+![Hypit](https://img.shields.io/badge/Hypit-DF3C68?style=for-the-badge&logo=Hypit&logoColor=FFFFFF)
+```
 ## ![Hypothesis](https://img.shields.io/badge/Hypothesis-BD1C2B?style=for-the-badge&logo=Hypothesis&logoColor=FFFFFF)
 ```markdown
 ![Hypothesis](https://img.shields.io/badge/Hypothesis-BD1C2B?style=for-the-badge&logo=Hypothesis&logoColor=FFFFFF)
