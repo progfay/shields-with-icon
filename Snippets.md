@@ -8138,6 +8138,10 @@
 ```markdown
 ![Notepad++](https://img.shields.io/badge/Notepad++-222222?style=for-the-badge&logo=Notepad%2B%2B&logoColor=90E59A)
 ```
+## ![Notesnook](https://img.shields.io/badge/Notesnook-000000?style=for-the-badge&logo=Notesnook&logoColor=FFFFFF)
+```markdown
+![Notesnook](https://img.shields.io/badge/Notesnook-000000?style=for-the-badge&logo=Notesnook&logoColor=FFFFFF)
+```
 ## ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF)
 ```markdown
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF)
