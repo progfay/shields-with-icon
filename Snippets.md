@@ -11586,6 +11586,10 @@
 ```markdown
 ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-000099?style=for-the-badge&logo=Sumo+Logic&logoColor=FFFFFF)
 ```
+## ![SumUp](https://img.shields.io/badge/SumUp-1E1C1C?style=for-the-badge&logo=SumUp&logoColor=FFFFFF)
+```markdown
+![SumUp](https://img.shields.io/badge/SumUp-1E1C1C?style=for-the-badge&logo=SumUp&logoColor=FFFFFF)
+```
 ## ![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=Suno&logoColor=FFFFFF)
 ```markdown
 ![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=Suno&logoColor=FFFFFF)
