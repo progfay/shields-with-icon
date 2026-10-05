@@ -13758,6 +13758,10 @@
 ```markdown
 ![Zensar](https://img.shields.io/badge/Zensar-000000?style=for-the-badge&logo=Zensar&logoColor=FFFFFF)
 ```
+## ![Zensical](https://img.shields.io/badge/Zensical-222222?style=for-the-badge&logo=Zensical&logoColor=FFA656)
+```markdown
+![Zensical](https://img.shields.io/badge/Zensical-222222?style=for-the-badge&logo=Zensical&logoColor=FFA656)
+```
 ## ![Zerodha](https://img.shields.io/badge/Zerodha-387ED1?style=for-the-badge&logo=Zerodha&logoColor=FFFFFF)
 ```markdown
 ![Zerodha](https://img.shields.io/badge/Zerodha-387ED1?style=for-the-badge&logo=Zerodha&logoColor=FFFFFF)
