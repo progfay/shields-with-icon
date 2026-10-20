@@ -3518,9 +3518,9 @@
 ```markdown
 ![Elgato](https://img.shields.io/badge/Elgato-101010?style=for-the-badge&logo=Elgato&logoColor=FFFFFF)
 ```
-## ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=FFFFFF)
+## ![Elixir](https://img.shields.io/badge/Elixir-8847B9?style=for-the-badge&logo=Elixir&logoColor=FFFFFF)
 ```markdown
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=FFFFFF)
+![Elixir](https://img.shields.io/badge/Elixir-8847B9?style=for-the-badge&logo=Elixir&logoColor=FFFFFF)
 ```
 ## ![Elk](https://img.shields.io/badge/Elk-222222?style=for-the-badge&logo=Elk&logoColor=EA9E44)
 ```markdown
