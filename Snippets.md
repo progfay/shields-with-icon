@@ -5130,6 +5130,10 @@
 ```markdown
 ![HappyCow](https://img.shields.io/badge/HappyCow-7C4EC4?style=for-the-badge&logo=HappyCow&logoColor=FFFFFF)
 ```
+## ![HAProxy](https://img.shields.io/badge/HAProxy-169BD6?style=for-the-badge&logo=HAProxy&logoColor=FFFFFF)
+```markdown
+![HAProxy](https://img.shields.io/badge/HAProxy-169BD6?style=for-the-badge&logo=HAProxy&logoColor=FFFFFF)
+```
 ## ![Harbor](https://img.shields.io/badge/Harbor-222222?style=for-the-badge&logo=Harbor&logoColor=60B932)
 ```markdown
 ![Harbor](https://img.shields.io/badge/Harbor-222222?style=for-the-badge&logo=Harbor&logoColor=60B932)
