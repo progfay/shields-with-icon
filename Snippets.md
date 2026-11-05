@@ -7786,9 +7786,9 @@
 ```markdown
 ![N26](https://img.shields.io/badge/N26-48AC98?style=for-the-badge&logo=N26&logoColor=FFFFFF)
 ```
-## ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=FFFFFF)
+## ![n8n](https://img.shields.io/badge/n8n-222222?style=for-the-badge&logo=n8n&logoColor=FF91AC)
 ```markdown
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/n8n-222222?style=for-the-badge&logo=n8n&logoColor=FF91AC)
 ```
 ## ![Namebase](https://img.shields.io/badge/Namebase-0068FF?style=for-the-badge&logo=Namebase&logoColor=FFFFFF)
 ```markdown
@@ -7949,6 +7949,10 @@
 ## ![Neutralinojs](https://img.shields.io/badge/Neutralinojs-222222?style=for-the-badge&logo=Neutralinojs&logoColor=F89901)
 ```markdown
 ![Neutralinojs](https://img.shields.io/badge/Neutralinojs-222222?style=for-the-badge&logo=Neutralinojs&logoColor=F89901)
+```
+## ![New API](https://img.shields.io/badge/New%20API-A39AE6?style=for-the-badge&logo=New+API&logoColor=FFFFFF)
+```markdown
+![New API](https://img.shields.io/badge/New%20API-A39AE6?style=for-the-badge&logo=New+API&logoColor=FFFFFF)
 ```
 ## ![New Balance](https://img.shields.io/badge/New%20Balance-CF0A2C?style=for-the-badge&logo=New+Balance&logoColor=FFFFFF)
 ```markdown
@@ -13805,6 +13809,10 @@
 ## ![Zilch](https://img.shields.io/badge/Zilch-222222?style=for-the-badge&logo=Zilch&logoColor=00D287)
 ```markdown
 ![Zilch](https://img.shields.io/badge/Zilch-222222?style=for-the-badge&logo=Zilch&logoColor=00D287)
+```
+## ![Zilliz](https://img.shields.io/badge/Zilliz-2858FF?style=for-the-badge&logo=Zilliz&logoColor=FFFFFF)
+```markdown
+![Zilliz](https://img.shields.io/badge/Zilliz-2858FF?style=for-the-badge&logo=Zilliz&logoColor=FFFFFF)
 ```
 ## ![Zillow](https://img.shields.io/badge/Zillow-006AFF?style=for-the-badge&logo=Zillow&logoColor=FFFFFF)
 ```markdown
