@@ -8282,6 +8282,10 @@
 ```markdown
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=FFFFFF)
 ```
+## ![OceanBase](https://img.shields.io/badge/OceanBase-0181FD?style=for-the-badge&logo=OceanBase&logoColor=FFFFFF)
+```markdown
+![OceanBase](https://img.shields.io/badge/OceanBase-0181FD?style=for-the-badge&logo=OceanBase&logoColor=FFFFFF)
+```
 ## ![OCLC](https://img.shields.io/badge/OCLC-007DBA?style=for-the-badge&logo=OCLC&logoColor=FFFFFF)
 ```markdown
 ![OCLC](https://img.shields.io/badge/OCLC-007DBA?style=for-the-badge&logo=OCLC&logoColor=FFFFFF)
