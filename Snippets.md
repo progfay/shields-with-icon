@@ -6326,6 +6326,10 @@
 ```markdown
 ![Kitsu](https://img.shields.io/badge/Kitsu-FD755C?style=for-the-badge&logo=Kitsu&logoColor=FFFFFF)
 ```
+## ![kitty](https://img.shields.io/badge/kitty-000000?style=for-the-badge&logo=kitty&logoColor=FFFFFF)
+```markdown
+![kitty](https://img.shields.io/badge/kitty-000000?style=for-the-badge&logo=kitty&logoColor=FFFFFF)
+```
 ## ![Kiwix](https://img.shields.io/badge/Kiwix-000000?style=for-the-badge&logo=Kiwix&logoColor=FFFFFF)
 ```markdown
 ![Kiwix](https://img.shields.io/badge/Kiwix-000000?style=for-the-badge&logo=Kiwix&logoColor=FFFFFF)
@@ -12317,6 +12321,10 @@
 ## ![Traefik Proxy](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?style=for-the-badge&logo=Traefik+Proxy&logoColor=FFFFFF)
 ```markdown
 ![Traefik Proxy](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?style=for-the-badge&logo=Traefik+Proxy&logoColor=FFFFFF)
+```
+## ![Traffic.cv](https://img.shields.io/badge/Traffic.cv-635BFF?style=for-the-badge&logo=Traffic.cv&logoColor=FFFFFF)
+```markdown
+![Traffic.cv](https://img.shields.io/badge/Traffic.cv-635BFF?style=for-the-badge&logo=Traffic.cv&logoColor=FFFFFF)
 ```
 ## ![Trailforks](https://img.shields.io/badge/Trailforks-222222?style=for-the-badge&logo=Trailforks&logoColor=FFCD00)
 ```markdown
