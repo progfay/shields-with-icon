@@ -7178,9 +7178,9 @@
 ```markdown
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ```
-## ![Marko](https://img.shields.io/badge/Marko-2596BE?style=for-the-badge&logo=Marko&logoColor=FFFFFF)
+## ![Marko](https://img.shields.io/badge/Marko-CC0067?style=for-the-badge&logo=Marko&logoColor=FFFFFF)
 ```markdown
-![Marko](https://img.shields.io/badge/Marko-2596BE?style=for-the-badge&logo=Marko&logoColor=FFFFFF)
+![Marko](https://img.shields.io/badge/Marko-CC0067?style=for-the-badge&logo=Marko&logoColor=FFFFFF)
 ```
 ## ![Marriott](https://img.shields.io/badge/Marriott-A70023?style=for-the-badge&logo=Marriott&logoColor=FFFFFF)
 ```markdown
