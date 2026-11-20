@@ -7938,9 +7938,9 @@
 ```markdown
 ![Netim](https://img.shields.io/badge/Netim-222222?style=for-the-badge&logo=Netim&logoColor=FE8427)
 ```
-## ![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
+## ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=FFFFFF)
 ```markdown
-![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify&logoColor=FFFFFF)
 ```
 ## ![Nette](https://img.shields.io/badge/Nette-3484D2?style=for-the-badge&logo=Nette&logoColor=FFFFFF)
 ```markdown
