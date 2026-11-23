@@ -262,6 +262,10 @@
 ```markdown
 ![AI Dungeon](https://img.shields.io/badge/AI%20Dungeon-000000?style=for-the-badge&logo=AI+Dungeon&logoColor=FFFFFF)
 ```
+## ![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=for-the-badge&logo=AI+SDK&logoColor=FFFFFF)
+```markdown
+![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=for-the-badge&logo=AI+SDK&logoColor=FFFFFF)
+```
 ## ![AIB](https://img.shields.io/badge/AIB-7F2B7B?style=for-the-badge&logo=AIB&logoColor=FFFFFF)
 ```markdown
 ![AIB](https://img.shields.io/badge/AIB-7F2B7B?style=for-the-badge&logo=AIB&logoColor=FFFFFF)
@@ -1649,6 +1653,10 @@
 ## ![Broadcom](https://img.shields.io/badge/Broadcom-E31837?style=for-the-badge&logo=Broadcom&logoColor=FFFFFF)
 ```markdown
 ![Broadcom](https://img.shields.io/badge/Broadcom-E31837?style=for-the-badge&logo=Broadcom&logoColor=FFFFFF)
+```
+## ![Browserslist](https://img.shields.io/badge/Browserslist-222222?style=for-the-badge&logo=Browserslist&logoColor=FFD539)
+```markdown
+![Browserslist](https://img.shields.io/badge/Browserslist-222222?style=for-the-badge&logo=Browserslist&logoColor=FFD539)
 ```
 ## ![Bruno](https://img.shields.io/badge/Bruno-222222?style=for-the-badge&logo=Bruno&logoColor=F4AA41)
 ```markdown
@@ -3677,6 +3685,10 @@
 ## ![European Union](https://img.shields.io/badge/European%20Union-003399?style=for-the-badge&logo=European+Union&logoColor=FFFFFF)
 ```markdown
 ![European Union](https://img.shields.io/badge/European%20Union-003399?style=for-the-badge&logo=European+Union&logoColor=FFFFFF)
+```
+## ![eve](https://img.shields.io/badge/eve-000000?style=for-the-badge&logo=eve&logoColor=FFFFFF)
+```markdown
+![eve](https://img.shields.io/badge/eve-000000?style=for-the-badge&logo=eve&logoColor=FFFFFF)
 ```
 ## ![Event Store](https://img.shields.io/badge/Event%20Store-5AB552?style=for-the-badge&logo=Event+Store&logoColor=FFFFFF)
 ```markdown
@@ -8242,9 +8254,9 @@
 ```markdown
 ![nvm](https://img.shields.io/badge/nvm-222222?style=for-the-badge&logo=nvm&logoColor=F4DD4B)
 ```
-## ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=Nx&logoColor=FFFFFF)
+## ![Nx](https://img.shields.io/badge/Nx-0C0C0D?style=for-the-badge&logo=Nx&logoColor=FFFFFF)
 ```markdown
-![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=Nx&logoColor=FFFFFF)
+![Nx](https://img.shields.io/badge/Nx-0C0C0D?style=for-the-badge&logo=Nx&logoColor=FFFFFF)
 ```
 ## ![NXP](https://img.shields.io/badge/NXP-000000?style=for-the-badge&logo=NXP&logoColor=FFFFFF)
 ```markdown
