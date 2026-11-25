@@ -3182,9 +3182,9 @@
 ```markdown
 ![DMM](https://img.shields.io/badge/DMM-000000?style=for-the-badge&logo=DMM&logoColor=FFFFFF)
 ```
-## ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+## ![Docker](https://img.shields.io/badge/Docker-6172FF?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 ```markdown
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-6172FF?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 ```
 ## ![Docs.rs](https://img.shields.io/badge/Docs.rs-000000?style=for-the-badge&logo=Docs.rs&logoColor=FFFFFF)
 ```markdown
@@ -8577,6 +8577,10 @@
 ## ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=FFFFFF)
 ```markdown
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=FFFFFF)
+```
+## ![OpenVSX](https://img.shields.io/badge/OpenVSX-8B1FD6?style=for-the-badge&logo=OpenVSX&logoColor=FFFFFF)
+```markdown
+![OpenVSX](https://img.shields.io/badge/OpenVSX-8B1FD6?style=for-the-badge&logo=OpenVSX&logoColor=FFFFFF)
 ```
 ## ![OpenWrt](https://img.shields.io/badge/OpenWrt-222222?style=for-the-badge&logo=OpenWrt&logoColor=00B5E2)
 ```markdown
